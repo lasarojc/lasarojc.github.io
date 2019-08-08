@@ -31,12 +31,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lasaro Camargos
-subtitle: #My narcissistic corner on the Net.
+subtitle: Researcher, Developer #My narcissistic corner on the Net.
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal web site of Lasaro Camargos
 author: Lásaro Camargos
-email: lasaro at ufu dot br 
-avatar: assets/images/avatar.jpg
+email: lasaro@ufu.br 
+avatar: assets/images/avatar.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/" # the subpath of your site, e.g. /blog
