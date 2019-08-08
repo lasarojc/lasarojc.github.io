@@ -18,7 +18,7 @@ layout: default
 			{% if _post.venue -%}{{- _post.venue}} {% endif %}<br>
 			{{- _post.date | date_to_long_string -}} <br>
 
-			{% if _post.paper -%}<a href="{{- _post.paper}}paper</a>{% endif %}
+			{% if _post.paper -%}<a href="{{- _post.paper}}">[Paper]</a>{% endif %}
 		{%- endcapture -%}
 		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
 		{%- capture _link -%}<a href="{{- _post.url | absolute_url -}}">read more</a>{%- endcapture -%}
