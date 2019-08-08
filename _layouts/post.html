@@ -10,9 +10,11 @@ layout: default
 	  <div class="container">
 			<header>
 				<h2>{{- page.title -}}</h2>
-				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}</p>
+				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}{% if page.venue %}{{ page.venue -}}</p>
 			</header>
 	    {{- content -}}
+
+	    <p>{% if page.paper%}{{ page.paper}}, {% endif %}</p>
 	  </div>
 	</article>
 </div>
