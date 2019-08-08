@@ -3,7 +3,7 @@ title: Teaching
 subtitle: Previous and current courses
 layout: "page"
 icon: fa-book
-order: 3
+order: 5
 ---
 
 . Profissão em Sistemas de Informação (2019/2)

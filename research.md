@@ -2,6 +2,6 @@
 title: Research
 layout: "page"
 icon: fa-book
-order: 3
+order: 2
 ---
 
