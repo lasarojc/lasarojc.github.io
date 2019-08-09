@@ -10,12 +10,14 @@ layout: page
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
     <li>
-      <h3>
+      <h2>
         <a href="{{ post.url | relative_url }}">
           {{ post.title }}
-          <small>{{ post.date | date_to_string }}</small>
-        </a>
-      </h3>
+        </a><br>
+      </h2>
+        <small>
+        <p>{% if post.author %}{{ post.author }}, {% endif %}<br> {{- post.date | date_to_long_string -}}, {% if post.venue %}{{ post.venue -}}{% endif %} </p>
+        </small>
     </li>
   {% endfor %}
 </ul>
