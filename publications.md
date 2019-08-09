@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Publications
+title: News
 icon: fa-pencil-alt
 order: 3
 ---
