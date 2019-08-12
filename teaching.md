@@ -1,6 +1,6 @@
 ---
-title: Teaching
-layout: "page"
+title: Teaching 
+layout: page
 icon: fa-book
 order: 5
 ---
