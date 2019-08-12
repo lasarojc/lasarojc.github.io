@@ -8,7 +8,7 @@ layout: page
 
 
 <ul class="posts-list">
-  {% assign category = page.courses| default: page.title %}
+  {% assign category = page.class_gsi028| default: page.title %}
   {% for post in site.categories[category] %}
     <li>
         <a href="{{ post.url | relative_url }}">
