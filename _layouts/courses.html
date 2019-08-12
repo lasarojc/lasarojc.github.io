@@ -8,10 +8,10 @@ layout: page
 
 
 {% for collection in site.collections %}
-<p> {{ collection.label }}
+<p> {{ collection.title}}
    {% for class in site[collection.label] %}
      <h2><a href="{{ class.url }}">{{ class.title}}</a></h2>
-     <p>{{ class.content | markdownify }}</p>
+     <!--p>{{ class.content | markdownify }}</p-->
    {% endfor %}
 {% endfor %} 
 </ul>
