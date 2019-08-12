@@ -1,5 +1,5 @@
 ---
-layout: courses
+layout: class
 title: Aula - 1
 output: true
 ---
