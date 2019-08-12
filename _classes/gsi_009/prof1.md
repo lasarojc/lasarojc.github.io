@@ -1,7 +1,7 @@
 ---
 layout: courses
-title: Profissão - 1
+title: Aula - 1
 output: true
 ---
 
-teste aula 1
+Teste aula 1
