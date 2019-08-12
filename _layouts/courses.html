@@ -6,8 +6,12 @@ layout: page
   {{ content }}
 {% endunless %}
 
-{% for class in site.class_gsi009 %}
-  <h2><a href="{{ class.url }}">{{ class.title}}</a></h2>
-  <p>{{ class.content | markdownify }}</p>
-{% endfor %}
+
+{% for collection in site.collections %}
+<p> {{ collection.label }}
+   {% for class in site[collection.label] %}
+     <h2><a href="{{ class.url }}">{{ class.title}}</a></h2>
+     <p>{{ class.content | markdownify }}</p>
+   {% endfor %}
+{% endfor %} 
 </ul>
