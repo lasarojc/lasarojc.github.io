@@ -6,14 +6,7 @@ layout: page
   {{ content }}
 {% endunless %}
 
-{% for class in site.collections %}
-  {{ class.title }} - {{ class.label }}
-{% endfor %}
-
-{% assign classes = {{ site.collections | where_exp:"item", "item.label contains '_classes_'" }} %}
-{% for class in classes %}
-  {{ class.title }} - {{ class.label }}
-{% endfor %}
+{% assign classes = {{ site.collections | where_exp:"item", "item.label contains 'classes_'" }} %}
 
 <ul>
 {% for class in classes %}
