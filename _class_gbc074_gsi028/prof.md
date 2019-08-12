@@ -1,5 +1,5 @@
 ---
-layout: Courses
+layout: courses
 title: Sistemas distribuídos
 ---
 
