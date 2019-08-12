@@ -6,15 +6,7 @@ layout: page
   {{ content }}
 {% endunless %}
 
-{% for class in site.collections %}
-  {% if class.label contains 'classes' %} 
-  entao  {{ class.label }} <br>
-  {%- else -%}
-  senao {{ class.label }} <br>
-  {%- endif -%}
-{%- endfor -%} 
-
-{% assign classes = {{ site.collections | where_exp: "item", "item.label contains 'classes'" }} %}
+{% assign classes = site.collections | where_exp: "item", "item.label contains 'classes'" %}
 
 <ul>
 {% for class in classes %}
