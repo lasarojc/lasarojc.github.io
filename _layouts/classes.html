@@ -6,12 +6,16 @@ layout: page
   {{ content }}
 {% endunless %}
 
+{% assign classes = {{ site.collections | where_exp:"item", "item.label contains 'class_'" }} %}
 
-{% for collection in site.collections %}
-<p> {{ collection.title}}
-   {% for class in site[collection.label] %}
-     <h2><a href="{{ class.url }}">{{ class.title}}</a></h2>
-     <!--p>{{ class.content | markdownify }}</p-->
+{% for class in classes %}
+<ul>
+<li><h2> {{ class.title }} </h2>
+   <ul>
+   {% for lecture in site[class.label] %}
+     <li><a href="{{ lecture.url }}">{{ lecture.title }}</a></li>
    {% endfor %}
+   </ul>
+</li>
 {% endfor %} 
 </ul>
