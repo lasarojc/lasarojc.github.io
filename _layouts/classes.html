@@ -6,10 +6,17 @@ layout: page
   {{ content }}
 {% endunless %}
 
-{% assign classes = {{ site.collections | where_exp:"item", "item.label contains 'class_'" }} %}
+{% for class in site.collections %}
+  {{ class.title }} - {{ class.label }}
+{% endfor %}
 
+{% assign classes = {{ site.collections | where_exp:"item", "item.label contains '_classes_'" }} %}
 {% for class in classes %}
+  {{ class.title }} - {{ class.label }}
+{% endfor %}
+
 <ul>
+{% for class in classes %}
 <li><h2> {{ class.title }} </h2>
    <ul>
    {% for lecture in site[class.label] %}
