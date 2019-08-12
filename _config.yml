@@ -60,5 +60,12 @@ google_analytics:
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
 
-collections: [ sections, gsi009: [ output: true, title: "Profissão Sistemas de Informação" ], gbc074_gsi028: [ output: true, title: "Sistemas Distribuídos" ] ]
+collections: 
+   gsi009: 
+      output: true
+      title: "Profissão Sistemas de Informação" 
+   gbc074_gsi028: 
+      output: true
+      title: "Sistemas Distribuídos"
+   sections
 
