@@ -6,14 +6,8 @@ layout: page
   {{ content }}
 {% endunless %}
 
-
-<ul class="posts-list">
-  {% assign category = page.class_gsi009| default: page.title %}
-  {% for post in site.categories[category] %}
-    <li>
-        <a href="{{ post.url | relative_url }}">
-          {{ post.title }}
-        </a>
-    </li>
-  {% endfor %}
+{% for class in site.class_gsi009 %}
+  <h2>{{ class.name }} </h2>
+  <p>{{ class.content | markdownify }}</p>
+{% endfor %}
 </ul>

@@ -1,0 +1,23 @@
+---
+layout: page
+---
+
+{% unless page.content == '' %}
+  {{ content }}
+{% endunless %}
+
+{% for staff_member in site.staff_members %}
+  <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
+  <p>{{ staff_member.content | markdownify }}</p>
+{% endfor %}
+
+<ul class="posts-list">
+  {% assign category = page.class_gsi009| default: page.title %}
+  {% for post in site.categories[category] %}
+    <li>
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title }}
+        </a>
+    </li>
+  {% endfor %}
+</ul>
