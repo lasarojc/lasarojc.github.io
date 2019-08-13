@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: Aula 2 - Laboratório: Sockets
+title: "Aula 2 - Laboratório: Sockets"
 part: 1 Introdução
 ---
 
