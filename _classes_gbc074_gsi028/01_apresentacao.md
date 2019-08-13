@@ -1,13 +1,11 @@
 ---
-layout: class
-title: Apresentação
-part: "0 Introdução"
+layout: notes
+title: Aula 1 - Apresentação
+part: 0 
 ---
 
 
 # Motivação
-
----
 
 A área de computação e sistemas distribuídos está extremamente em voga e poder uma excelente forma de se destacar de seus colegas e competidores. 
 "Como assim?", você pergunta, já que nunca ouviu falar desta área até ter que se matricular nesta disciplina. 
@@ -48,6 +46,7 @@ Sendo mais específico, você desenvolverá um projeto em várias etapas que lhe
 ---
 
 ## Sobre nossos encontros:
+
 * Expositivas, mas interativas
 * Laboratórios **tão frequentemente quanto possível**
 * Frequência controlada todos os dias **por declaração escrita de presença**

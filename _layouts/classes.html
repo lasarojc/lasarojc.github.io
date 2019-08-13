@@ -18,7 +18,7 @@ layout: page
    <li> Parte: {{ lecture_group.name }} 
      <ul> 
      {% for lecture in lecture_group.items %}
-       <li>Tópico: <a href="{{ lecture.url }}">{{ lecture.title }}</a></li>
+       <li><a href="{{ lecture.url }}">{{ lecture.title }}</a></li>
      {% endfor %}
      </ul>
    </li>
