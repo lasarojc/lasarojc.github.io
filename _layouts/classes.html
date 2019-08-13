@@ -6,8 +6,9 @@ layout: page
   {{ content }}
 {% endunless %}
 
-{% assign classes = site.collections | where_exp: "item", "item.label contains 'classes'" %}
+<p>These the classes I am teching this semester.</p>
 
+{% assign classes = site.collections | where_exp: "item", "item.label contains 'classes'" %}
 <ul>
 {% for class in classes %}
 <li><h2> {{ class.title }} </h2>

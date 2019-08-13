@@ -1,7 +1,7 @@
 ---
 title: Students
 layout: "page"
-icon: fa-book
+icon: fa-user-graduate
 order: 4
 ---
 

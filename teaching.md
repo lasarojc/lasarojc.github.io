@@ -1,6 +1,6 @@
 ---
 layout: classes
 title: Teaching
-icon: fa-home
+icon: fa-chalkboard-teacher
 order: 6 
 ---
