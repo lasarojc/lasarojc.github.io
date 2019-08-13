@@ -4,7 +4,10 @@ title: Apresentação
 part: 1 - Fundamentos
 ---
 
+
 # Motivação
+
+---
 
 A área de computação e sistemas distribuídos está extremamente em voga e poder uma excelente forma de se destacar de seus colegas e competidores. 
 "Como assim?", você pergunta, já que nunca ouviu falar desta área até ter que se matricular nesta disciplina. 
@@ -43,12 +46,14 @@ Sendo mais específico, você desenvolverá um projeto em várias etapas que lhe
 # Logística
 
 ---
+
 ## Sobre nossos encontros:
 * Expositivas, mas interativas
 * Laboratórios **tão frequentemente quanto possível**
 * Frequência controlada todos os dias **por declaração escrita de presença**
 
 ---
+
 ## Sobre nossas avaliações,
 
 * Laboratórios (0\%)
