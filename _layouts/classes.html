@@ -15,7 +15,7 @@ layout: page
    {% for lectures_grouped in site[class.label] | group_by: 'part' %}
    <li> {{ lectures_grouped.name }} 
      <ul> 
-     {% for lecture in lectures_grouped.items  %}
+     {% for lecture in lectures_grouped.items %}
        <li><a href="{{ lecture.url }}">{{ lecture.title }}</a></li>
      {% endfor %}
      </ul>
