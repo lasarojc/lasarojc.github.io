@@ -61,11 +61,13 @@ google_analytics:
 remote_theme: chrisbobbe/jekyll-theme-prologue
 
 collections: 
-   classes_gsi009: 
+   class_gsi009: 
       output: true
       title: "Profissão Sistemas de Informação" 
-   classes_gbc074_gsi028: 
+   class_gbc074_gsi028: 
       output: true
       title: "Sistemas Distribuídos"
+   notes:
+      output: true
    sections:
 
