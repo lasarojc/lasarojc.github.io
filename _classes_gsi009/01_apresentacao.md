@@ -19,13 +19,13 @@ Preparar os discentes para atuarem com consciência, ética e responsabilidade n
 * 28/8 - Ética na computação: The Big Hack
 * 04/9 - Ética na computação: Black mirror
 * 11/9 - Pós-graduação ou não pós graduação?
-* 18/9 - Seminário
-* 25/9 - Seminário
-* 02/10 - Seminário
-* 09/10 - Seminário
-* 16/10 - Seminário
-* 23/10 - Seminário
-* 30/10 - Palestra
+* 18/9 - Seminário: Computação Verde
+* 25/9 - Seminário: Propriedade intelectual
+* 02/10 - Seminário: Hacking ético
+* 09/10 - Seminário: Assédio no ambiente de trabalho
+* 16/10 - Seminário: Relações inter-raciais e de gênero 
+* 23/10 - Palestra
+* 30/10 - Vem pra UFU
 * 06/11 - Palestra
 * 13/11 - Palestra
 * 27/11 - Palestra
@@ -58,9 +58,6 @@ Convide algum profissional de alguma subárea de informática (cuja formação p
 * discutir o que faz um profissional da área
 * discutir os passos necessários para se tornar um profissional da área
 Apresente um questionário, como o feito para as palestras, até 2 dias após a palestra. **Cada dia de atraso implica em nota menor.**
-
-### Vem pra ufu
-Nossa programação conta com dois dias de atividades a mais do que havia sido discutido em aula. Estes dois dias serão revistos uma vez que a programação do Vem Pra UFU for determinada ou se o evento for cancelado.
 
 ## Avaliação
 
