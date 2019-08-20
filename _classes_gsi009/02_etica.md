@@ -135,13 +135,13 @@ Código de ética na computação?
 ---
 ###### Falta de...
 
-[!(images/vw_testeemissao.png)](https://www.scientificamerican.com/article/volkswagen-uses-software-to-fool-epa-pollution-tests/)
+[![](images/vw_testeemissao.png)](https://www.scientificamerican.com/article/volkswagen-uses-software-to-fool-epa-pollution-tests/)
 
-[!(images/piratebay_altcoin)](https://torrentfreak.com/the-pirate-bay-website-runs-a-cryptocurrency-miner-170916/)
+[![](images/piratebay_altcoin)](https://torrentfreak.com/the-pirate-bay-website-runs-a-cryptocurrency-miner-170916/)
 
 [Roomba pode vender mapa da sua casa para parceiros.](https://gizmodo.com/roombas-next-big-step-is-selling-maps-of-your-home-to-t-1797187829)
 
-!(images/fb_spy.jpeg)
+![](images/fb_spy.jpeg)
 
 ---
 
