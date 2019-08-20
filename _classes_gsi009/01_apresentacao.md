@@ -16,7 +16,7 @@ Preparar os discentes para atuarem com consciência, ética e responsabilidade n
 * 21/8 
   * Transformação Digital no Mercado Financeiro e apresentação do Programa de Trainee do BTG Pactual (Auditório 3C)
   * Ética na computação: o código de ética
-* 28/8 - Ética na computação: The Big Hack
+* 28/8 - Ética na computação: The Great Hack
 * 04/9 - Ética na computação: Black mirror
 * 11/9 - Pós-graduação ou não pós graduação?
 * 18/9 - Seminário: Computação Verde
