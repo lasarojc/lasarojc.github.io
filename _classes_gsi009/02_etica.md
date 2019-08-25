@@ -75,6 +75,8 @@ O comportamento antiético se estende aos postos de trabalho, obviamente, onde f
 Para minimizar atos antiéticos como estes, diversas profissões produzem códigos de ética, manuais gerais de conduta no exercício da profissão.
 
 
+## Ética na Computação
+
 ---
 ##### Códigos de ética profissional.
 
