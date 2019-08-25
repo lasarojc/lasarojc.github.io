@@ -164,6 +164,7 @@ Não é exatamente o caso, pois a [Sociedade Brasileira de Computação](http://
 * Art. 11º: Nunca apropriar-se de trabalho intelectual, iniciativas ou soluções encontradas por outras pessoas.
 * Art. 12º: Zelar pelo cumprimento deste código.
 * Art. 13º: Reconhecer que qualquer violação das normas deste código é incompatível com sua associação à SBC.
+
 ---
 
 Vejamos como isso afeta a sua vida.
@@ -194,4 +195,4 @@ A computação certamente já causará problemas demais em nossas vidas, no proc
 ---
 ##### 5 fontes inesperadas de viés na inteligência artificial
 
-* <img src="images/vies_ia.png" alt="https://techcrunch.com/2016/12/10/5-unexpected-sources-of-bias-in-artificial-intelligence/" width="480"/>
+<img src="images/vies_ia.png" alt="https://techcrunch.com/2016/12/10/5-unexpected-sources-of-bias-in-artificial-intelligence/" width="480"/>
