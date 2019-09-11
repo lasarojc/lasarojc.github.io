@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: "Aula 4 - Laboratório: Sockets, UDP"
+title: "Aula 6 - Tipos e arquiteturas"
 part: 1 Introdução
 ---
 
