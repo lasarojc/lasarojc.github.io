@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: "Aula  - RPC"
+title: "Aula 7 - RPC"
 part: 1 - Comunicação
 ---
 
