@@ -29,10 +29,11 @@ Todo requisito do trabalho deve ser demonstrado na apresentação, feita diretam
       * demonstração de funcionalidades: mostre que as funcionalidades estão implementadas, por exemplo, se seu sistema é um banco de dados, demonstre CRUD dos dados..
   * Entrega 1
     * Seu projeto foi combinado com o professor e ajustes foram feitos. Você deverá agora implementá-lo.
+    * Trabalho em grupos de 4 alunos.
     * Elementos mínimos de todos os projetos:
       * Cliente TCP/IP ou UDP/IP: executa operações interativamente e sem erros; não recria sockets desnecessariamente.
       * Cliente TCP/IP ou UDP/IP para testes automatizados: executa baterias de testes; reporta testes falhos e bem sucedidos; simula múltiplos clientes concorrentes.
-      * Servidor TCP/IP ou UPD: serve requisições concorrentes de múltiplos clientes com controle de concorrência; em caso de reinicializações, recupera o estado anterior;
+      * Servidor TCP/IP ou UPD/IP: serve requisições concorrentes de múltiplos clientes com controle de concorrência; em caso de reinicializações, recupera o estado anterior;
       * Execução em mais de uma máquina.
       * Codificação de dados deve usar constantes pré-definidas e com mnemônicos, isto é, nada de mandar 1 para Criar e 2 para Apagar, mas CRIAR e APAGAR.
   * Entrega 2
@@ -92,6 +93,6 @@ Finalmente, a quizes, dinâmicas e testes surpresa, serão atribuídos até 20% 
 
 # Visão geral dos sistemas distribuídos
 
-Voltemos à nossa visão geral de Sistemas Distribuídos, para entendermos as [dificuldades](https://lasarojc.github.io/ds_notes/intro/dificuldades.html) de se implementar sistemas distribuídos.
+Voltemos à nossa visão geral de Sistemas Distribuídos, para entendermos o que é um sistema distribuído e quais dificuldades encontraremos ([O quê?](https://lasarojc.github.io/ds_notes/notes/intro/2_oque.html). 
 
 
