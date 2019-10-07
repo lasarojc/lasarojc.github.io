@@ -102,6 +102,6 @@ Finalmente, a quizes, dinâmicas e testes surpresa, serão atribuídos até 20% 
 
 # Visão geral dos sistemas distribuídos
 
-Voltemos à nossa visão geral de Sistemas Distribuídos, para entendermos as [dificuldades](https://lasarojc.github.io/ds_notes/intro/dificuldades.html) de se implementar sistemas distribuídos.
+Voltemos à nossa visão geral de Sistemas Distribuídos, para entendermos o que é um sistema distribuído e quais dificuldades encontraremos ([O quê?](https://lasarojc.github.io/ds_notes/notes/intro/2_oque.html). 
 
 

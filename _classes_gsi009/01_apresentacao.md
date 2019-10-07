@@ -39,7 +39,17 @@ Preparar os discentes para atuarem com consciência, ética e responsabilidade n
 * 75 minutos
 * Estimular discussão
 * Discutir legislação pertinente
-* Entregar, via Piazza, 5 perguntas de múltiplas alternativas (5) com resposta, no seguinte formato
+* Entregar, via **Piazza**, **5 perguntas de múltiplas alternativas**, em post **privado** para o professor,  da seguinte forma:
+  * Cada pergunta deve ter 5 respostas
+  * A pergunta deve vir na primeira linha, não importa seu tamanho.
+  * A pergunta **não deve ser numerada** ou **identificada com letras**.
+  * Saltar uma linha entre a pergunta e primeira resposta.
+  * Não identificar as respostas com números ou letras.
+  * A resposta **correta** deve ser a **primeira**.
+  * As demais respostas, incorretas, virão em sequência, com linhas em branco as separando.
+  * Use apenas texto nas suas perguntas.
+  * Veja um exemplo à seguir:
+
 ```
 Como formatar uma pergunta para o seminário?
 
@@ -48,7 +58,12 @@ Coloque a pergunta, sem numerá-la, em **uma linha**. Deixe uma linha em branco 
 Esta é um alternativa incorreta. Observe que não i) ou 1) ou A) ou a) antes da resposta. Simplesmente a resposta.
 
 Esta é outra incorreta. No total, serão 5 respostas.
+
+Esta é a penúltima resposta.
+
+Esta é a última resposta.
 ```
+
 
 ### Palestras
 
@@ -57,11 +72,12 @@ Convide algum profissional de alguma subárea de informática (cuja formação p
 * contar como se tornou um profissional daquela área
 * discutir o que faz um profissional da área
 * discutir os passos necessários para se tornar um profissional da área
-Apresente um questionário, como o feito para as palestras, até 2 dias após a palestra. **Cada dia de atraso implica em nota menor.**
+Apresente um questionário, como o feito para as palestras, com 5 perguntas de múltiplas alternativas, até 2 dias após a palestra. **Cada dia de atraso implica em nota menor.**
+
 
 ## Avaliação
 
 * Questionários respondidos 40%
 * Questionários providos 15%
 * Seminários 45%
-* (piazza.com/ufu.br/semester22019/gsi009)
+* Clique aqui para se cadastrar no [Piazza](http://piazza.com/ufu.br/semester22019/gsi009)
