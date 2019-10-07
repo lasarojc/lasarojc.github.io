@@ -7,12 +7,12 @@ part: 1 Introdução
 # Projetos
 
 A ideia do estudo orientado a projetos é sedimentar os conceitos vistos em aula teórica pela prática.
-Cada grupo de alunos definirá o seu próprio projeto, dentro de certos de limites e de forma a exercitas os conceitos aprendidos.
+Cada grupo de alunos definirá o seu próprio projeto, dentro de certos de limites e de forma a exercitar os conceitos aprendidos.
 Todo requisito do trabalho deve ser demonstrado na apresentação, feita diretamente a mim.
 
 * Projeto: 
   * Entregas por repositório **Github público** até 23:59 da data da entrega.
-  * A cada dia de atraso, 3% de desconto do valor do trabalho.
+  * A cada dia de atraso, o valor total do trabalho sofrerá 3% de desconto.
   * Após uma semana, o trabalho não pode ser mais entregue.
   * Todos os membros do grupo deverão estar aptos a apresentar o trabalho.
   * A qualidade do código será julgada.
@@ -29,19 +29,29 @@ Todo requisito do trabalho deve ser demonstrado na apresentação, feita diretam
       * demonstração de funcionalidades: mostre que as funcionalidades estão implementadas, por exemplo, se seu sistema é um banco de dados, demonstre CRUD dos dados..
   * Entrega 1
     * Seu projeto foi combinado com o professor e ajustes foram feitos. Você deverá agora implementá-lo.
+    * Trabalho em grupos de 4 alunos.
+    * Escolham um dos trabalhos da entrega 0 dos membros do grupo para construir o trabalho 2.
     * Elementos mínimos de todos os projetos:
       * Cliente TCP/IP ou UDP/IP: executa operações interativamente e sem erros; não recria sockets desnecessariamente.
       * Cliente TCP/IP ou UDP/IP para testes automatizados: executa baterias de testes; reporta testes falhos e bem sucedidos; simula múltiplos clientes concorrentes.
-      * Servidor TCP/IP ou UPD: serve requisições concorrentes de múltiplos clientes com controle de concorrência; em caso de reinicializações, recupera o estado anterior;
+      * Servidor TCP/IP ou UPD: serve requisições concorrentes de múltiplos clientes;
+        * O servidor deve manter alguma forma de estado acessado concorrentemente pelos clientes.
+        * Controle de concorrência nos clientes deverá ser implementado.
+        * Em caso de reinicializações, recupera o estado anterior;
       * Execução em mais de uma máquina.
       * Codificação de dados deve usar constantes pré-definidas e com mnemônicos, isto é, nada de mandar 1 para Criar e 2 para Apagar, mas CRIAR e APAGAR.
   * Entrega 2
-    * Trabalho em grupos de 4 alunos.
-    * Escolham um dos trabalhos da entrega 1 dos membros do grupo para construir o trabalho 2.
-    * A comunicação deverá ser substituída por gRPC.
-    * Outros elements dependerão de cada trabalho:
-      * O serviço será particionado usando *consistent hashing*.
-      * O serviço será particionado usando microserviços.
+    * Toda a comunicação deverá ser substituída por gRPC;
+    * A operação a ser executada deve ser definida pela função, não por parâmetro (por exemplo, use funções "somar" e "subtrair", não uma única função "calcular" com parâmetro indicando se é para somar ou subtrair);
+    * O estado armazenado no servidor deve ser composto por log + snapshots dos dados;
+    * Um texto de até uma página explica como e porquê *Log Structured Merge Trees*  seriam usadas no projeto;
+    * Outros elements dependerão de cada trabalho, com duas opções:
+      * O serviço será particionado usando *consistent hashing*;
+        * O roteamento entre pares é feito via *finger table*;
+        * Os dados são particionados usando alguma chave que os identifique;
+      * O serviço será particionado usando microsserviços;
+        * Vários microsserviços são usados no sistema;
+        * Os dados são roteados segundo alguma tabela pré-configurada
   * Entrega 3
     * Trabalho em grupos de 4 alunos; o mesmo do trabalho anterior.
     * O serviço será replicado e a comunicação poderá ser substituída por um método adequado.
