@@ -142,6 +142,8 @@ Se não há definição de quem pode atuar com computação, há definitivamente
 
 * <img src="images/roomba.png" alt="https://gizmodo.com/roombas-next-big-step-is-selling-maps-of-your-home-to-t-1797187829" width="480"/>
 
+* <img src="images/siemens-logic-bomb.jpg" alt=" https://thehackernews.com/2019/07/siemens-logic-bomb.html" width="480"/>
+
 * ![](images/fb_spy.jpeg)
 
 ---
