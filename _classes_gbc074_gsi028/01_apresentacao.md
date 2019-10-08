@@ -18,11 +18,11 @@ part: 0
 
 ## Sobre nossas avaliações,
 
-* Laboratórios (0\%)
+* Laboratórios (0%)
 * 3 trabalhos **incrementais**
 * 2 seminários
 * Código entregue via repositório [git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) (github) na data especificada
-* Cada dia de atraso implica 3\% de desconto no valor da entrega; atraso máximo de 1 semana
+* Cada dia de atraso implica 3% de desconto no valor da entrega; atraso máximo de 1 semana
 * Código deve compilar usando  [maven](\href{https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
 * Testes devem demonstrar atendimento dos requisitos, usando maven (mvn test)
 
