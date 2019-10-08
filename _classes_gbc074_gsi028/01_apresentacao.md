@@ -37,4 +37,4 @@ Neste curso seguiremos diversas bibliografias, conforme documentado no plano da 
 Também utilizaremos as minhas notas de aula, sendo digitalizadas durante o curso.
 Por exemplo, segue o link para uma seção de motivação ao estudo de Sistemas Distribuídos.
 
-* [Motivação](https://lasarojc.github.io/ds_notes/intro/1_porque.html)
+* [Motivação](https://lasarojc.github.io/ds_notes/notes/intro/1_porque.html)
