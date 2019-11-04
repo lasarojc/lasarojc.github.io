@@ -30,7 +30,7 @@ Todo requisito do trabalho deve ser demonstrado na apresentação, feita diretam
   * Entrega 1
     * Seu projeto foi combinado com o professor e ajustes foram feitos. Você deverá agora implementá-lo.
     * Trabalho em grupos de 4 alunos.
-    * Escolham um dos trabalhos da entrega 0 dos membros do grupo para construir o trabalho 2.
+    * Escolham um dos trabalhos da entrega 0 dos membros do grupo para construir o trabalho 1.
     * Elementos mínimos de todos os projetos:
       * Cliente TCP/IP ou UDP/IP: executa operações interativamente e sem erros; não recria sockets desnecessariamente.
       * Cliente TCP/IP ou UDP/IP para testes automatizados: executa baterias de testes; reporta testes falhos e bem sucedidos; simula múltiplos clientes concorrentes.
@@ -42,16 +42,26 @@ Todo requisito do trabalho deve ser demonstrado na apresentação, feita diretam
       * Codificação de dados deve usar constantes pré-definidas e com mnemônicos, isto é, nada de mandar 1 para Criar e 2 para Apagar, mas CRIAR e APAGAR.
   * Entrega 2
     * Toda a comunicação deverá ser substituída por gRPC;
-    * A operação a ser executada deve ser definida pela função, não por parâmetro (por exemplo, use funções "somar" e "subtrair", não uma única função "calcular" com parâmetro indicando se é para somar ou subtrair);
-    * O estado armazenado no servidor deve ser composto por log + snapshots dos dados;
-    * Um texto de até uma página explica como e porquê *Log Structured Merge Trees*  seriam usadas no projeto;
+    * Toda operação a ser executada no servidor deve ser definida pela função, não por parâmetro (por exemplo, use funções "somar" e "subtrair", não uma única função "calcular" com parâmetro indicando se é para somar ou subtrair);
+    * O estado armazenado no servidor deve ser composto por log + snapshots dos dados, como visto na aula [sobre estruturas de dados para sistemas distribuídos](https://lasarojc.github.io/ds_notes/notes/p2p/2_ed_sd.html);
+      * Assuma que todos os dados cabem em memória e portanto em uma única sstable, isto é, sstables são snapshots da memória;
+      * Não é necessário implementar compactação;
+      * Escreva um texto de até uma página explicando como e porquê *Log Structured Merge Trees* seriam usadas no projeto;
     * Outros elements dependerão de cada trabalho, com duas opções:
       * O serviço será particionado usando *consistent hashing*;
         * O roteamento entre pares é feito via *finger table*;
+          * Qualquer nó pode receber requisições dos clientes e é capaz de encaminhá-las para o nó correto;
+          * Pode assumir que o conjunto de nós é conhecido e estático;
+          * Todos os processos que param de funcionar voltam ao normal depois de um tempo;
+          * Não há pontos únicos de falha no sistema (processos que se falharem paralisam todo o sistema);
         * Os dados são particionados usando alguma chave que os identifique;
+          * A chave externa depende da aplicação;
+          * A chave interna tem um espaço significativo, por exemplo, $2^160$ possíveis valores;
+          * A distribuição de carga entre os nós é uniforme;
+        * No caso de reinicialização de algum servidor, sua recuperação é baseada nos snapshots e logs;
       * O serviço será particionado usando microsserviços;
-        * Vários microsserviços são usados no sistema;
-        * Os dados são roteados segundo alguma tabela pré-configurada
+        * Vários microsserviços são usados para decompor funcionalmente o sistema;
+        * Os dados são roteados segundo alguma tabela pré-configurada associando função a microsserviço;
   * Entrega 3
     * Trabalho em grupos de 4 alunos; o mesmo do trabalho anterior.
     * O serviço será replicado e a comunicação poderá ser substituída por um método adequado.

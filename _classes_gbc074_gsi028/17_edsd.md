@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: Aula 16 - NOSQL
+title: Aula 17 - Estruturas de Dados Avançadas
 part: 4 - Peer-2-Peer
 ---
 
