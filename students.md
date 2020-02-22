@@ -7,18 +7,17 @@ order: 4
 
 ### MSc 
 
-* Douglas Antunes
 * Lucas Borges
 * Rodrigo Videschi
 * José Augusto Bolina
 
 ### Undergrad 
 
-* Marcos Paulo - Next gen networks
 * Pedro Victor - Machine learning and Next gen networks
 
 ### Alumni
 
+* Douglas Antunes (MSc, 2019) - Generalized Consensus
 * José Augusto Bolina (Undergrad, 2019) - Next gen networks
 * Pedro Henrique (Undergrad, 2018) - Next gen networks
 * Lucas Marchesotti Franco (MSc, 2018) - Next gen networks
