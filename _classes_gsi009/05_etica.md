@@ -1,9 +1,8 @@
 ---
 layout: notes
-title: Seminário
+title: Palestra: Ética
 output: true
 part: 2
 ---
 
-Computação verde.
 
