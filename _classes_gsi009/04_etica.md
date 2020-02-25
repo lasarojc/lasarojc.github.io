@@ -23,7 +23,7 @@ Por exemplo, podemos pensar facilmente em ações que, consideradas morais muito
   > Deuteronômio 22:22 - Se um homem for pego em flagrante deitado com a mulher de outro, os dois deverão pagar por esse delito com pena de morte, o homem e a mulher com quem se deitou. Desse modo extirparás o mal do meio do teu povo, ó Israel.
 * Escravagismo
   > Êxodo 21:1-6 - Estes são os estatutos que lhes proporás: Se comprares um servo hebreu, seis anos servirá; mas ao sétimo sairá forro, de graça. Se entrar sozinho, sozinho sairá; se tiver mulher, então com ele sairá sua mulher. Se seu senhor lhe houver dado uma mulher e ela lhe houver dado filhos ou filhas, a mulher e os filhos dela serão de seu senhor e ele sairá sozinho. Mas se esse servo expressamente disser: “Eu amo a meu senhor, a minha mulher e a meus filhos, não quero sair forro”, então seu senhor o levará perante os juizes, e o fará chegar porta, ou ao umbral da porta, e o seu senhor lhe furará a orelha com uma sovela; e ele o servirá para sempre.
-* Casamento com menores de idade (pergunte sua avó)
+* Casamento com menores de idade (pergunte sua avó).
 
 ---
 
@@ -39,28 +39,37 @@ Para definir o que é ético, pode ser útil ver alguns exemplos do que obviamen
 * achar uma carteira com dinheiro, pegar o dinheiro e jogar a carteira fora, sem ter feito um esforço sincero para encontrar o dono,
 * comer o lanche do seu colega de república, sem autorização,
 * violar acordo de monogamia, 
+
+---
+
+Alguns exemplos são mais complicados. Se eu te perguntar se é anti-ético cobrar 5000 reais por uma página Web feita no Word, você provavelmente diria que não, afinal, desde que você esteja entregando o produto e seu cliente esteja disposto a pagar, então tudo bem, certo?
+
+Vejamos este caso real.
+
+---
+
 * vender algo com lucro exorbitante
   > In September 2015, Shkreli received widespread criticism when Turing obtained the manufacturing license for the antiparasitic drug Daraprim and raised its price by a factor of 56 (from US$13.5 to $750 per pill), leading him to be referred to by the media as "the most hated man in America" and "Pharma Bro" ([Fonte](https://en.wikipedia.org/wiki/Martin_Shkreli))
 
 ---
 
-Este último exemplo, onde um remédio teve seu preço aumentado de 13 para 750 Dólares, por pílula, décadas depois de ter sido inventado, e com processo de fabricação simples, reprodutível por adolescentes ([Fonte](https://blogs.sciencemag.org/pipeline/archives/2016/12/01/those-australian-students-and-their-daraprim)), é excelente para indicar uma idiossincrazia da sociedade capitalista. 
+Este exemplo, onde um remédio teve seu preço aumentado de 13 para 750 Dólares, por pílula, décadas depois de ter sido inventado, e com processo de fabricação simples, reprodutível por adolescentes ([Fonte](https://blogs.sciencemag.org/pipeline/archives/2016/12/01/those-australian-students-and-their-daraprim)), é excelente para indicar uma idiossincrazia da sociedade capitalista. 
 Enquanto difícilmente alguém considerará o aumento ético, a relativização do que é errado e certo é muito comum em nossa sociedade. Vejamos alguns exemplos na universidade, muito bem apontados neste [blog](https://rbribeiro.wordpress.com/2015/06/24/como-e-dar-aula-no-ensino-superior-e-a-corrupcao-na-universidade/).
 
 
 ---
 ##### ... na Universidade
 
-* Copia lista de exercício para conseguir se formar sem esforço e critica vagabundo por não arrumar uma enxada e ir capinar um terreno.
-* Pede para o colega assinar a lista de presença e depois critica funcionário fantasma.
-* Cola nas provas e grita "abaixo a corrupção!" na próxima manifestação.
+* "Copia lista de exercício para conseguir se formar sem esforço e critica vagabundo por não arrumar uma enxada e ir capinar um terreno."
+* "Pede para o colega assinar a lista de presença e depois critica funcionário fantasma."
+* "Cola nas provas e grita "abaixo a corrupção!" na próxima manifestação."
 
 ---
 
 Óbvio que há problemas do lado da universidade também, em vários níveis.
 
 ---
-##### .... na Universidade
+##### .... ainda na Universidade
 
 * [Professores da UFRGS são presos por fraude em bolsas de estudo](http://g1.globo.com/rs/rio-grande-do-sul/noticia/2016/12/professores-da-ufrgs-sao-presos-por-fraude-em-bolsas-de-estudo.html).
 * [Envolvidos em fraude no vestibular da UFU devem ressarcir cofres públicos](http://g1.globo.com/minas-gerais/triangulo-mineiro/noticia/2017/02/envolvidos-em-fraude-no-vestibular-da-ufu-devem-ressarcir-cofres-publicos.html) 
@@ -84,7 +93,7 @@ Conjunto de normas de conduta a serem praticadas no exercício da profissão.
 
 ---
 
-Um dos exemplos mais famosos é o código da medicina, publicizado na mídia. O famoso **Juramento de Hipócrates" parece ser um e universal, mas como poderia? Obviamente o mesmo sofreu alterações com a passagem do tempo e espalhamento pelo mundo.
+Um dos exemplos mais famosos é o código da medicina, publicizado na mídia. O famoso **Juramento de Hipócrates** parece ser um e universal, mas como poderia? Obviamente o mesmo sofreu alterações com a passagem do tempo e espalhamento pelo mundo.
 Veja a seguinte versão, que contem partes que obviamente deixaram de ser válidas e outras que nem precisariam ser ditas.
 
 ---
@@ -107,6 +116,8 @@ Estimar, tanto quanto a meus pais, aquele que me ensinou esta arte; **fazer vida
 
 > Se eu cumprir este juramento com fidelidade, que me seja dado gozar felizmente da vida e da minha profissão, honrado para sempre entre os homens; se eu dele me afastar ou infringir, o contrário aconteça.
 
+# TODO: levantar fonte.
+
 ---
 
 
@@ -123,11 +134,13 @@ Nunca me servirei da minha profissão para corromper os costumes ou favorecer o 
 
 Se eu cumprir este juramento com fidelidade, goze eu para sempre a minha vida e a minha arte com boa reputação entre os homens; se o infringir ou dele afastar-me, suceda-me o contrário.
 
+# TODO: levantar fonte.
+
 ---
 
-# TODO: levantar fontes dos juramentos.
 
 Já na computação, como fica a questão da ética profissional?
+
 Não há, no Brazil, um código das áreas ligadas à computação, até por quê não há um reconhecimento dos "computeiros" como uma classe profissional como é o caso dos odontólogos, médicos e engenheiros, profissionais liberais. Na computação, entra quem quiser, e fica quem se mostrar habilitado, tenha se formado em ciência da computação, engenharia elétrica, sistemas de informação, administração de empresas ou educação física.
 
 Se não há definição de quem pode atuar com computação, há definitivamente muitos exemplos de falta de ética na área.
@@ -150,7 +163,9 @@ Se não há definição de quem pode atuar com computação, há definitivamente
 
 
 Quer dizer que não há um código de ética a ser seguido na área?
-Não é exatamente o caso, pois a [Sociedade Brasileira de Computação](http://sbc.org.br/), através de sua comissão de ética, propôs o seguinte [código de ética profissional](https://compesociety.blogspot.com/2016/09/sbc-e-o-codigo-de-etica-profissional.html)
+
+Não é exatamente o caso, pois a [Sociedade Brasileira de Computação](http://sbc.org.br/), através de sua comissão de ética, propôs o seguinte [código de ética profissional](https://compesociety.blogspot.com/2016/09/sbc-e-o-codigo-de-etica-profissional.html).
+
 
 ---
 ##### Código de Ética da SBC
@@ -171,7 +186,9 @@ Não é exatamente o caso, pois a [Sociedade Brasileira de Computação](http://
 
 ---
 
+
 Vejamos como isso afeta a sua vida.
+
 
 ---
 ##### E você?
@@ -182,7 +199,8 @@ Vejamos como isso afeta a sua vida.
 
 ---
 
-Não lhe parece que estes pedidos violam alguns artigos?
+Não lhes parece que estes pedidos violam alguns artigos?
+
 Mesmo que você não vá tatuar o código de ética proposto pela SBC nas costas ou recitá-lo como um evangelho, faz sentido seguir suas orientações gerais, que são, agir corretamente para com a **sociedade**, a **comunidade** (seus colegas de profissão), e com seu **empregador**.
 
 A computação certamente já causará problemas demais em nossas vidas, no processo de torná-las melhor (veja dois exemplos a seguir). Então, não é necessário que nós, os "computeiros", ajamos de má fé.
@@ -196,7 +214,13 @@ A computação certamente já causará problemas demais em nossas vidas, no proc
 
 ---
 
+
+Mesmo a tão celebrada IA, que promete tornar nossa vida muito mais simples, tem seu peso opressão de minorias.
+
+
 ---
 ##### 5 fontes inesperadas de viés na inteligência artificial
 
 <img src="images/vies_ia.png" alt="https://techcrunch.com/2016/12/10/5-unexpected-sources-of-bias-in-artificial-intelligence/" width="480"/>
+
+---
