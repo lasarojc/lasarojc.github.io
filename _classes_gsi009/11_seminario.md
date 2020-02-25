@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: Seminário
+title: Seminário: Relações raciais e de gênero no trabalho.
 output: true
 part: 2
 ---

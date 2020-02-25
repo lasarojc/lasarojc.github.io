@@ -5,4 +5,6 @@ output: true
 part: 2
 ---
 
+Nesta aula teremos um convidado para falar sobre ética.
 
+---

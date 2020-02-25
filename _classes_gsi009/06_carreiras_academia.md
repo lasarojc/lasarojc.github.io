@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: Pós-graduação
+title: A carreira acadêmica
 output: true
 part: 1
 ---

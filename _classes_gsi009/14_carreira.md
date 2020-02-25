@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: Palestra
+title: Palestra 3
 output: true
 part: 3
 ---
