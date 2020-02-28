@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: Palestra: Ética
+title: Palestra - Ética
 output: true
 part: 2
 ---
