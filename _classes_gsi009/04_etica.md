@@ -5,6 +5,24 @@ output: true
 part: 1
 ---
 
+# Computação e Sociedade
+
+Os vários ramos da computação, estando presentes cada vez mais na vida das pessoas, certamente podem afetar positiva ou negativamente estas vidas.
+Assim, é importante pensar sobre como nossas atuações como computeiros impactam a sociedade ao nosso redor.
+
+Para dar alguns exemplos simples e bem próximos, pensemos na quantidade de dados pessoais que as redes sociais acumulam.
+Você, ao criar sua conta do Facebook ou Instagram, leu os termos de serviço? Sabe quais dados podem ser gravados e com quem podem ser compartilhados? A frase seguinte descreve bem a situação:
+
+> [Se você não está pagando pelo produto, então o produto é você!](https://www.quora.com/Who-originally-suggested-that-if-youre-not-paying-for-the-product-you-are-the-product)
+
+Em praticamente todos os serviços de redes sociais, todas as sua interações são gravadas e usadas para montar seu perfil, que será colocado em grupos usados para direcionar anúncios e campanhas. Por mais que você possa se achar especial, saiba que somos muito, muito previsíveis e que podemos ser facilmente manipulados. Para ver um grande exemplo disso, pense nas campanhas políticas de 2016 nos estados unidos e 2018 no Brasil. Milhares de mensagens direcionadas os eleitores indecisos serviram para virar a balança para um lado ou para outro, como é muito bem documentado em "Big Hack", disponível no Netflix.
+
+Mas para além dos perfis das redes sociais, a tecnologia poderá afetar nossa vida de outras formas também muito importantes, identificando pessoas e áres propensas a crimes, permitindo a identificação de todos por qualquer um e consequente rastreamento de todos os nosso movimentos, acabando com nossa privacidade.
+Além disso, as AI sendo treinadas por dados classificados por humanos, perseverarão divisões sociais, desigualdades e discriminações.
+
+Antes de falarmos sobre estes pontos e retomarmos os materiais vistos, vamos definir um arcabouço teórico.
+
+
 ## Ética x Moral
 
 A palavra *ética* vem do grego *ethos* e significa aquilo que pertence ao "bom costume", "costume superior", ou "portador de caráter" ([Fonte mais que confiável](https://pt.wikipedia.org/wiki/Ética)).
