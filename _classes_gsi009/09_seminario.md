@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: Seminário: Privacidade, hacking e hacking ético.
+title: Seminário - Privacidade, hacking e hacking ético.
 output: true
 part: 2
 ---

@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: Seminário: Computação verde
+title: Seminário - Computação verde
 output: true
 part: 2
 ---

@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: Seminário: Propriedade intelectual
+title: Seminário - Propriedade intelectual
 output: true
 part: 2
 ---
