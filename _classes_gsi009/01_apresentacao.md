@@ -40,15 +40,15 @@ Quanto aos seminários e palestras, vejam as seguintes seções.
   * Quiz
     * Entregar Quiz 2 dias antes da apresentação
       * Enviar no **Piazza**, **5 perguntas de múltiplas alternativas**, em post **privado** para o professor,  da seguinte forma:
-      * Cada pergunta deve ter 5 respostas
-      * A pergunta **não deve ser numerada** ou **identificada com letras**.
-      * As respostas **não devem ser numeradas** ou **identificadas com letras**.
-      * A pergunta deve vir na primeira linha, não importa seu tamanho.
-      * Saltar uma linha entre a pergunta e primeira resposta.
-      * A resposta **correta** deve ser a **primeira**.
-      * As demais respostas, incorretas, virão em sequência, com linhas em branco separando-as.
-      * Use apenas texto nas suas perguntas.
-      * Veja um exemplo à seguir:
+        * Cada pergunta deve ter 5 respostas
+        * A pergunta **não deve ser numerada** ou **identificada com letras**.
+        * As respostas **não devem ser numeradas** ou **identificadas com letras**.
+        * A pergunta deve vir na primeira linha, não importa seu tamanho.
+        * Saltar uma linha entre a pergunta e primeira resposta.
+        * A resposta **correta** deve ser a **primeira**.
+        * As demais respostas, incorretas, virão em sequência, com linhas em branco separando-as.
+        * Use apenas texto nas suas perguntas.
+        * Veja um exemplo à seguir:
       ```
       Como formatar uma pergunta para o seminário?
 
