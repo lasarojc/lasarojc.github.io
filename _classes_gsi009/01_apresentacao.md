@@ -49,19 +49,19 @@ Quanto aos seminários e palestras, vejam as seguintes seções.
         * As demais respostas, incorretas, virão em sequência, com linhas em branco separando-as.
         * Use apenas texto nas suas perguntas.
         * Veja um exemplo à seguir:
-      ```
-      Como formatar uma pergunta para o seminário?
+```
+Como formatar uma pergunta para o seminário?
 
-      Coloque a pergunta, sem numerá-la, em **uma linha**. Deixe uma linha em branco e coloque a resposta correta, **sem numerá-la**. Salte um linha e coloque a primeira alternativa incorreta e assim por diante até completar 5 possíveis respostas. Use texto puro, sem formatação especial qualquer.
+Coloque a pergunta, sem numerá-la, em **uma linha**. Deixe uma linha em branco e coloque a resposta correta, **sem numerá-la**. Salte um linha e coloque a primeira alternativa incorreta e assim por diante até completar 5 possíveis respostas. Use texto puro, sem formatação especial qualquer.
 
-      Esta é um alternativa incorreta. Observe que não i) ou 1) ou A) ou a) antes da resposta. Simplesmente a resposta.
+Esta é um alternativa incorreta. Observe que não i) ou 1) ou A) ou a) antes da resposta. Simplesmente a resposta.
 
-      Esta é outra incorreta. No total, serão 5 respostas.
+Esta é outra incorreta. No total, serão 5 respostas.
 
-      Esta é a penúltima resposta.
+Esta é a penúltima resposta.
 
-      Esta é a última resposta.
-      ```
+Esta é a última resposta.
+```
       * Qualidade do quiz
 	* Perguntas pertinentes a quem se interessar pela área
 	* Perguntas em português correto
