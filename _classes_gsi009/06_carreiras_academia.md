@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: A carreira acadêmica
+title: "A carreira acadêmica"
 output: true
 part: 1
 ---

@@ -18,6 +18,8 @@ Quando as pessoas tem medo, elas fazem coisas que não gostariam de fazer. Neste
 
 O papel da informática no golpe: o sistema detectava que estava sob testes, por exemplo, que a direção não estava sendo movimentada.
 
+What if you are offered a job in an assembly line to make products that can kill 1000's of people? Would you take that job?
+
 -->
 
 ---

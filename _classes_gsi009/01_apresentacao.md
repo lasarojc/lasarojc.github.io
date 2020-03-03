@@ -49,6 +49,7 @@ Quanto aos seminários e palestras, vejam as seguintes seções.
         * As demais respostas, incorretas, virão em sequência, com linhas em branco separando-as.
         * Use apenas texto nas suas perguntas.
         * Veja um exemplo à seguir:
+
 ```
 Como formatar uma pergunta para o seminário?
 
@@ -62,6 +63,7 @@ Esta é a penúltima resposta.
 
 Esta é a última resposta.
 ```
+
       * Qualidade do quiz
 	* Perguntas pertinentes a quem se interessar pela área
 	* Perguntas em português correto
