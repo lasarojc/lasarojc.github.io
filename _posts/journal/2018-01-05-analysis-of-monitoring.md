@@ -7,7 +7,7 @@ title: Analysis of Monitoring and Multipath Support on top of OpenFlow Specifica
 author: Pedro Rezende, Paulo R. S. L. Coelho, Luiz F. Faina, Lasaro Camargos, Rafael Pasquini
 venue: International Journal of Network Management
 paper: https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2017
-type: journal
+type: Journal
 
 
 ---

@@ -7,7 +7,7 @@ title: Byzantine Collision-Fast Consensus Protocols
 author: Rodrigo Saramago, Eduardo Alchieri, Tuanir Rezende, Lasaro Camargos
 venue: Transactions on Computational Collective Intelligence XXXIII
 paper: https://link.springer.com/chapter/10.1007%2F978-3-662-59540-4_6
-type: chapter
+type: Book Chapter
 
 
 ---

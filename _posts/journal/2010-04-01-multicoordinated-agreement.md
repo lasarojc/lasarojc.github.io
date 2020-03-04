@@ -7,7 +7,7 @@ title: Multicoordinated agreement for groups of agents
 author: Lasaro Camargos, Rodrigo Schmidt, Edmundo R. M. Madeira, Fernando Pedone
 venue: Journal of the Brazilian Computer Society
 paper: https://journal-bcs.springeropen.com/articles/10.1007/s13173-010-0001-7
-type: journal
+type: Journal
 
 
 ---

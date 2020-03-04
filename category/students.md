@@ -1,6 +1,6 @@
 ---
 title: Students
-layout: "page"
+layout: page
 icon: fa-user-graduate
 order: 4
 ---

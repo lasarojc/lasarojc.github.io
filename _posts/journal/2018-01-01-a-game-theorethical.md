@@ -7,7 +7,7 @@ title: A game theoretical approach to model the channel selection dynamics in no
 author: Sérgio L. D. L. Gramacho, Gustavo B. Figueiredo, Lasaro Camargos
 venue: Wireless Networks
 paper: https://link.springer.com/article/10.1007%2Fs11276-018-1751-y
-type: journal
+type: Journal
 
 
 ---

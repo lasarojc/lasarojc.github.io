@@ -14,23 +14,17 @@ layout: default
 {% endunless %}
 
 {% for class in classes %}
-	{%- include section.html title=class.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+   {%- include section.html title=class.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
 
-   <div class="container">
-   <ul>
    {% assign lecture_groups = site[class.label] | group_by: 'part' %}
    {% for lecture_group in lecture_groups %}
-   <li> Parte: {{ lecture_group.name }} 
-     <div class="container">
-     <ul> 
+   <h1> => Parte: {{ lecture_group.name }} </h1>
+     <ul class="container"> 
      {% for lecture in lecture_group.items %}
        <li><a href="{{ lecture.url }}">{{ lecture.title }}</a></li>
      {% endfor %}
      </ul>
-     </div>
    </li>
    {% endfor %}
-   </ul>
-   </div>
 {% endfor %} 
 </div>
