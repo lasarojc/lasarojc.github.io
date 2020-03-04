@@ -19,8 +19,8 @@ order: 4
 
 * Douglas Antunes (MSc, 2019) - Generalized Consensus
 * José Augusto Bolina (Undergrad, 2019) - Next gen networks
-* Pedro Henrique (Undergrad, 2018) - Next gen networks
-* Lucas Marchesotti Franco (MSc, 2018) - Next gen networks
+* Pedro Henrique (Undergrad, 2018) - Descoberta de Comutadores em Redes Definidas por Software Usando P4
+* Lucas Marchesotti Franco (MSc, 2018) - Uma solução força-bruta para o problema de minimização de HandOvers Intra-VPON utilizando Teoria dos Grafos
 * Lucas Borges (Undergrad, 2017) - Roteamento multicaminhos em redes definidas por software usando p4
 * Leonardo Martins (Undergrad, 2017)  - Next gen networks
 * Tuanir França Rezende (MSc, 2017) - A Faithful Generalized Paxos Implementation and a Novel \emph{CStruct} for Distributed Lease Coordination
