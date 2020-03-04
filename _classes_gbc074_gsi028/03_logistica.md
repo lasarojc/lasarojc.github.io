@@ -1,5 +1,5 @@
 ---
-layout: Logística
+layout: notes
 title: "Aula 3 - Logística e Introdução"
 part: 1 Introdução
 ---

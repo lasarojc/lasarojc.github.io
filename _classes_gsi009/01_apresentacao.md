@@ -38,6 +38,9 @@ Quanto aos seminários e palestras, vejam as seguintes seções.
     * Entregar Slides 2 dias antes da apresentação
     * Qualidade dos slides
   * Quiz
+    * Qualidade do quiz
+       * Perguntas pertinentes a quem se interessar pela área
+       * Perguntas em português correto
     * Entregar Quiz 2 dias antes da apresentação
       * Enviar no **Piazza**, **5 perguntas de múltiplas alternativas**, em post **privado** para o professor,  da seguinte forma:
         * Cada pergunta deve ter 5 respostas
@@ -64,9 +67,6 @@ Esta é a penúltima resposta.
 Esta é a última resposta.
 ```
 
-      * Qualidade do quiz
-	* Perguntas pertinentes a quem se interessar pela área
-	* Perguntas em português correto
 
 
 ### Palestras

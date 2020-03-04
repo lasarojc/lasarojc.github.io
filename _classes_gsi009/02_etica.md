@@ -5,21 +5,12 @@ output: true
 part: 1
 ---
 
-Este vídeo fala sobre o escândalo envolvendo a VW e outras empresas do grupo, que fraudaram testes de emissão nos EUA e Europa.
-Observem o papel essencial da computação na fraude e o potencial que profissionais da área tem para afetar a vida das pessoas.
+Este episódio de Black Mirror fala sobre como a tecnologia, neste caso em específico as redes sociais, tem o potencial de alterar a forma como nos comunicamos, compartilhamos informação, e somos classificadados em nossa sociedade. 
 
-Assista ao vídeo e responda ao quiz que se seguirá na data da atividade.
-Mais informações estão em disponíveis neste artigo da [Wikipédia](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal)
+[Black Mirror (Season 3): Nosedive](https://www.netflix.com/title/80117542?s=a&trkid=13747225&t=more)
 
-[![Dirty Money](images/dirty_money.png)](https://www.netflix.com/search?q=dirty&jbv=80118100&jbp=2&jbr=0)
+Apesar do futurismo do vídeo, situações exatamente como estas já estão acontecendo. Veja os seguinte exemplos:
+* [Facial recognition, data harvesting and the end of privacy](https://www.verdict.co.uk/facial-recognition-data-harvesting/)
+* [Facing Up to Facial Recognition](https://spectrum.ieee.org/computing/software/facing-up-to-facial-recognition)
+* <iframe width="560" height="315" src="https://www.youtube.com/embed/7lpCWxlRFAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- 
-Quando as pessoas tem medo, elas fazem coisas que não gostariam de fazer. Neste caso, a pessoa está falando sobre o medo de perder o emprego e a necessidade de mostrar resultados. Ao mesmo tempo que é difícil se colocar na posição da pessoa, é possível empatizar com a mesma. Ainda assim, temos que ser firmes em nossos princípios. 
-
-O papel da informática no golpe: o sistema detectava que estava sob testes, por exemplo, que a direção não estava sendo movimentada.
-
-What if you are offered a job in an assembly line to make products that can kill 1000's of people? Would you take that job?
-
--->
-
----
