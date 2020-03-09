@@ -37,7 +37,7 @@ Ao aceitar participar deste curso você aceita os seguintes termos
 * Suas respostas a todas as atividades propostas são suas, resultadas do seu trabalho individual ou da **colaboração** com os demais membros do seu grupo, para atividades em grupo.
 * Você não compartilhará suas repostas com outros estudantes, desta ou de outras turmas, exceto quando suas respostas forem colocadas em domínio público, mas ainda assim.
 * Ao estudar com outros, cada um deverá chegar a respostas individuais aos problemas propostos.
-* Você não participará de atividades que darão a você ou outros vantages desonestas nesta disciplina.
+* Você não participará de atividades que darão a você ou outros vantagens desonestas nesta disciplina.
 
 ---
 
