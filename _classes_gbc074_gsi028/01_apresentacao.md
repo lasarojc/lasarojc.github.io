@@ -50,4 +50,4 @@ Assim, refira-se a este sítio para informações logísticas, por exemplo sobre
 
 Especificações dos trabalhos também ficarão neste sítio.
 
-Continuemos nossa aula com um pouco [motivação](https://lasarojc.github.io/ds_notes/notes/intro/1_porque.html) ao estudo de Sistemas Distribuídos.
+Continuemos nossa aula com um pouco [motivação](https://lasarojc.github.io/ds_notes/notes/intro/0_intro.html) ao estudo de Sistemas Distribuídos.
