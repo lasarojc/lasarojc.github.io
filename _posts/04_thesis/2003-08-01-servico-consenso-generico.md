@@ -3,7 +3,7 @@ layout: post
 categories:
  - Publications
 
-title: MSc Thesis - DisCusS: desenvolvendo um Serviço de Consenso genérico, simples e modular
+title: MSc Thesis - DisCusS desenvolvendo um Serviço de Consenso genérico, simples e modular
 author: Lasaro Camargos
 venue: State university of Campinas
 paper: https://www.researchgate.net/publication/264399325_DisCusS_desenvolvendo_um_Servico_de_Consenso_generico_simples_e_modular 
