@@ -3,7 +3,7 @@ layout: post
 categories:
  - Publications
 
-title: AR2C2: Actively Replicated Controllers for SDN resilient Control Planes
+title: AR2C2 - Actively Replicated Controllers for SDN resilient Control Planes
 author: Eros S. Spalla, Diego Rossi Mafioletti, Alextian Bartolomeu Liberato, Gilberto Ewald, Christian Esteve Rothenberg, Lásaro Camargos, Rodolfo Villaca, Magnos Martinello
 venue: NOMS 2016 - 2016 IEEE/IFIP Network Operations and Management Symposium 
 paper: 10.1109/NOMS.2016.7502812
