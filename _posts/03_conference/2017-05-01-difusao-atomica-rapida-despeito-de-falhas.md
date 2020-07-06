@@ -5,7 +5,7 @@ categories:
 
 title: Algoritmo de Difusao Atomica Rapido a Despeito de Colisoes Tolerante a Falhas Bizantinas
 author: Rodrigo Saramago, Eduardo Adílio Pelinson Alchieri, Tuanir França Rezende, Lásaro Camargos
-venue: XXXV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)At: Belem, PA, Brazil
+venue: XXXV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), Belem, PA, Brazil
 paper: https://www.researchgate.net/publication/316911325_Algoritmo_de_Difusao_Atomica_Rapido_a_Despeito_de_Colisoes_Tolerante_a_Falhas_Bizantinas 
 type: Peer-reviewed Conference
 

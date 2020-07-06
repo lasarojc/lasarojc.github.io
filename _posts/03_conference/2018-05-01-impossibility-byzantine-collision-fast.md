@@ -5,7 +5,7 @@ categories:
 
 title: On the Impossibility of Byzantine Collision-Fast Atomic Broadcast
 author: Rodrigo Saramago, Tuanir França Rezende, Eduardo Adílio Pelinson Alchieri, Lasaro Camargos
-venue: The 32nd IEEE International Conference on Advanced Information Networking and Applications (IEEE AINA-2018)At: Krakow, Poland 
+venue: The 32nd IEEE International Conference on Advanced Information Networking and Applications (IEEE AINA-2018), Krakow, Poland 
 paper: https://www.researchgate.net/publication/325264988_On_the_Impossibility_of_Byzantine_Collision-Fast_Atomic_Broadcast
 type: Peer-reviewed Conference
 
