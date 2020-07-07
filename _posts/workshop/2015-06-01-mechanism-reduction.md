@@ -5,7 +5,7 @@ categories:
 
 title: Mechanism Reduction via Adjacency Matrix Power
 author: Lásaro Camargos, João Marcelo Vedovoto, Ricardo Serfaty, Aristeu da Silveira Neto
-venue: 5th International Workshop on Model Reduction in Reacting Flows (IWMRRF 2015)At: Spreewald, Germany 
+venue: 5th International Workshop on Model Reduction in Reacting Flows (IWMRRF 2015), Spreewald, Germany 
 paper: https://www.researchgate.net/publication/280157089_Mechanism_Reduction_via_Adjacency_Matrix_Power 
 type: Peer-reviewed Workshop 
 
