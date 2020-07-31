@@ -1,0 +1,52 @@
+site_name: Dr. Lásaro Jonas Camargos
+nav:
+        - About: index.md
+        - Teaching: 
+            - 'Profissão em Sistemas de Informação (AARE E1)': teaching/gsi009/index.md
+            #   - 'Profissão em Sistemas de Informação': teaching/gsi009/index.md
+            #   - 'Sistemas Distribuídos': teaching/gbc074gsi028/index.md
+        - Students: students/index.md
+        - Publications: publications/index.md
+
+theme:
+        name: material #readthedocs
+plugins:
+        - search
+        - drawio-exporter:
+                cache_dir: 'drawio-exporter'
+                drawio_executable: null
+                drawio_args: []
+                format: svg
+                sources: '*.drawio'
+markdown_extensions:
+        - mdx_math
+        - admonition
+        - footnotes
+        - pymdownx.arithmatex
+        - pymdownx.betterem:
+               smart_enable: all
+        - pymdownx.caret
+        - pymdownx.critic
+        - pymdownx.details
+        - pymdownx.emoji:
+            emoji_index: !!python/name:materialx.emoji.twemoji
+            emoji_generator: !!python/name:materialx.emoji.to_svg
+        - pymdownx.highlight:
+             linenums: true
+        - pymdownx.inlinehilite
+        - pymdownx.magiclink
+        - pymdownx.mark
+        - pymdownx.smartsymbols
+        - pymdownx.superfences:
+              custom_fences:
+                   - name: mermaid
+                     class: mermaid
+                     format: !!python/name:pymdownx.superfences.fence_div_format
+        - pymdownx.tasklist:
+            custom_checkbox: true
+        - pymdownx.tabbed
+        - pymdownx.tilde
+
+extra_javascript:
+        - https://unpkg.com/mermaid@8.5.1/dist/mermaid.min.js
+        - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
