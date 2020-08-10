@@ -102,7 +102,7 @@ Se você compra, é o dono, certo? Se é o dono, deveria poder modificar, certo?
 Como comprador, talvez você se sinta indignado.
 
 É fácil entender que não se pode copiar uma Ferrari, pois anos e anos foram dedicados ao seu desenvolvimento e não seria justo alguém que não a [Ferrari lucrar com isso](https://jornaldocarro.estadao.com.br/carros/ferrari-processa-brasileiro-por-copia/).
-Mas ao mesmo tempo, copiar e assistir a um filme, é algo inócuo, certo? Ninguém sofre perdas se você assistir a uma série pirata, pois se você não o fizesse, a empresa que produziu o filme não ganharia nada de qualquer forma.
+Mas ao mesmo tempo, copiar e assistir a um filme, é algo inócuo, certo? Ninguém sofre perdas se você assistir a uma série pirata, pois se você não o fizesse, a empresa que produziu o filme não ganharia nada de qualquer forma, certo? Errado. [Mesmo que insignificante, piratear filmes é crime](https://canalcienciascriminais.com.br/pirataria-virtual-download/).
 
 Mas vamos trazer o problema para mais próximo de casa. E se falarmos de software?
 Dificilmente algum "computeiro" poderia se gabar de nunca ter instalado um software pirata, um sistema operacional.
@@ -137,53 +137,90 @@ Como faísca para seu trabalho, considere os seguintes materiais.
  
 #### Tema 3: Privacidade e hacking
 
-* Hacking
+Ninguém sai às ruas grudando nas paredes e posts as fotos de suas viagens, festas em que foi, ou refeições que fez.
+Contudo, muitos não se incomodam em fazê-lo na Internet, local com até mais visibilidade que os postes da sua cidade.
+Ao escancarar os detalhes da sua vida na Internet, você está abrindo mão da sua "privacidade digital".
 
+!!!quote "[Privacidade Digital](https://pt.wikipedia.org/wiki/Privacidade_digital)"
+     A privacidade digital é a habilidade de uma pessoa em controlar a exposição e a disponibilidade de informações seja dela, de um conhecido ou até mesmo de um desconhecido, na internet, através dos sites de compartilhamento e redes sociais. A atual arquitetura da internet permite o desenvolvimento de novas tecnologias de controle de informações, alterando a forma de como cada pessoa vê a privacidade.
+
+Por mais que ache normal abrir mão do controle dos seus dados, do ponto de vista de desenvolvedor de sistemas de informação, é importante saber que a legislação brasileira protege o direito à privacidade digital de todos os cidadãos.
+A [Lei Geral da Proteção dos Dados](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/Lei/L13709.htm) dita que nenhuma empresa deveria manter mais informações sobre seus usuários do que é necessário para prover o serviço em questão, e que os dados mantidos devem ser protegidos por mecanismos de segurança que garantam sua inviolabilidade. E esteja certo, há sempre aqueles que tentarão obter estes dados para usar das mais diferentes formas, por meio de hacking, engenharia social, e roubo de dados, e não somente dados relativos a pessoas, mas também dados de processos industriais, movimentações bancárias e por aí vai.
+
+Neste seminário, você deverá abordar as questões privacidade digital, entrar em detalhes sobre o que exige a lei e quais as punições caso seja violada.
+Você também deverá discutir conceitos e técnicas relacionadas à violação de dados.
+Em suma, você deverá discutir, sem se limitar a, os seguintes tópicos:
+
+* Hacking
     * Definição?
     * Bom ou mau?
     * Variantes?
+    * Técnicas
     * Black/White/Gray hat
-    * Legislação brasileira
-    * Exemplo?
-    * [The 'Internet of Things' Is Sending Us Back to the Middle Ages](https://www.realclearscience.com/articles/2017/09/06/the_internet_of_things_is_sending_us_back_to_the_middle_ages_110384.html)
+    * Hacking ético
+    * Exemplos?
+    * O que diz a legislação brasileira
+* O que é privacidade de dados
+    * O que são dados pessoais?
+    * Como garantí-la
+    * O que diz a legislação brasileira.
+    * O direito ao esquecimento
 
+Como material inicial, veja
 
-* Privacidade
-
-    * [Lei Geral da Proteção dos Dados](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/Lei/L13709.htm)
-
-* Hacking Ético
-
+* [The 'Internet of Things' Is Sending Us Back to the Middle Ages](https://www.realclearscience.com/articles/2017/09/06/the_internet_of_things_is_sending_us_back_to_the_middle_ages_110384.html)
+* [Lei Geral da Proteção dos Dados](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/Lei/L13709.htm) 
+* [Mesa Redonda Sobre LGPD](https://www.youtube.com/watch?v=3JTJCb6Whxc)
+* [Webminário: Tudo sobre a LGPD](https://www.youtube.com/watch?v=B4BeLfsp5_s) 
 
 #### Tema 4: Assédio
 
-* Assédio sexual
-* Assédio moral
-* Efeitos nos assediados
-* Alvos
+Quando no meio profissional, você certamente e infelizmente terá "oportunidades" de presenciar ou vivenciar assédio, ou seja, comportamento indevido, geralmente repetitivo, que visa diminuir, ofender, obter vantagens da pessoa assediada.
+Vocês precisam então saber como identificar, se defender, defender seus pares, e porquê não praticar assédio.
+
+Neste seminário, você deverá então abordar os seguintes tópicos, sem se limitar a:
+
+* Assédio
+   * Assédio sexual
+   * Assédio moral
+   * Efeitos nos assediados
+   * Alvos
 * Legislação 
 * Ciberbullying.
 
-* Materiais
+Para facilitar seu trabalho, sugiro os seguintes materias abaixo como ponto de partida.
 
-    * [Cartilha](./docs/CARTILHAASSEDIOMORALESEXUAL.pdf)
-    * [Cartilha](./docs/CARTILHAASSEDIOMORALESEXUAL2.pdf)
-    * [Cartilha](./docs/CARTILHAASSEDIOMORALESEXUAL3.pdf)
-    * [That's harassment](https://www.youtube.com/watch?v=MV7a-oetsB0)
-    * [Assédio sexual no Vale do Silício](http://money.cnn.com/technology/sexual-harassment-tech/)
+* [Cartilha](./docs/CARTILHAASSEDIOMORALESEXUAL.pdf)
+* [Cartilha](./docs/CARTILHAASSEDIOMORALESEXUAL2.pdf)
+* [Cartilha](./docs/CARTILHAASSEDIOMORALESEXUAL3.pdf)
+* [That's harassment](https://www.youtube.com/watch?v=MV7a-oetsB0)
+* [Assédio sexual no Vale do Silício](http://money.cnn.com/technology/sexual-harassment-tech/)
 
 
 #### Tema 5: Relações raciais e de gênero no trabalho.
+
+O Brasil é um país marcado pela desigualdade, em vários aspectos da sociedade, e esta desigualdade reflete e alimenta a discriminação das pessoas.
+
+* Há a discriminação por profissão, que coloca profissionais de uma área como meros cidadãos, abaixo dos que são "engenheiro civil formado" e outros "dotôs". 
+* Há a discriminação pela diferença de gênero. 
+* Há a [discriminação por cor da pele](https://nacoesunidas.org/acao/discriminacao-racial/). Há a discriminação por origem geográfica(https://noticias.uol.com.br/cotidiano/ultimas-noticias/2016/02/24/negros-e-nordestinos-sao-principais-vitimas-de-discriminacao-em-sp.htm)
+* Há também por orientação sexual.
+* Opção religiosa
+
+Enfim, o Brasil é rico nestes problemas, e todos eles refletem no mercado de trabalho.
+Neste seminário, você deverá abordar esta temática, tocando nos seguintes tópicos, sem se limitar aos mesmos:
 
 * Conceito de raça e Raça entre humanos
 * Cis, trans, homo, hetero, gênero?
 * Diferenças intelectuais entre “raças” e gêneros
 * Mulheres importantes na computação
-* Discriminação e legislação
+* O que diz a legislação brasileira?
 
-* Materiais
-    * [Sexismo no vale do silício](http://video.wired.com/watch/women-engineers-on-the-rampant-sexism-of-silicon-valley)
-    * [Quotas no ensino superior](https://larrlasa.org/articles/10.25222/larr.50/)
+Para iniciar seu trabalho, sugiro os links acima e a seguinte lista.
+
+* [Sexismo no vale do silício](http://video.wired.com/watch/women-engineers-on-the-rampant-sexism-of-silicon-valley)
+* [Quotas no ensino superior](https://larrlasa.org/articles/10.25222/larr.50/)
+* [Segregação ocupacional e hiato salarial entre os gêneros](https://www.insper.edu.br/wp-content/uploads/2015/12/segregacao-ocupacional-hiato-salarial-entre-os-generos.pdf)
 
 
 
