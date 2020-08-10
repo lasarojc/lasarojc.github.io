@@ -5,49 +5,47 @@ Se está interessado na disciplina, na forma de AARE, matricule-se e continue le
 Caso contrário, volte no próximo semestre quando, possivelmente, teremos atividades presenciais. 
 Lembre-se, GSI009 é uma disciplina obrigatória do currículo.
 
-##Semana 1
-
-### Logística
-
-#### Como participar das atividdes
-
+Se está lendo isto, então assumo que se matriculou; ótimo!
 Sua primeira fonte de informação sobre esta disciplina é este sítio, que conterá notas de aula, atividades e apontadores para outros documentos e instruções de acesso. 
 
-Além disso, usaremos a ferramenta Teams da Microsoft para nossos encontros síncronos, atendimento a alunos e para comunicação em geral.
+Além disso, usaremos a ferramenta Teams (tm) da Microsoft para nossos encontros síncronos, atendimento a alunos e para comunicação em geral.
 Após criar sua conta **usando o email da UFU**, cadastre-se na disciplina [aqui](https://teams.microsoft.com/l/channel/19%3a56c44b01d2a34cfdbfb379e16d7514a8%40thread.tacv2/General?groupId=c380e925-e50b-47b0-8464-063f6e5cea13&tenantId=cd5e6d23-cb99-4189-88ab-1a9021a0c451).
 
-Con **controle de frequência**  nas atividades síncronas será feito pelo relatório de presença apresentado pelo Teams, que diz exatamente quando entrou e quando saiu da reunião.
+O **controle de frequência**  nas atividades síncronas será feito pelo relatório de presença apresentado pelo Teams, que diz exatamente quando entrou e quando saiu da reunião.
 Nas atividades assíncronas, o controle será feito pela submissão de respostas às atividades propostas, como questionários.
 
-#### Programa
+##Semana 1 - 12/08/2020
+
+### Programa
 
 A disciplina abordará os tópicos definidos na ficha da disciplia, disponível no sítio do curso.
-A programação aula-a-aula está disponível [aqui](./docs/gsi009.pdf) e na aba **Arquivos** no Teams.
+O plano da disciplina, aula-a-aula está disponível [aqui](./docs/gsi009.pdf) e na aba **Arquivos** no Teams.
 
-#### Avaliação
+### Avaliação
 
-Vocês serão avaliados de acordo com os critérios também disponíveis na programação.
+Vocês serão avaliados de acordo com os critérios também disponíveis no plano.
 Para cada atividade do tipo $X$, a nota $N(X)$ da atividade será calculada pela fórmula
 
 $N(X) = \frac{N(X_1) + N(X_2) + ... + N(X_m)}{m}$
 
 onde $N(X_i)$ é a $i$-ésima atividade do tipo $X$, de um total de $m$.
 
-#### Atividades Assíncronas
+### Atividades Assíncronas
 
 **Assista e leia** a pelo menos os item marcados com o ícone :thumbsup: e então responda aos questionários da semana no Teams.
-Você deve cumprir as atividade **até o fim do dia anterior ao da próxima atividade síncrona**. Na última semana, a atividade dever ser cumprida **até a sexta-feira** da mesma semana.
+Você deve cumprir as atividade **até o fim do dia anterior ao da próxima atividade síncrona**. Na última semana, a atividade deve ser cumprida **até a sexta-feira** da mesma semana.
 
-#### Seminários
+### Seminários
 
 Os alunos deverão apresentar seminários, desenvolvidos em grupo, para seus colegas.
 O **objetivo** dos semináris é estimular discussão sobre o tópico em tela.
 Para isso, planeje seu seminário para que tenha **duração de 75 minutos**, incluindo discussão; este é um **critério de avaliação**.
 
 Os seminários tem tópicos **Técnicos**  e **Não técnicos**; por serem mais difíceis de se preparar, os não técnicos acontecerão por último.
-A escolha do tópico será, emp princípio, livre, desde que cada tópico tenha **um quinto** dos alunos da turma. Caso isso não aconteça, a os grupos serão impostos.
+A escolha do tópico será, em princípio, livre, desde que cada tópico tenha **um quinto** dos alunos da turma. Caso isso não aconteça, a os grupos serão impostos.
 
 Sua apresentação será avaliada nos seguintes pontos:
+
 * Conteúdo: 
     * Contextualização
     * Importância para o profissional da área
@@ -59,6 +57,7 @@ Sua apresentação será avaliada nos seguintes pontos:
 
 Além da apresentação, você deverá preparar um questionário com questões pertinentes ao tema e que sejam abordados durante a apresentação.
 Estes serão avaliados pelos critérios a seguir:
+
 * Qualidade do quiz
     * Perguntas pertinentes a quem se interessar pela área
     * Perguntas em português correto
@@ -69,49 +68,74 @@ Estes serão avaliados pelos critérios a seguir:
     * Cada pergunta deve ter 5 respostas
 
 
-##### Tema 1: Computação Verde
+#### Tema 1: Computação Verde
+
+Todos ouvimos já ouvimos falar das [alterações climáticas](https://www.eea.europa.eu/themes/climate/faq/everything-on-climate-change-in-226-words) sendo causadas pela humanidade e independentemente de você aceitar o consenso (maioria de opiniões) dos especialistas sobre o fato ou ser um negacionista, o fato é que a economia mundial aceita a ideia e tem tentado criar mecanismos para diminuir o nosso efeito no globo.
+
+Todos nós já ouvimos falar também sobre como a culpa é dos viajantes, dos ruminantes, e dos refrigerantes. Mas saiba que a computação tem uma grande parcela da culpa. Algumas estimativas colocam em [14% as emissões devidas aos Data Centers](https://www.theguardian.com/environment/2017/dec/11/tsunami-of-data-could-consume-fifth-global-electricity-by-2025) até 2040.
+Por isso, o tópico da **computação ou TI verde** está em voga.
+
+Sua missão, caso você decida aceitá-la, é expandir na contextualização acima, discutir a computação verde em seus aspectos econômicos, legais e morais, com foco na atuação sua e de seus colegas na sociedade e no mercado de trabalho.
+
+Certifique-se de discutir, sem se limitar a, os seguintes pontos:
 
 * Consumo energético de datacenters
 * Energia renovável
-* Certificação
+* Certificações
 * Carbon footprint
 * Estratégias para implementação
 * Cidades inteligentes
 * Legislação
 * Lixo eletrônico
 
-##### Tema2: Propriedade intelectual
+#### Tema 2: Propriedade intelectual
+
+Para começar, pense nas seguintes questões:
 
 !!!question 
-    Se você compra um carro, pode modificá-lo. Se compra uma casa, pode modificá-la. Se compra um computador, pode modificá-lo.
+    * Se você compra um carro, pode modificá-lo? Rebaixá-lo? Mudar a cor?
+    * Se compra uma casa, pode modificá-la? Pode adicionar um quarto? Uma piscina?
+    * Se compra um computador, pode modificá-lo? Colocar mais memória? Mudar o sistema operacional? 
 
-    **Por quê não pode modificar o software que compra?**
+Todas estas questões estão ligadas ao tema da Propriedade Intelectual, um tema muito controverso.
+Se você compra, é o dono, certo? Se é o dono, deveria poder modificar, certo? Mas muitos dos produtos que compra não podem ser modificados, abertos, estudados, replicados.
+Como comprador, talvez você se sinta indignado.
+
+É fácil entender que não se pode copiar uma Ferrari, pois anos e anos foram dedicados ao seu desenvolvimento e não seria justo alguém que não a [Ferrari lucrar com isso](https://jornaldocarro.estadao.com.br/carros/ferrari-processa-brasileiro-por-copia/).
+Mas ao mesmo tempo, copiar e assistir a um filme, é algo inócuo, certo? Ninguém sofre perdas se você assistir a uma série pirata, pois se você não o fizesse, a empresa que produziu o filme não ganharia nada de qualquer forma.
+
+Mas vamos trazer o problema para mais próximo de casa. E se falarmos de software?
+Dificilmente algum "computeiro" poderia se gabar de nunca ter instalado um software pirata, um sistema operacional.
+Também é uma ação sem vítimas, certo?
+
+Mas como produtor de software, algo que é muito facilmente replicado, talvez você sinta que qualquer um que use seu produto deveria pagar por ele. 
+Ou talvez você sinta que todo software deva ser modificável, estudável e copiável?
+
+Neste seminário, seu objetivo é discutir estas questões, inclusive mas não limitado aos seguintes pontos:
 
 * Software Livre x Open Source
-
     * O quê são?
     * Qual a filosofia por trás?
     * Como ganhar dinheiro?
     * Quem é Richard Stallman?
 
 * Propriedade intelectual
-
     * Propriedade industrial
     * Direitor autorais no Brasil
-    * copyright e copyleft 
+    * Copyright e copyleft 
     * Patentes
-        *boas ou más?
+        * boas ou más?
     * Registro de software
     * Certificado de anterioridade
 
-* Materiais
+Como faísca para seu trabalho, considere os seguintes materiais.
 
-    * [![Palestra sobre Software Livre](http://img.youtube.com/vi/l9zT4uC6pAQ/0.jpg)](https://www.youtube.com/watch?v=l9zT4uC6pAQ "Video Title")
-    * [![Palestra sobre IoT](http://img.youtube.com/vi/AAP4N3KyLmMl/0.jpg)](https://www.youtube.com/watch?v=AAP4N3KyLmM "Video Title")
-    * [Richard Sennett: “O gratuito significa sempre uma forma de dominação”](https://brasil.elpais.com/brasil/2018/08/09/cultura/1533824675_957329.html)
+* [![Palestra sobre Software Livre](http://img.youtube.com/vi/l9zT4uC6pAQ/0.jpg)](https://www.youtube.com/watch?v=l9zT4uC6pAQ "Video Title")
+* [![Palestra sobre IoT](http://img.youtube.com/vi/AAP4N3KyLmMl/0.jpg)](https://www.youtube.com/watch?v=AAP4N3KyLmM "Video Title")
+* [Richard Sennett: “O gratuito significa sempre uma forma de dominação”](https://brasil.elpais.com/brasil/2018/08/09/cultura/1533824675_957329.html)
 
  
-##### Tema 3: Privacidade e hacking
+#### Tema 3: Privacidade e hacking
 
 * Hacking
 
@@ -131,7 +155,7 @@ Estes serão avaliados pelos critérios a seguir:
 * Hacking Ético
 
 
-##### Tema 4: Assédio
+#### Tema 4: Assédio
 
 * Assédio sexual
 * Assédio moral
@@ -149,7 +173,7 @@ Estes serão avaliados pelos critérios a seguir:
     * [Assédio sexual no Vale do Silício](http://money.cnn.com/technology/sexual-harassment-tech/)
 
 
-##### Tema 5: Relações raciais e de gênero no trabalho.
+#### Tema 5: Relações raciais e de gênero no trabalho.
 
 * Conceito de raça e Raça entre humanos
 * Cis, trans, homo, hetero, gênero?
