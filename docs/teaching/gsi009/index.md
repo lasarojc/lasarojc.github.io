@@ -141,6 +141,8 @@ Ninguém sai às ruas grudando nas paredes e posts as fotos de suas viagens, fes
 Contudo, muitos não se incomodam em fazê-lo na Internet, local com até mais visibilidade que os postes da sua cidade.
 Ao escancarar os detalhes da sua vida na Internet, você está abrindo mão da sua "privacidade digital".
 
+![](images/fb_spy.jpeg)
+
 !!!quote "[Privacidade Digital](https://pt.wikipedia.org/wiki/Privacidade_digital)"
      A privacidade digital é a habilidade de uma pessoa em controlar a exposição e a disponibilidade de informações seja dela, de um conhecido ou até mesmo de um desconhecido, na internet, através dos sites de compartilhamento e redes sociais. A atual arquitetura da internet permite o desenvolvimento de novas tecnologias de controle de informações, alterando a forma de como cada pessoa vê a privacidade.
 
@@ -227,7 +229,11 @@ Para iniciar seu trabalho, sugiro os links acima e a seguinte lista.
 ### Atividade Assíncrona: Computação e Sociedade
 
 Os vários ramos da computação, estando presentes cada vez mais na vida das pessoas, certamente podem afetar positiva e negativamente estas vidas.
-Assim, é importante pensar sobre como nossas atuações como "computeiros" impactam a sociedade ao nosso redor.
+Assim, é importante pensar sobre como nossas atuações como "computeiros" impactam a sociedade ao nosso redor, a despeito da sociedade entender o que fazemos ou não
+
+![Sociedade x Computeiros](images/computeiros.jpg)
+
+
 
 Para dar alguns exemplos simples e bem próximos, pensemos na quantidade de dados pessoais que as redes sociais acumulam.
 Você, ao criar sua conta do Facebook ou Instagram, leu os termos de serviço? Sabe quais dados podem ser gravados e com quem podem ser compartilhados? A frase seguinte descreve bem a situação:
@@ -236,11 +242,11 @@ Você, ao criar sua conta do Facebook ou Instagram, leu os termos de serviço? S
 
 Em praticamente todos os serviços de redes sociais, todas as sua interações são gravadas e usadas para montar seu perfil, que será colocado em grupos usados para direcionar anúncios e campanhas. Por mais que você possa se achar especial, saiba que somos muito, muito previsíveis e que podemos ser facilmente manipulados. Para ver um grande exemplo disso, pense nas campanhas políticas de 2016 nos estados unidos e 2018 no Brasil. Milhares de mensagens direcionadas os eleitores indecisos serviram para virar a balança para um lado ou para outro, como é muito bem documentado em "Big Hack", disponível no Netflix.
 
-Mas para além dos perfis das redes sociais, a tecnologia poderá afetar nossa vida de outras formas também muito importantes
+Mas para além dos perfis das redes sociais, a tecnologia poderá afetar nossa vida de outras formas também muito importantes.
 Ela permite a geração e processamento de imagens médicas de forma a melhorar diagnósticos, permite cirurgias a longa distância, o entretenimento no conforto da sua casa, o relacionamento com outrem, o aumento da eficiência dos negócios, a otimização de transportes, *etcetera*.
 
 Infelizmente, parece que toda tecnologia com potencial para uso benéfico à sociedade, também pode ser usada em seu detrimento.
-Por exemplo, as AI sendo treinadas por dados classificados por humanos, perseverarão divisões sociais, desigualdades e discriminações.
+Por exemplo, as IA (Inteligências Artificiais) sendo treinadas por dados classificados por humanos, perseverarão divisões sociais, desigualdades e discriminações.
 Steven Levy discute esta ideia muito bem no artigo [*We Asked for Flying Cars. We Got Axl Rose's Twitter Spat*](https://www.wired.com/story/plaintext-we-asked-for-flying-cars-we-got-axl-roses-twitter-spat/).
 
 Na ficção, vemos vários exemplos destas reviravoltas. Em específico, o episódio
@@ -259,9 +265,7 @@ Fontes sobre o mesmo assunto abundam, por exemplo
 
 * [Volkswagen emissions scandal](https://www.wired.com/2015/09/vw-fool-epa-couldnt-trick-chemistry/):thumbsup:
 
-Felizmente, há também reações dos seus colegas de profissão, como visto aqui:
-
-* [An Ethics Guide for Tech Gets Rewritten With Workers in Mind](https://www.wired.com/story/ethics-guide-tech-rewritten-workers/) :thumbsup:
+Felizmente, há também reações dos seus colegas de profissão, como visto na iniciativa [Ethical OS](https://ethicalos.org/), que discutiremos nas próximas semanas.
 
 
 
@@ -269,204 +273,160 @@ Felizmente, há também reações dos seus colegas de profissão, como visto aqu
 
 ## Semana 2
 
-Antes de falarmos sobre estes pontos e materiais vistos nas atividades assíncronas, vamos definir um arcabouço teórico para falarmos sobre o certo e o errado na exercício da profissão.
+Antes de falarmos sobre estes pontos e materiais vistos na atividade assíncrona da semana 1, vamos definir um arcabouço teórico para falarmos sobre o certo e o errado na exercício da profissão.
 
 ### Ética x Moral
 
-A palavra *ética* vem do grego *ethos* e significa aquilo que pertence ao "bom costume", "costume superior", ou "portador de caráter" ([Fonte mais que confiável](https://pt.wikipedia.org/wiki/Ética)).
-Isto é, a ética segue princípios universais e ações regidas por ética são corretas em qualquer lugar e a qualquer temp
+A palavra **ética** vem do grego *éthos*, que  significa "costume", segundo o [Priberam](https://dicionario.priberam.org/ética), mas a conotação que nos interessa aqui é mais restrita.
 
-Já a *moral*, refere-se ao conjunto de regras, padrões e normas adquiridos em uma sociedade por meio da cultura, educação, cotidiano e costumes adquiridos no âmbito social e familiar ([Fonte mais que confiável](https://pt.wikipedia.org/wiki/Moral)). A moral, portanto, muda como muda a sociedade.
+!!!quote "Ética"
+    Conjunto de regras de conduta de um indivíduo ou de um grupo.
+
+    ["ética", in Dicionário Priberam da Língua Portuguesa, 2008-2020](https://dicionario.priberam.org/%C3%A9tica [consultado em 11-08-2020].") 
+
+Este conjunto de regras evolue com os tempos, refletindo a sociedade que as gera. Entretanto, a ética segue princípios universais que deveriam ser atemporais. Reforçando, deveriam ser atemporais, mas são reflexo da sociedade que as gera, que escolhe como agir. Segundo [Cortella](http://www.mscortella.com.br/artigo-cortella-etica-moral-valores-principios-6a), "a ética é o conjunto de princípios e valores que usamos para decidir a nossa conduta social."
+
+O comportamento gerado no contexto da ética é chamado *moral*, isto é, a materialização da ética em práticas, e que refletem muito a cultura em que se desenvolve. A moral é mais volátil.
 
 Poderíamos dizer que a moral "aspira" ser a ética, mas que esta aspiração está longe de ser alcançada, se não for intangível.
 Por exemplo, podemos pensar facilmente em ações que, consideradas morais muito recentemente, hoje são consideradas aberrações, pelo menos em algumas sociedades.
-
-### Exemplos de mudança da Moral
 
 * [Castração feminina](https://pt.wikipedia.org/wiki/Mutila%C3%A7%C3%A3o_genital_feminina)
 * Pena de morte para adúlteros
   > Deuteronômio 22:22 - Se um homem for pego em flagrante deitado com a mulher de outro, os dois deverão pagar por esse delito com pena de morte, o homem e a mulher com quem se deitou. Desse modo extirparás o mal do meio do teu povo, ó Israel.
 * Escravagismo
   > Êxodo 21:1-6 - Estes são os estatutos que lhes proporás: Se comprares um servo hebreu, seis anos servirá; mas ao sétimo sairá forro, de graça. Se entrar sozinho, sozinho sairá; se tiver mulher, então com ele sairá sua mulher. Se seu senhor lhe houver dado uma mulher e ela lhe houver dado filhos ou filhas, a mulher e os filhos dela serão de seu senhor e ele sairá sozinho. Mas se esse servo expressamente disser: “Eu amo a meu senhor, a minha mulher e a meus filhos, não quero sair forro”, então seu senhor o levará perante os juizes, e o fará chegar porta, ou ao umbral da porta, e o seu senhor lhe furará a orelha com uma sovela; e ele o servirá para sempre.
-* Casamento com menores de idade (pergunte sua avó).
-
+* Casamento com menores de idade - Converse com seus pais e avós sobre o assunto. É muito possível que uma de suas ancestrais recentes tenha **sido casada** com 13 ou 14 anos de idade.
 
 Assim, embora a Moral varie e Ética não, como sociedade, o que consideramos ético nada mais é que moral, e certamente irá mudar no futuro.
 Por exemplo, quem garante que no futuro não será considerado (por todos) que comer carne é uma abominação?
 Logo, doravante, quando falarmos de ética, lembre-se que estamos falando na verdade do que achamos ser ético hoje, isto é, moral.
 
-Para definir o que é ético, pode ser útil ver alguns exemplos do que obviamente não é, em várias situações.
+Se você ficou mais confuso que esclarecido, teremos um oportunidade de em um futuro próximo esclarecer estas dúvidas com um especilista na área. Por enquanto, para melhor entender o que é ético, pode ser útil ver alguns exemplos do que obviamente não é, em várias situações.
 
----
-##### Falta de ética ... na vida
+!!!example "Exemplos de falta de ética na vida" 
+    * achar uma carteira com dinheiro, pegar o dinheiro e jogar a carteira fora, sem ter feito um esforço sincero para encontrar o dono,
+    * comer o lanche do seu colega de república, sem autorização,
+    * violar acordo de monogamia,
 
-* achar uma carteira com dinheiro, pegar o dinheiro e jogar a carteira fora, sem ter feito um esforço sincero para encontrar o dono,
-* comer o lanche do seu colega de república, sem autorização,
-* violar acordo de monogamia,
+Alguns exemplos são mais complicados. Se eu te perguntar se é anti-ético cobrar 5000 reais por uma página Web feita no Word, você provavelmente diria que não, afinal, desde que você esteja entregando o produto e seu cliente esteja disposto a pagar, então tudo bem, certo?  Vejamos então este caso real.
 
----
-
-Alguns exemplos são mais complicados. Se eu te perguntar se é anti-ético cobrar 5000 reais por uma página Web feita no Word, você provavelmente diria que não, afinal, desde que você esteja entregando o produto e seu cliente esteja disposto a pagar, então tudo bem, certo?
-
-Vejamos este caso real.
-
----
-
-* vender algo com lucro exorbitante
-  > In September 2015, Shkreli received widespread criticism when Turing obtained the manufacturing license for the antiparasitic drug Daraprim and raised its price by a factor of 56 (from US$13.5 to $750 per pill), leading him to be referred to by the media as "the most hated man in America" and "Pharma Bro" ([Fonte](https://en.wikipedia.org/wiki/Martin_Shkreli))
-
----
+!!!note "Pharma Bro"
+    In September 2015, Shkreli received widespread criticism when Turing obtained the manufacturing license for the antiparasitic drug Daraprim and raised its price by a factor of 56 (from US$13.5 to $750 per pill), leading him to be referred to by the media as "the most hated man in America" and "Pharma Bro" ([Fonte](https://en.wikipedia.org/wiki/Martin_Shkreli))
 
 Este exemplo, onde um remédio teve seu preço aumentado de 13 para 750 Dólares, por pílula, décadas depois de ter sido inventado, e com processo de fabricação simples, reprodutível por adolescentes ([Fonte](https://blogs.sciencemag.org/pipeline/archives/2016/12/01/those-australian-students-and-their-daraprim)), é excelente para indicar uma idiossincrazia da sociedade capitalista.
-Enquanto difícilmente alguém considerará o aumento ético, a relativização do que é errado e certo é muito comum em nossa sociedade. Vejamos alguns exemplos na universidade, muito bem apontados neste [blog](https://rbribeiro.wordpress.com/2015/06/24/como-e-dar-aula-no-ensino-superior-e-a-corrupcao-na-universidade/).
+Enquanto difícilmente alguém considerará o aumento ético, a relativização do que é errado e certo é muito comum em nossa sociedade. 
+
+Vejamos alguns exemplos na universidade, mais próximos de nós, e muito bem apontados neste [blog](https://rbribeiro.wordpress.com/2015/06/24/como-e-dar-aula-no-ensino-superior-e-a-corrupcao-na-universidade/).
+
+!!!example "Exemplos de falta de ética na Universidade"
+    * "Copia lista de exercício para conseguir se formar sem esforço e critica vagabundo por não arrumar uma enxada e ir capinar um terreno."
+    * "Pede para o colega assinar a lista de presença e depois critica funcionário fantasma."
+    * "Cola nas provas e grita "abaixo a corrupção!" na próxima manifestação."
+
+Embora os exemplos aqui seja de ações não éticas dos alunos, é óbvio que há problemas do lado da universidade também, em vários níveis.
+
+!!!example "Exemplos de falta de ética na Universidade"
+    * [Professores da UFRGS são presos por fraude em bolsas de estudo](http://g1.globo.com/rs/rio-grande-do-sul/noticia/2016/12/professores-da-ufrgs-sao-presos-por-fraude-em-bolsas-de-estudo.html).
+    * [Envolvidos em fraude no vestibular da UFU devem ressarcir cofres públicos](http://g1.globo.com/minas-gerais/triangulo-mineiro/noticia/2017/02/envolvidos-em-fraude-no-vestibular-da-ufu-devem-ressarcir-cofres-publicos.html)
+    * [MPF/MG: professor universitário com dedicação exclusiva não pode exercer outra atividade remunerada](https://mpf.jusbrasil.com.br/noticias/100129219/mpf-mg-professor-universitario-com-dedicacao-exclusiva-nao-pode-exercer-outra-atividade-remunerada)
+    * Professor falta e não repõe com outra atividade ou aula
+
+Este último exemplo não dá manchete no jornal porquê os alunos preferem não ter a aula reposta, não é mesmo? Mas sabemos que é errado.
 
 
----
-##### ... na Universidade
-
-* "Copia lista de exercício para conseguir se formar sem esforço e critica vagabundo por não arrumar uma enxada e ir capinar um terreno."
-* "Pede para o colega assinar a lista de presença e depois critica funcionário fantasma."
-* "Cola nas provas e grita "abaixo a corrupção!" na próxima manifestação."
-
----
-
-Óbvio que há problemas do lado da universidade também, em vários níveis.
-
----
-##### .... ainda na Universidade
-
-* [Professores da UFRGS são presos por fraude em bolsas de estudo](http://g1.globo.com/rs/rio-grande-do-sul/noticia/2016/12/professores-da-ufrgs-sao-presos-por-fraude-em-bolsas-de-estudo.html).
-* [Envolvidos em fraude no vestibular da UFU devem ressarcir cofres públicos](http://g1.globo.com/minas-gerais/triangulo-mineiro/noticia/2017/02/envolvidos-em-fraude-no-vestibular-da-ufu-devem-ressarcir-cofres-publicos.html)
-* [MPF/MG: professor universitário com dedicação exclusiva não pode exercer outra atividade remunerada](https://mpf.jusbrasil.com.br/noticias/100129219/mpf-mg-professor-universitario-com-dedicacao-exclusiva-nao-pode-exercer-outra-atividade-remunerada)
-* Professor falta e não repõe com outra atividade ou aula.
-
-
-Este último não dá manchete no jornal porquê os alunos preferem não ter a aula reposta.
+### Ética no Exercício da Profissão
 
 O comportamento antiético se estende aos postos de trabalho, obviamente, onde funcionários não cumprem horários, chefes assumem os méritos dos trabalho de seus subalternos, sabotagens abundam e discriminação é algo constante.
-Para minimizar atos antiéticos como estes, diversas profissões produzem códigos de ética, manuais gerais de conduta no exercício da profissão.
+Para minimizar atos antiéticos como estes, diversas profissões produzem **códigos de ética**, manuais gerais de conduta no exercício da profissão.
 
-
-## Ética na Computação
-
----
-##### Códigos de ética profissional.
-
-Conjunto de normas de conduta a serem praticadas no exercício da profissão.
-
----
-
-Um dos exemplos mais famosos é o código da medicina, publicizado na mídia. O famoso **Juramento de Hipócrates** parece ser um e universal, mas como poderia? Obviamente o mesmo sofreu alterações com a passagem do tempo e espalhamento pelo mundo.
+Um dos exemplos mais famosos é o código da medicina, publicizado na mídia. 
+O famoso **Juramento de Hipócrates** parece ser um e universal, mas como poderia? 
+Obviamente o mesmo sofreu alterações com a passagem do tempo e espalhamento pelo mundo.
 Veja a seguinte versão, que contem partes que obviamente deixaram de ser válidas e outras que nem precisariam ser ditas.
 
----
-##### Juramento de Hipócrates
+!!!quote "Juramento de Hipócrates"
+    Eu juro, **por Apolo, médico, por Esculápio, Hígia e Panaceia, e tomo por testemunhas todos os deuses e todas as deusas**, cumprir, segundo meu poder e minha razão, a promessa que se segue:
 
-> Eu juro, **por Apolo, médico, por Esculápio, Hígia e Panaceia, e tomo por testemunhas todos os deuses e todas as deusas**, cumprir, segundo meu poder e minha razão, a promessa que se segue:
-Estimar, tanto quanto a meus pais, aquele que me ensinou esta arte; **fazer vida comum e, se necessário for, com ele partilhar meus bens**;
+    Estimar, tanto quanto a meus pais, aquele que me ensinou esta arte; **fazer vida comum e, se necessário for, com ele partilhar meus bens**;    
 
-> Ter seus filhos por meus próprios irmãos; ensinar-lhes esta arte, se eles tiverem necessidade de aprendê-la, sem remuneração e nem compromisso escrito; fazer participar dos preceitos, das lições e de todo o resto do ensino, meus filhos, os de meu mestre e os discípulos inscritos segundo os regulamentos da profissão, porém, só a estes.
+    Ter seus filhos por meus próprios irmãos; ensinar-lhes esta arte, se eles tiverem necessidade de aprendê-la, sem remuneração e nem compromisso escrito; fazer participar dos preceitos, das lições e de todo o resto do ensino, meus filhos, os de meu mestre e os discípulos inscritos segundo os regulamentos da profissão, porém, só a estes.    
 
-> Aplicarei os regimes para o **bem do doente segundo o meu poder e entendimento, nunca para causar dano ou mal a alguém**. A ninguém darei por comprazer, nem remédio mortal nem um conselho que induza a perda. Do mesmo modo **não darei a nenhuma mulher uma substância abortiva**.
+    Aplicarei os regimes para o **bem do doente segundo o meu poder e entendimento, nunca para causar dano ou mal a alguém**. A ninguém darei por comprazer, nem remédio mortal nem um conselho que induza a perda. Do mesmo modo **não darei a nenhuma mulher uma substância abortiva**.  
+    Conservarei imaculada minha vida e minha arte.
 
-> Conservarei imaculada minha vida e minha arte.
+    Não praticarei a talha, mesmo sobre um calculoso confirmado; deixarei essa operação aos práticos que disso cuidam.
 
-> Não praticarei a talha, mesmo sobre um calculoso confirmado; deixarei essa operação aos práticos que disso cuidam.
+    Em toda a casa, aí entrarei para o bem dos doentes, mantendo-me longe de todo o dano voluntário e de toda a **sedução sobretudo longe dos prazeres do amor, com as mulheres ou com os homens livres ou escravizados**.
 
-> Em toda a casa, aí entrarei para o bem dos doentes, mantendo-me longe de todo o dano voluntário e de toda a **sedução sobretudo longe dos prazeres do amor, com as mulheres ou com os homens livres ou escravizados**.
+    Àquilo que no exercício ou fora do exercício da profissão e no convívio da sociedade, eu tiver visto ou ouvido, que não seja preciso divulgar, eu conservarei inteiramente secreto.
 
-> Àquilo que no exercício ou fora do exercício da profissão e no convívio da sociedade, eu tiver visto ou ouvido, que não seja preciso divulgar, eu conservarei inteiramente secreto.
+    Se eu cumprir este juramento com fidelidade, que me seja dado gozar felizmente da vida e da minha profissão, honrado para sempre entre os homens; se eu dele me afastar ou infringir, o contrário aconteça.
 
-> Se eu cumprir este juramento com fidelidade, que me seja dado gozar felizmente da vida e da minha profissão, honrado para sempre entre os homens; se eu dele me afastar ou infringir, o contrário aconteça.
-
-# TODO: levantar fonte.
-
----
-
+    ???todo  "levantar fonte."
 
 Esta versão mais recente, é muito mais sensível.
 
----
-##### Juramento de Hipócrates
+!!!quote "Juramento de Hipócrates"
+    Prometo que, ao exercer a arte de curar, mostrar-me-ei sempre fiel aos preceitos da honestidade, da caridade e da ciência.
 
+    Penetrando no interior dos lares, meus olhos serão cegos, minha língua calará os segredos que me forem revelados, o que terei como preceito de honra.
 
+    Nunca me servirei da minha profissão para corromper os costumes ou favorecer o crime.
 
+    Se eu cumprir este juramento com fidelidade, goze eu para sempre a minha vida e a minha arte com boa reputação entre os homens; se o infringir ou dele afastar-me, suceda-me o contrário.
 
+    ???todo  "levantar fonte."
 
-Prometo que, ao exercer a arte de curar, mostrar-me-ei sempre fiel aos preceitos da honestidade, da caridade e da ciência.
-
-Penetrando no interior dos lares, meus olhos serão cegos, minha língua calará os segredos que me forem revelados, o que terei como preceito de honra.
-
-Nunca me servirei da minha profissão para corromper os costumes ou favorecer o crime.
-
-Se eu cumprir este juramento com fidelidade, goze eu para sempre a minha vida e a minha arte com boa reputação entre os homens; se o infringir ou dele afastar-me, suceda-me o contrário.
-
-# TODO: levantar fonte.
-
----
-
-
+### Ética na Computação
 Já na computação, como fica a questão da ética profissional?
 
-Não há, no Brazil, um código das áreas ligadas à computação, até por quê não há um reconhecimento dos "computeiros" como uma classe profissional como é o caso dos odontólogos, médicos e engenheiros, profissionais liberais. Na computação, entra quem quiser, e fica quem se mostrar habilitado, tenha se formado em ciência da computação, engenharia elétrica, sistemas de informação, administração de empresas ou educação física.
+Não há, no Brazil, um código das áreas ligadas à computação, até por quê não há um reconhecimento dos "computeiros" como uma classe profissional como é o caso dos médicos. 
+Na computação, entra quem quiser, e fica quem se mostrar habilitado, tenha se formado em ciência da computação, engenharia elétrica, sistemas de informação, administração de empresas ou educação física.
 
 Se não há definição de quem pode atuar com computação, há definitivamente muitos exemplos de falta de ética na área.
+Como visto na atividade assíncrona, um sistema em parte software foi usado para enganar testes de emissão de poluentes por carros.  
 
+<img src="images/vw_testeemissao.png" alt="https://www.scientificamerican.com/article/volkswagen-uses-software-to-fool-epa-pollution-tests/" width="480"/>
 
----
-##### Falta de ética na "computação"
+Em um exemplo de "ladrão que rouba ladrão", o sítio Pirate Bay usava o computador de seus usuários para minerar cripto moedas.
 
-* <img src="images/vw_testeemissao.png" alt="https://www.scientificamerican.com/article/volkswagen-uses-software-to-fool-epa-pollution-tests/" width="480"/>
+<img src="images/piratebay_altcoin.png" alt="https://torrentfreak.com/the-pirate-bay-website-runs-a-cryptocurrency-miner-170916/" width="480"/>
 
-
-
-
-* <img src="images/piratebay_altcoin.png" alt="https://torrentfreak.com/the-pirate-bay-website-runs-a-cryptocurrency-miner-170916/" width="480"/>
+e o robô de limpeza Roomba estava coletando informações sobre os interiores das casas, como quantidade de pessoas, marcas de produtos usados, mapa 3d do ambiente, e o fabricante poderia vender estas informações para outras empresas.
 
 * <img src="images/roomba.png" alt="https://gizmodo.com/roombas-next-big-step-is-selling-maps-of-your-home-to-t-1797187829" width="480"/>
 
-* <img src="images/siemens-logic-bomb.jpg" alt=" https://thehackernews.com/2019/07/siemens-logic-bomb.html" width="480"/>
+Em outro exemplo bem mais simples e comum, um desenvolvedor introduziu defeitos em seu software para ser convocado, e remunerado, para fazer correções.
 
-* ![](images/fb_spy.jpeg)
-
----
+<img src="images/siemens-logic-bomb.jpg" alt=" https://thehackernews.com/2019/07/siemens-logic-bomb.html" width="480"/>
 
 
 Quer dizer que não há um código de ética a ser seguido na área?
 
 Não é exatamente o caso, pois a [Sociedade Brasileira de Computação](http://sbc.org.br/), através de sua comissão de ética, propôs o seguinte [código de ética profissional](https://compesociety.blogspot.com/2016/09/sbc-e-o-codigo-de-etica-profissional.html).
 
+!!!quote "Código de Ética da SBC"
+    * Art. 1°: Contribuir para o bem-estar social, promovendo, sempre que possível, a inclusão de todos setores da sociedade.
+    * Art. 2°: Exercer o trabalho profissional com responsabilidade, dedicação, honestidade e justiça, buscando sempre a melhor solução.
+    * Art. 3º: Esforçar-se para adquirir continuamente competência técnica e profissional, mantendo-se sempre atualizado com os  avanços da profissão.
+    * Art. 4º: Atuar dentro dos limites de sua competência profissional e orientar-se por elevado espírito público.
+    * Art. 5º: Guardar sigilo profissional das informações a que tiver acesso em decorrência das atividades exercidas.
+    * Art. 6º: Conduzir as atividades profissionais sem discriminação, seja de raça, sexo, religião, nacionalidade, cor da pele, idade, estado civil ou qualquer outra condição humana.
+    * Art. 7º: Respeitar a legislação vigente, o interesse social e os direitos de terceiros.
+    * Art. 8º : Honrar compromissos, contratos, termos de responsabilidade, direitos de propriedade, copyrights e patentes.
+    * Art. 9º : Pautar sua relação com os colegas de profissão nos princípios de consideração, respeito, apreço, solidariedade e da harmonia da classe.
+    * Art. 10º: Não praticar atos que possam comprometer a honra, a dignidade, privacidade de qualquer pessoa.
+    * Art. 11º: Nunca apropriar-se de trabalho intelectual, iniciativas ou soluções encontradas por outras pessoas.
+    * Art. 12º: Zelar pelo cumprimento deste código.
+    * Art. 13º: Reconhecer que qualquer violação das normas deste código é incompatível com sua associação à SBC.
 
----
-##### Código de Ética da SBC
+Vejamos como isso afeta a sua vida, considerando algumas situações exemplos.
 
-* Art. 1°: Contribuir para o bem-estar social, promovendo, sempre que possível, a inclusão de todos setores da sociedade.
-* Art. 2°: Exercer o trabalho profissional com responsabilidade, dedicação, honestidade e justiça, buscando sempre a melhor solução.
-* Art. 3º: Esforçar-se para adquirir continuamente competência técnica e profissional, mantendo-se sempre atualizado com os  avanços da profissão.
-* Art. 4º: Atuar dentro dos limites de sua competência profissional e orientar-se por elevado espírito público.
-* Art. 5º: Guardar sigilo profissional das informações a que tiver acesso em decorrência das atividades exercidas.
-* Art. 6º: Conduzir as atividades profissionais sem discriminação, seja de raça, sexo, religião, nacionalidade, cor da pele, idade, estado civil ou qualquer outra condição humana.
-* Art. 7º: Respeitar a legislação vigente, o interesse social e os direitos de terceiros.
-* Art. 8º : Honrar compromissos, contratos, termos de responsabilidade, direitos de propriedade, copyrights e patentes.
-* Art. 9º : Pautar sua relação com os colegas de profissão nos princípios de consideração, respeito, apreço, solidariedade e da harmonia da classe.
-* Art. 10º: Não praticar atos que possam comprometer a honra, a dignidade, privacidade de qualquer pessoa.
-* Art. 11º: Nunca apropriar-se de trabalho intelectual, iniciativas ou soluções encontradas por outras pessoas.
-* Art. 12º: Zelar pelo cumprimento deste código.
-* Art. 13º: Reconhecer que qualquer violação das normas deste código é incompatível com sua associação à SBC.
-
----
-
-
-Vejamos como isso afeta a sua vida.
-
-
----
-##### E você?
-
-* Seu chefe lhe diz para fazer algo antiético, como modificar o preço de um item em um pedido enviado por um cliente.
-* Você formata computadores e instala o Windows mais novo por 35 reais.
-* Para garantir sua renda, introduz erros nos seus programas de forma que o empregador dependa de sua ["expertise"](https://thehackernews.com/2019/07/siemens-logic-bomb.html)
----
+!!!example ""
+    * Seu chefe lhe diz para fazer algo antiético, como modificar o preço de um item em um pedido enviado por um cliente.
+    * Você formata computadores e instala o Windows mais novo por 35 reais.
+    * Para garantir sua renda, introduz erros nos seus programas de forma que o empregador dependa de sua ["expertise"](https://thehackernews.com/2019/07/siemens-logic-bomb.html)
 
 Não lhes parece que estes pedidos violam alguns artigos?
 
@@ -474,30 +434,17 @@ Mesmo que você não vá tatuar o código de ética proposto pela SBC nas costas
 
 A computação certamente já causará problemas demais em nossas vidas, no processo de torná-las melhor (veja dois exemplos a seguir). Então, não é necessário que nós, os "computeiros", ajamos de má fé.
 
+???todo "EthicOS"
 
 
----
-##### Sobre os dilemas de veículos auto dirigíveis
+
+## Atividade Assíncrona: Computação e Sociedade
+
+Sobre os dilemas de veículos auto dirigíveis
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/patrick_lin_the_ethical_dilemma_of_self_driving_cars" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
----
-
-
-Mesmo a tão celebrada IA, que promete tornar nossa vida muito mais simples, tem seu peso opressão de minorias.
-
-
----
-##### 5 fontes inesperadas de viés na inteligência artificial
+5 fontes inesperadas de viés na inteligência artificial
 
 <img src="images/vies_ia.png" alt="https://techcrunch.com/2016/12/10/5-unexpected-sources-of-bias-in-artificial-intelligence/" width="480"/>
-
-
-
-
-
-
-
-
-
 
