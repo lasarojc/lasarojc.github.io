@@ -423,12 +423,12 @@ Não é exatamente o caso, pois a [Sociedade Brasileira de Computação](http://
 
 Vejamos como isso afeta a sua vida, considerando algumas situações exemplos.
 
-!!!example ""
+!!!question "Aplicando o código de ética da SBC"
     * Seu chefe lhe diz para fazer algo antiético, como modificar o preço de um item em um pedido enviado por um cliente.
     * Você formata computadores e instala o Windows mais novo por 35 reais.
     * Para garantir sua renda, introduz erros nos seus programas de forma que o empregador dependa de sua ["expertise"](https://thehackernews.com/2019/07/siemens-logic-bomb.html)
 
-Não lhes parece que estes pedidos violam alguns artigos?
+    Quais artigos do código de ética da SBC estes pedidos violam?
 
 Mesmo que você não vá tatuar o código de ética proposto pela SBC nas costas ou recitá-lo como um evangelho, faz sentido seguir suas orientações gerais, que são, agir corretamente para com a **sociedade**, a **comunidade** (seus colegas de profissão), e com seu **empregador**.
 
