@@ -8,4 +8,4 @@ I received my PhD from IC/Unicamp, Brazil, and USI, Switzerland, where I worked 
 
 In general, I like working on interesting problems and so far I've found plenty of them in distributed computing. If you want to know more about my research, please follow the link on the left pane.
 
-Email me at lasaro at ufu dot br.
+Email me at lasaro at ufu dot br

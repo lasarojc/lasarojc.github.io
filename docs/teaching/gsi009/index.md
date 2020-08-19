@@ -259,6 +259,7 @@ Apesar do futurismo do vídeos, situações exatamente como estas já estão aco
 * [Facial recognition, data harvesting and the end of privacy](https://www.verdict.co.uk/facial-recognition-data-harvesting/):thumbsup:
 * [Facing Up to Facial Recognition](https://spectrum.ieee.org/computing/software/facing-up-to-facial-recognition):thumbsup:
 * <iframe width="560" height="315" src="https://www.youtube.com/embed/7lpCWxlRFAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> :thumbsup:
+* [Police Unlock AI's Potential to Monitor, Surveil and Solve Crimes](https://www.youtube.com/watch?v=H_fyQCeBaeM&feature=emb_rel_end)
 
 Outro exemplo de tecnologia sendo usada em detrimento da sociedade, não por erro do julgamento, mas por direta ação de engenheiros, administradores e **desenvolvedores de software**, é o caso da Volkswagen, documentado no Episódio 1, Temporada 1, de [Dirty Money](https://www.netflix.com/title/80118100), no Netflix. 
 Fontes sobre o mesmo assunto abundam, por exemplo 
@@ -271,9 +272,9 @@ Felizmente, há também reações dos seus colegas de profissão, como visto na 
 
 
 
-## Semana 2
+## Semana 2 - 19/08/2020
 
-Antes de falarmos sobre estes pontos e materiais vistos na atividade assíncrona da semana 1, vamos definir um arcabouço teórico para falarmos sobre o certo e o errado na exercício da profissão.
+Antes de falarmos sobre os pontos e materiais vistos na atividade assíncrona da semana 1, vamos definir um arcabouço teórico para falarmos sobre o certo e o errado na exercício da profissão.
 
 ### Ética x Moral
 
@@ -284,7 +285,9 @@ A palavra **ética** vem do grego *éthos*, que  significa "costume", segundo o 
 
     ["ética", in Dicionário Priberam da Língua Portuguesa, 2008-2020](https://dicionario.priberam.org/%C3%A9tica [consultado em 11-08-2020].") 
 
-Este conjunto de regras evolue com os tempos, refletindo a sociedade que as gera. Entretanto, a ética segue princípios universais que deveriam ser atemporais. Reforçando, deveriam ser atemporais, mas são reflexo da sociedade que as gera, que escolhe como agir. Segundo [Cortella](http://www.mscortella.com.br/artigo-cortella-etica-moral-valores-principios-6a), "a ética é o conjunto de princípios e valores que usamos para decidir a nossa conduta social."
+Este conjunto de regras evolue com os tempos, refletindo a sociedade que as gera. Entretanto, a ética segue princípios universais que deveriam ser atemporais. Reforçando, **deveriam** ser atemporais, mas são reflexo da sociedade que as gera, que escolhe como agir. Segundo [Cortella](http://www.mscortella.com.br/artigo-cortella-etica-moral-valores-principios-6a), 
+
+> a ética é o conjunto de princípios e valores que usamos para decidir a nossa conduta social.
 
 O comportamento gerado no contexto da ética é chamado *moral*, isto é, a materialização da ética em práticas, e que refletem muito a cultura em que se desenvolve. A moral é mais volátil.
 
@@ -296,7 +299,7 @@ Por exemplo, podemos pensar facilmente em ações que, consideradas morais muito
   > Deuteronômio 22:22 - Se um homem for pego em flagrante deitado com a mulher de outro, os dois deverão pagar por esse delito com pena de morte, o homem e a mulher com quem se deitou. Desse modo extirparás o mal do meio do teu povo, ó Israel.
 * Escravagismo
   > Êxodo 21:1-6 - Estes são os estatutos que lhes proporás: Se comprares um servo hebreu, seis anos servirá; mas ao sétimo sairá forro, de graça. Se entrar sozinho, sozinho sairá; se tiver mulher, então com ele sairá sua mulher. Se seu senhor lhe houver dado uma mulher e ela lhe houver dado filhos ou filhas, a mulher e os filhos dela serão de seu senhor e ele sairá sozinho. Mas se esse servo expressamente disser: “Eu amo a meu senhor, a minha mulher e a meus filhos, não quero sair forro”, então seu senhor o levará perante os juizes, e o fará chegar porta, ou ao umbral da porta, e o seu senhor lhe furará a orelha com uma sovela; e ele o servirá para sempre.
-* Casamento com menores de idade - Converse com seus pais e avós sobre o assunto. É muito possível que uma de suas ancestrais recentes tenha **sido casada** com 13 ou 14 anos de idade.
+* Casamento com menores de idade - Converse com seus pais e avós sobre o assunto. É muito possível que uma de suas ancestrais recentes tenha "se casado" com 13 ou 14 anos de idade.
 
 Assim, embora a Moral varie e Ética não, como sociedade, o que consideramos ético nada mais é que moral, e certamente irá mudar no futuro.
 Por exemplo, quem garante que no futuro não será considerado (por todos) que comer carne é uma abominação?
@@ -305,16 +308,19 @@ Logo, doravante, quando falarmos de ética, lembre-se que estamos falando na ver
 Se você ficou mais confuso que esclarecido, teremos um oportunidade de em um futuro próximo esclarecer estas dúvidas com um especilista na área. Por enquanto, para melhor entender o que é ético, pode ser útil ver alguns exemplos do que obviamente não é, em várias situações.
 
 !!!example "Exemplos de falta de ética na vida" 
-    * achar uma carteira com dinheiro, pegar o dinheiro e jogar a carteira fora, sem ter feito um esforço sincero para encontrar o dono,
-    * comer o lanche do seu colega de república, sem autorização,
-    * violar acordo de monogamia,
+    * Achar uma carteira com dinheiro, pegar o dinheiro e jogar a carteira fora, sem ter feito um esforço sincero para encontrar o dono.
+    * Comer o lanche do seu colega de república, sem autorização.
+    * Violar acordo de monogamia.
 
-Alguns exemplos são mais complicados. Se eu te perguntar se é anti-ético cobrar 5000 reais por uma página Web feita no Word, você provavelmente diria que não, afinal, desde que você esteja entregando o produto e seu cliente esteja disposto a pagar, então tudo bem, certo?  Vejamos então este caso real.
+Algo interessante sobre o último ponto acima é que embora para maior o acordo seja entre duas partes, muitos considerarão que o acordo é com a sociedade. Este seria também um exemplo interessante para falar sobre hipocrisia, mas deixaremos isso para outro momento.
+
+Já outros exemplos são mais complicados. 
+Se eu te perguntar se é anti-ético cobrar 5000 reais por uma página Web feita no Word, você provavelmente diria que não, afinal, desde que você esteja entregando o produto e seu cliente esteja disposto a pagar, então tudo bem, certo? Mas e se seu cliente não tiver opção ou se não tiver informação o suficiente para detectar que está sendo explorado, ainda assim é ético cobrar tal valor? Vejamos um caso real com uma ideia parecida:
 
 !!!note "Pharma Bro"
     In September 2015, Shkreli received widespread criticism when Turing obtained the manufacturing license for the antiparasitic drug Daraprim and raised its price by a factor of 56 (from US$13.5 to $750 per pill), leading him to be referred to by the media as "the most hated man in America" and "Pharma Bro" ([Fonte](https://en.wikipedia.org/wiki/Martin_Shkreli))
 
-Este exemplo, onde um remédio teve seu preço aumentado de 13 para 750 Dólares, por pílula, décadas depois de ter sido inventado, e com processo de fabricação simples, reprodutível por adolescentes ([Fonte](https://blogs.sciencemag.org/pipeline/archives/2016/12/01/those-australian-students-and-their-daraprim)), é excelente para indicar uma idiossincrazia da sociedade capitalista.
+Este exemplo, onde um remédio teve seu preço aumentado de 13 para 750 Dólares, por pílula, décadas depois de ter sido inventado, e com processo de fabricação simples, [reprodutível por adolescentes](https://blogs.sciencemag.org/pipeline/archives/2016/12/01/those-australian-students-and-their-daraprim), é excelente para indicar uma idiossincrazia da sociedade capitalista.
 Enquanto difícilmente alguém considerará o aumento ético, a relativização do que é errado e certo é muito comum em nossa sociedade. 
 
 Vejamos alguns exemplos na universidade, mais próximos de nós, e muito bem apontados neste [blog](https://rbribeiro.wordpress.com/2015/06/24/como-e-dar-aula-no-ensino-superior-e-a-corrupcao-na-universidade/).
@@ -324,7 +330,7 @@ Vejamos alguns exemplos na universidade, mais próximos de nós, e muito bem apo
     * "Pede para o colega assinar a lista de presença e depois critica funcionário fantasma."
     * "Cola nas provas e grita "abaixo a corrupção!" na próxima manifestação."
 
-Embora os exemplos aqui seja de ações não éticas dos alunos, é óbvio que há problemas do lado da universidade também, em vários níveis.
+Embora os exemplos aqui sejam de ações não éticas dos alunos, é óbvio que há problemas do lado da universidade também, em vários níveis.
 
 !!!example "Exemplos de falta de ética na Universidade"
     * [Professores da UFRGS são presos por fraude em bolsas de estudo](http://g1.globo.com/rs/rio-grande-do-sul/noticia/2016/12/professores-da-ufrgs-sao-presos-por-fraude-em-bolsas-de-estudo.html).
@@ -346,13 +352,13 @@ Obviamente o mesmo sofreu alterações com a passagem do tempo e espalhamento pe
 Veja a seguinte versão, que contem partes que obviamente deixaram de ser válidas e outras que nem precisariam ser ditas.
 
 !!!quote "Juramento de Hipócrates"
-    Eu juro, **por Apolo, médico, por Esculápio, Hígia e Panaceia, e tomo por testemunhas todos os deuses e todas as deusas**, cumprir, segundo meu poder e minha razão, a promessa que se segue:
+    Eu juro, **por Apolo, médico, por Esculápio, Higeia e Panaceia, e tomo por testemunhas todos os deuses e todas as deusas**, cumprir, segundo meu poder e minha razão, a promessa que se segue:
 
     Estimar, tanto quanto a meus pais, aquele que me ensinou esta arte; **fazer vida comum e, se necessário for, com ele partilhar meus bens**;    
 
     Ter seus filhos por meus próprios irmãos; ensinar-lhes esta arte, se eles tiverem necessidade de aprendê-la, sem remuneração e nem compromisso escrito; fazer participar dos preceitos, das lições e de todo o resto do ensino, meus filhos, os de meu mestre e os discípulos inscritos segundo os regulamentos da profissão, porém, só a estes.    
 
-    Aplicarei os regimes para o **bem do doente segundo o meu poder e entendimento, nunca para causar dano ou mal a alguém**. A ninguém darei por comprazer, nem remédio mortal nem um conselho que induza a perda. Do mesmo modo **não darei a nenhuma mulher uma substância abortiva**.  
+    Aplicarei os regimes para o **bem do doente segundo o meu poder e entendimento, nunca para causar dano ou mal a alguém**. A ninguém darei por comprazer, nem remédio mortal nem um conselho que induza a perda. Do mesmo modo **não darei a nenhuma mulher uma substância abortiva**.
     Conservarei imaculada minha vida e minha arte.
 
     Não praticarei a talha, mesmo sobre um calculoso confirmado; deixarei essa operação aos práticos que disso cuidam.
@@ -363,9 +369,11 @@ Veja a seguinte versão, que contem partes que obviamente deixaram de ser válid
 
     Se eu cumprir este juramento com fidelidade, que me seja dado gozar felizmente da vida e da minha profissão, honrado para sempre entre os homens; se eu dele me afastar ou infringir, o contrário aconteça.
 
+
     ???todo  "levantar fonte."
 
-Esta versão mais recente, é muito mais sensível.
+Este juramento tem seus méritos mas é ridículo em alguns pontos, como bem apontado por [Dráuzio Varella](https://drauziovarella.uol.com.br/drauzio/artigos/o-juramento-de-hipocrates-artigo/). A versão seguinte, mais recente, faz mais sentido.
+
 
 !!!quote "Juramento de Hipócrates"
     Prometo que, ao exercer a arte de curar, mostrar-me-ei sempre fiel aos preceitos da honestidade, da caridade e da ciência.
@@ -378,35 +386,39 @@ Esta versão mais recente, é muito mais sensível.
 
     ???todo  "levantar fonte."
 
+Ainda assim é estranho fazer um juramento para fazer seu trabalho corretamente. Imagine-se jurando que minimizará bugs no seu código e não acessará dados indevidamente.
+Não, o juramento de Hipócrates é mais para ~inglês~ os pais verem que para servir como código de ética.
+O verdadeiro [código de ética da Medicina no Brasil](https://portal.cfm.org.br/images/PDF/cem2019.pdf) é estabelecido pelo conselho federal de medicina e é bem mais extenso.
+
+
 ### Ética na Computação
 Já na computação, como fica a questão da ética profissional?
 
-Não há, no Brazil, um código das áreas ligadas à computação, até por quê não há um reconhecimento dos "computeiros" como uma classe profissional como é o caso dos médicos. 
-Na computação, entra quem quiser, e fica quem se mostrar habilitado, tenha se formado em ciência da computação, engenharia elétrica, sistemas de informação, administração de empresas ou educação física.
+Não há, no Brazil, um código de ética estabelecido pelo Conselho Federal dos Computeiros, até por quê não há um reconhecimento dos "computeiros" como uma classe profissional como é o caso dos médicos. 
+Na computação, entra quem quiser, e fica quem se mostrar habilitado, tenha se formado em ciência da computação, engenharia elétrica, sistemas de informação, administração de empresas ou educação física, apesar de ser uma discussão [antiga](http://sbc.org.br/2-uncategorised/1272-regulamentacao-da-profissao).
 
 Se não há definição de quem pode atuar com computação, há definitivamente muitos exemplos de falta de ética na área.
 Como visto na atividade assíncrona, um sistema em parte software foi usado para enganar testes de emissão de poluentes por carros.  
 
-<img src="images/vw_testeemissao.png" alt="https://www.scientificamerican.com/article/volkswagen-uses-software-to-fool-epa-pollution-tests/" width="480"/>
+[![volkswagen-uses-software-to-fool-epa-pollution-tests](images/vw_testeemissao.png)](https://www.scientificamerican.com/article/volkswagen-uses-software-to-fool-epa-pollution-tests/)
 
 Em um exemplo de "ladrão que rouba ladrão", o sítio Pirate Bay usava o computador de seus usuários para minerar cripto moedas.
 
-<img src="images/piratebay_altcoin.png" alt="https://torrentfreak.com/the-pirate-bay-website-runs-a-cryptocurrency-miner-170916/" width="480"/>
+[![the-pirate-bay-website-runs-a-cryptocurrency-miner](images/piratebay_altcoin.png)](https://torrentfreak.com/the-pirate-bay-website-runs-a-cryptocurrency-miner-170916/)
 
 e o robô de limpeza Roomba estava coletando informações sobre os interiores das casas, como quantidade de pessoas, marcas de produtos usados, mapa 3d do ambiente, e o fabricante poderia vender estas informações para outras empresas.
 
-* <img src="images/roomba.png" alt="https://gizmodo.com/roombas-next-big-step-is-selling-maps-of-your-home-to-t-1797187829" width="480"/>
+[![roombas-next-big-step-is-selling-maps-of-your-home](images/roomba.png)](https://gizmodo.com/roombas-next-big-step-is-selling-maps-of-your-home-to-t-1797187829)
 
 Em outro exemplo bem mais simples e comum, um desenvolvedor introduziu defeitos em seu software para ser convocado, e remunerado, para fazer correções.
 
-<img src="images/siemens-logic-bomb.jpg" alt=" https://thehackernews.com/2019/07/siemens-logic-bomb.html" width="480"/>
-
+[![siemens-logic-bomb](images/siemens-logic-bomb.jpg)](https://thehackernews.com/2019/07/siemens-logic-bomb.html)
 
 Quer dizer que não há um código de ética a ser seguido na área?
 
-Não é exatamente o caso, pois a [Sociedade Brasileira de Computação](http://sbc.org.br/), através de sua comissão de ética, propôs o seguinte [código de ética profissional](https://compesociety.blogspot.com/2016/09/sbc-e-o-codigo-de-etica-profissional.html).
+Não é exatamente o caso, pois a [Sociedade Brasileira de Computação](http://sbc.org.br/), através de sua comissão de ética, propôs o seguinte [código de ética profissional](https://compesociety.blogspot.com/2016/09/sbc-e-o-codigo-de-etica-profissional.html). 
 
-!!!quote "Código de Ética da SBC"
+!!!quote "Código de Ética do profissional de Informática - SBC"
     * Art. 1°: Contribuir para o bem-estar social, promovendo, sempre que possível, a inclusão de todos setores da sociedade.
     * Art. 2°: Exercer o trabalho profissional com responsabilidade, dedicação, honestidade e justiça, buscando sempre a melhor solução.
     * Art. 3º: Esforçar-se para adquirir continuamente competência técnica e profissional, mantendo-se sempre atualizado com os  avanços da profissão.
@@ -421,30 +433,73 @@ Não é exatamente o caso, pois a [Sociedade Brasileira de Computação](http://
     * Art. 12º: Zelar pelo cumprimento deste código.
     * Art. 13º: Reconhecer que qualquer violação das normas deste código é incompatível com sua associação à SBC.
 
-Vejamos como isso afeta a sua vida, considerando algumas situações exemplos.
+Vejamos como isso afeta a sua vida, considerando algumas situações exemplo.
 
 !!!question "Aplicando o código de ética da SBC"
-    * Seu chefe lhe diz para fazer algo antiético, como modificar o preço de um item em um pedido enviado por um cliente.
-    * Você formata computadores e instala o Windows mais novo por 35 reais.
+    * Seu chefe lhe diz para modificar o preço de um item em um pedido enviado por um cliente.
+    * Seu colega sugere que vocês abram o banco de dados de mensagens SMS trocados pelo sistema de telefonia da empresa em que trabalha.
+    * Alguém lhe oferece 50 reais para baixar a imagem do dvd do Windows 10 da Internet e instalar em seu (da pessoa) computador.
     * Para garantir sua renda, introduz erros nos seus programas de forma que o empregador dependa de sua ["expertise"](https://thehackernews.com/2019/07/siemens-logic-bomb.html)
 
     Quais artigos do código de ética da SBC estes pedidos violam?
 
-Mesmo que você não vá tatuar o código de ética proposto pela SBC nas costas ou recitá-lo como um evangelho, faz sentido seguir suas orientações gerais, que são, agir corretamente para com a **sociedade**, a **comunidade** (seus colegas de profissão), e com seu **empregador**.
+Mesmo que você não vá tatuar o código de ética proposto pela SBC nas costas ou recitá-lo três vezes antes de dormir, faz sentido seguir suas orientações gerais, que são, agir corretamente para com a **sociedade**, a **comunidade** (seus colegas de profissão), e com seu **empregador**.
+Afinal, computação certamente já causará problemas demais em nossas vidas, no processo de torná-las melhor (veja dois exemplos a seguir). Então, não é necessário que nós, os "computeiros", ajamos de má fé.
 
-A computação certamente já causará problemas demais em nossas vidas, no processo de torná-las melhor (veja dois exemplos a seguir). Então, não é necessário que nós, os "computeiros", ajamos de má fé.
 
-???todo "EthicOS"
+### Revisão da Atividade Assíncrona da Semana 1
 
+* O que vocês acharam dos vídeos que falam sobre pré-crime, ou o uso de IA para identificar crimes antes de acontecerem?
+* Como fica a questão da privacidade?
+* O pré-julgamento pode afetar o resultado, levando a profecias auto-realizadoras?
+* Como previnir que tecnologias sejam mal utilizadas?
 
 
 ### Atividade Assíncrona: Computação e Sociedade
 
-Sobre os dilemas de veículos auto dirigíveis
+Quanto mais a IA se desenvolve, maior é seu potencial para nos auxiliar na tomada de decisões em nossas vidas.
+
+* Qual a melhor vacina para COVID-19? 
+* É melhor o carro se desligar neste semáforo e religar quando abrir ou manter o motor funcionando?
+* Qual a melhor rota de entrega de encomendas?
+
+Dentre as respostas para estas perguntas, é possível identificar aquela que é melhor. Para a segunda, por exemplo, se a IA mandar desligar o motor para apenas um segundo depois eu ter que religar o carro, então a resposta não foi boa e deve ser penalizada.  
+Algumas perguntas, entretanto, são mais subjetivas.
+
+* O comportamento desta pessoa, no parque, a meia-noite, é suspeito?
+* Qual o melhor candidato para esta vaga de emprego? 
+* Qual o melhor artigo para oferecer para leitura a este usuário?
+
+E nesta subjetividade, os viéses dos humanos são reproduzidos nas máquinas.
+No seu *feed* do Facebook por exemplo, você deve receber muito mais notícias sobre as vigens de seus colegas que de recalls de BMW. Isso acontece porquê o Facebook lhe oferece artigos que casam com seus interesses, levantados por anos de interação com o sistema.
+Acontece que esta abordagem reforça seus interesses e lhe mantem é uma bolha.
+Há vários casos documentados de viés no mundo da IA. 
+
+[![5-unexpected-sources-of-bias-in-artificial-intelligence](images/vies_ia.png)](https://techcrunch.com/2016/12/10/5-unexpected-sources-of-bias-in-artificial-intelligence/)
+
+O problema principal aqui é que nossos viéses são reproduzidos sem nos darmos conta, e estes viéses poderiam ser a razão da nossa destruição. Se você nunca se preocupou com destruir formigas, seres inferiores a você, por quê uma IA deveria se importar com você, se lhe julgar inferior?
+
+[![ant-stomp](images/ant-stomp.jpg)](https://ideas.ted.com/how-the-gains-we-make-in-ai-could-ultimately-destroy-us/)
+
+E alguns certamente acham que seremos inferiores em algum momento.
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+Eles certamente já jogam Mário melhor que eu.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv6UVOQ0F44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Para previnir este desastre, isto é, que elas se tornem superiores, não que elas joguem Mário melhor que nós, alguns advogam que limitemos o poder das IA.
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+O que você acha?  
+
+Mesmo se limitarmos o poder de decisão da AI em nossas vidas, algumas situações certamente virão em um futuro próximo.
+Por exemplo, vejamos alguns dos dilemas que veículos auto dirigíveis enfrentarão.
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/patrick_lin_the_ethical_dilemma_of_self_driving_cars" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
-5 fontes inesperadas de viés na inteligência artificial
+Como nós, como desenvolvedores podemos ajudar, ou pelo menos não piorar, o futuro da humanidade?
 
-<img src="images/vies_ia.png" alt="https://techcrunch.com/2016/12/10/5-unexpected-sources-of-bias-in-artificial-intelligence/" width="480"/>
-
+???todo "EthicOS"
