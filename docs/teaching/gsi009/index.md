@@ -475,15 +475,15 @@ No seu *feed* do Facebook por exemplo, você deve receber muito mais notícias s
 Acontece que esta abordagem reforça seus interesses e lhe mantem é uma bolha.
 Há vários casos documentados de viés no mundo da IA. 
 
-[![5-unexpected-sources-of-bias-in-artificial-intelligence](images/vies_ia.png)](https://techcrunch.com/2016/12/10/5-unexpected-sources-of-bias-in-artificial-intelligence/)
+[![5-unexpected-sources-of-bias-in-artificial-intelligence](images/vies_ia.png)](https://techcrunch.com/2016/12/10/5-unexpected-sources-of-bias-in-artificial-intelligence/) :thumbsup: 
 
 O problema principal aqui é que nossos viéses são reproduzidos sem nos darmos conta, e estes viéses poderiam ser a razão da nossa destruição. Se você nunca se preocupou com destruir formigas, seres inferiores a você, por quê uma IA deveria se importar com você, se lhe julgar inferior?
 
-[![ant-stomp](images/ant-stomp.jpg)](https://ideas.ted.com/how-the-gains-we-make-in-ai-could-ultimately-destroy-us/)
+[![ant-stomp](images/ant-stomp.jpg)](https://ideas.ted.com/how-the-gains-we-make-in-ai-could-ultimately-destroy-us/) :thumbsup:
 
 E alguns certamente acham que seremos inferiores em algum momento.
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div> :thumbsup:
 
 Eles certamente já jogam Mário melhor que eu.
 
@@ -491,15 +491,44 @@ Eles certamente já jogam Mário melhor que eu.
 
 Para previnir este desastre, isto é, que elas se tornem superiores, não que elas joguem Mário melhor que nós, alguns advogam que limitemos o poder das IA.
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div> :thumbsup:
 
 O que você acha?  
 
 Mesmo se limitarmos o poder de decisão da AI em nossas vidas, algumas situações certamente virão em um futuro próximo.
 Por exemplo, vejamos alguns dos dilemas que veículos auto dirigíveis enfrentarão.
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/patrick_lin_the_ethical_dilemma_of_self_driving_cars" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/patrick_lin_the_ethical_dilemma_of_self_driving_cars" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div> :thumbsup:
 
 Como nós, como desenvolvedores podemos ajudar, ou pelo menos não piorar, o futuro da humanidade?
+
+E se sobrar tempo, aprendam sobre HAL, no filme [2001 - Uma odisséia no espaço](https://www.netflix.com/title/207856).
+
+## Semana 3 - 26/08/2020 
+### Atividade Síncrona
+
+Palestra com o Prof. Sertório, do Instituto de Filosofia (IFILO) da UFU.
+
+### Atividade Assíncrona
+
+
+## Semana 4
+### Atividade Síncrona
+### Atividade Assíncrona
+## Semana 5 
+### Atividade Síncrona
+### Atividade Assíncrona
+## Semana 6 
+### Atividade Síncrona
+### Atividade Assíncrona
+## Semana 7 
+### Atividade Síncrona
+### Atividade Assíncrona
+## Semana 8 
+### Atividade Síncrona
+### Atividade Assíncrona
+## Semana 9 
+### Atividade Síncrona
+### Atividade Assíncrona
 
 ???todo "EthicOS"
