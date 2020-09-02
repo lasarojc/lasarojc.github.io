@@ -514,8 +514,139 @@ Palestra com o Prof. Sertório, do Instituto de Filosofia (IFILO) da UFU.
 
 ## Semana 4
 ### Atividade Síncrona
+Palestra com [Pedro Paulo Silveira](https://www.linkedin.com/in/pedro-paulo-silveira/), ex-aluno da FACOM e co-fundador e CTO da Recrutei. 
+
 ### Atividade Assíncrona
-## Semana 5 
+#### A carreira acadêmica
+
+Estando vocês inseridos no contexto acadêmico, é natural que ouçam termos como 
+   * pós-graduação
+   * mestrado
+   * doutorado
+   * PhD
+   * especialização
+   * certificação
+   * MBA
+
+Estes termos estão todos relacionados, pois o primeiro é o termo geral usado para descrever os demais. 
+Vejamos então o que diferencia os vários tipos de pós-graduação para, espero, poder lhe ajudar a responder à seguinte pergnta, caso ocorra:
+**Pós-graduação, fazer ou não fazer?**
+
+##### O Quê?
+
+De forma geral, é um curso feito após um curso de graduação.
+
+* Estudo **pós** curso de graduação
+* Assume conhecimento prévio, obtido na graduação
+* Diversos tipos, categorizados em
+  * *lato sensu*
+  * *stricto sensu*
+
+##### Para quê?
+
+Os cursos *stricto sensu* são mais voltados para atuação na academia e pesquisa de forma geral. Também é requisito para a docência no ensino superior.
+
+* mestrado
+* doutorado
+
+
+Já os *lato sensu* são voltados para atuação na indústria.
+
+* aperfeiçoamento
+* especialização
+
+Outro importante diferencial entre os diversos tipos é o período de dedicação ao curso.
+
+> Meu professor disse que leva quatro anos, mas meu vizinho tem menos de 25 anos e disse que já fez três. Como assim?
+
+!!!note "Aperfeiçoamento"
+   * até 359 horas 
+   * associado a uma função
+     * contabilidade industrial
+     * infraestrutura CISCO
+     * exportação para a China
+
+!!!note "Especialização"
+   * a partir de 360 horas 
+   * monografia 
+   * Especialista em redes de computadores
+   * Especialista em cirurgia ortopédica
+   * MBA: *master of business administration*
+      * no Brasil = especialização
+
+!!!note "Mestrado"
+   * dois anos
+   * dissertação de mestrado (ou *master thesis*)
+   * Mestre em Sistemas de Informação
+   * Mestre em Engenharia Biomédica
+   * Créditos podem ser usados para obter título de especialista
+   * *Master of Science in*...
+   * *Master of Engineering in* ...
+
+
+!!!note "Doutorado"
+   * quatro anos
+   * tese de doutorado (ou \emph{PhD dissertation})
+   * Doutor em Ciência da Computação
+   * Créditos podem ser usados para obter título de especialista
+   * *Docteur*, *Philosophy Doctor*
+
+Tanto o mestrado quanto o doutorado podem ser do tipo profissional ou acadêmico, sendo que o doutorado profissional não é comum no Brasil.
+
+!!!note "Profissional x Acadêmico"
+   * Foco do problema a ser resolvido
+   * Colaboração com indústria
+   * Transferência rápida de conhecimento
+   * Protótipos
+
+Vamos nos focar nas pós graduações disponíveis na FACOM.
+
+##### Mestrado
+* Iniciação científica - Método científico
+* Revisão bibliográfica - busca e entendimento de resultados
+* Reprodução - aplicação criativa de resultados
+
+##### Doutorado
+* Pesquisa autônoma - Método científico
+* Revisão bibliográfica - busca e entendimento de resultados e identificação de deficiências
+* Produção - novos problemas e métodos de resolução -- originalidade
+* Nas engenharias, aplicação de métodos a um novo problema é considerado um bom trabalho de doutorado.
+
+
+##### Pós-pós
+Quando é que isso termina?
+
+* Pós-doutorado
+  * atividade temporária (bico) para doutores (e.g, auxiliar de laboratório)
+  * não confundir com sabático
+* Livre-docente
+* Titular
+
+##### Compensa?
+
+Depende do perfil.  
+Em termos financeiros?
+
+* graduação < :dollar: < aperfeiçoamento
+* graduação < :dollar: < especialização
+* graduação < mestrado < doutorado
+
+[Diferenças de salário](https://www.topuniversities.com/student-info/careers-advice/masters-phd-salary-benefits)
+
+
+Em termos do perfil, no Brasil
+
+* Doutores estão presos às universidades, com raras exceções.
+* As privadas só contratam o mínimo pois não se dedicam à pesquisa
+  * PUC é um exceção.
+
+!!!question "Fazer Pós ou não?"
+    [fazer pós graduação ou não, eis a questão](http://noticias.universia.com.br/ciencia-tecnologia/noticia/2005/08/16/465949/fazer-pos-graduao-ou-no-eis-questo.html)
+
+
+
+
+## Semana 5
 ### Atividade Síncrona
 ### Atividade Assíncrona
 ## Semana 6 
