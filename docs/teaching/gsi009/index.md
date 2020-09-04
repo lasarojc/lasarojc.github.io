@@ -261,7 +261,7 @@ Apesar do futurismo do vídeos, situações exatamente como estas já estão aco
 * <iframe width="560" height="315" src="https://www.youtube.com/embed/7lpCWxlRFAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> :thumbsup:
 * [Police Unlock AI's Potential to Monitor, Surveil and Solve Crimes](https://www.youtube.com/watch?v=H_fyQCeBaeM&feature=emb_rel_end)
 
-Outro exemplo de tecnologia sendo usada em detrimento da sociedade, não por erro do julgamento, mas por direta ação de engenheiros, administradores e **desenvolvedores de software**, é o caso da Volkswagen, documentado no Episódio 1, Temporada 1, de [Dirty Money](https://www.netflix.com/title/80118100), no Netflix. 
+Embora o reconhecimento facial receba grande parte da atenção ![Reconhecimento Facial](images/facial-recognition.png), há vários outros exemplos de tecnologia sendo usada em detrimento da sociedade, não por erro do julgamento, mas por direta ação de engenheiros, administradores e **desenvolvedores de software**, é o caso da Volkswagen, documentado no Episódio 1, Temporada 1, de [Dirty Money](https://www.netflix.com/title/80118100), no Netflix. 
 Fontes sobre o mesmo assunto abundam, por exemplo 
 
 * [Volkswagen emissions scandal](https://www.wired.com/2015/09/vw-fool-epa-couldnt-trick-chemistry/):thumbsup:
@@ -507,141 +507,152 @@ E se sobrar tempo, aprendam sobre HAL, no filme [2001 - Uma odisséia no espaço
 ## Semana 3 - 26/08/2020 
 ### Atividade Síncrona
 
-Palestra com o Prof. Sertório, do Instituto de Filosofia (IFILO) da UFU.
+Na palestra com o Prof. Sertório, do Instituto de Filosofia (IFILO) da UFU, vimos que a ética é na realidade o pensar sobre as relações de grupo com um foco na qualificação das interações quanto a serem benéficas ao grupo.
 
 ### Atividade Assíncrona
 
+A atividade desta semana será condesada com outra, no futuro próximo.
 
 ## Semana 4
 ### Atividade Síncrona
-Palestra com [Pedro Paulo Silveira](https://www.linkedin.com/in/pedro-paulo-silveira/), ex-aluno da FACOM e co-fundador e CTO da Recrutei. 
+
+A palestra com [Pedro Paulo Silveira](https://www.linkedin.com/in/pedro-paulo-silveira/), ex-aluno da FACOM e co-fundador e CTO da Recrutei, foi realmente inspiradora.
+Pedro compartilhou histórias de sucessos e diversos erros cometidos, mostrando que é com insistência que se consegue progredir como empreendedor.
+
+Além de empreender, isto é, montar sua própria empresa e atacar algum problema ou, como dizem os profissionais do ramo, uma dor de um cliente, você também tem a opção de seguir alguém, trabalhando em uma empresa. Enquanto muito julgam que isto é ser apenas mais um dente na engrenagem, não há nada de mal em um carreira assim; tudo depende do seu perfil.
+
+Uma outra possibilidade é a carreira acadêmica, isto é, uma carreira voltada para o ensino das próximas gerações de tecnologistas. É seguindo esta carreira pelo menos inicialmente que você pode vir a se tornar um pesquisador, seja na academia (universidades) ou na indústria, embora esta última opção seja limitada no Brasil.
 
 ### Atividade Assíncrona
-#### A carreira acadêmica
+#### A carreira de pesquisador
+Na atividade assíncrona desta semana, exploraremos um pouco a carreira acadêmica, aproveitando a experiência deste que vos ~~fala~~ escreve.
 
-Estando vocês inseridos no contexto acadêmico, é natural que ouçam termos como 
-   * pós-graduação
-   * mestrado
-   * doutorado
-   * PhD
-   * especialização
-   * certificação
-   * MBA
+Para começarmos, estando vocês inseridos no contexto acadêmico, pelo menos temporariamente, é natural que tenham ouvido os seguintes termos: 
 
-Estes termos estão todos relacionados, pois o primeiro é o termo geral usado para descrever os demais. 
-Vejamos então o que diferencia os vários tipos de pós-graduação para, espero, poder lhe ajudar a responder à seguinte pergnta, caso ocorra:
-**Pós-graduação, fazer ou não fazer?**
-
-##### O Quê?
-
-De forma geral, é um curso feito após um curso de graduação.
-
-* Estudo **pós** curso de graduação
-* Assume conhecimento prévio, obtido na graduação
-* Diversos tipos, categorizados em
-  * *lato sensu*
-  * *stricto sensu*
-
-##### Para quê?
-
-Os cursos *stricto sensu* são mais voltados para atuação na academia e pesquisa de forma geral. Também é requisito para a docência no ensino superior.
-
+* pós-graduação
 * mestrado
 * doutorado
-
-
-Já os *lato sensu* são voltados para atuação na indústria.
-
-* aperfeiçoamento
+* PhD
 * especialização
+* certificação
+* MBA
 
-Outro importante diferencial entre os diversos tipos é o período de dedicação ao curso.
-
-> Meu professor disse que leva quatro anos, mas meu vizinho tem menos de 25 anos e disse que já fez três. Como assim?
-
-!!!note "Aperfeiçoamento"
-   * até 359 horas 
-   * associado a uma função
-     * contabilidade industrial
-     * infraestrutura CISCO
-     * exportação para a China
-
-!!!note "Especialização"
-   * a partir de 360 horas 
-   * monografia 
-   * Especialista em redes de computadores
-   * Especialista em cirurgia ortopédica
-   * MBA: *master of business administration*
-      * no Brasil = especialização
-
-!!!note "Mestrado"
-   * dois anos
-   * dissertação de mestrado (ou *master thesis*)
-   * Mestre em Sistemas de Informação
-   * Mestre em Engenharia Biomédica
-   * Créditos podem ser usados para obter título de especialista
-   * *Master of Science in*...
-   * *Master of Engineering in* ...
+Estes termos, todos relacionados pois o primeiro é o termo geral usado para descrever os demais, precisam ser entendidos para se falar em carreira acadêmica.
+Vejamos então o que são as pós-graduações.
 
 
-!!!note "Doutorado"
-   * quatro anos
-   * tese de doutorado (ou \emph{PhD dissertation})
-   * Doutor em Ciência da Computação
-   * Créditos podem ser usados para obter título de especialista
-   * *Docteur*, *Philosophy Doctor*
+##### Pós-graduação
 
-Tanto o mestrado quanto o doutorado podem ser do tipo profissional ou acadêmico, sendo que o doutorado profissional não é comum no Brasil.
+###### O quê e para quê?
+Sem surpresas e sem piadas, uma **pós-graduação** é um curso feito após um curso de graduação.
+Isto é, um curso que presume um conhecimento prévio adquirido em um curso de graduação, como Sistemas de Informação.
 
-!!!note "Profissional x Acadêmico"
-   * Foco do problema a ser resolvido
-   * Colaboração com indústria
-   * Transferência rápida de conhecimento
-   * Protótipos
+O objetivo de um curso de pós-graduação é lhe permitir se aprofundar em um tópico, se especializando no mesmo, ou complementar a formação obtida no curso de graduação.
+Com um objetivo tão amplo, é óbvio que deve haver múltiplos tipos de pós-graduação, classificadas em dois tipos:
 
-Vamos nos focar nas pós graduações disponíveis na FACOM.
+* *lato sensu*
+* *stricto sensu*
 
-##### Mestrado
-* Iniciação científica - Método científico
-* Revisão bibliográfica - busca e entendimento de resultados
-* Reprodução - aplicação criativa de resultados
+Os cursos *stricto sensu* são mais voltados para atuação na academia e pesquisa de forma geral. 
+Em outras palavras, são pré-requisitos para se atuar na docência no ensino superior e o caminho mais direto para se tornar um pesquisador.
 
-##### Doutorado
-* Pesquisa autônoma - Método científico
-* Revisão bibliográfica - busca e entendimento de resultados e identificação de deficiências
-* Produção - novos problemas e métodos de resolução -- originalidade
-* Nas engenharias, aplicação de métodos a um novo problema é considerado um bom trabalho de doutorado.
+Este tipo de pós-graduação é subdividido em dois tipos, oferecidos por universidades e, em número menor, centros de pesquisa.  
+O primeiro tipo é o **mestrado**, um curso com duração de 24 a 30 meses em que o estudante deve se aprofundar em tópicos de sua área de formação [^outras], além de aprender/aperfeiçoar o uso do [método científico](https://pt.wikipedia.org/wiki/M%C3%A9todo_cient%C3%ADfico) :thumbsup: na resolução de problemas.
 
 
-##### Pós-pós
-Quando é que isso termina?
+Ao final do mestrado, o estudante produz uma monografia que resume o trabalho é denominado **dissertação de mestrado** (ou *master thesis*, nos países de língua inglesa).
+O trabalho e a monografia devem ser defendidos diante de uma banca de doutores da área, demonstrando o conhecimento do estado da arte da área em desenvolveu seu trabalho, caraterizando o problema que atacou, e posicionando o seu trabalho em relação ao estado da arte.
 
-* Pós-doutorado
-  * atividade temporária (bico) para doutores (e.g, auxiliar de laboratório)
-  * não confundir com sabático
-* Livre-docente
-* Titular
+Caso aprovado, o estudante recebe o título de Mestre, por exemplo, Mestre em Ciência da Computação, Mestre em Engenharia Biomédica, etc. 
+O título equivalente em língua inglesa é o *Master of Science in ...* 
 
-##### Compensa?
+Algumas instituições permitem que os créditos obtidos em disciplinas de um curso stricto sensu sejam usadas para obter o título de especialista, caso o curso seja interrompido.
 
-Depende do perfil.  
-Em termos financeiros?
-
-* graduação < :dollar: < aperfeiçoamento
-* graduação < :dollar: < especialização
-* graduação < mestrado < doutorado
-
-[Diferenças de salário](https://www.topuniversities.com/student-info/careers-advice/masters-phd-salary-benefits)
+[^outras] É possível, mas muito mais difícil, ser aceito e completar um mestrado em área diferente da de sua formação.
 
 
-Em termos do perfil, no Brasil
+De certa forma, o mestrado pode ser visto como uma **iniciação científica** mais avançada, isto é, um treinamento no método científico envolvendo a identificação de um problema, o estudo da bibliografia relacionada e a aplicação de resultados prévios de forma criativa.
+Nada impede que se vá além da reprodução de resultados e produza novo conhecimento relevante no mestrado.
+Contudo, a produção de resultado significativo só é pré-requisito para aprovação no próximo estágio, o curso de doutorado.
 
-* Doutores estão presos às universidades, com raras exceções.
-* As privadas só contratam o mínimo pois não se dedicam à pesquisa
-  * PUC é um exceção.
+Assim, um **doutorado** tem duração de 48 a 60 meses, nos quais o doutorando deve identificar um problema, possivelmente um novo problema, relevante, e produzir resultado significativo e inédito, expandindo as fronteiras do conhecimento científico na área.
+Além disso, esta produção deve ser feita de forma mais independente do orientador, pois ao final do doutorado o **doutor** deve estar apto a desenvolver novas pesquisas independentemente, embora colaborações sejam incentivadas.
 
-!!!question "Fazer Pós ou não?"
-    [fazer pós graduação ou não, eis a questão](http://noticias.universia.com.br/ciencia-tecnologia/noticia/2005/08/16/465949/fazer-pos-graduao-ou-no-eis-questo.html)
+Para a obtenção do título, o doutorando deve produzir uma **tese de doutorado** (ou *PhD dissertation*) e defendê-la perante uma banca de doutores, demostrando os requisitos mencionados acima.
+No caso de sucesso na defesa, o candidato recebe o título de **Doutor** na área, no Brasil.
+Outros países tem títulos equivalentes, como *Philosophy Doctor*, ou PhD, nos países de língua inglesa.
+
+Tanto o mestrado quanto o doutorado podem ser do tipo **profissional** ou **acadêmico**, sendo que o doutorado profissional não é comum no Brasil.
+Os do tipo profissional são desenvolvidos em ou em parceria com empresas, atacando problemas reais destas, focando-se no desenvolvimento de protótipos e na rápida transferência de conhecimento das universidades para a indústria.
+
+
+Já os do tipo acadêmico são realizados nas universidades, sem necessariamente atacar um problema com aplicabilidade imediata; isto é chamado de pesquisa básica, ou pesquisa pela pesquisa. Apesar do que se possa achar, boa parte dos avanços tecnológicos que temos hoje só foram possíveis por causa de [pesquisa básica](https://www.aau.edu/sites/default/files/%40%20Files/Research%20and%20Scholarship/Why%20University%20Research%20Matters/Infographics/laser-powerpoint.pdf):thumbsup:
+
+Na FACOM, temos um programa de pós-graduação que oferece cursos de mestrado e doutorado acadêmicos em Ciêncida da Computação. Apesar do nome dos cursos, graduados em áreas afins à computação são bem vindos e, de fato, vários ex-alunos do curso de Sistemas de Informação já passaram pelo programa.
+
+
+###### Lato Sensu
+
+Enquanto os cursos *stricto sensu* buscam formar pesquisadores, cursos *lato sensu* visam acrescentar uma habilidade prática bem mais imedidata no desenvolvimento das atividades profissionais. 
+No Brasil, este tipo de pós-graduação se divide em dois tipos, aperfeiçoamento e especialização, basicamente pela duração do curso.
+Enquanto os **aperfeiçoamentos** tem duração entre 180 e 359 horas de duração, **especializações** tem um mínimo de 360 hooras.
+
+Outra diferença importante é que especializações exigem a produção de uma monografia de conclusão de curso, enquanto o mesmo não é verdade para aperfeiçoamentos.
+
+Ao completar uma especialização, o estudante recebe o título de especialista, por exemplo, especialista em administração de redes, se o curso feito for em administração. Nenhum título é conferido no aperfeiçoamento.
+
+Uma "curiosidade" importante é que créditos créditos obtidos em programas de pós-graduação podem ser usados para obter título de especialista, mesmo sem a apresentação de uma monografia
+
+Outro termo muito em voga no mundo das qualificações é o MBA, *master of business administration*, que embora possa ser traduzido como "mestrado em administração de empresas", no Brasil é considerado uma especialização.
+
+
+###### Além das pós
+
+Assim como se pode fazer múltiplos cursos de graduação, pode-se fazer também múltiplos de pós.
+Contudo, embora seja comum múltiplas especializações e aperfeiçõamentos, dificilmente alguém faria dois mestrados ou doutoramentos.
+Isto porquê cursos *stricto sensu*  são considerados uma escada, mestrado após a graduação e doutorado após o mestrado, continuando uma linha do formação rumo a uma carreira de pesquisador, e que um doutor está apto a estender seu conhecimento sozinho, e por isso novos cursos não fazem sentido.
+
+Alguns de vocês podem estar se perguntando o que é um pós-doutorado, se não um curso de "pós-pós-graduação".
+A verdade é que um **pós-doutorado** é apenas uma atividade temporária (bico) para doutores (e.g, auxiliar de laboratório), um trabalho sem muito prestígio, para sobreviver até que se obtenha uma posição de trabalho permanente, um emprego "de verdade".
+
+No Brasil, contudo, os pós-doutorados são confundidos com estágios de pesquisa usados por pesquisadores para estabelecer colaborações com outras instituições ou iniciar uma mudança de linha de pesquisa, também conhecido como *sabático*. É por isso que de vez em quando alguns de nossos professores "desaparecem" por um ou dois anos pra fazer um **post-doc**.
+É importante reforçar que um pós-doc, não sendo um curso, não confere um título. Ninguém é "pós-doutor" ou tem "pós-doutorado" pela universide X.
+Se alguém apresenta esta credencial, ou não entende o sistema, ou está tentando dar uma incrementada artificial no currículo.
+
+Então que dizer que o doutorado é o fim da linha na carreira acadêmica? Sim e não.
+Há também a evolução para o status de **livre-docente** e **professor titular**, conferido professores experientes e que demonstrem algumas qualidades via um concurso.
+No serviço federal e, portanto, na UFU, não há a figura do livre-docente, mas nós temos vários professores titulares, que tem no mínimo 18 anos na carreira docente e com carreira relevante em termos de ensino, pesquisa e administração.
+
+
+###### Compensa?
+
+Mas para vocês que estão ainda na graduação, a pergunta que deve estar se formando em suas cabeças é fazer ou não uma pós-graduação?
+Há dois aspectos importantes nesta questão, o financeiro e o do perfil profissional.
+
+Em termos financeiros, normalmente as pós-graduações adicionam um prêmio à remuneração do profissional. Isto é, quanto mais pós, mais qualificado e melhor :dollar: remunerado o profissional.
+
+Contudo, embora aperfeiçoamentos e especializações possam ser feitos e concluídos facilmente enquanto empregados, cursos *stricto sensu* são muito demandantes e podem exigir dedicação exclusiva.
+Assim, é preciso considerar que enquanto é verdade que ao final do curso é possível que o profissional "valha" mais, também é preciso considerar que o mesmo deixou de adquirir experiência profissional durante o período em que fez o curso.
+Em uma pesquisa sobre [diferenças de salário](https://www.topuniversities.com/student-info/careers-advice/masters-phd-salary-benefits) :thumbsup: feita nos EUA, verificou-se que embora o mestrado geralmente compense em termos financeiros, o doutorado não compensa, pois a evolução salarial obtida com 4 anos de experiência é maior que a obtida com o título de doutor.
+
+Mas se este é o caso, por quê alguém faria um doutorado?
+Basicamente, para se tornar um pesquisador, ou seja, pelo perfil da pessoa.
+
+#### Atuação
+Mas o que é um pesquisador? Embora alguns [insistam](https://posgraduando.com/existe-diferenca-entre-um-pesquisador-e-um-cientista/) que o termo correto deveria ser cientista e que pesquisador é algo simples de se tornar, acho que está claro que aqui nos referimos ao profissional que procura expandir o conhecimento científico por meio da busca por problemas relevantes e pela aplicação do método científico. Dito isso, está dito tudo, mas se não, damos alguns apontadores para mais leituras:
+
+* [Academic Researcher](https://www.allaboutcareers.com/careers/career-path/academic-research#:~:text=Typically%2C%20academic%20researchers%20are%20employed,students%20with%20their%20personal%20research.)
+* [Industrial Researcher](https://cheekyscientist.com/why-its-better-to-be-research-scientist-in-industry-than-in-academia/)
+
+Na prática, em termos de Brasil, doutores estão "presos" às universidades, com raras exceções, pois se faz pouca pesquisa fora das mesmas. Assim, tornar-ser um doutor e atuar como pesquisador no Brasil implica quase sempre em ser também professor.
+Além disso, poucas universidades privadas fazem pesquisa e, logo, é preciso pensar na Universidades Federais como destino maior dos doutores.
+Já fora do país, a situação é outra, mais amigável a doutores na indústria.
+
+Assim, [fazer pós graduação ou não, eis a questão](http://noticias.universia.com.br/ciencia-tecnologia/noticia/2005/08/16/465949/fazer-pos-graduao-ou-no-eis-questo.html). :thumbsup:
+Embora eu não possa te dar uma resposta, tanto eu quanto qualquer outro professor com quem tenha afinidade pode ser procurado para falar mais sobre os prós e contras da carreira, somando às suas leituras e buscas para achar a resposta adequada a você.
+
+???todo
+    Expandir mais sobre a forma em que atua o pesquisador.
 
 
 
