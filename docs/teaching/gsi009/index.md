@@ -566,9 +566,7 @@ O trabalho e a monografia devem ser defendidos diante de uma banca de doutores d
 Caso aprovado, o estudante recebe o título de Mestre, por exemplo, Mestre em Ciência da Computação, Mestre em Engenharia Biomédica, etc. 
 O título equivalente em língua inglesa é o *Master of Science in ...* 
 
-Algumas instituições permitem que os créditos obtidos em disciplinas de um curso stricto sensu sejam usadas para obter o título de especialista, caso o curso seja interrompido.
-
-[^outras] É possível, mas muito mais difícil, ser aceito e completar um mestrado em área diferente da de sua formação.
+[^outras]: É possível, mas muito mais difícil, ser aceito e completar um mestrado em área diferente da de sua formação.
 
 
 De certa forma, o mestrado pode ser visto como uma **iniciação científica** mais avançada, isto é, um treinamento no método científico envolvendo a identificação de um problema, o estudo da bibliografia relacionada e a aplicação de resultados prévios de forma criativa.
@@ -581,6 +579,8 @@ Além disso, esta produção deve ser feita de forma mais independente do orient
 Para a obtenção do título, o doutorando deve produzir uma **tese de doutorado** (ou *PhD dissertation*) e defendê-la perante uma banca de doutores, demostrando os requisitos mencionados acima.
 No caso de sucesso na defesa, o candidato recebe o título de **Doutor** na área, no Brasil.
 Outros países tem títulos equivalentes, como *Philosophy Doctor*, ou PhD, nos países de língua inglesa.
+
+Normalmente o Doutorado deve ser precedido por um Mestrado, mas algumas instituições permitem o ingresso no doutorado diretamente, para candidatos excepcionais. Embora eu não tenha estatísticas concretas em mãos, meu sentimento é que é mais comum o insucesso nesta modaliddae que na normal.
 
 Tanto o mestrado quanto o doutorado podem ser do tipo **profissional** ou **acadêmico**, sendo que o doutorado profissional não é comum no Brasil.
 Os do tipo profissional são desenvolvidos em ou em parceria com empresas, atacando problemas reais destas, focando-se no desenvolvimento de protótipos e na rápida transferência de conhecimento das universidades para a indústria.
@@ -650,6 +650,11 @@ Já fora do país, a situação é outra, mais amigável a doutores na indústri
 
 Assim, [fazer pós graduação ou não, eis a questão](http://noticias.universia.com.br/ciencia-tecnologia/noticia/2005/08/16/465949/fazer-pos-graduao-ou-no-eis-questo.html). :thumbsup:
 Embora eu não possa te dar uma resposta, tanto eu quanto qualquer outro professor com quem tenha afinidade pode ser procurado para falar mais sobre os prós e contras da carreira, somando às suas leituras e buscas para achar a resposta adequada a você.
+
+
+Para saber um pouco mais sobre a carreira de pesquisador ou, como fazem questão alguns, cientistas, assista ao seguinte vídeo (a parte interessante começa em 19:10).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/75xfmEZLklU?start=1150" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ???todo
     Expandir mais sobre a forma em que atua o pesquisador.
