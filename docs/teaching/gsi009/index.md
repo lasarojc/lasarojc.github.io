@@ -660,11 +660,29 @@ Para saber um pouco mais sobre a carreira de pesquisador ou, como fazem questão
     Expandir mais sobre a forma em que atua o pesquisador.
 
 
-
-
 ## Semana 5
 ### Atividade Síncrona
+#### Computação Verde.
+
 ### Atividade Assíncrona
+
+Para esta semana, separei algumas leituras interessantes sobre como a tecnologia impacta nosso ambiente.
+
+O primeiro artigo descreve um experimento da Microsoft para usar o oceano como sistema de refrigeramento natural para datacenters submersos. O segundo fala sobre a retirada, há poucos dias, depois de dois anos, do container. Um fato muito interessante é que o datacenter experimentou apenas $\frac{1}{8}$ das falhas que o datacenter que ficou em terra sofreu. Menos falhas, menos lixo.
+
+* [Microsoft tests a datacenter under the sea](https://news.microsoft.com/features/under-the-sea-microsoft-tests-a-datacenter-thats-quick-to-deploy-could-provide-internet-connectivity-for-years/) :thumbsup:
+* [Project Natick underwater datacenter](https://news.microsoft.com/innovation-stories/project-natick-underwater-datacenter/) :thumbsup:
+
+Enquanto iniciativas como esta da MS existem, se você pesquisar, verá que computação verde foi um tópico quente na segunda metade dos anos 2000 até a primeira metade dos anos 2010.
+A verdade é que muitas iniciativas se enfraqueceram, como discutido no terceiro artigo.
+
+* [Green Computing Analysis](https://www.theregister.com/2016/03/15/green_computing_analysis/) :thumbsup:
+
+Mas embora o *buzz* tenha sumido ou pelo menos diminuido, a verdade é que muito esforço é feito para infraestruturas computacionais eficientes, se não por razões ambientais, por econômicas.
+Esta visão reflete muito na forma como datacenters são construídos e operados para serem ["verdes"](https://en.wikipedia.org/wiki/Green_data_center).
+Esta é uma das forças por trás do [Open Compute Project](https://www.opencompute.org/).
+Outra evidência de que o verde ainda continua por aí é o ESG, uma avaliação de empresas feitas por investidores para decidir se deve ou não investir na mesma. ESG é a sigla em inglês para [Ambiente, Sociedade e Governança](https://www.infomoney.com.br/onde-investir/esg-do-despertar-da-relevancia-ao-desenvolvimento-no-mercado-o-que-o-investidor-precisa-saber-hoje/) :thumbsup:
+
 ## Semana 6 
 ### Atividade Síncrona
 ### Atividade Assíncrona
