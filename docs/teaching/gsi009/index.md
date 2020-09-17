@@ -683,9 +683,54 @@ Esta visão reflete muito na forma como datacenters são construídos e operados
 Esta é uma das forças por trás do [Open Compute Project](https://www.opencompute.org/).
 Outra evidência de que o verde ainda continua por aí é o ESG, uma avaliação de empresas feitas por investidores para decidir se deve ou não investir na mesma. ESG é a sigla em inglês para [Ambiente, Sociedade e Governança](https://www.infomoney.com.br/onde-investir/esg-do-despertar-da-relevancia-ao-desenvolvimento-no-mercado-o-que-o-investidor-precisa-saber-hoje/) :thumbsup:
 
+
 ## Semana 6 
 ### Atividade Síncrona
+#### Propriedade Intelectual
+
 ### Atividade Assíncrona
+#### Registro de Software
+
+Nesta atividade, complementaremos o conteúdo visto na apresentação feita na atividade síncrona, nos focando em aspectos práticos para quem é da área de computação.
+Apenas reforçando, temos como principais conceitos e derivados os seguintes: 
+
+```mermaid
+graph TD
+    A[Propriedade intelectual] --> B[Propriedade Industrial] --> E1[Patente]
+                                       B --> E2[Marca]
+                                   B --> E3[...]
+     A[Propriedade intelectual] --> D[Direitor Autoral] --> E4[Direito Moral]
+                                   D --> E5[Direto Patrimonial]
+```
+
+Para uma revisão destes conceitos, consulte os seguintes sítios:
+
+* [Notas introdutórias sobre a propriedade intelectual](https://jus.com.br/artigos/23908/notas-introdutorias-sobre-a-propriedade-industrial) :thumbsup:
+* [Propriedade Intelectual - Portal da Indústria](http://www.portaldaindustria.com.br/cni/canais/propriedade-intelectual-cni/propriedade-intelectual/legislacao/#anchor-intro) :thumbsup:
+* [Propriedade Intelectual: direitos morais e patrimoniais do autor](https://claudiamaraviegas.jusbrasil.com.br/artigos/760054169/propriedade-intelectual-direitos-morais-e-patrimoniais-do-autor) :thumbsup:
+
+Importante para nós, é o registro de Software, mecanismo pelo qual se facilida a garantia da **propriedade intelectual** sobre o software. 
+Observe que o registro de software não é uma forma de proteção da propriedade industrial pois um software, na [legislação brasileira, Lei 9609](https://www.planalto.gov.br/ccivil_03/leis/l9609.htm):thumbsup:, também conhecida como "Lei do Software", está mais para uma obra literária que uma invenção.
+
+Duas observações são importantes aqui. Primeiro, a lei deixa claro que o software desenvolvido no contexto de um contrato de serviço, é de propriedade do contratante, e não do desenvolvedor; não há nem mesmo o direito de ser reconhecido como autor.
+
+Segundo, se o software for parte de um sistema maior, composto também por hardware, ele pode ser incluído em uma patente para proteção da propriedade industrial. Além disso, é importante que se saiba que uma patente pode ser requisitada em outras jurisdições, como no [United States Patent and Trademark Office](https://www.uspto.gov/) ou equivalentes ao redor do mundo.
+
+Chamo à atenção o Art. 6o da lei do software, que trata do plágio de software. A cópia do código indica claramente plágio, mas a cópia da funcionalidade é algo debatível.
+
+!!!quote "Lei 9609 - Arg 6o, Inciso III"
+    a ocorrência de semelhança de programa a outro, preexistente, quando se der por força das características funcionais de sua aplicação, da observância de preceitos normativos e técnicos, ou de limitação de forma alternativa para a sua expressão;
+
+Ora, se um programa resolve o mesmo problema, de um mesmo domínio, em um ambiente computacional semelhante, algumas características serão semelhantes. O quão semelhante constitui plágio? Este é um trabalho para o juiz da causa, que provavelmente não entende nada de computação, determinar.
+
+#### Licenças
+
+???todo "TODO"
+   Expandir motivação sobre licenças
+
+Para escolher uma licença para o seu software (ou mesmo outras criações), use a ferramenta [choose a license](https://choosealicense.com/licenses/):thumbsup:, que compara as principais.
+Caso estas não lhe atendam, ou caso queira entender o que outras licensas querem dizer, a Wikipedia tem um bom e vasto [comparativo](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
+
 ## Semana 7 
 ### Atividade Síncrona
 ### Atividade Assíncrona
