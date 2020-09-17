@@ -664,6 +664,9 @@ Para saber um pouco mais sobre a carreira de pesquisador ou, como fazem questão
 ### Atividade Síncrona
 #### Computação Verde.
 
+Apresentação dos alunos sobre tema computação verde.
+A atividade foi gravada e está disponível no canal correspondente.
+
 ### Atividade Assíncrona
 
 Para esta semana, separei algumas leituras interessantes sobre como a tecnologia impacta nosso ambiente.
@@ -687,6 +690,9 @@ Outra evidência de que o verde ainda continua por aí é o ESG, uma avaliação
 ## Semana 6 
 ### Atividade Síncrona
 #### Propriedade Intelectual
+
+Apresentação dos alunos sobre o tema "Propriedade Intelectual"
+A atividade foi gravada e está disponível no canal correspondente.
 
 ### Atividade Assíncrona
 #### Registro de Software
