@@ -32,7 +32,7 @@ onde $N(X_i)$ é a $i$-ésima atividade do tipo $X$, de um total de $m$.
 
 ### Atividades Assíncronas
 
-**Assista e leia** a pelo menos os item marcados com o ícone :thumbsup: e então responda aos questionários da semana no Teams.
+**Assista e leia** a pelo menos os item marcados com o ícone :warning: e então responda aos questionários da semana no Teams.
 Você deve cumprir as atividade **até o fim do dia anterior ao da próxima atividade síncrona**. Na última semana, a atividade deve ser cumprida **até a sexta-feira** da mesma semana.
 
 ### Seminários
@@ -256,15 +256,15 @@ Outro exemplo, o filme [Minority Report](https://www.netflix.com/title/60023071)
 
 Apesar do futurismo do vídeos, situações exatamente como estas já estão acontecendo, como se pode ver em
 
-* [Facial recognition, data harvesting and the end of privacy](https://www.verdict.co.uk/facial-recognition-data-harvesting/):thumbsup:
-* [Facing Up to Facial Recognition](https://spectrum.ieee.org/computing/software/facing-up-to-facial-recognition):thumbsup:
-* <iframe width="560" height="315" src="https://www.youtube.com/embed/7lpCWxlRFAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> :thumbsup:
+* [Facial recognition, data harvesting and the end of privacy](https://www.verdict.co.uk/facial-recognition-data-harvesting/):warning:
+* [Facing Up to Facial Recognition](https://spectrum.ieee.org/computing/software/facing-up-to-facial-recognition):warning:
+* <iframe width="560" height="315" src="https://www.youtube.com/embed/7lpCWxlRFAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> :warning:
 * [Police Unlock AI's Potential to Monitor, Surveil and Solve Crimes](https://www.youtube.com/watch?v=H_fyQCeBaeM&feature=emb_rel_end)
 
 Embora o reconhecimento facial receba grande parte da atenção ![Reconhecimento Facial](images/facial-recognition.png), há vários outros exemplos de tecnologia sendo usada em detrimento da sociedade, não por erro do julgamento, mas por direta ação de engenheiros, administradores e **desenvolvedores de software**, é o caso da Volkswagen, documentado no Episódio 1, Temporada 1, de [Dirty Money](https://www.netflix.com/title/80118100), no Netflix. 
 Fontes sobre o mesmo assunto abundam, por exemplo 
 
-* [Volkswagen emissions scandal](https://www.wired.com/2015/09/vw-fool-epa-couldnt-trick-chemistry/):thumbsup:
+* [Volkswagen emissions scandal](https://www.wired.com/2015/09/vw-fool-epa-couldnt-trick-chemistry/):warning:
 
 Felizmente, há também reações dos seus colegas de profissão, como visto na iniciativa [Ethical OS](https://ethicalos.org/), que discutiremos nas próximas semanas.
 
@@ -475,15 +475,15 @@ No seu *feed* do Facebook por exemplo, você deve receber muito mais notícias s
 Acontece que esta abordagem reforça seus interesses e lhe mantem é uma bolha.
 Há vários casos documentados de viés no mundo da IA. 
 
-[![5-unexpected-sources-of-bias-in-artificial-intelligence](images/vies_ia.png)](https://techcrunch.com/2016/12/10/5-unexpected-sources-of-bias-in-artificial-intelligence/) :thumbsup: 
+[![5-unexpected-sources-of-bias-in-artificial-intelligence](images/vies_ia.png)](https://techcrunch.com/2016/12/10/5-unexpected-sources-of-bias-in-artificial-intelligence/) :warning: 
 
 O problema principal aqui é que nossos viéses são reproduzidos sem nos darmos conta, e estes viéses poderiam ser a razão da nossa destruição. Se você nunca se preocupou com destruir formigas, seres inferiores a você, por quê uma IA deveria se importar com você, se lhe julgar inferior?
 
-[![ant-stomp](images/ant-stomp.jpg)](https://ideas.ted.com/how-the-gains-we-make-in-ai-could-ultimately-destroy-us/) :thumbsup:
+[![ant-stomp](images/ant-stomp.jpg)](https://ideas.ted.com/how-the-gains-we-make-in-ai-could-ultimately-destroy-us/) :warning:
 
 E alguns certamente acham que seremos inferiores em algum momento.
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div> :thumbsup:
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div> :warning:
 
 Eles certamente já jogam Mário melhor que eu.
 
@@ -491,14 +491,14 @@ Eles certamente já jogam Mário melhor que eu.
 
 Para previnir este desastre, isto é, que elas se tornem superiores, não que elas joguem Mário melhor que nós, alguns advogam que limitemos o poder das IA.
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div> :thumbsup:
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div> :warning:
 
 O que você acha?  
 
 Mesmo se limitarmos o poder de decisão da AI em nossas vidas, algumas situações certamente virão em um futuro próximo.
 Por exemplo, vejamos alguns dos dilemas que veículos auto dirigíveis enfrentarão.
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/patrick_lin_the_ethical_dilemma_of_self_driving_cars" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div> :thumbsup:
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/patrick_lin_the_ethical_dilemma_of_self_driving_cars" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div> :warning:
 
 Como nós, como desenvolvedores podemos ajudar, ou pelo menos não piorar, o futuro da humanidade?
 
@@ -557,7 +557,7 @@ Os cursos *stricto sensu* são mais voltados para atuação na academia e pesqui
 Em outras palavras, são pré-requisitos para se atuar na docência no ensino superior e o caminho mais direto para se tornar um pesquisador.
 
 Este tipo de pós-graduação é subdividido em dois tipos, oferecidos por universidades e, em número menor, centros de pesquisa.  
-O primeiro tipo é o **mestrado**, um curso com duração de 24 a 30 meses em que o estudante deve se aprofundar em tópicos de sua área de formação [^outras], além de aprender/aperfeiçoar o uso do [método científico](https://pt.wikipedia.org/wiki/M%C3%A9todo_cient%C3%ADfico) :thumbsup: na resolução de problemas.
+O primeiro tipo é o **mestrado**, um curso com duração de 24 a 30 meses em que o estudante deve se aprofundar em tópicos de sua área de formação [^outras], além de aprender/aperfeiçoar o uso do [método científico](https://pt.wikipedia.org/wiki/M%C3%A9todo_cient%C3%ADfico) :warning: na resolução de problemas.
 
 
 Ao final do mestrado, o estudante produz uma monografia que resume o trabalho é denominado **dissertação de mestrado** (ou *master thesis*, nos países de língua inglesa).
@@ -586,7 +586,7 @@ Tanto o mestrado quanto o doutorado podem ser do tipo **profissional** ou **acad
 Os do tipo profissional são desenvolvidos em ou em parceria com empresas, atacando problemas reais destas, focando-se no desenvolvimento de protótipos e na rápida transferência de conhecimento das universidades para a indústria.
 
 
-Já os do tipo acadêmico são realizados nas universidades, sem necessariamente atacar um problema com aplicabilidade imediata; isto é chamado de pesquisa básica, ou pesquisa pela pesquisa. Apesar do que se possa achar, boa parte dos avanços tecnológicos que temos hoje só foram possíveis por causa de [pesquisa básica](https://www.aau.edu/sites/default/files/%40%20Files/Research%20and%20Scholarship/Why%20University%20Research%20Matters/Infographics/laser-powerpoint.pdf):thumbsup:
+Já os do tipo acadêmico são realizados nas universidades, sem necessariamente atacar um problema com aplicabilidade imediata; isto é chamado de pesquisa básica, ou pesquisa pela pesquisa. Apesar do que se possa achar, boa parte dos avanços tecnológicos que temos hoje só foram possíveis por causa de [pesquisa básica](https://www.aau.edu/sites/default/files/%40%20Files/Research%20and%20Scholarship/Why%20University%20Research%20Matters/Infographics/laser-powerpoint.pdf):warning:
 
 Na FACOM, temos um programa de pós-graduação que oferece cursos de mestrado e doutorado acadêmicos em Ciêncida da Computação. Apesar do nome dos cursos, graduados em áreas afins à computação são bem vindos e, de fato, vários ex-alunos do curso de Sistemas de Informação já passaram pelo programa.
 
@@ -633,7 +633,7 @@ Em termos financeiros, normalmente as pós-graduações adicionam um prêmio à 
 
 Contudo, embora aperfeiçoamentos e especializações possam ser feitos e concluídos facilmente enquanto empregados, cursos *stricto sensu* são muito demandantes e podem exigir dedicação exclusiva.
 Assim, é preciso considerar que enquanto é verdade que ao final do curso é possível que o profissional "valha" mais, também é preciso considerar que o mesmo deixou de adquirir experiência profissional durante o período em que fez o curso.
-Em uma pesquisa sobre [diferenças de salário](https://www.topuniversities.com/student-info/careers-advice/masters-phd-salary-benefits) :thumbsup: feita nos EUA, verificou-se que embora o mestrado geralmente compense em termos financeiros, o doutorado não compensa, pois a evolução salarial obtida com 4 anos de experiência é maior que a obtida com o título de doutor.
+Em uma pesquisa sobre [diferenças de salário](https://www.topuniversities.com/student-info/careers-advice/masters-phd-salary-benefits) :warning: feita nos EUA, verificou-se que embora o mestrado geralmente compense em termos financeiros, o doutorado não compensa, pois a evolução salarial obtida com 4 anos de experiência é maior que a obtida com o título de doutor.
 
 Mas se este é o caso, por quê alguém faria um doutorado?
 Basicamente, para se tornar um pesquisador, ou seja, pelo perfil da pessoa.
@@ -648,7 +648,7 @@ Na prática, em termos de Brasil, doutores estão "presos" às universidades, co
 Além disso, poucas universidades privadas fazem pesquisa e, logo, é preciso pensar na Universidades Federais como destino maior dos doutores.
 Já fora do país, a situação é outra, mais amigável a doutores na indústria.
 
-Assim, [fazer pós graduação ou não, eis a questão](http://noticias.universia.com.br/ciencia-tecnologia/noticia/2005/08/16/465949/fazer-pos-graduao-ou-no-eis-questo.html). :thumbsup:
+Assim, [fazer pós graduação ou não, eis a questão](http://noticias.universia.com.br/ciencia-tecnologia/noticia/2005/08/16/465949/fazer-pos-graduao-ou-no-eis-questo.html). :warning:
 Embora eu não possa te dar uma resposta, tanto eu quanto qualquer outro professor com quem tenha afinidade pode ser procurado para falar mais sobre os prós e contras da carreira, somando às suas leituras e buscas para achar a resposta adequada a você.
 
 
@@ -673,18 +673,18 @@ Para esta semana, separei algumas leituras interessantes sobre como a tecnologia
 
 O primeiro artigo descreve um experimento da Microsoft para usar o oceano como sistema de refrigeramento natural para datacenters submersos. O segundo fala sobre a retirada, há poucos dias, depois de dois anos, do container. Um fato muito interessante é que o datacenter experimentou apenas $\frac{1}{8}$ das falhas que o datacenter que ficou em terra sofreu. Menos falhas, menos lixo.
 
-* [Microsoft tests a datacenter under the sea](https://news.microsoft.com/features/under-the-sea-microsoft-tests-a-datacenter-thats-quick-to-deploy-could-provide-internet-connectivity-for-years/) :thumbsup:
-* [Project Natick underwater datacenter](https://news.microsoft.com/innovation-stories/project-natick-underwater-datacenter/) :thumbsup:
+* [Microsoft tests a datacenter under the sea](https://news.microsoft.com/features/under-the-sea-microsoft-tests-a-datacenter-thats-quick-to-deploy-could-provide-internet-connectivity-for-years/) :warning:
+* [Project Natick underwater datacenter](https://news.microsoft.com/innovation-stories/project-natick-underwater-datacenter/) :warning:
 
 Enquanto iniciativas como esta da MS existem, se você pesquisar, verá que computação verde foi um tópico quente na segunda metade dos anos 2000 até a primeira metade dos anos 2010.
 A verdade é que muitas iniciativas se enfraqueceram, como discutido no terceiro artigo.
 
-* [Green Computing Analysis](https://www.theregister.com/2016/03/15/green_computing_analysis/) :thumbsup:
+* [Green Computing Analysis](https://www.theregister.com/2016/03/15/green_computing_analysis/) :warning:
 
 Mas embora o *buzz* tenha sumido ou pelo menos diminuido, a verdade é que muito esforço é feito para infraestruturas computacionais eficientes, se não por razões ambientais, por econômicas.
 Esta visão reflete muito na forma como datacenters são construídos e operados para serem ["verdes"](https://en.wikipedia.org/wiki/Green_data_center).
 Esta é uma das forças por trás do [Open Compute Project](https://www.opencompute.org/).
-Outra evidência de que o verde ainda continua por aí é o ESG, uma avaliação de empresas feitas por investidores para decidir se deve ou não investir na mesma. ESG é a sigla em inglês para [Ambiente, Sociedade e Governança](https://www.infomoney.com.br/onde-investir/esg-do-despertar-da-relevancia-ao-desenvolvimento-no-mercado-o-que-o-investidor-precisa-saber-hoje/) :thumbsup:
+Outra evidência de que o verde ainda continua por aí é o ESG, uma avaliação de empresas feitas por investidores para decidir se deve ou não investir na mesma. ESG é a sigla em inglês para [Ambiente, Sociedade e Governança](https://www.infomoney.com.br/onde-investir/esg-do-despertar-da-relevancia-ao-desenvolvimento-no-mercado-o-que-o-investidor-precisa-saber-hoje/) :warning:
 
 
 ## Semana 6 
@@ -711,12 +711,12 @@ graph TD
 
 Para uma revisão destes conceitos, consulte os seguintes sítios:
 
-* [Notas introdutórias sobre a propriedade intelectual](https://jus.com.br/artigos/23908/notas-introdutorias-sobre-a-propriedade-industrial) :thumbsup:
-* [Propriedade Intelectual - Portal da Indústria](http://www.portaldaindustria.com.br/cni/canais/propriedade-intelectual-cni/propriedade-intelectual/legislacao/#anchor-intro) :thumbsup:
-* [Propriedade Intelectual: direitos morais e patrimoniais do autor](https://claudiamaraviegas.jusbrasil.com.br/artigos/760054169/propriedade-intelectual-direitos-morais-e-patrimoniais-do-autor) :thumbsup:
+* [Notas introdutórias sobre a propriedade intelectual](https://jus.com.br/artigos/23908/notas-introdutorias-sobre-a-propriedade-industrial) :warning:
+* [Propriedade Intelectual - Portal da Indústria](http://www.portaldaindustria.com.br/cni/canais/propriedade-intelectual-cni/propriedade-intelectual/legislacao/#anchor-intro) :warning:
+* [Propriedade Intelectual: direitos morais e patrimoniais do autor](https://claudiamaraviegas.jusbrasil.com.br/artigos/760054169/propriedade-intelectual-direitos-morais-e-patrimoniais-do-autor) :warning:
 
 Importante para nós, é o registro de Software, mecanismo pelo qual se facilida a garantia da **propriedade intelectual** sobre o software. 
-Observe que o registro de software não é uma forma de proteção da propriedade industrial pois um software, na [legislação brasileira, Lei 9609](https://www.planalto.gov.br/ccivil_03/leis/l9609.htm):thumbsup:, também conhecida como "Lei do Software", está mais para uma obra literária que uma invenção.
+Observe que o registro de software não é uma forma de proteção da propriedade industrial pois um software, na [legislação brasileira, Lei 9609](https://www.planalto.gov.br/ccivil_03/leis/l9609.htm):warning:, também conhecida como "Lei do Software", está mais para uma obra literária que uma invenção.
 
 Duas observações são importantes aqui. Primeiro, a lei deixa claro que o software desenvolvido no contexto de um contrato de serviço, é de propriedade do contratante, e não do desenvolvedor; não há nem mesmo o direito de ser reconhecido como autor.
 
@@ -734,17 +734,44 @@ Ora, se um programa resolve o mesmo problema, de um mesmo domínio, em um ambien
 ???todo "TODO"
    Expandir motivação sobre licenças
 
-Para escolher uma licença para o seu software (ou mesmo outras criações), use a ferramenta [choose a license](https://choosealicense.com/licenses/):thumbsup:, que compara as principais.
+Para escolher uma licença para o seu software (ou mesmo outras criações), use a ferramenta [choose a license](https://choosealicense.com/licenses/):warning:, que compara as principais.
 Caso estas não lhe atendam, ou caso queira entender o que outras licensas querem dizer, a Wikipedia tem um bom e vasto [comparativo](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
 
 ## Semana 7 
 ### Atividade Síncrona
+
+Apresentação dos alunos sobre o tema "Hacking e Privacidade"
+A atividade foi gravada e está disponível no canal correspondente.
+
 ### Atividade Assíncrona
+
+Na atidadade assíncrona desta semana, você aprenderá um pouco mais sobre [Teste de Penetração](https://www.imperva.com/learn/application-security/penetration-testing/) :alert:
+
+Para aqueles que quiserem saber mais sobre hacking ético, este [curso introdutório](https://youtu.be/3Kq1MIfTWCE) tem 15 horas de duração.
+
+Uma [cartilha sobre a LGPD](https://teams.microsoft.com/l/file/58ae9bdc-f414-4674-9272-a12460705ea0?tenantId=cd5e6d23-cb99-4189-88ab-1a9021a0c451&fileType=pdf&objectUrl=https%3A%2F%2Fufubr.sharepoint.com%2Fsites%2FGSI009-AARE%2FDocumentos%20Compartilhados%2FPrivacidade%20e%20Hacking%2FCartilha-Seguranc%CC%A7a-Da-Informac%CC%A7a%CC%83o-Faculdade-SENAI-FIESC.pdf&baseUrl=https%3A%2F%2Fufubr.sharepoint.com%2Fsites%2FGSI009-AARE&serviceName=teams&threadId=19:4273e014611c4c64a672b9a5fc43ef72@thread.tacv2&messageId=1600459906045&groupId=c380e925-e50b-47b0-8464-063f6e5cea13) :alert: foi disponbilizada no canal do tema
+
+E, por recomendação dos colegas, assisti ao filme [The Social Dilemma](https://www.netflix.com/watch/81254224) :alert: que agora recomendo a vocês fortemente.
+
+
+
 ## Semana 8 
 ### Atividade Síncrona
 ### Atividade Assíncrona
 ## Semana 9 
 ### Atividade Síncrona
 ### Atividade Assíncrona
+
+## Material complementar
+
+Material extra, em vários tópicos
+
+### Carreira
+
+Neste blog, discute-se o que é esperado de profissionais em vários níveis de suas carreiras, do ponto de vista do recrutador. Se você sabe o que é esperado, pode se preparar melhor.
+
+* [Checklist de avaliação de Desenvolvedores Junior X Senior](https://blog.hackerrank.com/checklist-your-guide-to-assessing-junior-vs-senior-developers)
+* [Checklist de avaliacão de desenvolvedor back-end](https://blog.hackerrank.com/back-end-developer-checklist/)
+
 
 ???todo "EthicOS"
