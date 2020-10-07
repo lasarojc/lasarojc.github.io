@@ -780,7 +780,11 @@ Neste blog, discute-se o que é esperado de profissionais em vários níveis de 
 * [Checklist de avaliação de Desenvolvedores Junior X Senior](https://blog.hackerrank.com/checklist-your-guide-to-assessing-junior-vs-senior-developers)
 * [Checklist de avaliacão de desenvolvedor back-end](https://blog.hackerrank.com/back-end-developer-checklist/)
 * [Why software is eating the world](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
+
+### LGPD
 * LGPD em uma página:  
   [![LGPD em uma Página](images/lgpd-one-pager.png)](https://www.linkedin.com/in/mario-peixoto/) ([pdf](images/lgpd-one-pager.pdf))
 
-???todo "EthicOS"
+### Ética na Computação
+* [Center for Humane Technology](https://www.humanetech.com/#intro)
+* [Ethical OS](https://ethicalos.org/)

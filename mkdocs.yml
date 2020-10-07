@@ -1,15 +1,34 @@
 site_name: Dr. Lásaro Jonas Camargos
+google_analytics:
+        - UA-167738477-1
+        - auto
+
 nav:
         - About: index.md
         - Research: publications/index.md
         - Students: students/index.md
         - Teaching: 
-            - 'Profissão em Sistemas de Informação (AARE E1)': teaching/gsi009/index.md
+            - 'Profissão em SI - E1': teaching/gsi009/index.md
             #   - 'Profissão em Sistemas de Informação': teaching/gsi009/index.md
-            #   - 'Sistemas Distribuídos': teaching/gbc074gsi028/index.md
+            - 'Sistemas Distribuídos - E2': 
+                - Prólogo: teaching/gbc074gsi028/index.md
+                - Introdução: teaching/gbc074gsi028/intro/index.md
+                - Fundamentos: teaching/gbc074gsi028/basics/index.md
+                - Comunicação: teaching/gbc074gsi028/comm/index.md
+                - Arquiteturas: teaching/gbc074gsi028/arch/index.md
+                - Coordenação: teaching/gbc074gsi028/coord/index.md
+                - Tempo: teaching/gbc074gsi028/time/index.md
+                - Tolerância a Falhas: teaching/gbc074gsi028/fault/index.md
+                - Bancos de Dados: teaching/gbc074gsi028/disdb/index.md
+                - Sistemas de Arquivos: teaching/gbc074gsi028/disfs/index.md
+                - Tecnologias: teaching/gbc074gsi028/tech/index.md
 
 theme:
         name: material #readthedocs
+        language: pt
+        features:
+            - navigation.tabs
+            - header.autohide
 plugins:
         - search
         - drawio-exporter:
@@ -18,7 +37,10 @@ plugins:
                 drawio_args: []
                 format: svg
                 sources: '*.drawio'
+
 markdown_extensions:
+        - toc:
+            toc_depth: 3
         - mdx_math
         - admonition
         - footnotes
