@@ -1,0 +1,421 @@
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="shortcut icon" href="../../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1, mkdocs-material-5.1.1">
+    
+    
+      
+        <title>Aula 3 - Logística e Introdução</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../assets/stylesheets/main.a676eddb.min.css">
+      
+      
+    
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#projetos" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href="../../../.." title="Dr. Lásaro Jonas Camargos" class="md-header-nav__button md-logo" aria-label="Dr. Lásaro Jonas Camargos">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,8A3,3 0 0,0 15,5A3,3 0 0,0 12,2A3,3 0 0,0 9,5A3,3 0 0,0 12,8M12,11.54C9.64,9.35 6.5,8 3,8V19C6.5,19 9.64,20.35 12,22.54C14.36,20.35 17.5,19 21,19V8C17.5,8 14.36,9.35 12,11.54Z" /></svg>
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z" /></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            Dr. Lásaro Jonas Camargos
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              Aula 3 - Logística e Introdução
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" /></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active">
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" /></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z" /></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+        
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../.." title="Dr. Lásaro Jonas Camargos" class="md-nav__button md-logo" aria-label="Dr. Lásaro Jonas Camargos">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,8A3,3 0 0,0 15,5A3,3 0 0,0 12,2A3,3 0 0,0 9,5A3,3 0 0,0 12,8M12,11.54C9.64,9.35 6.5,8 3,8V19C6.5,19 9.64,20.35 12,22.54C14.36,20.35 17.5,19 21,19V8C17.5,8 14.36,9.35 12,11.54Z" /></svg>
+
+    </a>
+    Dr. Lásaro Jonas Camargos
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../.." title="About" class="md-nav__link">
+      About
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../../publications/" title="Research" class="md-nav__link">
+      Research
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../../students/" title="Students" class="md-nav__link">
+      Students
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
+    
+    <label class="md-nav__link" for="nav-4">
+      Teaching
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Teaching" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Teaching
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../gsi009/" title="Profissão em Sistemas de Informação (AARE E1)" class="md-nav__link">
+      Profissão em Sistemas de Informação (AARE E1)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                  
+                
+                
+                <h1 id="projetos">Projetos</h1>
+<p>A ideia do estudo orientado a projetos é sedimentar os conceitos vistos em aula teórica pela prática.
+Cada grupo de alunos definirá o seu próprio projeto, dentro de certos de limites e de forma a exercitar os conceitos aprendidos.
+Todo requisito do trabalho deve ser demonstrado na apresentação, feita diretamente a mim.</p>
+<ul>
+<li>Projeto: </li>
+<li>Entregas por repositório <strong>Github público</strong> até 23:59 da data da entrega.</li>
+<li>A cada dia de atraso, o valor total do trabalho sofrerá 3% de desconto.</li>
+<li>Após uma semana, o trabalho não pode ser mais entregue.</li>
+<li>Todos os membros do grupo deverão estar aptos a apresentar o trabalho.</li>
+<li>A qualidade do código será julgada.</li>
+<li>Qualquer linguagem suportada por gRPC pode ser utilizada.</li>
+<li>Relatório indicando todos os passos para se clonar o código, compilá-lo, executá-lo e testá-lo.</li>
+<li>Todas as dependências devem ser baixadas automaticamente durante a compilação (sugestão, usar maven).</li>
+<li>Entrega 0<ul>
+<li>Formalização do projeto</li>
+<li>Descrição suscinta do serviço a ser implementado para a primeira entrega, incluindo os componentes que você jé vê como os grandes blocos da sua arquitetura (client, applicativo, servidor...).</li>
+<li>Individual - Alguns destes projetos serão descartados para a segunda entrega.</li>
+<li>Lista de testes a serem implementados. Algumas sugestões são: </li>
+<li>teste de concorrência: demonstrando que múltiplos clientes podem acessar o serviço ao mesmo tempo, sem comportamentos estranhos.</li>
+<li>teste de recuperação de falhas: quando um componente falha e volta a executar, ele não leva o sistema a nenhum estado inesperado.</li>
+<li>demonstração de funcionalidades: mostre que as funcionalidades estão implementadas, por exemplo, se seu sistema é um banco de dados, demonstre CRUD dos dados..</li>
+</ul>
+</li>
+<li>Entrega 1<ul>
+<li>Seu projeto foi combinado com o professor e ajustes foram feitos. Você deverá agora implementá-lo.</li>
+<li>Trabalho em grupos de 4 alunos.</li>
+<li>Escolham um dos trabalhos da entrega 0 dos membros do grupo para construir o trabalho 1.</li>
+<li>Elementos mínimos de todos os projetos:</li>
+<li>Cliente TCP/IP ou UDP/IP: executa operações interativamente e sem erros; não recria sockets desnecessariamente.</li>
+<li>Cliente TCP/IP ou UDP/IP para testes automatizados: executa baterias de testes; reporta testes falhos e bem sucedidos; simula múltiplos clientes concorrentes.</li>
+<li>Servidor TCP/IP ou UPD: serve requisições concorrentes de múltiplos clientes;<ul>
+<li>O servidor deve manter alguma forma de estado acessado concorrentemente pelos clientes.</li>
+<li>Controle de concorrência nos clientes deverá ser implementado.</li>
+<li>Em caso de reinicializações, recupera o estado anterior;</li>
+</ul>
+</li>
+<li>Execução em mais de uma máquina.</li>
+<li>Codificação de dados deve usar constantes pré-definidas e com mnemônicos, isto é, nada de mandar 1 para Criar e 2 para Apagar, mas CRIAR e APAGAR.</li>
+</ul>
+</li>
+<li>Entrega 2<ul>
+<li>Toda a comunicação deverá ser substituída por gRPC;</li>
+<li>Toda operação a ser executada no servidor deve ser definida pela função, não por parâmetro (por exemplo, use funções "somar" e "subtrair", não uma única função "calcular" com parâmetro indicando se é para somar ou subtrair);</li>
+<li>O estado armazenado no servidor deve ser composto por log + snapshots dos dados, como visto na aula <a href="https://lasarojc.github.io/ds_notes/notes/p2p/2_ed_sd.html">sobre estruturas de dados para sistemas distribuídos</a>;</li>
+<li>Assuma que todos os dados cabem em memória e portanto em uma única sstable, isto é, sstables são snapshots da memória;</li>
+<li>Não é necessário implementar compactação;</li>
+<li>Escreva um texto de até uma página explicando como e porquê <em>Log Structured Merge Trees</em> seriam usadas no projeto;</li>
+<li>Outros elements dependerão de cada trabalho, com duas opções:</li>
+<li>O serviço será particionado usando <em>consistent hashing</em>;<ul>
+<li>O roteamento entre pares é feito via <em>finger table</em>;</li>
+<li>Qualquer nó pode receber requisições dos clientes e é capaz de encaminhá-las para o nó correto;</li>
+<li>Pode assumir que o conjunto de nós é conhecido e estático;</li>
+<li>Todos os processos que param de funcionar voltam ao normal depois de um tempo;</li>
+<li>Não há pontos únicos de falha no sistema (processos que se falharem paralisam todo o sistema);</li>
+<li>Os dados são particionados usando alguma chave que os identifique;</li>
+<li>A chave externa depende da aplicação;</li>
+<li>A chave interna tem um espaço significativo, por exemplo, <span><span class="MathJax_Preview">2^160</span><script type="math/tex">2^160</script></span> possíveis valores;</li>
+<li>A distribuição de carga entre os nós é uniforme;</li>
+<li>No caso de reinicialização de algum servidor, sua recuperação é baseada nos snapshots e logs;</li>
+</ul>
+</li>
+<li>O serviço será particionado usando microsserviços;<ul>
+<li>Vários microsserviços são usados para decompor funcionalmente o sistema;</li>
+<li>Os dados são roteados segundo alguma tabela pré-configurada associando função a microsserviço;</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Entrega 3<ul>
+<li>Trabalho em grupos de 4 alunos; o mesmo do trabalho anterior.</li>
+<li>O serviço será replicado e a comunicação poderá ser substituída por um método adequado.</li>
+<li>Será usada um implementação do Raft, do Paxos, ou do barramento Kafka para dar confiabilidade à comunicação.</li>
+<li>Outros detalhes serão definidos em tempo.</li>
+</ul>
+</li>
+</ul>
+<p>Laboratórios serão usados para exemplificar o uso de tecnologias. <em>A priori</em>, executar o laboratório não vale nota, mas a quizes e exercícios poderão ser atribuídos nota de participação. Além disso, são uma "mão na roda" para ajudar a fazer os trabalhos.</p>
+<p>Os alunos também farão seminários sobre tópicos "quentes" na computação distribuída.
+* 6 Seminários
+* Grupos de &#8537; da turma
+* Conteúdo:
+  * Histórico/Motivação da tecnologia.
+  * Como funciona?
+  * Tutorial/Exemplo em vídeo ou laboratório prático
+  * Questionário com 3 perguntas de múltiplas alternativas, impressas, e entregues para os alunos responderem.
+    * Nada de NDA ou todas as anteriores, ou V/F.
+  * 50 Minutos no total
+* Exemplos
+  * Kafka
+  * Kubernetes
+  * AWS Cloudformation
+  * O uso de RUST para programação distribuída.
+  * ...</p>
+<h1 id="notas">Notas</h1>
+<p>Os projetos equivalerão a 70% da nota, sendo
+* Entrega 0: 5%
+* Entrega 1: 15
+* Entrega 2: 20
+* Entrega 3: 30</p>
+<p>Seminários equivalerão a 20% da nota.</p>
+<p>Finalmente, a quizes, dinâmicas e testes surpresa, serão atribuídos até 20% da nota.</p>
+<h1 id="atendimento">Atendimento</h1>
+<ul>
+<li>Piazza: \url{piazza.com/ufu.br/semester22019/gbc074gsi028}</li>
+<li>TODA COMUNICAÇÃO deve ser iniciada via Piazza.</li>
+<li>Atendimento presencial</li>
+<li>Agendado via Piazza</li>
+<li>Sala 1b149</li>
+<li>Seg. 10:30 e 19:00</li>
+</ul>
+<h1 id="visao-geral-dos-sistemas-distribuidos">Visão geral dos sistemas distribuídos</h1>
+<p>Voltemos à nossa visão geral de Sistemas Distribuídos, para entendermos o que é um sistema distribuído e quais dificuldades encontraremos (<a href="https://lasarojc.github.io/ds_notes/notes/intro/2_oque.html">O quê?</a>. </p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../../../assets/javascripts/vendor.c51dfa35.min.js"></script>
+      <script src="../../../../assets/javascripts/bundle.eaaa3931.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents"}</script>
+      
+      <script>
+        app = initialize({
+          base: "../../../..",
+          features: [],
+          search: Object.assign({
+            worker: "../../../../assets/javascripts/worker/search.58d22e8e.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+        <script src="https://unpkg.com/mermaid@8.5.1/dist/mermaid.min.js"></script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+      
+    
+  </body>
+</html>
