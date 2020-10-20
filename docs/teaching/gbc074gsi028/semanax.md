@@ -1,6 +1,15 @@
-# Semana X
+# Semana 2
 
-## Revisão da Atividade Assíncrona da Semana X-1
+## Aula 1: Comunicação
+### Pontos principais
+### Notas de aula
+## Aula 2: Arquiteturas
+### Pontos principais
+### Notas de aula
 
-## Atividade Assíncrona X 
+## Revisão da Atividade Assíncrona da Semana 1
+
+## Atividade Assíncrona 
+
+
 

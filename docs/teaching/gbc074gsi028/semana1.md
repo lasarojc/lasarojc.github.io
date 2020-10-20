@@ -93,7 +93,7 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
 A ser divulgado em breve.
 
 
-## Aula 1
+## Aula 1: O quê? Por quê? Como?
 
 ### Notas de Aula
 * [Prólogo](https://lasarojc.github.io/ds_notes/)
@@ -108,16 +108,26 @@ A ser divulgado em breve.
     * Telemedicina
     * SpaceX
 
-## Aula 2
+## Aula 2: Tipos de SD e suas arquiteturas
 
 * [Tipos de SD](https://lasarojc.github.io/ds_notes/intro/#tipos)
 * [Arquiteturas](https://lasarojc.github.io/ds_notes/intro/#arquiteturas)
 
-
-## Atividade Assíncrona: O que? Por quê? Como?
+### Notas de Aula
 
 * :warning: [Muitos nós, um sistema distribuído](https://dev.to/vaidehijoshi/many-nodes-one-distributed-system-kl9)
 * [Diferenças entre sistemas centralizados, decentralizados e distribuídos](https://www.8bitmen.com/difference-between-centralized-decentralized-distributed-systems-explained/)
 * [Transparência - Parte 1](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-1-17ao)
 * [Transparência - Parte 2](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-2-lbb)
 
+### Pontos Principais
+* Middleware 
+* Transparência
+
+
+## Atividade Assíncrona 
+
+## Notas de aula
+* [Fundamentos](https://lasarojc.github.io/ds_notes/basics/)
+* [Multithreading](https://lasarojc.github.io/ds_notes/basics/#multiprogramacao-e-multithreading-em-sistemas-distribuidos)
+* [Multithread na prática](https://lasarojc.github.io/ds_notes/basics/#multithread-na-pratica)
