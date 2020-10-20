@@ -1,5 +1,6 @@
 # Semana 1 - Apresentação e Introdução
 
+## Logística
 Sua primeira fonte de informação sobre esta disciplina é este sítio, que apontará para as notas de aula, atividades e outros documentos.
 
 Usaremos a ferramenta Teams (tm) da Microsoft para nossos encontros síncronos, atendimento a alunos e para comunicação em geral.
@@ -28,7 +29,7 @@ Para deixar bem claro, as atividades semanais serão desenvolvidas segundo o cro
     * Terça-feira, 23:59 - Limite do prazo para submissão dos seminários
     * Sexta-feira, 11:59 - Limite do prazo para submissão das atividades assíncronas
 
-## Atividade Síncrona
+
 
 #### Controle de Frequência
 
@@ -51,9 +52,10 @@ Vocês serão avaliados de acordo com os critérios também disponíveis no plan
 
 Todas as semanas serão propostas atividades assíncronas com textos, vídeos, exercícios, questionários e laboratórios.
 
-Todos os questionários são **obrigatórios**.  
-Todas os materias marcados com um :warning: são de estudo **obrigatório**.
-O que não for obrigatório é fortemente recomendado.
+* Todos os questionários são **obrigatórios**.  
+* Todas as notas de aula são **obrigatórias**.
+* Todas os materias marcados com um :warning: são de estudo **obrigatório**.
+* O que não for obrigatório é fortemente recomendado.
 
 Você deve cumprir as atividades propostas **até o fim do dia anterior ao da próxima atividade síncrona**. 
 
@@ -90,6 +92,13 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
 ### Projeto
 A ser divulgado em breve.
 
+
+## Aula 1
+
+### Notas de Aula
+* [Prólogo](https://lasarojc.github.io/ds_notes/)
+* [Introdução](https://lasarojc.github.io/ds_notes/intro/)
+
 ### Pontos Principais
 * Não seja um sapo cozido!
 * Computação distribuída é um tipo de mágica
@@ -99,16 +108,15 @@ A ser divulgado em breve.
     * Telemedicina
     * SpaceX
 
-### Notas de Aula
+## Aula 2
 
-* [Prólogo](https://lasarojc.github.io/ds_notes/)
-* [Introdução](https://lasarojc.github.io/ds_notes/intro/)
+* [Tipos de SD](https://lasarojc.github.io/ds_notes/intro/#tipos)
+* [Arquiteturas](https://lasarojc.github.io/ds_notes/intro/#arquiteturas)
+
 
 ## Atividade Assíncrona: O que? Por quê? Como?
 
 * :warning: [Muitos nós, um sistema distribuído](https://dev.to/vaidehijoshi/many-nodes-one-distributed-system-kl9)
-* :warning: [Tipos de SD](https://lasarojc.github.io/ds_notes/intro/#tipos)
-* :warning: [Arquiteturas](https://lasarojc.github.io/ds_notes/intro/#arquiteturas)
 * [Diferenças entre sistemas centralizados, decentralizados e distribuídos](https://www.8bitmen.com/difference-between-centralized-decentralized-distributed-systems-explained/)
 * [Transparência - Parte 1](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-1-17ao)
 * [Transparência - Parte 2](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-2-lbb)
