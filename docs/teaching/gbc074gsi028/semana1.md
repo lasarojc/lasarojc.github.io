@@ -1,14 +1,34 @@
 # Semana 1 - Apresentação e Introdução
 
-## Atividade Síncrona
-
-![Plano](images/plano.jpg)
-
-### Logística
 Sua primeira fonte de informação sobre esta disciplina é este sítio, que apontará para as notas de aula, atividades e outros documentos.
 
 Usaremos a ferramenta Teams (tm) da Microsoft para nossos encontros síncronos, atendimento a alunos e para comunicação em geral.
 Após criar sua conta **usando o email da UFU**, cadastre-se na disciplina [aqui](https://teams.microsoft.com/l/team/19%3aaa949b16dda54fc8b612566bb652f888%40thread.tacv2/conversations?groupId=a430897a-9525-41ab-a06d-72e1137b3cde&tenantId=cd5e6d23-cb99-4189-88ab-1a9021a0c451). O código para aceite automático deve ter sido enviado para o seu email cadastrado no sistema da UFU.
+
+Este material é comum para as duas disciplinas, isto é, GBC 074 (BCC) e GSI 028 (BSI).
+Por este motivo, as atividades síncronas de uma turma serão usadas como assíncronas na outra turma.
+Para deixar bem claro, as atividades semanais serão desenvolvidas segundo o cronograma abaixo, lembrando que isto é um plano, e planos podem ser alterados, isto é:
+
+![Plano](images/plano.jpg)
+
+* Semana 1
+   * 26/10, 8:50 - Atividade Síncrona (Aula 1 - GBC)
+   * 26/10, 20:50 - Atividade Síncrona **excepcional** (Aula 1 GSI)
+   * 28/10, 19:00 - Atividade Síncrona (Aula 2 GSI)
+   * 29/10, 9:00 - Atividade Assíncrona (Aula 2 GBC)
+   * 29/10, 9:00 - Atividade Assíncrona (GBC e BSI)
+* Semana X = [2,8]
+   * Segunda-feira, 8:50 - Atividade Síncrona (Aula 2X GBC)
+   * Segunda-feira, 8:50 - Atividade Assíncrona (Aula 2X GSI)
+   * Quarta-feira, 19:00 - Atividade Síncrona (Aula 2X+1 GSI)
+   * Quarta-feira, 9:00 - Atividade Assíncrona (Aula 2X+1 GBC)
+* Semana 9
+   * Segunda-feira, 8:50 - Atividade Síncrona (Aula 18 GBC)
+   * Segunda-feira, 20:50 - Atividade Síncrona **excepcional** (Aula 18 GSI)
+   * Terça-feira, 23:59 - Limite do prazo para submissão dos seminários
+   * Sexta-feira, 11:59 - Limite do prazo para submissão das atividades assíncronas
+
+## Atividade Síncrona
 
 #### Controle de Frequência
 
