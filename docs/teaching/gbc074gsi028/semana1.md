@@ -11,22 +11,22 @@ Para deixar bem claro, as atividades semanais serão desenvolvidas segundo o cro
 
 ![Plano](images/plano.jpg)
 
-* Semana 1
-   * 26/10, 8:50 - Atividade Síncrona (Aula 1 - GBC)
-   * 26/10, 20:50 - Atividade Síncrona **excepcional** (Aula 1 GSI)
-   * 28/10, 19:00 - Atividade Síncrona (Aula 2 GSI)
-   * 29/10, 9:00 - Atividade Assíncrona (Aula 2 GBC)
-   * 29/10, 9:00 - Atividade Assíncrona (GBC e BSI)
-* Semana X = [2,8]
-   * Segunda-feira, 8:50 - Atividade Síncrona (Aula 2X GBC)
-   * Segunda-feira, 8:50 - Atividade Assíncrona (Aula 2X GSI)
-   * Quarta-feira, 19:00 - Atividade Síncrona (Aula 2X+1 GSI)
-   * Quarta-feira, 9:00 - Atividade Assíncrona (Aula 2X+1 GBC)
+* Semana 1  
+    * 26/10, 8:50 - Atividade Síncrona (Aula 1 - GBC)
+    * 26/10, 20:50 - Atividade Síncrona **excepcional** (Aula 1 GSI)
+    * 28/10, 19:00 - Atividade Síncrona (Aula 2 GSI)
+    * 29/10, 9:00 - Atividade Assíncrona (Aula 2 GBC)
+    * 29/10, 9:00 - Atividade Assíncrona (GBC e BSI)
+* Semana $X = [2,...,8]$
+    * Segunda-feira, 8:50 - Atividade Síncrona (Aula $2X$ GBC)
+    * Segunda-feira, 8:50 - Atividade Assíncrona (Aula $2X$ GSI)
+    * Quarta-feira, 19:00 - Atividade Síncrona (Aula $2X+1$ GSI)
+    * Quarta-feira, 9:00 - Atividade Assíncrona (Aula $2X+1$ GBC)
 * Semana 9
-   * Segunda-feira, 8:50 - Atividade Síncrona (Aula 18 GBC)
-   * Segunda-feira, 20:50 - Atividade Síncrona **excepcional** (Aula 18 GSI)
-   * Terça-feira, 23:59 - Limite do prazo para submissão dos seminários
-   * Sexta-feira, 11:59 - Limite do prazo para submissão das atividades assíncronas
+    * Segunda-feira, 8:50 - Atividade Síncrona (Aula 18 GBC)
+    * Segunda-feira, 20:50 - Atividade Síncrona **excepcional** (Aula 18 GSI)
+    * Terça-feira, 23:59 - Limite do prazo para submissão dos seminários
+    * Sexta-feira, 11:59 - Limite do prazo para submissão das atividades assíncronas
 
 ## Atividade Síncrona
 
@@ -85,6 +85,7 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
 * Arquiteturas distribuídas reativas usando Kafka
 * Framework SpringBoot para Microsserviços
 * O protocolo PBFT
+* (mais serão adicionados)
 
 ### Projeto
 A ser divulgado em breve.
