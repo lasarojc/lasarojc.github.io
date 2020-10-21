@@ -13,6 +13,7 @@ nav:
             - 'Sistemas Distribuídos - E2': 
                 - Semana 1: teaching/gbc074gsi028/semana1.md
                 - Semana 2: teaching/gbc074gsi028/semana2.md
+                - Semana 3: teaching/gbc074gsi028/semana3.md
 
 theme:
         name: material #readthedocs

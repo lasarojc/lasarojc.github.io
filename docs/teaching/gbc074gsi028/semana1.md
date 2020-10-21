@@ -19,10 +19,10 @@ Para deixar bem claro, as atividades semanais serão desenvolvidas segundo o cro
     * 29/10, 9:00 - Atividade Assíncrona (Aula 2 GBC)
     * 29/10, 9:00 - Atividade Assíncrona (GBC e BSI)
 * Semana $X = [2,...,8]$
-    * Segunda-feira, 8:50 - Atividade Síncrona (Aula $2X$ GBC)
-    * Segunda-feira, 8:50 - Atividade Assíncrona (Aula $2X$ GSI)
-    * Quarta-feira, 19:00 - Atividade Síncrona (Aula $2X+1$ GSI)
-    * Quarta-feira, 9:00 - Atividade Assíncrona (Aula $2X+1$ GBC)
+    * Segunda-feira, 8:50 - Atividade Síncrona (Aula $2X-1$ GBC)
+    * Segunda-feira, 8:50 - Atividade Assíncrona (Aula $2X-1$ GSI)
+    * Quarta-feira, 19:00 - Atividade Síncrona (Aula $2X$ GSI)
+    * Quarta-feira, 9:00 - Atividade Assíncrona (Aula $2X$ GBC)
 * Semana 9
     * Segunda-feira, 8:50 - Atividade Síncrona (Aula 18 GBC)
     * Segunda-feira, 20:50 - Atividade Síncrona **excepcional** (Aula 18 GSI)
@@ -95,9 +95,9 @@ A ser divulgado em breve.
 
 ## Aula 1: O quê? Por quê? Como?
 
-### Notas de Aula
+### Leituras
 * [Prólogo](https://lasarojc.github.io/ds_notes/)
-* [Introdução](https://lasarojc.github.io/ds_notes/intro/)
+* [Introdução](https://lasarojc.github.io/ds_notes/intro/) (até Escalabilidade)
 
 ### Pontos Principais
 * Não seja um sapo cozido!
@@ -108,12 +108,15 @@ A ser divulgado em breve.
     * Telemedicina
     * SpaceX
 
+### Questionário
+Postado no Teams
+
 ## Aula 2: Tipos de SD e suas arquiteturas
 
 * [Tipos de SD](https://lasarojc.github.io/ds_notes/intro/#tipos)
 * [Arquiteturas](https://lasarojc.github.io/ds_notes/intro/#arquiteturas)
 
-### Notas de Aula
+### Leituras
 
 * :warning: [Muitos nós, um sistema distribuído](https://dev.to/vaidehijoshi/many-nodes-one-distributed-system-kl9)
 * [Diferenças entre sistemas centralizados, decentralizados e distribuídos](https://www.8bitmen.com/difference-between-centralized-decentralized-distributed-systems-explained/)
@@ -121,13 +124,22 @@ A ser divulgado em breve.
 * [Transparência - Parte 2](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-2-lbb)
 
 ### Pontos Principais
-* Middleware 
-* Transparência
+* Middleware são facilitadores do desenvolvimento
+* Transparência total é desejável mais impossível
 
+### Questionário
+Postado no Teams
 
 ## Atividade Assíncrona 
 
-## Notas de aula
-* [Fundamentos](https://lasarojc.github.io/ds_notes/basics/)
-* [Multithreading](https://lasarojc.github.io/ds_notes/basics/#multiprogramacao-e-multithreading-em-sistemas-distribuidos)
-* [Multithread na prática](https://lasarojc.github.io/ds_notes/basics/#multithread-na-pratica)
+Para esta atividade assíncrona, você deverá relembrar os [Fundamentos](https://lasarojc.github.io/ds_notes/basics/) de redes de computadores e do protocolo IP. Isto inclui relembrar (ou aprender) a usar multicast.
+
+Submeta a resposta dos seguinte exercícios no questionário:
+
+* Múltiplos Pacotes
+* Ping-pong
+* Ping-pont UDP
+
+### Leituras
+
+* [Fundamentos](https://lasarojc.github.io/ds_notes/basics/), mas não a parte sobre multithreading.

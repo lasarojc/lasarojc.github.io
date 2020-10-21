@@ -1,15 +1,26 @@
 # Semana 2
 
-## Aula 1: Comunicação
-### Pontos principais
-### Notas de aula
-## Aula 2: Arquiteturas
-### Pontos principais
-### Notas de aula
+## Aula 3: Multithreading em Sistemas distribuídos
 
-## Revisão da Atividade Assíncrona da Semana 1
+### Leituras
+* [Multithreading](https://lasarojc.github.io/ds_notes/basics/#multiprogramacao-e-multithreading-em-sistemas-distribuidos)
+* [Multithread na prática](https://lasarojc.github.io/ds_notes/basics/#multithread-na-pratica)
+
+### Pontos principais
+
+### Questionário
+Postado no Teams
+
+### Revisão da Atividade Assíncrona da Semana anterior
+
+
+
+## Aula 4: Comunicação
+### Leituras
+* [Comunicação](https://lasarojc.github.io/ds_notes/comm/)
+
+### Pontos principais
+
 
 ## Atividade Assíncrona 
-
-
-
+Nesta atividade assíncrona exercitaremos métodos de comunicação de mais alto nível.
