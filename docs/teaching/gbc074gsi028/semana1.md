@@ -93,7 +93,7 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
 A ser divulgado em breve.
 
 
-## Aula 1: O quê? Por quê? Como?
+## Aula 1: O quê? Por quê? Como? (2 horas)
 
 ### Leituras
 * [Prólogo](https://lasarojc.github.io/ds_notes/)
@@ -111,28 +111,39 @@ A ser divulgado em breve.
 ### Questionário
 Postado no Teams
 
-## Aula 2: Tipos de SD e suas arquiteturas
 
-* [Tipos de SD](https://lasarojc.github.io/ds_notes/intro/#tipos)
-* [Arquiteturas](https://lasarojc.github.io/ds_notes/intro/#arquiteturas)
+## Atividade Assíncrona 1: Tipos e arquiteturas (2 horas)
+Nesta atividade assíncrona você aprenderá sobre os tipos e arquiteturas dos sistemas distribuídos, isto é, sobre os tipos de problemas resolvidos e como as peças dos sistemas são encaixadas para resolver estes problemmas.
+
 
 ### Leituras
-
+* [Tipos de SD](https://lasarojc.github.io/ds_notes/intro/#tipos)
+* [Arquiteturas](https://lasarojc.github.io/ds_notes/intro/#arquiteturas)
 * :warning: [Muitos nós, um sistema distribuído](https://dev.to/vaidehijoshi/many-nodes-one-distributed-system-kl9)
 * [Diferenças entre sistemas centralizados, decentralizados e distribuídos](https://www.8bitmen.com/difference-between-centralized-decentralized-distributed-systems-explained/)
 * [Transparência - Parte 1](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-1-17ao)
 * [Transparência - Parte 2](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-2-lbb)
 
 ### Pontos Principais
-* Middleware são facilitadores do desenvolvimento
 * Transparência total é desejável mais impossível
+* Middleware são facilitadores do desenvolvimento
+* Diversos tipos e arquiteturas
+* Sistemas fortemente e fracamente acoplados.
 
 ### Questionário
 Postado no Teams
 
-## Atividade Assíncrona 
 
-Para esta atividade assíncrona, você deverá relembrar os [Fundamentos](https://lasarojc.github.io/ds_notes/basics/) de redes de computadores e do protocolo IP. Isto inclui relembrar (ou aprender) a usar multicast.
+## Aula 2: O substrato (2 horas)
+Nesta aula nós relembraremos os [fundamentos](https://lasarojc.github.io/ds_notes/basics/) de redes de computadores e do protocolo IP, o substrado no qual sistemas ditribuídos fracamente acoplados executam. 
+
+
+### Leituras
+
+* [Fundamentos](https://lasarojc.github.io/ds_notes/basics/), mas não a parte sobre multithreading.
+
+
+## Atividade Assíncrona 2: Laboratório de Sockets (2 horas)
 
 Submeta a resposta dos seguinte exercícios no questionário:
 
@@ -142,4 +153,4 @@ Submeta a resposta dos seguinte exercícios no questionário:
 
 ### Leituras
 
-* [Fundamentos](https://lasarojc.github.io/ds_notes/basics/), mas não a parte sobre multithreading.
+* [No princípio, era o socket](http://localhost:8000/basics/#no-principio-era-o-socket)
