@@ -149,7 +149,8 @@ Submeta a resposta dos seguinte exercícios no questionário:
 
 * Múltiplos Pacotes
 * Ping-pong
-* Ping-pont UDP
+* Ping-pong UDP
+* IP-Multicast
 
 ### Leituras
 
