@@ -3,7 +3,7 @@
 ## Aula 5: Arquiteturas
 
 ### Leituras
-* [Arquiteturas](*)https://lasarojc.github.io/ds_notes/arch/)
+* [Arquiteturas](https://lasarojc.github.io/ds_notes/arch/)
 
 ### Pontos principais
 
@@ -13,3 +13,6 @@ Postado no Teams
 ### Revisão da Atividade Assíncrona da Semana anterior
 
 
+## Aula 6:
+
+## Atividade assíncrona

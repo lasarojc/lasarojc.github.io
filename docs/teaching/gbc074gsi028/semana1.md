@@ -22,7 +22,7 @@ Para deixar bem claro, as atividades semanais serão desenvolvidas segundo o cro
     * Segunda-feira, 8:50 - Atividade Síncrona (Aula $2X-1$ GBC)
     * Segunda-feira, 8:50 - Atividade Assíncrona (Aula $2X-1$ GSI)
     * Quarta-feira, 19:00 - Atividade Síncrona (Aula $2X$ GSI)
-    * Quarta-feira, 9:00 - Atividade Assíncrona (Aula $2X$ GBC)
+    * Quinta-feira, 9:00 - Atividade Assíncrona (Aula $2X$ GBC)
 * Semana 9
     * Segunda-feira, 8:50 - Atividade Síncrona (Aula 18 GBC)
     * Segunda-feira, 20:50 - Atividade Síncrona **excepcional** (Aula 18 GSI)
