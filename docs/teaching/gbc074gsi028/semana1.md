@@ -125,7 +125,7 @@ Nesta atividade assíncrona você aprenderá sobre os tipos e arquiteturas dos s
 * [Transparência - Parte 2](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-2-lbb)
 
 ### Pontos Principais
-* Transparência total é desejável mais impossível
+* Transparência total é desejável mas impossível
 * Middleware são facilitadores do desenvolvimento
 * Diversos tipos e arquiteturas
 * Sistemas fortemente e fracamente acoplados.
