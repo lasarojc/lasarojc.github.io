@@ -87,6 +87,7 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
 * Arquiteturas distribuídas reativas usando Kafka
 * Framework SpringBoot para Microsserviços
 * O protocolo PBFT
+*  Event sourcing
 * (mais serão adicionados)
 
 ### Projeto
