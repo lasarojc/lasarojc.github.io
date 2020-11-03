@@ -155,4 +155,4 @@ Submeta a resposta dos seguinte exercícios no questionário:
 
 ### Leituras
 
-* [No princípio, era o socket](http://localhost:8000/basics/#no-principio-era-o-socket)
+* [No princípio, era o socket](https://lasarojc.github.io/ds_notes/basics/#no-principio-era-o-socket)
