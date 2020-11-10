@@ -96,6 +96,9 @@ A ser divulgado em breve.
 
 ## Aula 1: O quê? Por quê? Como? (2 horas)
 
+* [Vídeo da Aula - BSI](https://web.microsoftstream.com/video/2901c5c2-0dc0-4b5d-beac-ab40a7e577b3)
+* [Vídeo da Aula - BCC](https://web.microsoftstream.com/video/b90978df-c533-4a01-a830-43784d2b547a)
+
 ### Leituras
 * [Prólogo](https://lasarojc.github.io/ds_notes/)
 * [Introdução](https://lasarojc.github.io/ds_notes/intro/) (até Escalabilidade)
@@ -136,6 +139,9 @@ Postado no Teams
 
 
 ## Aula 2: O substrato (2 horas)
+
+[Vídeo da Aula](https://web.microsoftstream.com/video/9070f9c2-95dd-4d52-bd2a-fd9af3d5d2fd)
+
 Nesta aula nós relembraremos os [fundamentos](https://lasarojc.github.io/ds_notes/basics/) de redes de computadores e do protocolo IP, o substrado no qual sistemas ditribuídos fracamente acoplados executam. 
 
 
