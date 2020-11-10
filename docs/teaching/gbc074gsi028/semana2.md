@@ -26,14 +26,3 @@ Submeta a resposta dos seguinte exercícios no questionário:
 * Synchronized
 * bloco synchronized
 * Anel multithread
-
-
-## Aula 4: Comunicação (2 horas)
-### Leituras
-* [Comunicação](https://lasarojc.github.io/ds_notes/comm/)
-
-### Pontos principais
-
-
-## Atividade Assíncrona (2 horas)
-Nesta atividade assíncrona exercitaremos métodos de comunicação de mais alto nível.
