@@ -1,6 +1,7 @@
 # Semana 2
 
 ## Aula 3: Multithreading em Sistemas distribuídos (2 horas)
+[Vídeo da Aula](https://web.microsoftstream.com/video/ca447bd9-2ae5-4d1e-909b-d57395c74f32)
 
 ### Leituras
 * [Multithreading](https://lasarojc.github.io/ds_notes/basics/#multiprogramacao-e-multithreading-em-sistemas-distribuidos)
