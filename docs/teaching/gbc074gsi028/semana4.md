@@ -2,6 +2,8 @@
 
 ## Aula 6: Arquitetura (2 horas)
 
+[Vídeo da Aula](https://web.microsoftstream.com/video/e496d3e3-1262-4c7c-898e-46edff0540f0)
+
 ### Leituras
 
 * [Arquiteturas - a partir de Chord](https://lasarojc.github.io/ds_notes/arch/)
