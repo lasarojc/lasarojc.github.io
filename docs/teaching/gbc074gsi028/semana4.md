@@ -22,7 +22,7 @@
 
 Postado no Teams em 17/10
 
-## Aula 7: Comunicação (continuação) e Arquiteturas (2 horas)
+## Aula 7: Arquitetura (continuação) e Coordenação (2 horas)
 
 ### Leituras
 
