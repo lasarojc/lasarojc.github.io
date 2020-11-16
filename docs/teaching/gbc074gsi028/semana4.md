@@ -1,6 +1,6 @@
-# Semana 3
+# Semana 4
 
-## Aula 5: Arquitetura (2 horas)
+## Aula 6: Arquitetura (2 horas)
 
 ### Leituras
 
@@ -22,7 +22,7 @@
 
 Postado no Teams em 17/10
 
-## Aula 6: Comunicação (continuação) e Arquiteturas (2 horas)
+## Aula 7: Comunicação (continuação) e Arquiteturas (2 horas)
 
 ### Leituras
 
