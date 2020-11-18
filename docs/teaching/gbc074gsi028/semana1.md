@@ -63,7 +63,7 @@ Na última semana, a atividade deve ser cumprida **até a sexta-feira** da mesma
 
 ### Seminários
 
-Os alunos deverão apresentar seminários, desenvolvidos em grupo, para seus colegas.
+Os alunos deverão apresentar seminários, desenvolvidos em grupos de 8 alunos, para seus colegas.
 
 O **objetivo** dos seminários é apresentar tópicos modernos relacionados à computação distribuída.
 
@@ -85,14 +85,28 @@ Sua apresentação será avaliada nos seguintes pontos:
 Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida por sugestão dos alunos:
 
 * Arquiteturas distribuídas reativas usando Kafka
+   3. Arthur Filipe Sousa Gomes
+   2. Guilherme Henrique de Araújo Santos
+   1. Guilherme Moreira Bonfim de Freitas
+   1. Luiz Henrique Dias Lima
+   1. Silas Mota de Sousa
+   1. Tiago Vieira Machado
 * Framework SpringBoot para Microsserviços
 * O protocolo PBFT
-*  Event sourcing
+* Event sourcing
+* [Algorand](https://algorand.foundation/)
+* Containers docker no desenvolvimento de aplicações distribuídas
+* [Dapr](https://docs.dapr.io)
 * (mais serão adicionados)
 
 ### Projeto
-A ser divulgado em breve.
 
+* Grupos dos trabalhos serão compostos por 6 alunos.
+   * Não, não pode ter mais de 6.
+   * Pode ter menos, mas não recomendo, pois o trabalho dá trabalho.
+   * Podem misturar BCC e BSI se facilitar.
+   * Quem ficar sem grupo, forme um grupo. Podem usar este chat aqui para se encontrarem.
+* [Especificação](https://lasarojc.github.io/ds_notes/projeto/)
 
 ## Aula 1: O quê? Por quê? Como? (2 horas)
 
