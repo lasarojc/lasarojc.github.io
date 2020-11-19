@@ -85,13 +85,19 @@ Sua apresentação será avaliada nos seguintes pontos:
 Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida por sugestão dos alunos:
 
 * Arquiteturas distribuídas reativas usando Kafka
-   3. Arthur Filipe Sousa Gomes
-   2. Guilherme Henrique de Araújo Santos
-   1. Guilherme Moreira Bonfim de Freitas
-   1. Luiz Henrique Dias Lima
-   1. Silas Mota de Sousa
-   1. Tiago Vieira Machado
+    3. Arthur Filipe Sousa Gomes
+    2. Guilherme Henrique de Araújo Santos
+    1. Guilherme Moreira Bomfim de Freitas
+    1. Luiz Henrique Dias Lima
+    1. Silas Mota de Sousa
+    1. Thiago Vieira Machado
 * Framework SpringBoot para Microsserviços
+    1. Vinícius Pereira Duarte
+    1. Giovanna Rodrigues
+    1. Matheus Henrique Ferreira
+    1. Nicholas Passos Morlin
+    1. Danilo Augusto Nunes
+    1. Leonardo Pedrassoli
 * O protocolo PBFT
 * Event sourcing
 * [Algorand](https://algorand.foundation/)

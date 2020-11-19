@@ -656,6 +656,13 @@ Para saber um pouco mais sobre a carreira de pesquisador ou, como fazem questão
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/75xfmEZLklU?start=1150" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
+### Mais material
+
+* Diversos vídeos sobre como escolher um orientador e como desenvolver seu trabalho.
+   * [José Palazzo Moreira de Oliveira](https://www.youtube.com/c/josepalazzomoreiradeoliveira) 
+
 ???todo
     Expandir mais sobre a forma em que atua o pesquisador.
 
