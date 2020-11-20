@@ -26,6 +26,8 @@ Postado no Teams em 17/10
 
 ## Aula 7: Arquitetura (continuação) e Coordenação (2 horas)
 
+[Vídeo da Aula](https://web.microsoftstream.com/video/6b1a7ea5-e683-4c51-8826-06d9b2303e3a)
+
 ### Leituras
 
 * [Arquiteturas - Micro-serviços](https://lasarojc.github.io/ds_notes/arch/)
