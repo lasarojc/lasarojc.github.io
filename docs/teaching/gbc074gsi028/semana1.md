@@ -98,10 +98,34 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
     1. Nicholas Passos Morlin
     1. Danilo Augusto Nunes
     1. Leonardo Pedrassoli
-* O protocolo PBFT
-* Event sourcing
-* [Algorand](https://algorand.foundation/)
+* ELK - Elastic Search, Logstash, Kibana
+    1. Antônio Ângelo
+    1. Bianca Cristina
+    1. Luis Benito
+    1. Guilherme Scarpel
+    1. Matheus José
+    1. Rafael Valentim
 * Containers docker no desenvolvimento de aplicações distribuídas
+    1. Arthur Maia de Sousa
+    1. Carlos Humberto Martins Junior
+    1. Davide Sgalambro
+    1. Gabriel Dal Belo Gomes Santos
+    1. Guilherme Coutinho Sousa Ferreira
+    1. Henrique Tornelli Duarte
+    1. Vitor Manuel Teixeira
+    1. Wellington Cesar Dias Lima
+* Event Sourcing
+    1. Breno Correa
+    1. Gabriel Solis
+    1. Matheus Pimenta Reis
+    1. Salomão Alves
+    1. Sarah Hanna
+    1. ?
+    1. ?
+    1. ?
+
+* O protocolo PBFT
+* [Algorand](https://algorand.foundation/)
 * [Dapr](https://docs.dapr.io)
 * (mais serão adicionados)
 
