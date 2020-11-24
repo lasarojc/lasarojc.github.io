@@ -123,10 +123,12 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
     1. ?
     1. ?
     1. ?
-
 * O protocolo PBFT
 * [Algorand](https://algorand.foundation/)
 * [Dapr](https://docs.dapr.io)
+    1. Marcelo Faria de Araujo
+    1. Pedro Oliveira
+    1. Victor Carrilho Marques
 * (mais serão adicionados)
 
 ### Projeto
