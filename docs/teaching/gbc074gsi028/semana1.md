@@ -124,7 +124,16 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
     1. ?
     1. ?
 * O protocolo PBFT
+    1. Bruno Nery
+    1. Eberton
+    1. Marcelo Faria de Araujo
+    1. Pedro Oliveira
+    1. Thalia
+    1. Victor Carrilho
 * [Algorand](https://algorand.foundation/)
+    1. Paulo Victor da Silva Oliveira
+    1. Ivan Guimarães
+    1. Ricardo 
 * [Dapr](https://docs.dapr.io)
     1. Marcelo Faria de Araujo
     1. Pedro Oliveira
