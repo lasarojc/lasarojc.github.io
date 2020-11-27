@@ -5,6 +5,12 @@ The following is an incomplete list of my publications.
 As time allows I will complete it and add details. 
 In the mean time, if you need more information, please visit [Research Gate](http://www.google.com/url?q=http%3A%2F%2Fwww.researchgate.net%2Fprofile%2FLasaro_Camargos&sa=D&sntz=1&usg=AFQjCNF3tgNGeYe1XaW89jbOEm9fBRY-0g), your favorite academic search engine, or contact me directly.
 
+## Patents
+1. Avinash Lakshman, Lasaro Camargos and Deepak Jain    
+    Synchronization of Metadata in a Distributed Storage System. 2017, Estados Unidos.   
+    Registro 10740300B1, United States Patent and Trademark Office.    
+    Depósito: 07/12/2017; Concessão: 11/08/2020.
+
 ## Journals
 
 1.  Multicoordinated agreement for groups of agents   
@@ -69,7 +75,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
 
 1. AR2C2 - Actively Replicated Controllers for SDN resilient Control Planes   
     Eros S. Spalla, Diego Rossi Mafioletti, Alextian Bartolomeu Liberato, Gilberto Ewald, Christian Esteve Rothenberg, Lásaro Camargos, Rodolfo Villaca, Magnos Martinello   
-    NOMS 2016 - 2016 IEEE/IFIP Network Operations and Management Symposium    
+    2016 IEEE/IFIP Network Operations and Management Symposium (NOMS 2016)
     [PDF](https://doi.org/10.1109/NOMS.2016.7502812)
 
     ??? "Abstract"
@@ -77,20 +83,20 @@ In the mean time, if you need more information, please visit [Research Gate](htt
 
 1. Roteamento Multicaminhos em Redes Definidas por Software   
     Pedro Rezende, Luis Fernando Faina, Lásaro Camargos, Rafael Pasquini   
-    XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Salvador, Brazil   
+    XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2016), Salvador, Brazil   
     [PDF](https://www.researchgate.net/publication/304183929_Roteamento_Multicaminhos_em_Redes_Definidas_por_Software)   
 
 1. Replicação de Máquina de Estado Baseada em Prioridade com PRaft   
     Paulo R. Pinho Filho, Luciana Rech, Lau Cheuk Lung, Miguel Correia, Lásaro Camargos   
-    XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Salvador, Brazil   
+    XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2016), Salvador, Brazil   
     [PDF](https://www.researchgate.net/publication/304183954_Replicacao_de_Maquina_de_Estado_Baseada_em_Prioridade_com_PRaft)   
 
     ??? "Abstract"
         State machine replication is an approach to create fault tolerant dis-tributed systems.  The system remains corret while tolerating faults from someof its replicas.  These replicas must execute the same sequence of requests, aproblem that is solved by total order algorithsm like Raft.  some services mayneed that requests have different priority levels, such that some be executed be-fore others.  In this work, we propose an algorithm, PRaft, that introduces theidea of priority based state machine replication to Raft, modifying it to deal withrequest priority. 
 
-1. Busca por Similaridade no CassandraDB   
+1. Busca por Similaridade no CassandraDB (Short Paper)
     Antonio Mourão, Rafael Pasquini, Rodolfo Villaça, Lásaro Camargos   
-    31st Brazilian Symposium on Databases   
+    2016 31st Brazilian Symposium on Databases   
     [PDF](https://www.researchgate.net/publication/309121006_Busca_por_Similaridade_no_CassandraDB )   
 
     ??? "Abstract"
@@ -99,7 +105,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
 
 1. Algoritmo de Difusao Atomica Rapido a Despeito de Colisoes Tolerante a Falhas Bizantinas   
     Rodrigo Saramago, Eduardo Adílio Pelinson Alchieri, Tuanir França Rezende, Lásaro Camargos   
-    XXXV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), Belem, PA, Brazil   
+    XXXV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC, 2017), Belem, PA, Brazil   
     [PDF](https://www.researchgate.net/publication/316911325_Algoritmo_de_Difusao_Atomica_Rapido_a_Despeito_de_Colisoes_Tolerante_a_Falhas_Bizantinas)   
 
     ??? "Abstract"
@@ -121,6 +127,17 @@ In the mean time, if you need more information, please visit [Research Gate](htt
 
     ??? "Abstract"
         The inefficiency of Consensus-based Atomic Broadcast protocols in the presence of collisions (concurrent proposals) harms their adoption in the implementation of State Machine Replication. Proposals that are not decided in some instance of Consensus (commands not delivered) must be re-proposed in a new instance, delaying their execution. The CFABCast (Collision-Fast Atomic Broadcast) algorithm uses M-Consensus to decide and deliver multiple values in the same instance. However, CFABCast is not Byzantine fault-tolerant, a requirement for many systems. Our first contribution is a modified version of CFABCast to handle Byzantine failures. Unfortunately, the resulting protocol is not collision-fast due to the possibility of malicious failures. In fact, our second contribution is to prove that there are no Byzantine collision-fast algorithms in an asynchronous model as traditionally extended to solve Consensus. Finally, our third contribution is a Byzantine collision-fast algorithm that bypasses the stated impossibility by means of a USIG (Unique Sequential Identifier Generator) trusted component.
+
+1. Bandwidth throttling in a P4 switch    
+    Lucas Borges Fernandes and Lasaro Camargos    
+    IEEE Conference on Network Function Virtualization and Software Defined Networks (IEEE NFV-SDN 2020), Virtual Conference
+    [PDF]
+
+    ??? "Abstract"
+         Quality of service (QoS) provisioning is an important subject for the computer networks community and, as many other problems, has been revisited under the light of Software Defined Networks (SDN), which promise flexibility and simplification of network protocols.
+         We follow such trend in this paper, proposing a bandwidth throttling solution using the P4 framework and contrasting it with the state of the art.
+         Our proposal showcases the simplicity and adaptability of P4-programmable switches.
+
  
 ## Peer-reviewed Workshop 
 

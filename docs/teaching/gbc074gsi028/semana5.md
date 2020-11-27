@@ -19,7 +19,7 @@
 
 ### Questionário
 
-TBP 
+Postado no Teams
 
 ## Aula 9: Tempo Lógico
 
@@ -43,4 +43,4 @@ TBP
 
 ### Questionário
 
-TBP
+Postado no Teams
