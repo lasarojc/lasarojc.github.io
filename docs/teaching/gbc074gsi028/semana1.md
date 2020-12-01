@@ -138,6 +138,14 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
     1. Marcelo Faria de Araujo
     1. Pedro Oliveira
     1. Victor Carrilho Marques
+* Kubernetes
+    1. Hesloan dos Santos Viana
+    1. Kim Ruan Lopes
+    1. Lucas Sousa dos Anjos
+    1. Luiz Felipe Gonçalves Barbosa Viana
+    1. Paulo José Carmona Teixeira
+    1. Windysson de Souza dezanete
+* [Cache distribuído Redis](https://redislabs.com/solutions/use-cases/caching/)
 * (mais serão adicionados)
 
 ### Projeto
