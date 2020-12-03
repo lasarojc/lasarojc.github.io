@@ -1,4 +1,4 @@
-# Semana 4
+# Semana 6
 
 ## Aula 10: Tolerância a falhas (2 horas)
 
@@ -22,10 +22,11 @@ Postado no Teams
 
 ## Aula 11: Acordo
 
-[Vídeo da Aula]()
+[Vídeo da Aula](https://web.microsoftstream.com/video/368d6dff-0756-4fd8-a6e6-dde2a97cc6fe)
 
 ### Leituras
 
+* [Problemas de Acordo](https://lasarojc.github.io/ds_notes/fault/#problemas-de-acordo)
 
 ### Pontos principais
 
