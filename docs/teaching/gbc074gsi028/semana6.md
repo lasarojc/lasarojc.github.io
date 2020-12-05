@@ -10,11 +10,10 @@
 
 ### Pontos principais
 
-* 
-
-## Atividade Assíncrona (1 hora)
-
-* Responder questionário do MS Teams
+* Dependabilidade
+* Falhas, Erros e Defeitos
+* Prevenção, Remoção e Tolerância a Falhas
+* Classes de defeitos
 
 ### Questionário
 
@@ -29,9 +28,14 @@ Postado no Teams
 * [Problemas de Acordo](https://lasarojc.github.io/ds_notes/fault/#problemas-de-acordo)
 
 ### Pontos principais
+* Problemas de Acordo
+* Detectores de Defeito
+* Consenso
+* Difusão Totalmente Ordenada
+* Arcabouços de coordenação
 
 
-## Atividade Assíncrona (3 horas)
+## Atividade Assíncrona (4 horas)
 
 
 ### Questionário
