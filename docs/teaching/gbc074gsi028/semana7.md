@@ -2,7 +2,7 @@
 
 ## Aula 12: Banco de dados distribuídos (2 horas)
 
-[Vídeo da Aula]()
+[Vídeo da Aula](https://web.microsoftstream.com/video/7fc2edc4-c4a2-4825-a0d3-a2e6b5bb0e0e)
 
 ### Leituras
 
