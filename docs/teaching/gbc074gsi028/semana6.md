@@ -37,6 +37,9 @@ Postado no Teams
 
 ## Atividade Assíncrona (4 horas)
 
+Leia a seção sobre [problemas de acordo](https://lasarojc.github.io/ds_notes/fault/#problemas-de-acordo) novamente e faça o [estudo de caso do Ratis](https://lasarojc.github.io/ds_notes/fault/#estudo-de-caso-ratis). Um vídeo será liberado em breve sobre este mesmo conteúdo. Embora não haja questionários para este tópico, é importante que você o complete pois será base para a segunta parte do trabalho.
 
 ### Questionário
+
+Postado no Teams
 
