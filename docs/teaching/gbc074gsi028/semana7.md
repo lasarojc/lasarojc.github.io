@@ -24,7 +24,7 @@ Postado no Teams no dia 08/12
 
 ## Aula 13: Modelo de consistência e outros (2 horas)
 
-[Vídeo da Aula]()
+[Vídeo da Aula](https://web.microsoftstream.com/video/a361d78a-5864-494a-88ad-d3136d2f537a)
 
 ### Leituras
 
