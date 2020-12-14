@@ -1,4 +1,4 @@
-# Semana 7
+# Semana 8
 
 ## Aula 14: Banco de dados distribuídos (2 horas)
 
