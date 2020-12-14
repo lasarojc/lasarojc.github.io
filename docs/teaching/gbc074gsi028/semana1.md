@@ -112,7 +112,7 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
     1. Gabriel Dal Belo Gomes Santos
     1. Guilherme Coutinho Sousa Ferreira
     1. Henrique Tornelli Duarte
-    1. Vitor Manuel Teixeira
+    1. Vitor Manoel Teixeira
     1. Wellington Cesar Dias Lima
 * Event Sourcing
     1. Breno Correa
