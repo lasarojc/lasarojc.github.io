@@ -1,8 +1,8 @@
 # Semana 8
 
-## Aula 14: Banco de dados distribuídos (2 horas)
+## Aula 14: Sistemas de arquivos distribuídos (2 horas)
 
-[Vídeo da Aula]()
+[Vídeo da Aula](https://web.microsoftstream.com/video/cf40a6a8-6357-44f8-bf64-922a5d10b608)
 
 ### Leituras
 
@@ -19,7 +19,7 @@
 
 Postado no Teams no dia 15/12
 
-## Aula 15: Modelo de consistência e outros (2 horas)
+## Aula 15: Estudo de caso: Google File System (2 horas)
 
 [Vídeo da Aula]()
 
