@@ -120,9 +120,6 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
     1. Matheus Pimenta Reis
     1. Salomão Alves
     1. Sarah Hanna
-    1. ?
-    1. ?
-    1. ?
 * O protocolo PBFT
     1. Bruno Nery
     1. Eberton
@@ -146,7 +143,12 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
     1. Paulo José Carmona Teixeira
     1. Windysson de Souza dezanete
 * [Cache distribuído Redis](https://redislabs.com/solutions/use-cases/caching/)
-* (mais serão adicionados)
+    1. André Dias Freitas
+    1. Bruna Alves Oliveira
+    1. Giullia Rodrigues de Menezes
+    1. Lucas Justino Resende Teixeira
+    1. Tarcísio Júnio de Araujo Resende
+* Se precisar de um tema, entre em contato. 
 
 ### Projeto
 
