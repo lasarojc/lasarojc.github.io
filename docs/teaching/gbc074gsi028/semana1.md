@@ -148,6 +148,14 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
     1. Giullia Rodrigues de Menezes
     1. Lucas Justino Resende Teixeira
     1. Tarcísio Júnio de Araujo Resende
+* [Zipkin](https://zipkin.io/)
+    1. Bruno Tannus
+    1. Estela Ferreira
+    1. Gustavo Candido
+    1. Lucas Latsuhashi
+    1. Matheus Dias
+    1. Pedro Henrique Bufulin
+    1. Roxanne 
 * Se precisar de um tema, entre em contato. 
 
 ### Projeto
