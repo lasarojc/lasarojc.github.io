@@ -21,7 +21,7 @@ Postado no Teams no dia 15/12
 
 ## Aula 15: Estudo de caso: Google File System (2 horas)
 
-[Vídeo da Aula]()
+[Vídeo da Aula](https://web.microsoftstream.com/video/cbdd18f6-2b14-4223-9972-967fefdbfca5)
 
 ### Leituras
 
