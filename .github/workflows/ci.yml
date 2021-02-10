@@ -25,8 +25,8 @@ jobs:
 
     - name: Commit master changes 
       uses: actions/checkout@v2
-         with:
-            ref: master
+      with:
+         ref: master
 
       run: |
         cp -r ../branch_build/* .
