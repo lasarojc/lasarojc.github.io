@@ -19,23 +19,27 @@ jobs:
            pip install mkdocs-material
            pip install python-markdown-math
 
-    - name: Create local changes
-      run: |
-           mkdir ../branch_build
-           mkdocs build -d ../branch_build
+    - name: Checkout ref branch
+      uses: actions/checkout@v2
+      with:
+         ref: source
+         path: source-branch
 
     - name: Checkout master branch
       uses: actions/checkout@v2
       with:
          ref: master
-         path: master-deploy
+         path: master-branch
 
-    - name: Push changes
+    - name: Create local changes and commit
       run: |
-        cd ../master-deploy
-        cp -r ../branch_build/* .
-        git config --local user.email "github-actions@github.com"
-        git config --local user.name "github-actions"
-        git commit -m "Add changes" -a
-        git push
+           cd ../source-branch
+           mkdir ../branch_build
+           mkdocs build -d ../branch_build
+           cd ../master-deploy
+           cp -r ../branch_build/* .
+           git config --local user.email "github-actions@github.com"
+           git config --local user.name "github-actions"
+           git commit -m "Add changes" -a
+           git push
 
