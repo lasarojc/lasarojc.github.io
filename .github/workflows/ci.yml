@@ -1,0 +1,17 @@
+name: ci
+on:
+  push:
+    branches:
+      - source
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs-material
+      - run: pip install python-markdown-math
+      - run: cp -r . ../branch_build
+      - run: SOURCE_PATH=`pwd`; cd ../branch_build; mkdocs gh-deploy --config-file $SOURCE_PATH/mkdocs.yml --remote-branch master 
