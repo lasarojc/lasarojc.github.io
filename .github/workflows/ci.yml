@@ -42,7 +42,8 @@ jobs:
            cd ../master-branch
            git config --local user.email "github-actions@github.com"
            git config --local user.name "github-actions"
-           git commit -m "Add changes" -a
+           git add -A 
+           git commit -m "Add changes"
            git status
-           #git push
+           git push
 
