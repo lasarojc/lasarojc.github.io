@@ -23,21 +23,19 @@ jobs:
       uses: actions/checkout@v2
       with:
          ref: source
-         path: source-branch
+         path: /workspace/source-branch
 
     - name: Checkout master branch
       uses: actions/checkout@v2
       with:
          ref: master
-         path: master-branch
+         path: /workspace/master-branch
 
     - name: Create local changes and commit
       run: |
-           cd ../source-branch
-           mkdir ../branch_build
-           mkdocs build -d ../branch_build
-           cd ../master-deploy
-           cp -r ../branch_build/* .
+           cd /workspace/source-branch
+           mkdocs build -d /workspace/master-branch
+           cd /workspace/master-branch
            git config --local user.email "github-actions@github.com"
            git config --local user.name "github-actions"
            git commit -m "Add changes" -a
