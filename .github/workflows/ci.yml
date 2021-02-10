@@ -31,17 +31,19 @@ jobs:
       uses: actions/checkout@v2
       with:
          ref: master
-         path: master-branch
+         path: ../master-branch
 
     - run: pwd
 
     - name: Create local changes and commit
       run: |
            cd source-branch
-           mkdocs build -d master-branch
-           cd master-branch
+           mkdocs build -d ../master-branch
+           cd ../master-branch
            git config --local user.email "github-actions@github.com"
            git config --local user.name "github-actions"
            git commit -m "Add changes" -a
+           pwd
+           ls
            #git push
 
