@@ -7,8 +7,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/setup-python@v2
     - name: setup
-      uses: actions/setup-python@v2
       with:
         python-version: 3.x
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
@@ -18,13 +18,11 @@ jobs:
            pip install python-markdown-math
 
     - name: Create local changes
-      uses: actions/checkout@v2
       run: |
            mkdir ../branch_build
            mkdocs build -d ../branch_build
 
     - name: Commit master changes 
-      uses: actions/checkout@v2
       with:
          ref: master
 
