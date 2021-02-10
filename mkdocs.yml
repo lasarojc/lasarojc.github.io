@@ -29,12 +29,12 @@ theme:
             - header.autohide
 plugins:
         - search
-        - drawio-exporter:
-                cache_dir: 'drawio-exporter'
-                drawio_executable: null
-                drawio_args: []
-                format: svg
-                sources: '*.drawio'
+#        - drawio-exporter:
+#                cache_dir: 'drawio-exporter'
+#                drawio_executable: null
+#                drawio_args: []
+#                format: svg
+#                sources: '*.drawio'
 
 markdown_extensions:
         - toc:
