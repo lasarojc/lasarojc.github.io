@@ -23,21 +23,25 @@ jobs:
       uses: actions/checkout@v2
       with:
          ref: source
-         path: /home/runner/work/lasarojc.github.io/source-branch
+         path: source-branch
+
+    - run: pwd
 
     - name: Checkout master branch
       uses: actions/checkout@v2
       with:
          ref: master
-         path: /home/runner/work/lasarojc.github.io/master-branch
+         path: master-branch
+
+    - run: pwd
 
     - name: Create local changes and commit
       run: |
-           cd /home/runner/work/lasarojc.github.io/source-branch
-           mkdocs build -d //home/runner/work/lasarojc.github.io/master-branch
-           cd /home/runner/work/lasarojc.github.io/master-branch
+           cd source-branch
+           mkdocs build -d master-branch
+           cd master-branch
            git config --local user.email "github-actions@github.com"
            git config --local user.name "github-actions"
            git commit -m "Add changes" -a
-           git push
+           #git push
 
