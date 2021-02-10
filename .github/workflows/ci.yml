@@ -18,7 +18,6 @@ jobs:
            pip install python-markdown-math
 
     - name: Create local changes
-      uses: actions/checkout@v2
       run: |
            mkdir ../branch_build
            mkdocs build -d ../branch_build
