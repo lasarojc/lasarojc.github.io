@@ -23,12 +23,15 @@ jobs:
            mkdir ../branch_build
            mkdocs build -d ../branch_build
 
-    - name: Commit master changes 
+    - name: Checkout master branch
       uses: actions/checkout@v2
       with:
          ref: master
+         path: master-deploy
 
+     - name: Push changes
       run: |
+        cd ../master-deploy
         cp -r ../branch_build/* .
         git config --local user.email "github-actions@github.com"
         git config --local user.name "github-actions"
