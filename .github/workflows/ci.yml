@@ -20,7 +20,7 @@ jobs:
            pip install python-markdown-math
            mkdir ../branch_build
            mkdocs build -d ../branch_build
-           git checkout master
+           git checkout origin/master
            cp -r ../branch_build/* .
 
     - name: Commit files
