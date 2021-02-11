@@ -4,46 +4,13 @@ on:
     branches:
       - source
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: setup python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.x
-        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
-        fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
-
-    - name: install material
-      run: |
-           pip install mkdocs-material
-           pip install python-markdown-math
-
-    - name: Checkout ref branch
-      uses: actions/checkout@v2
-      with:
-         ref: source
-         path: source-branch
-
-    - run: pwd
-
-    - name: Checkout master branch
-      uses: actions/checkout@v2
-      with:
-         ref: master
-         path: master-branch
-
-    - run: pwd
-
-    - name: Create local changes and commit
-      run: |
-           cd source-branch
-           mkdocs build -d ../master-branch
-           cd ../master-branch
-           git config --local user.email "github-actions@github.com"
-           git config --local user.name "github-actions"
-           git add -A 
-           git commit -m "Add changes"
-           git status
-           git push
-
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs-material
+      - run: pip install python-markdown-math
+      - run: mkdocs gh-deploy --force --remote-branch master
