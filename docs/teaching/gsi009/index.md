@@ -1,20 +1,14 @@
 # Profissão em Sistemas de Informação 
 O objetivo desta disciplina é preparar os discentes para atuarem com consciência, ética e responsabilidade na sociedade em geral e em seus ambientes de trabalho, de forma empática e respeitosa ao próximo, independentemente de qualquer fator, e de forma a minimizar impactos negativos e maximizar os positivos da tecnologia da informação na sociedade e no ambiente.
 
-Se está interessado na disciplina, na forma de AARE, matricule-se e continue lendo. 
-Caso contrário, volte no próximo semestre quando, possivelmente, teremos atividades presenciais. 
-Lembre-se, GSI009 é uma disciplina obrigatória do currículo.
-
-Se está lendo isto, então assumo que se matriculou; ótimo!
 Sua primeira fonte de informação sobre esta disciplina é este sítio, que conterá notas de aula, atividades e apontadores para outros documentos e instruções de acesso. 
-
-Além disso, usaremos a ferramenta Teams (tm) da Microsoft para nossos encontros síncronos, atendimento a alunos e para comunicação em geral.
+Além disso, usaremos a ferramenta Teams (tm) da Microsoft para nossos encontros síncronos, sejam atendimento ou aulas, e para comunicação em geral.
 Após criar sua conta **usando o email da UFU**, cadastre-se na disciplina [aqui](https://teams.microsoft.com/l/channel/19%3a56c44b01d2a34cfdbfb379e16d7514a8%40thread.tacv2/General?groupId=c380e925-e50b-47b0-8464-063f6e5cea13&tenantId=cd5e6d23-cb99-4189-88ab-1a9021a0c451).
 
-O **controle de frequência**  nas atividades síncronas será feito pelo relatório de presença apresentado pelo Teams, que diz exatamente quando entrou e quando saiu da reunião.
-Nas atividades assíncronas, o controle será feito pela submissão de respostas às atividades propostas, como questionários.
 
-##Semana 1 - 12/08/2020
+O **controle de frequência**  pelo relatório de presença apresentado pelo Teams, que diz exatamente quando entrou e quando saiu da reunião.
+
+##Semana 1
 
 ### Programa
 
@@ -30,12 +24,12 @@ $N(X) = \frac{N(X_1) + N(X_2) + ... + N(X_m)}{m}$
 
 onde $N(X_i)$ é a $i$-ésima atividade do tipo $X$, de um total de $m$.
 
-### Atividades Assíncronas
+### Questionários - 20 pontos
 
-**Assista e leia** a pelo menos os item marcados com o ícone :warning: e então responda aos questionários da semana no Teams.
-Você deve cumprir as atividade **até o fim do dia anterior ao da próxima atividade síncrona**. Na última semana, a atividade deve ser cumprida **até a sexta-feira** da mesma semana.
+**Assista e leia** os item marcados com o ícone :warning: nas notas referentes à aula e então responda aos questionários correspondentes no Teams.
+Você deve cumprir as atividade **até o fim do dia anterior ao da próxima aula**. Na última semana, a atividade deve ser cumprida **até a sexta-feira** da mesma semana.
 
-### Seminários
+### Seminários - 40 pontos
 
 Os alunos deverão apresentar seminários, desenvolvidos em grupo, para seus colegas.
 O **objetivo** dos semináris é estimular discussão sobre o tópico em tela.
@@ -135,7 +129,7 @@ Como faísca para seu trabalho, considere os seguintes materiais.
 * [Richard Sennett: “O gratuito significa sempre uma forma de dominação”](https://brasil.elpais.com/brasil/2018/08/09/cultura/1533824675_957329.html)
 
  
-#### Tema 3: Privacidade e hacking
+#### Tema 3: Lei Geral da Proteção dos Dados
 
 Ninguém sai às ruas grudando nas paredes e posts as fotos de suas viagens, festas em que foi, ou refeições que fez.
 Contudo, muitos não se incomodam em fazê-lo na Internet, local com até mais visibilidade que os postes da sua cidade.
@@ -153,6 +147,27 @@ Neste seminário, você deverá abordar as questões privacidade digital, entrar
 Você também deverá discutir conceitos e técnicas relacionadas à violação de dados.
 Em suma, você deverá discutir, sem se limitar a, os seguintes tópicos:
 
+* O que é privacidade de dados
+    * O que são dados pessoais?
+    * Como garantí-la
+* O que diz a legislação brasileira.
+* O direito ao esquecimento
+
+Como material inicial, veja
+
+* [Lei Geral da Proteção dos Dados](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/Lei/L13709.htm) 
+* [Mesa Redonda Sobre LGPD](https://www.youtube.com/watch?v=3JTJCb6Whxc)
+* [Webminário: Tudo sobre a LGPD](https://www.youtube.com/watch?v=B4BeLfsp5_s) 
+* LGPD em uma página: [![LGPD em uma Página](images/lgpd-one-pager.png)](https://www.linkedin.com/in/mario-peixoto/) ([pdf](images/lgpd-one-pager.pdf))
+
+
+
+
+#### Tema 4:  Hacking e Hacking ético
+
+
+Em suma, você deverá discutir, sem se limitar a, os seguintes tópicos:
+
 * Hacking
     * Definição?
     * Bom ou mau?
@@ -162,20 +177,13 @@ Em suma, você deverá discutir, sem se limitar a, os seguintes tópicos:
     * Hacking ético
     * Exemplos?
     * O que diz a legislação brasileira
-* O que é privacidade de dados
-    * O que são dados pessoais?
-    * Como garantí-la
-    * O que diz a legislação brasileira.
-    * O direito ao esquecimento
 
 Como material inicial, veja
 
 * [The 'Internet of Things' Is Sending Us Back to the Middle Ages](https://www.realclearscience.com/articles/2017/09/06/the_internet_of_things_is_sending_us_back_to_the_middle_ages_110384.html)
-* [Lei Geral da Proteção dos Dados](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/Lei/L13709.htm) 
-* [Mesa Redonda Sobre LGPD](https://www.youtube.com/watch?v=3JTJCb6Whxc)
-* [Webminário: Tudo sobre a LGPD](https://www.youtube.com/watch?v=B4BeLfsp5_s) 
 
-#### Tema 4: Assédio
+
+#### Tema 5: Assédio
 
 Quando no meio profissional, você certamente e infelizmente terá "oportunidades" de presenciar ou vivenciar assédio, ou seja, comportamento indevido, geralmente repetitivo, que visa diminuir, ofender, obter vantagens da pessoa assediada.
 Vocês precisam então saber como identificar, se defender, defender seus pares, e porquê não praticar assédio.
@@ -190,7 +198,7 @@ Neste seminário, você deverá então abordar os seguintes tópicos, sem se lim
 * Legislação 
 * Ciberbullying.
 
-Para facilitar seu trabalho, sugiro os seguintes materias abaixo como ponto de partida.
+Para facilitar seu trabalho, sugiro os seguintes materiais abaixo como ponto de partida.
 
 * [Cartilha](./docs/CARTILHAASSEDIOMORALESEXUAL.pdf)
 * [Cartilha](./docs/CARTILHAASSEDIOMORALESEXUAL2.pdf)
@@ -199,7 +207,7 @@ Para facilitar seu trabalho, sugiro os seguintes materias abaixo como ponto de p
 * [Assédio sexual no Vale do Silício](http://money.cnn.com/technology/sexual-harassment-tech/)
 
 
-#### Tema 5: Relações raciais e de gênero no trabalho.
+#### Tema 6: Relações raciais e de gênero no trabalho.
 
 O Brasil é um país marcado pela desigualdade, em vários aspectos da sociedade, e esta desigualdade reflete e alimenta a discriminação das pessoas.
 
@@ -225,56 +233,26 @@ Para iniciar seu trabalho, sugiro os links acima e a seguinte lista.
 * [Segregação ocupacional e hiato salarial entre os gêneros](https://www.insper.edu.br/wp-content/uploads/2015/12/segregacao-ocupacional-hiato-salarial-entre-os-generos.pdf)
 
 
+### Apresentações - 40 pontos
 
-### Atividade Assíncrona: Computação e Sociedade
+Vocês deverão encontrar profissionais da área de computação para falar sobre suas carreiras. Alguns requisitos para as apresentações. Certifique-se de comunicá-los com seus convidados.
 
-Os vários ramos da computação, estando presentes cada vez mais na vida das pessoas, certamente podem afetar positiva e negativamente estas vidas.
-Assim, é importante pensar sobre como nossas atuações como "computeiros" impactam a sociedade ao nosso redor, a despeito da sociedade entender o que fazemos ou não
-
-![Sociedade x Computeiros](images/computeiros.jpg)
-
-
-
-Para dar alguns exemplos simples e bem próximos, pensemos na quantidade de dados pessoais que as redes sociais acumulam.
-Você, ao criar sua conta do Facebook ou Instagram, leu os termos de serviço? Sabe quais dados podem ser gravados e com quem podem ser compartilhados? A frase seguinte descreve bem a situação:
-
-> [Se você não está pagando pelo produto, então o produto é você!](https://www.quora.com/Who-originally-suggested-that-if-youre-not-paying-for-the-product-you-are-the-product)
-
-Em praticamente todos os serviços de redes sociais, todas as sua interações são gravadas e usadas para montar seu perfil, que será colocado em grupos usados para direcionar anúncios e campanhas. Por mais que você possa se achar especial, saiba que somos muito, muito previsíveis e que podemos ser facilmente manipulados. Para ver um grande exemplo disso, pense nas campanhas políticas de 2016 nos estados unidos e 2018 no Brasil. Milhares de mensagens direcionadas os eleitores indecisos serviram para virar a balança para um lado ou para outro, como é muito bem documentado em "Big Hack", disponível no Netflix.
-
-Mas para além dos perfis das redes sociais, a tecnologia poderá afetar nossa vida de outras formas também muito importantes.
-Ela permite a geração e processamento de imagens médicas de forma a melhorar diagnósticos, permite cirurgias a longa distância, o entretenimento no conforto da sua casa, o relacionamento com outrem, o aumento da eficiência dos negócios, a otimização de transportes, *etcetera*.
-
-Infelizmente, parece que toda tecnologia com potencial para uso benéfico à sociedade, também pode ser usada em seu detrimento.
-Por exemplo, as IA (Inteligências Artificiais) sendo treinadas por dados classificados por humanos, perseverarão divisões sociais, desigualdades e discriminações.
-Steven Levy discute esta ideia muito bem no artigo [*We Asked for Flying Cars. We Got Axl Rose's Twitter Spat*](https://www.wired.com/story/plaintext-we-asked-for-flying-cars-we-got-axl-roses-twitter-spat/).
-
-Na ficção, vemos vários exemplos destas reviravoltas. Em específico, o episódio
-[Black Mirror (Season 3): Nosedive](https://www.netflix.com/title/80117542?s=a&trkid=13747225&t=more)
-fala muito bem sobre como a tecnologia, neste caso em específico as redes sociais que são muito presentes em nossas vidas, tem o potencial de alterar a forma como nos comunicamos, compartilhamos informação, e somos classificadados em nossa sociedade.
-Outro exemplo, o filme [Minority Report](https://www.netflix.com/title/60023071) fala sobre como uma tecnologia para a prevenção de crimes pode ser usada para cercear a liberdade das pessoas.
-
-Apesar do futurismo do vídeos, situações exatamente como estas já estão acontecendo, como se pode ver em
-
-* [Facial recognition, data harvesting and the end of privacy](https://www.verdict.co.uk/facial-recognition-data-harvesting/):warning:
-* [Facing Up to Facial Recognition](https://spectrum.ieee.org/computing/software/facing-up-to-facial-recognition):warning:
-* <iframe width="560" height="315" src="https://www.youtube.com/embed/7lpCWxlRFAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> :warning:
-* [Police Unlock AI's Potential to Monitor, Surveil and Solve Crimes](https://www.youtube.com/watch?v=H_fyQCeBaeM&feature=emb_rel_end)
-
-Embora o reconhecimento facial receba grande parte da atenção ![Reconhecimento Facial](images/facial-recognition.png), há vários outros exemplos de tecnologia sendo usada em detrimento da sociedade, não por erro do julgamento, mas por direta ação de engenheiros, administradores e **desenvolvedores de software**, é o caso da Volkswagen, documentado no Episódio 1, Temporada 1, de [Dirty Money](https://www.netflix.com/title/80118100), no Netflix. 
-Fontes sobre o mesmo assunto abundam, por exemplo 
-
-* [Volkswagen emissions scandal](https://www.wired.com/2015/09/vw-fool-epa-couldnt-trick-chemistry/):warning:
-
-Felizmente, há também reações dos seus colegas de profissão, como visto na iniciativa [Ethical OS](https://ethicalos.org/), que discutiremos nas próximas semanas.
+* Duração da apresentação: 50 minutos
+* Perguntas e respostas: até 50 minutos
+* Atuação profissional: pelo menos **cinco**, five, cinque, V, 5, anos de experiência.
+* Falar sobre a formação na área, disciplinas importantes, formação extra.
+* Falar sobre mercado para a área, inclusive valores salariais.
 
 
+## Semana 2
+### Atividade Síncrona
+
+Palestra com o Prof. Sertório, do Instituto de Filosofia (IFILO) da UFU sobre como a ética é o pensar sobre as relações de grupo com um foco na qualificação das interações quanto a serem benéficas ao grupo.
 
 
+## Semana 3
 
-## Semana 2 - 19/08/2020
-
-Antes de falarmos sobre os pontos e materiais vistos na atividade assíncrona da semana 1, vamos definir um arcabouço teórico para falarmos sobre o certo e o errado na exercício da profissão.
+Vamos definir um arcabouço teórico para falarmos sobre o certo e o errado na exercício da profissão.
 
 ### Ética x Moral
 
@@ -298,14 +276,14 @@ Por exemplo, podemos pensar facilmente em ações que, consideradas morais muito
 * Pena de morte para adúlteros
   > Deuteronômio 22:22 - Se um homem for pego em flagrante deitado com a mulher de outro, os dois deverão pagar por esse delito com pena de morte, o homem e a mulher com quem se deitou. Desse modo extirparás o mal do meio do teu povo, ó Israel.
 * Escravagismo
-  > Êxodo 21:1-6 - Estes são os estatutos que lhes proporás: Se comprares um servo hebreu, seis anos servirá; mas ao sétimo sairá forro, de graça. Se entrar sozinho, sozinho sairá; se tiver mulher, então com ele sairá sua mulher. Se seu senhor lhe houver dado uma mulher e ela lhe houver dado filhos ou filhas, a mulher e os filhos dela serão de seu senhor e ele sairá sozinho. Mas se esse servo expressamente disser: “Eu amo a meu senhor, a minha mulher e a meus filhos, não quero sair forro”, então seu senhor o levará perante os juizes, e o fará chegar porta, ou ao umbral da porta, e o seu senhor lhe furará a orelha com uma sovela; e ele o servirá para sempre.
+  > Êxodo 21:1-6 - Estes são os estatutos que lhes proporás: Se comprares um servo hebreu, seis anos servirá; mas ao sétimo sairá forro, de graça. Se entrar sozinho, sozinho sairá; se tiver mulher, então com ele sairá sua mulher. Se seu senhor lhe houver dado uma mulher e ela lhe houver dado filhos ou filhas, a mulher e os filhos dela serão de seu senhor e ele sairá sozinho. Mas se esse servo expressamente disser: “Eu amo a meu senhor, a minha mulher e a meus filhos, não quero sair forro”, então seu senhor o levará perante os juízes, e o fará chegar porta, ou ao umbral da porta, e o seu senhor lhe furará a orelha com uma sovela; e ele o servirá para sempre.
 * Casamento com menores de idade - Converse com seus pais e avós sobre o assunto. É muito possível que uma de suas ancestrais recentes tenha "se casado" com 13 ou 14 anos de idade.
 
 Assim, embora a Moral varie e Ética não, como sociedade, o que consideramos ético nada mais é que moral, e certamente irá mudar no futuro.
 Por exemplo, quem garante que no futuro não será considerado (por todos) que comer carne é uma abominação?
 Logo, doravante, quando falarmos de ética, lembre-se que estamos falando na verdade do que achamos ser ético hoje, isto é, moral.
 
-Se você ficou mais confuso que esclarecido, teremos um oportunidade de em um futuro próximo esclarecer estas dúvidas com um especilista na área. Por enquanto, para melhor entender o que é ético, pode ser útil ver alguns exemplos do que obviamente não é, em várias situações.
+Se você ficou mais confuso que esclarecido, teremos um oportunidade de em um futuro próximo esclarecer estas dúvidas com um especialista na área. Por enquanto, para melhor entender o que é ético, pode ser útil ver alguns exemplos do que obviamente não é, em várias situações.
 
 !!!example "Exemplos de falta de ética na vida" 
     * Achar uma carteira com dinheiro, pegar o dinheiro e jogar a carteira fora, sem ter feito um esforço sincero para encontrar o dono.
@@ -447,13 +425,67 @@ Mesmo que você não vá tatuar o código de ética proposto pela SBC nas costas
 Afinal, computação certamente já causará problemas demais em nossas vidas, no processo de torná-las melhor (veja dois exemplos a seguir). Então, não é necessário que nós, os "computeiros", ajamos de má fé.
 
 
-### Revisão da Atividade Assíncrona da Semana 1
+### Leitura
+* [Center for Humane Technology](https://www.humanetech.com/#intro)
+* [Ethical OS](https://ethicalos.org/)
+
+
+
+
+## Semana 4
+
+### Computação e Sociedade
+
+Os vários ramos da computação, estando presentes cada vez mais na vida das pessoas, certamente podem afetar positiva e negativamente estas vidas.
+Assim, é importante pensar sobre como nossas atuações como "computeiros" impactam a sociedade ao nosso redor, a despeito da sociedade entender o que fazemos ou não
+
+![Sociedade x Computeiros](images/computeiros.jpg)
+
+
+
+Para dar alguns exemplos simples e bem próximos, pensemos na quantidade de dados pessoais que as redes sociais acumulam.
+Você, ao criar sua conta do Facebook ou Instagram, leu os termos de serviço? Sabe quais dados podem ser gravados e com quem podem ser compartilhados? A frase seguinte descreve bem a situação:
+
+> [Se você não está pagando pelo produto, então o produto é você!](https://www.quora.com/Who-originally-suggested-that-if-youre-not-paying-for-the-product-you-are-the-product)
+
+Em praticamente todos os serviços de redes sociais, todas as sua interações são gravadas e usadas para montar seu perfil, que será colocado em grupos usados para direcionar anúncios e campanhas. Por mais que você possa se achar especial, saiba que somos muito, muito previsíveis e que podemos ser facilmente manipulados. Para ver um grande exemplo disso, pense nas campanhas políticas de 2016 nos estados unidos e 2018 no Brasil. Milhares de mensagens direcionadas os eleitores indecisos serviram para virar a balança para um lado ou para outro, como é muito bem documentado em "Big Hack", disponível no Netflix.
+
+Mas para além dos perfis das redes sociais, a tecnologia poderá afetar nossa vida de outras formas também muito importantes.
+Ela permite a geração e processamento de imagens médicas de forma a melhorar diagnósticos, permite cirurgias a longa distância, o entretenimento no conforto da sua casa, o relacionamento com outrem, o aumento da eficiência dos negócios, a otimização de transportes, *etcetera*.
+
+Infelizmente, parece que toda tecnologia com potencial para uso benéfico à sociedade, também pode ser usada em seu detrimento.
+Por exemplo, as IA (Inteligências Artificiais) sendo treinadas por dados classificados por humanos, perseverarão divisões sociais, desigualdades e discriminações.
+Steven Levy discute esta ideia muito bem no artigo [*We Asked for Flying Cars. We Got Axl Rose's Twitter Spat*](https://www.wired.com/story/plaintext-we-asked-for-flying-cars-we-got-axl-roses-twitter-spat/).
+
+Na ficção, vemos vários exemplos destas reviravoltas. Em específico, o episódio
+[Black Mirror (Season 3): Nosedive](https://www.netflix.com/title/80117542?s=a&trkid=13747225&t=more)
+fala muito bem sobre como a tecnologia, neste caso em específico as redes sociais que são muito presentes em nossas vidas, tem o potencial de alterar a forma como nos comunicamos, compartilhamos informação, e somos classificadados em nossa sociedade.
+Outro exemplo, o filme [Minority Report](https://www.netflix.com/title/60023071) fala sobre como uma tecnologia para a prevenção de crimes pode ser usada para cercear a liberdade das pessoas.
+
+Apesar do futurismo do vídeos, situações exatamente como estas já estão acontecendo, como se pode ver em
+
+* [Facial recognition, data harvesting and the end of privacy](https://www.verdict.co.uk/facial-recognition-data-harvesting/):warning:
+* [Facing Up to Facial Recognition](https://spectrum.ieee.org/computing/software/facing-up-to-facial-recognition):warning:
+* <iframe width="560" height="315" src="https://www.youtube.com/embed/7lpCWxlRFAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> :warning:
+* [Police Unlock AI's Potential to Monitor, Surveil and Solve Crimes](https://www.youtube.com/watch?v=H_fyQCeBaeM&feature=emb_rel_end)
+
+Embora o reconhecimento facial receba grande parte da atenção ![Reconhecimento Facial](images/facial-recognition.png), há vários outros exemplos de tecnologia sendo usada em detrimento da sociedade, não por erro do julgamento, mas por direta ação de engenheiros, administradores e **desenvolvedores de software**, é o caso da Volkswagen, documentado no Episódio 1, Temporada 1, de [Dirty Money](https://www.netflix.com/title/80118100), no Netflix. 
+Fontes sobre o mesmo assunto abundam, por exemplo 
+
+* [Volkswagen emissions scandal](https://www.wired.com/2015/09/vw-fool-epa-couldnt-trick-chemistry/):warning:
+
+Felizmente, há também reações dos seus colegas de profissão, como visto na iniciativa [Ethical OS](https://ethicalos.org/), que discutiremos nas próximas semanas.
+
 
 * O que vocês acharam dos vídeos que falam sobre pré-crime, ou o uso de IA para identificar crimes antes de acontecerem?
 * Como fica a questão da privacidade?
 * O pré-julgamento pode afetar o resultado, levando a profecias auto-realizadoras?
 * Como previnir que tecnologias sejam mal utilizadas?
 
+
+
+
+## Semana 4
 
 ### Atividade Assíncrona: Computação e Sociedade
 
@@ -504,30 +536,21 @@ Como nós, como desenvolvedores podemos ajudar, ou pelo menos não piorar, o fut
 
 E se sobrar tempo, aprendam sobre HAL, no filme [2001 - Uma odisséia no espaço](https://www.netflix.com/title/207856).
 
-## Semana 3 - 26/08/2020 
-### Atividade Síncrona
-
-Na palestra com o Prof. Sertório, do Instituto de Filosofia (IFILO) da UFU, vimos que a ética é na realidade o pensar sobre as relações de grupo com um foco na qualificação das interações quanto a serem benéficas ao grupo.
-
-### Atividade Assíncrona
-
-A atividade desta semana será condesada com outra, no futuro próximo.
 
 ## Semana 4
-### Atividade Síncrona
 
-A palestra com [Pedro Paulo Silveira](https://www.linkedin.com/in/pedro-paulo-silveira/), ex-aluno da FACOM e co-fundador e CTO da Recrutei, foi realmente inspiradora.
-Pedro compartilhou histórias de sucessos e diversos erros cometidos, mostrando que é com insistência que se consegue progredir como empreendedor.
-
-Além de empreender, isto é, montar sua própria empresa e atacar algum problema ou, como dizem os profissionais do ramo, uma dor de um cliente, você também tem a opção de seguir alguém, trabalhando em uma empresa. Enquanto muito julgam que isto é ser apenas mais um dente na engrenagem, não há nada de mal em um carreira assim; tudo depende do seu perfil.
+Há várias possibilidades de atuação para os graduados nas áreas de computação. 
+É possível empreender, isto é, montar sua própria empresa e atacar algum problema ou, como dizem os profissionais do ramo, uma dor de um cliente. 
+Você também tem a opção de seguir alguém que empreenda, trabalhando em uma empresa e, enquanto muito julgam que isto é ser apenas mais um dente na engrenagem, não há nada de mal em um carreira assim; tudo depende do seu perfil.
 
 Uma outra possibilidade é a carreira acadêmica, isto é, uma carreira voltada para o ensino das próximas gerações de tecnologistas. É seguindo esta carreira pelo menos inicialmente que você pode vir a se tornar um pesquisador, seja na academia (universidades) ou na indústria, embora esta última opção seja limitada no Brasil.
+Este será o tópico desta aula, aproveitando a experiência deste que vos ~~fala~~ escreve.
 
-### Atividade Assíncrona
-#### A carreira de pesquisador
-Na atividade assíncrona desta semana, exploraremos um pouco a carreira acadêmica, aproveitando a experiência deste que vos ~~fala~~ escreve.
+Para começarmos, falemos sobre **pós-graduações**.
 
-Para começarmos, estando vocês inseridos no contexto acadêmico, pelo menos temporariamente, é natural que tenham ouvido os seguintes termos: 
+## Pós-graduação
+
+Estando vocês inseridos no contexto acadêmico, pelo menos temporariamente, é natural que tenham ouvido os seguintes termos: 
 
 * pós-graduação
 * mestrado
@@ -538,12 +561,7 @@ Para começarmos, estando vocês inseridos no contexto acadêmico, pelo menos te
 * MBA
 
 Estes termos, todos relacionados pois o primeiro é o termo geral usado para descrever os demais, precisam ser entendidos para se falar em carreira acadêmica.
-Vejamos então o que são as pós-graduações.
 
-
-##### Pós-graduação
-
-###### O quê e para quê?
 Sem surpresas e sem piadas, uma **pós-graduação** é um curso feito após um curso de graduação.
 Isto é, um curso que presume um conhecimento prévio adquirido em um curso de graduação, como Sistemas de Informação.
 
@@ -552,6 +570,8 @@ Com um objetivo tão amplo, é óbvio que deve haver múltiplos tipos de pós-gr
 
 * *lato sensu*
 * *stricto sensu*
+
+### Stricto-sensu
 
 Os cursos *stricto sensu* são mais voltados para atuação na academia e pesquisa de forma geral. 
 Em outras palavras, são pré-requisitos para se atuar na docência no ensino superior e o caminho mais direto para se tornar um pesquisador.
@@ -588,14 +608,14 @@ Os do tipo profissional são desenvolvidos em ou em parceria com empresas, ataca
 
 Já os do tipo acadêmico são realizados nas universidades, sem necessariamente atacar um problema com aplicabilidade imediata; isto é chamado de pesquisa básica, ou pesquisa pela pesquisa. Apesar do que se possa achar, boa parte dos avanços tecnológicos que temos hoje só foram possíveis por causa de [pesquisa básica](https://www.aau.edu/sites/default/files/%40%20Files/Research%20and%20Scholarship/Why%20University%20Research%20Matters/Infographics/laser-powerpoint.pdf):warning:
 
-Na FACOM, temos um programa de pós-graduação que oferece cursos de mestrado e doutorado acadêmicos em Ciêncida da Computação. Apesar do nome dos cursos, graduados em áreas afins à computação são bem vindos e, de fato, vários ex-alunos do curso de Sistemas de Informação já passaram pelo programa.
+Na FACOM, temos um programa de pós-graduação que oferece cursos de mestrado e doutorado acadêmicos em Ciência da Computação. Apesar do nome dos cursos, graduados em áreas afins à computação são bem vindos e, de fato, vários ex-alunos do curso de Sistemas de Informação já passaram pelo programa.
 
 
-###### Lato Sensu
+### Lato Sensu
 
-Enquanto os cursos *stricto sensu* buscam formar pesquisadores, cursos *lato sensu* visam acrescentar uma habilidade prática bem mais imedidata no desenvolvimento das atividades profissionais. 
+Enquanto os cursos *stricto sensu* buscam formar pesquisadores, cursos *lato sensu* visam acrescentar uma habilidade prática bem mais imediata no desenvolvimento das atividades profissionais. 
 No Brasil, este tipo de pós-graduação se divide em dois tipos, aperfeiçoamento e especialização, basicamente pela duração do curso.
-Enquanto os **aperfeiçoamentos** tem duração entre 180 e 359 horas de duração, **especializações** tem um mínimo de 360 hooras.
+Enquanto os **aperfeiçoamentos** tem duração entre 180 e 359 horas de duração, **especializações** tem um mínimo de 360 horas.
 
 Outra diferença importante é que especializações exigem a produção de uma monografia de conclusão de curso, enquanto o mesmo não é verdade para aperfeiçoamentos.
 
@@ -606,10 +626,10 @@ Uma "curiosidade" importante é que créditos créditos obtidos em programas de 
 Outro termo muito em voga no mundo das qualificações é o MBA, *master of business administration*, que embora possa ser traduzido como "mestrado em administração de empresas", no Brasil é considerado uma especialização.
 
 
-###### Além das pós
+### Além das pós
 
 Assim como se pode fazer múltiplos cursos de graduação, pode-se fazer também múltiplos de pós.
-Contudo, embora seja comum múltiplas especializações e aperfeiçõamentos, dificilmente alguém faria dois mestrados ou doutoramentos.
+Contudo, embora seja comum múltiplas especializações e aperfeiçoamentos, dificilmente alguém faria dois mestrados ou doutoramentos.
 Isto porquê cursos *stricto sensu*  são considerados uma escada, mestrado após a graduação e doutorado após o mestrado, continuando uma linha do formação rumo a uma carreira de pesquisador, e que um doutor está apto a estender seu conhecimento sozinho, e por isso novos cursos não fazem sentido.
 
 Alguns de vocês podem estar se perguntando o que é um pós-doutorado, se não um curso de "pós-pós-graduação".
@@ -623,22 +643,7 @@ Então que dizer que o doutorado é o fim da linha na carreira acadêmica? Sim e
 Há também a evolução para o status de **livre-docente** e **professor titular**, conferido professores experientes e que demonstrem algumas qualidades via um concurso.
 No serviço federal e, portanto, na UFU, não há a figura do livre-docente, mas nós temos vários professores titulares, que tem no mínimo 18 anos na carreira docente e com carreira relevante em termos de ensino, pesquisa e administração.
 
-
-###### Compensa?
-
-Mas para vocês que estão ainda na graduação, a pergunta que deve estar se formando em suas cabeças é fazer ou não uma pós-graduação?
-Há dois aspectos importantes nesta questão, o financeiro e o do perfil profissional.
-
-Em termos financeiros, normalmente as pós-graduações adicionam um prêmio à remuneração do profissional. Isto é, quanto mais pós, mais qualificado e melhor :dollar: remunerado o profissional.
-
-Contudo, embora aperfeiçoamentos e especializações possam ser feitos e concluídos facilmente enquanto empregados, cursos *stricto sensu* são muito demandantes e podem exigir dedicação exclusiva.
-Assim, é preciso considerar que enquanto é verdade que ao final do curso é possível que o profissional "valha" mais, também é preciso considerar que o mesmo deixou de adquirir experiência profissional durante o período em que fez o curso.
-Em uma pesquisa sobre [diferenças de salário](https://www.topuniversities.com/student-info/careers-advice/masters-phd-salary-benefits) :warning: feita nos EUA, verificou-se que embora o mestrado geralmente compense em termos financeiros, o doutorado não compensa, pois a evolução salarial obtida com 4 anos de experiência é maior que a obtida com o título de doutor.
-
-Mas se este é o caso, por quê alguém faria um doutorado?
-Basicamente, para se tornar um pesquisador, ou seja, pelo perfil da pessoa.
-
-#### Atuação
+#### Pesquisador
 Mas o que é um pesquisador? Embora alguns [insistam](https://posgraduando.com/existe-diferenca-entre-um-pesquisador-e-um-cientista/) que o termo correto deveria ser cientista e que pesquisador é algo simples de se tornar, acho que está claro que aqui nos referimos ao profissional que procura expandir o conhecimento científico por meio da busca por problemas relevantes e pela aplicação do método científico. Dito isso, está dito tudo, mas se não, damos alguns apontadores para mais leituras:
 
 * [Academic Researcher](https://www.allaboutcareers.com/careers/career-path/academic-research#:~:text=Typically%2C%20academic%20researchers%20are%20employed,students%20with%20their%20personal%20research.)
@@ -657,26 +662,95 @@ Para saber um pouco mais sobre a carreira de pesquisador ou, como fazem questão
 <iframe width="560" height="315" src="https://www.youtube.com/embed/75xfmEZLklU?start=1150" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+???todo
+    Expandir mais sobre a forma em que atua o pesquisador.
+
+### Compensa?
+
+Mas para vocês que estão ainda na graduação, a pergunta que deve estar se formando em suas cabeças é fazer ou não uma pós-graduação?
+Há dois aspectos importantes nesta questão, o financeiro e o do perfil profissional.
+
+Em termos financeiros, normalmente as pós-graduações adicionam um prêmio à remuneração do profissional. Isto é, quanto mais pós, mais qualificado e melhor :dollar: remunerado o profissional.
+
+Contudo, embora aperfeiçoamentos e especializações possam ser feitos e concluídos facilmente enquanto empregados, cursos *stricto sensu* são muito demandantes e podem exigir dedicação exclusiva.
+Assim, é preciso considerar que enquanto é verdade que ao final do curso é possível que o profissional "valha" mais, também é preciso considerar que o mesmo deixou de adquirir experiência profissional durante o período em que fez o curso.
+Em uma pesquisa sobre [diferenças de salário](https://www.topuniversities.com/student-info/careers-advice/masters-phd-salary-benefits) :warning: feita nos EUA, verificou-se que embora o mestrado geralmente compense em termos financeiros, o doutorado não compensa, pois a evolução salarial obtida com 4 anos de experiência é maior que a obtida com o título de doutor.
+
+Mas se este é o caso, por quê alguém faria um doutorado?
+Basicamente, para se tornar um pesquisador, ou seja, pelo perfil da pessoa.
+
 
 ### Mais material
 
 * Diversos vídeos sobre como escolher um orientador e como desenvolver seu trabalho.
    * [José Palazzo Moreira de Oliveira](https://www.youtube.com/c/josepalazzomoreiradeoliveira) 
-
-???todo
-    Expandir mais sobre a forma em que atua o pesquisador.
+* Hackerrant - Neste blog, discute-se o que é esperado de profissionais em vários níveis de suas carreiras, do ponto de vista do recrutador. Se você sabe o que é esperado, pode se preparar melhor.
+    * [Checklist de avaliação de Desenvolvedores Junior X Senior](https://blog.hackerrank.com/checklist-your-guide-to-assessing-junior-vs-senior-developers)
+    * [Checklist de avaliacão de desenvolvedor back-end](https://blog.hackerrank.com/back-end-developer-checklist/)
+    * [Why software is eating the world](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
 
 
 ## Semana 5
-### Atividade Síncrona
-#### Computação Verde.
+### Seminário - Computação Verde.
 
 Apresentação dos alunos sobre tema computação verde.
-A atividade foi gravada e está disponível no canal correspondente.
+A atividade será gravada e ficará disponível no canal correspondente.
 
-### Atividade Assíncrona
 
-Para esta semana, separei algumas leituras interessantes sobre como a tecnologia impacta nosso ambiente.
+## Semana 6 
+### Seminário - Propriedade Intelectual
+
+Apresentação dos alunos sobre o tema "Propriedade Intelectual"
+A atividade será gravada e ficará disponível no canal correspondente.
+
+
+## Semana 7 
+### Seminário - Privacidade
+
+Apresentação dos alunos sobre o tema "Privacidade"
+A atividade será gravada e ficará disponível no canal correspondente.
+
+## Semana 8
+### Seminário - Hacking
+
+Apresentação dos alunos sobre o tema "Hacking"
+A atividade será gravada e ficará disponível no canal correspondente.
+
+## Semana 9
+### Seminário - Assédio
+
+Apresentação dos alunos sobre o tema "Assédio"
+A atividade será gravada e ficará disponível no canal correspondente.
+
+
+## Semana 10
+### Seminário - Relações raciais e de gênero no trabalho.
+
+Apresentação dos alunos sobre o tema "Relações raciais e de gênero no trabalho."
+A atividade será gravada e ficará disponível no canal correspondente.
+
+
+## Semana 11
+### Apresentação - A ser definida
+
+## Semana 12
+### Apresentação - A ser definida
+
+## Semana 13
+### Apresentação - A ser definida
+
+## Semana 14
+### Apresentação - A ser definida
+
+## Semana 15
+### Apresentação - A ser definida
+
+
+
+## Atividades Assíncronas
+
+### Computação verde
+Algumas leituras interessantes sobre como a tecnologia impacta nosso ambiente.
 
 O primeiro artigo descreve um experimento da Microsoft para usar o oceano como sistema de refrigeramento natural para datacenters submersos. O segundo fala sobre a retirada, há poucos dias, depois de dois anos, do container. Um fato muito interessante é que o datacenter experimentou apenas $\frac{1}{8}$ das falhas que o datacenter que ficou em terra sofreu. Menos falhas, menos lixo.
 
@@ -688,21 +762,14 @@ A verdade é que muitas iniciativas se enfraqueceram, como discutido no terceiro
 
 * [Green Computing Analysis](https://www.theregister.com/2016/03/15/green_computing_analysis/) :warning:
 
-Mas embora o *buzz* tenha sumido ou pelo menos diminuido, a verdade é que muito esforço é feito para infraestruturas computacionais eficientes, se não por razões ambientais, por econômicas.
+Mas embora o *buzz* tenha sumido ou pelo menos diminuído, a verdade é que muito esforço é feito para infraestruturas computacionais eficientes, se não por razões ambientais, por econômicas.
 Esta visão reflete muito na forma como datacenters são construídos e operados para serem ["verdes"](https://en.wikipedia.org/wiki/Green_data_center).
 Esta é uma das forças por trás do [Open Compute Project](https://www.opencompute.org/).
 Outra evidência de que o verde ainda continua por aí é o ESG, uma avaliação de empresas feitas por investidores para decidir se deve ou não investir na mesma. ESG é a sigla em inglês para [Ambiente, Sociedade e Governança](https://www.infomoney.com.br/onde-investir/esg-do-despertar-da-relevancia-ao-desenvolvimento-no-mercado-o-que-o-investidor-precisa-saber-hoje/) :warning:
 
 
-## Semana 6 
-### Atividade Síncrona
-#### Propriedade Intelectual
 
-Apresentação dos alunos sobre o tema "Propriedade Intelectual"
-A atividade foi gravada e está disponível no canal correspondente.
-
-### Atividade Assíncrona
-#### Registro de Software
+### Registro de Software
 
 Nesta atividade, complementaremos o conteúdo visto na apresentação feita na atividade síncrona, nos focando em aspectos práticos para quem é da área de computação.
 Apenas reforçando, temos como principais conceitos e derivados os seguintes: 
@@ -736,7 +803,7 @@ Chamo à atenção o Art. 6o da lei do software, que trata do plágio de softwar
 
 Ora, se um programa resolve o mesmo problema, de um mesmo domínio, em um ambiente computacional semelhante, algumas características serão semelhantes. O quão semelhante constitui plágio? Este é um trabalho para o juiz da causa, que provavelmente não entende nada de computação, determinar.
 
-#### Licenças
+### Licenças
 
 ???todo "TODO"
    Expandir motivação sobre licenças
@@ -744,15 +811,11 @@ Ora, se um programa resolve o mesmo problema, de um mesmo domínio, em um ambien
 Para escolher uma licença para o seu software (ou mesmo outras criações), use a ferramenta [choose a license](https://choosealicense.com/licenses/):warning:, que compara as principais.
 Caso estas não lhe atendam, ou caso queira entender o que outras licensas querem dizer, a Wikipedia tem um bom e vasto [comparativo](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
 
-## Semana 7 
-### Atividade Síncrona
 
-Apresentação dos alunos sobre o tema "Hacking e Privacidade"
-A atividade foi gravada e está disponível no canal correspondente.
 
-### Atividade Assíncrona
+### Testes de Penetração
 
-Na atidadade assíncrona desta semana, você aprenderá um pouco mais sobre [Teste de Penetração](https://www.imperva.com/learn/application-security/penetration-testing/) :alert:
+Na atividade assíncrona desta semana, você aprenderá um pouco mais sobre [Teste de Penetração](https://www.imperva.com/learn/application-security/penetration-testing/) :alert:
 
 Para aqueles que quiserem saber mais sobre hacking ético, este [curso introdutório](https://youtu.be/3Kq1MIfTWCE) tem 15 horas de duração.
 
@@ -763,35 +826,4 @@ E, por recomendação dos colegas, assisti ao filme [The Social Dilemma](https:/
 
 
 
-## Semana 8 
-### Atividade Síncrona
-Apresentação dos alunos sobre o tema "Assédio"
-A atividade foi gravada e está disponível no canal correspondente.
 
-
-### Atividade Assíncrona
-
-
-## Semana 9 
-### Atividade Síncrona
-### Atividade Assíncrona
-
-## Material complementar
-
-Material extra, em vários tópicos
-
-### Carreira
-
-Neste blog, discute-se o que é esperado de profissionais em vários níveis de suas carreiras, do ponto de vista do recrutador. Se você sabe o que é esperado, pode se preparar melhor.
-
-* [Checklist de avaliação de Desenvolvedores Junior X Senior](https://blog.hackerrank.com/checklist-your-guide-to-assessing-junior-vs-senior-developers)
-* [Checklist de avaliacão de desenvolvedor back-end](https://blog.hackerrank.com/back-end-developer-checklist/)
-* [Why software is eating the world](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
-
-### LGPD
-* LGPD em uma página:  
-  [![LGPD em uma Página](images/lgpd-one-pager.png)](https://www.linkedin.com/in/mario-peixoto/) ([pdf](images/lgpd-one-pager.pdf))
-
-### Ética na Computação
-* [Center for Humane Technology](https://www.humanetech.com/#intro)
-* [Ethical OS](https://ethicalos.org/)
