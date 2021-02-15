@@ -73,7 +73,7 @@ Sua missão, caso você decida aceitá-la, é expandir na contextualização aci
 
 Certifique-se de discutir, sem se limitar a, os seguintes pontos:
 
-* Consumo energético de datacenters
+* Consumo energético de *datacenters*
 * Energia renovável
 * Certificações
 * Carbon footprint
@@ -115,7 +115,7 @@ Neste seminário, seu objetivo é discutir estas questões, inclusive mas não l
 
 * Propriedade intelectual
     * Propriedade industrial
-    * Direitor autorais no Brasil
+    * Direitos autorais no Brasil
     * Copyright e copyleft 
     * Patentes
         * boas ou más?
@@ -209,20 +209,21 @@ Para facilitar seu trabalho, sugiro os seguintes materiais abaixo como ponto de 
 
 #### Tema 6: Relações raciais e de gênero no trabalho.
 
-O Brasil é um país marcado pela desigualdade, em vários aspectos da sociedade, e esta desigualdade reflete e alimenta a discriminação das pessoas.
+O Brasil é um país marcado pela desigualdade, em vários aspectos da sociedade, e esta desigualdade reflete e alimenta a discriminação das pessoas, usando desculpas como:
 
-* Há a discriminação por profissão, que coloca profissionais de uma área como meros cidadãos, abaixo dos que são "engenheiro civil formado" e outros "dotôs". 
-* Há a discriminação pela diferença de gênero. 
-* Há a [discriminação por cor da pele](https://nacoesunidas.org/acao/discriminacao-racial/). Há a discriminação por origem geográfica(https://noticias.uol.com.br/cotidiano/ultimas-noticias/2016/02/24/negros-e-nordestinos-sao-principais-vitimas-de-discriminacao-em-sp.htm)
-* Há também por orientação sexual.
-* Opção religiosa
+* profissão;
+* [cor da pele](https://nacoesunidas.org/acao/discriminacao-racial/);
+* origem geográfica(https://noticias.uol.com.br/cotidiano/ultimas-noticias/2016/02/24/negros-e-nordestinos-sao-principais-vitimas-de-discriminacao-em-sp.htm);
+* diferença de gênero;
+* orientação sexual; e,
+* opção de religião ou ausência dela.
 
-Enfim, o Brasil é rico nestes problemas, e todos eles refletem no mercado de trabalho.
+Enfim, o Brasil é rico nestes problemas e todos eles refletem no mercado de trabalho.
 Neste seminário, você deverá abordar esta temática, tocando nos seguintes tópicos, sem se limitar aos mesmos:
 
 * Conceito de raça e Raça entre humanos
-* Cis, trans, homo, hetero, gênero?
 * Diferenças intelectuais entre “raças” e gêneros
+* Cis, trans, homo, hetero, gênero?
 * Mulheres importantes na computação
 * O que diz a legislação brasileira?
 
@@ -298,7 +299,7 @@ Se eu te perguntar se é anti-ético cobrar 5000 reais por uma página Web feita
 !!!note "Pharma Bro"
     In September 2015, Shkreli received widespread criticism when Turing obtained the manufacturing license for the antiparasitic drug Daraprim and raised its price by a factor of 56 (from US$13.5 to $750 per pill), leading him to be referred to by the media as "the most hated man in America" and "Pharma Bro" ([Fonte](https://en.wikipedia.org/wiki/Martin_Shkreli))
 
-Este exemplo, onde um remédio teve seu preço aumentado de 13 para 750 Dólares, por pílula, décadas depois de ter sido inventado, e com processo de fabricação simples, [reprodutível por adolescentes](https://blogs.sciencemag.org/pipeline/archives/2016/12/01/those-australian-students-and-their-daraprim), é excelente para indicar uma idiossincrazia da sociedade capitalista.
+Este exemplo, onde um remédio teve seu preço aumentado de 13 para 750 Dólares, por pílula, décadas depois de ter sido inventado, e com processo de fabricação simples, [reprodutível por adolescentes](https://blogs.sciencemag.org/pipeline/archives/2016/12/01/those-australian-students-and-their-daraprim), é excelente para indicar uma idiossincrasia da sociedade capitalista.
 Enquanto difícilmente alguém considerará o aumento ético, a relativização do que é errado e certo é muito comum em nossa sociedade. 
 
 Vejamos alguns exemplos na universidade, mais próximos de nós, e muito bem apontados neste [blog](https://rbribeiro.wordpress.com/2015/06/24/como-e-dar-aula-no-ensino-superior-e-a-corrupcao-na-universidade/).
@@ -372,7 +373,7 @@ O verdadeiro [código de ética da Medicina no Brasil](https://portal.cfm.org.br
 ### Ética na Computação
 Já na computação, como fica a questão da ética profissional?
 
-Não há, no Brazil, um código de ética estabelecido pelo Conselho Federal dos Computeiros, até por quê não há um reconhecimento dos "computeiros" como uma classe profissional como é o caso dos médicos. 
+Não há, no Brazil, um código de ética estabelecido pelo Conselho Federal dos Computeiros, até por quê não há um reconhecimento dos "computeiros" como uma classe profissional como é o caso de outras profissões.
 Na computação, entra quem quiser, e fica quem se mostrar habilitado, tenha se formado em ciência da computação, engenharia elétrica, sistemas de informação, administração de empresas ou educação física, apesar de ser uma discussão [antiga](http://sbc.org.br/2-uncategorised/1272-regulamentacao-da-profissao).
 
 Se não há definição de quem pode atuar com computação, há definitivamente muitos exemplos de falta de ética na área.
@@ -425,12 +426,6 @@ Mesmo que você não vá tatuar o código de ética proposto pela SBC nas costas
 Afinal, computação certamente já causará problemas demais em nossas vidas, no processo de torná-las melhor (veja dois exemplos a seguir). Então, não é necessário que nós, os "computeiros", ajamos de má fé.
 
 
-### Leitura
-* [Center for Humane Technology](https://www.humanetech.com/#intro)
-* [Ethical OS](https://ethicalos.org/)
-
-
-
 
 ## Semana 4
 
@@ -459,7 +454,7 @@ Steven Levy discute esta ideia muito bem no artigo [*We Asked for Flying Cars. W
 
 Na ficção, vemos vários exemplos destas reviravoltas. Em específico, o episódio
 [Black Mirror (Season 3): Nosedive](https://www.netflix.com/title/80117542?s=a&trkid=13747225&t=more)
-fala muito bem sobre como a tecnologia, neste caso em específico as redes sociais que são muito presentes em nossas vidas, tem o potencial de alterar a forma como nos comunicamos, compartilhamos informação, e somos classificadados em nossa sociedade.
+fala muito bem sobre como a tecnologia, neste caso em específico as redes sociais que são muito presentes em nossas vidas, tem o potencial de alterar a forma como nos comunicamos, compartilhamos informação, e somos classificados em nossa sociedade.
 Outro exemplo, o filme [Minority Report](https://www.netflix.com/title/60023071) fala sobre como uma tecnologia para a prevenção de crimes pode ser usada para cercear a liberdade das pessoas.
 
 Apesar do futurismo do vídeos, situações exatamente como estas já estão acontecendo, como se pode ver em
@@ -474,7 +469,7 @@ Fontes sobre o mesmo assunto abundam, por exemplo
 
 * [Volkswagen emissions scandal](https://www.wired.com/2015/09/vw-fool-epa-couldnt-trick-chemistry/):warning:
 
-Felizmente, há também reações dos seus colegas de profissão, como visto na iniciativa [Ethical OS](https://ethicalos.org/), que discutiremos nas próximas semanas.
+Felizmente, há também reações dos seus colegas de profissão, como visto na iniciativa [Ethical OS](https://ethicalos.org/), do [Center for Humane Technology](https://www.humanetech.com/#intro).
 
 
 * O que vocês acharam dos vídeos que falam sobre pré-crime, ou o uso de IA para identificar crimes antes de acontecerem?
@@ -483,9 +478,6 @@ Felizmente, há também reações dos seus colegas de profissão, como visto na 
 * Como previnir que tecnologias sejam mal utilizadas?
 
 
-
-
-## Semana 4
 
 ### Atividade Assíncrona: Computação e Sociedade
 
@@ -503,7 +495,7 @@ Algumas perguntas, entretanto, são mais subjetivas.
 * Qual o melhor artigo para oferecer para leitura a este usuário?
 
 E nesta subjetividade, os viéses dos humanos são reproduzidos nas máquinas.
-No seu *feed* do Facebook por exemplo, você deve receber muito mais notícias sobre as vigens de seus colegas que de recalls de BMW. Isso acontece porquê o Facebook lhe oferece artigos que casam com seus interesses, levantados por anos de interação com o sistema.
+No seu *feed* do Facebook por exemplo, você deve receber muito mais notícias sobre as viagens de seus colegas que de *recalls* de BMW. Isso acontece porquê o Facebook lhe oferece artigos que casam com seus interesses, levantados por anos de interação com o sistema.
 Acontece que esta abordagem reforça seus interesses e lhe mantem é uma bolha.
 Há vários casos documentados de viés no mundo da IA. 
 
@@ -537,41 +529,38 @@ Como nós, como desenvolvedores podemos ajudar, ou pelo menos não piorar, o fut
 E se sobrar tempo, aprendam sobre HAL, no filme [2001 - Uma odisséia no espaço](https://www.netflix.com/title/207856).
 
 
-## Semana 4
+## Semana 5
 
 Há várias possibilidades de atuação para os graduados nas áreas de computação. 
 É possível empreender, isto é, montar sua própria empresa e atacar algum problema ou, como dizem os profissionais do ramo, uma dor de um cliente. 
 Você também tem a opção de seguir alguém que empreenda, trabalhando em uma empresa e, enquanto muito julgam que isto é ser apenas mais um dente na engrenagem, não há nada de mal em um carreira assim; tudo depende do seu perfil.
 
-Uma outra possibilidade é a carreira acadêmica, isto é, uma carreira voltada para o ensino das próximas gerações de tecnologistas. É seguindo esta carreira pelo menos inicialmente que você pode vir a se tornar um pesquisador, seja na academia (universidades) ou na indústria, embora esta última opção seja limitada no Brasil.
-Este será o tópico desta aula, aproveitando a experiência deste que vos ~~fala~~ escreve.
+Outra possibilidade é uma carreira de pesquisador, isto é, uma carreira voltada para o desenvolvimento de novas tecnologias.
+No Brasil, onde a maioria absoluta da pesquisa científica é feita nas universidades públicas, esta carreira se confunde com a do ensino superior, onde poderá ajudar a formar as próximas gerações de tecnologistas.
+Seja qual for seu destino final, professor, pesquisador, ou os dois, o ponto de partida é o mesmo, uma **pós-graduações**.
+Mas mesmo que não seja este o seu plano de vida, é importante que você entenda o que são pois, dependendo do seu tipo, podem ter impacto também fora de um laboratório de pesquisa.
 
-Para começarmos, falemos sobre **pós-graduações**.
+### Pós-graduação
 
-## Pós-graduação
+Estando vocês inseridos no contexto acadêmico, pelo menos temporariamente, é natural que tenham ouvido os seguintes termos, todos relacionados pois o primeiro é o termo geral usado para descrever os demais, precisam ser entendidos para se falar em carreira acadêmica.
 
-Estando vocês inseridos no contexto acadêmico, pelo menos temporariamente, é natural que tenham ouvido os seguintes termos: 
-
-* pós-graduação
-* mestrado
-* doutorado
-* PhD
-* especialização
-* certificação
-* MBA
-
-Estes termos, todos relacionados pois o primeiro é o termo geral usado para descrever os demais, precisam ser entendidos para se falar em carreira acadêmica.
+* pós-graduação;
+* mestrado;
+* doutorado;
+* PhD;
+* especialização;
+* certificação; e
+* MBA.
 
 Sem surpresas e sem piadas, uma **pós-graduação** é um curso feito após um curso de graduação.
 Isto é, um curso que presume um conhecimento prévio adquirido em um curso de graduação, como Sistemas de Informação.
-
 O objetivo de um curso de pós-graduação é lhe permitir se aprofundar em um tópico, se especializando no mesmo, ou complementar a formação obtida no curso de graduação.
 Com um objetivo tão amplo, é óbvio que deve haver múltiplos tipos de pós-graduação, classificadas em dois tipos:
 
 * *lato sensu*
 * *stricto sensu*
 
-### Stricto-sensu
+#### Stricto-sensu
 
 Os cursos *stricto sensu* são mais voltados para atuação na academia e pesquisa de forma geral. 
 Em outras palavras, são pré-requisitos para se atuar na docência no ensino superior e o caminho mais direto para se tornar um pesquisador.
@@ -600,7 +589,8 @@ Para a obtenção do título, o doutorando deve produzir uma **tese de doutorado
 No caso de sucesso na defesa, o candidato recebe o título de **Doutor** na área, no Brasil.
 Outros países tem títulos equivalentes, como *Philosophy Doctor*, ou PhD, nos países de língua inglesa.
 
-Normalmente o Doutorado deve ser precedido por um Mestrado, mas algumas instituições permitem o ingresso no doutorado diretamente, para candidatos excepcionais. Embora eu não tenha estatísticas concretas em mãos, meu sentimento é que é mais comum o insucesso nesta modaliddae que na normal.
+Normalmente o Doutorado deve ser precedido por um Mestrado, mas algumas instituições permitem o ingresso no doutorado diretamente, para candidatos excepcionais. 
+Embora eu não tenha estatísticas concretas em mãos, meu sentimento é que é mais comum o insucesso nesta modalidade que na normal.
 
 Tanto o mestrado quanto o doutorado podem ser do tipo **profissional** ou **acadêmico**, sendo que o doutorado profissional não é comum no Brasil.
 Os do tipo profissional são desenvolvidos em ou em parceria com empresas, atacando problemas reais destas, focando-se no desenvolvimento de protótipos e na rápida transferência de conhecimento das universidades para a indústria.
@@ -611,7 +601,7 @@ Já os do tipo acadêmico são realizados nas universidades, sem necessariamente
 Na FACOM, temos um programa de pós-graduação que oferece cursos de mestrado e doutorado acadêmicos em Ciência da Computação. Apesar do nome dos cursos, graduados em áreas afins à computação são bem vindos e, de fato, vários ex-alunos do curso de Sistemas de Informação já passaram pelo programa.
 
 
-### Lato Sensu
+#### Lato Sensu
 
 Enquanto os cursos *stricto sensu* buscam formar pesquisadores, cursos *lato sensu* visam acrescentar uma habilidade prática bem mais imediata no desenvolvimento das atividades profissionais. 
 No Brasil, este tipo de pós-graduação se divide em dois tipos, aperfeiçoamento e especialização, basicamente pela duração do curso.
@@ -626,7 +616,7 @@ Uma "curiosidade" importante é que créditos créditos obtidos em programas de 
 Outro termo muito em voga no mundo das qualificações é o MBA, *master of business administration*, que embora possa ser traduzido como "mestrado em administração de empresas", no Brasil é considerado uma especialização.
 
 
-### Além das pós
+#### Além das pós
 
 Assim como se pode fazer múltiplos cursos de graduação, pode-se fazer também múltiplos de pós.
 Contudo, embora seja comum múltiplas especializações e aperfeiçoamentos, dificilmente alguém faria dois mestrados ou doutoramentos.
@@ -686,52 +676,49 @@ Basicamente, para se tornar um pesquisador, ou seja, pelo perfil da pessoa.
    * [José Palazzo Moreira de Oliveira](https://www.youtube.com/c/josepalazzomoreiradeoliveira) 
 * Hackerrant - Neste blog, discute-se o que é esperado de profissionais em vários níveis de suas carreiras, do ponto de vista do recrutador. Se você sabe o que é esperado, pode se preparar melhor.
     * [Checklist de avaliação de Desenvolvedores Junior X Senior](https://blog.hackerrank.com/checklist-your-guide-to-assessing-junior-vs-senior-developers)
-    * [Checklist de avaliacão de desenvolvedor back-end](https://blog.hackerrank.com/back-end-developer-checklist/)
+    * [Checklist de avaliação de desenvolvedor back-end](https://blog.hackerrank.com/back-end-developer-checklist/)
     * [Why software is eating the world](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
 
 
-## Semana 5
+## Semana 6
 ### Seminário - Computação Verde.
 
 Apresentação dos alunos sobre tema computação verde.
 A atividade será gravada e ficará disponível no canal correspondente.
 
 
-## Semana 6 
+## Semana 7 
 ### Seminário - Propriedade Intelectual
 
 Apresentação dos alunos sobre o tema "Propriedade Intelectual"
 A atividade será gravada e ficará disponível no canal correspondente.
 
 
-## Semana 7 
+## Semana 8 
 ### Seminário - Privacidade
 
 Apresentação dos alunos sobre o tema "Privacidade"
 A atividade será gravada e ficará disponível no canal correspondente.
 
-## Semana 8
+## Semana 9
 ### Seminário - Hacking
 
 Apresentação dos alunos sobre o tema "Hacking"
 A atividade será gravada e ficará disponível no canal correspondente.
 
-## Semana 9
+## Semana 10
 ### Seminário - Assédio
 
 Apresentação dos alunos sobre o tema "Assédio"
 A atividade será gravada e ficará disponível no canal correspondente.
 
 
-## Semana 10
+## Semana 11
 ### Seminário - Relações raciais e de gênero no trabalho.
 
 Apresentação dos alunos sobre o tema "Relações raciais e de gênero no trabalho."
 A atividade será gravada e ficará disponível no canal correspondente.
 
-
-## Semana 11
-### Apresentação - A ser definida
 
 ## Semana 12
 ### Apresentação - A ser definida
@@ -752,7 +739,8 @@ A atividade será gravada e ficará disponível no canal correspondente.
 ### Computação verde
 Algumas leituras interessantes sobre como a tecnologia impacta nosso ambiente.
 
-O primeiro artigo descreve um experimento da Microsoft para usar o oceano como sistema de refrigeramento natural para datacenters submersos. O segundo fala sobre a retirada, há poucos dias, depois de dois anos, do container. Um fato muito interessante é que o datacenter experimentou apenas $\frac{1}{8}$ das falhas que o datacenter que ficou em terra sofreu. Menos falhas, menos lixo.
+O primeiro artigo descreve um experimento da Microsoft para usar o oceano como sistema de refrigeramento natural para *datacenters* submersos. 
+O segundo fala sobre a retirada, há poucos dias, depois de dois anos, do container. Um fato muito interessante é que o *datacenter* experimentou apenas $\frac{1}{8}$ das falhas que o *datacenter* que ficou em terra sofreu. Menos falhas, menos lixo.
 
 * [Microsoft tests a datacenter under the sea](https://news.microsoft.com/features/under-the-sea-microsoft-tests-a-datacenter-thats-quick-to-deploy-could-provide-internet-connectivity-for-years/) :warning:
 * [Project Natick underwater datacenter](https://news.microsoft.com/innovation-stories/project-natick-underwater-datacenter/) :warning:
@@ -763,7 +751,7 @@ A verdade é que muitas iniciativas se enfraqueceram, como discutido no terceiro
 * [Green Computing Analysis](https://www.theregister.com/2016/03/15/green_computing_analysis/) :warning:
 
 Mas embora o *buzz* tenha sumido ou pelo menos diminuído, a verdade é que muito esforço é feito para infraestruturas computacionais eficientes, se não por razões ambientais, por econômicas.
-Esta visão reflete muito na forma como datacenters são construídos e operados para serem ["verdes"](https://en.wikipedia.org/wiki/Green_data_center).
+Esta visão reflete muito na forma como *datacenters* são construídos e operados para serem ["verdes"](https://en.wikipedia.org/wiki/Green_data_center).
 Esta é uma das forças por trás do [Open Compute Project](https://www.opencompute.org/).
 Outra evidência de que o verde ainda continua por aí é o ESG, uma avaliação de empresas feitas por investidores para decidir se deve ou não investir na mesma. ESG é a sigla em inglês para [Ambiente, Sociedade e Governança](https://www.infomoney.com.br/onde-investir/esg-do-despertar-da-relevancia-ao-desenvolvimento-no-mercado-o-que-o-investidor-precisa-saber-hoje/) :warning:
 
@@ -779,7 +767,7 @@ graph TD
     A[Propriedade intelectual] --> B[Propriedade Industrial] --> E1[Patente]
                                        B --> E2[Marca]
                                    B --> E3[...]
-     A[Propriedade intelectual] --> D[Direitor Autoral] --> E4[Direito Moral]
+     A[Propriedade intelectual] --> D[Direitos Autoral] --> E4[Direito Moral]
                                    D --> E5[Direto Patrimonial]
 ```
 
@@ -789,7 +777,7 @@ Para uma revisão destes conceitos, consulte os seguintes sítios:
 * [Propriedade Intelectual - Portal da Indústria](http://www.portaldaindustria.com.br/cni/canais/propriedade-intelectual-cni/propriedade-intelectual/legislacao/#anchor-intro) :warning:
 * [Propriedade Intelectual: direitos morais e patrimoniais do autor](https://claudiamaraviegas.jusbrasil.com.br/artigos/760054169/propriedade-intelectual-direitos-morais-e-patrimoniais-do-autor) :warning:
 
-Importante para nós, é o registro de Software, mecanismo pelo qual se facilida a garantia da **propriedade intelectual** sobre o software. 
+Importante para nós, é o registro de Software, mecanismo pelo qual se facilita a garantia da **propriedade intelectual** sobre o software. 
 Observe que o registro de software não é uma forma de proteção da propriedade industrial pois um software, na [legislação brasileira, Lei 9609](https://www.planalto.gov.br/ccivil_03/leis/l9609.htm):warning:, também conhecida como "Lei do Software", está mais para uma obra literária que uma invenção.
 
 Duas observações são importantes aqui. Primeiro, a lei deixa claro que o software desenvolvido no contexto de um contrato de serviço, é de propriedade do contratante, e não do desenvolvedor; não há nem mesmo o direito de ser reconhecido como autor.
@@ -809,7 +797,7 @@ Ora, se um programa resolve o mesmo problema, de um mesmo domínio, em um ambien
    Expandir motivação sobre licenças
 
 Para escolher uma licença para o seu software (ou mesmo outras criações), use a ferramenta [choose a license](https://choosealicense.com/licenses/):warning:, que compara as principais.
-Caso estas não lhe atendam, ou caso queira entender o que outras licensas querem dizer, a Wikipedia tem um bom e vasto [comparativo](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
+Caso estas não lhe atendam, ou caso queira entender o que outras licenças querem dizer, a Wikipedia tem um bom e vasto [comparativo](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
 
 
 

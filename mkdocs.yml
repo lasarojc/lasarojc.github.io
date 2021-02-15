@@ -8,9 +8,9 @@ nav:
         - Research: publications/index.md
         - Students: students/index.md
         - Teaching: 
-            - 'Profissão em SI - E1': teaching/gsi009/index.md
+            - '2020/1 GSI009': teaching/gsi009/index.md
             #   - 'Profissão em Sistemas de Informação': teaching/gsi009/index.md
-            - 'Sistemas Distribuídos - E2': 
+            - '2020/1 GBC074/GSI028': 
                 - Semana 1: teaching/gbc074gsi028/semana1.md
                 - Semana 2: teaching/gbc074gsi028/semana2.md
                 - Semana 3: teaching/gbc074gsi028/semana3.md
