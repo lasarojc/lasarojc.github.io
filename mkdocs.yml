@@ -10,16 +10,16 @@ nav:
         - Teaching: 
             - '2020/1 GSI009': teaching/gsi009/index.md
             #   - 'Profissão em Sistemas de Informação': teaching/gsi009/index.md
-            - '2020/1 GBC074/GSI028': 
-                - Semana 1: teaching/gbc074gsi028/semana1.md
-                - Semana 2: teaching/gbc074gsi028/semana2.md
-                - Semana 3: teaching/gbc074gsi028/semana3.md
-                - Semana 4: teaching/gbc074gsi028/semana4.md
-                - Semana 5: teaching/gbc074gsi028/semana5.md
-                - Semana 6: teaching/gbc074gsi028/semana6.md
-                - Semana 7: teaching/gbc074gsi028/semana7.md
-                - Semana 8: teaching/gbc074gsi028/semana8.md
-                - Semana 9: teaching/gbc074gsi028/semana9.md
+            - '2020/1 GBC074/GSI028': teaching/gbc074gsi028/index.md
+            #    - Semana 1: teaching/gbc074gsi028/semana1.md
+            #    - Semana 2: teaching/gbc074gsi028/semana2.md
+            #    - Semana 3: teaching/gbc074gsi028/semana3.md
+            #    - Semana 4: teaching/gbc074gsi028/semana4.md
+            #    - Semana 5: teaching/gbc074gsi028/semana5.md
+            #    - Semana 6: teaching/gbc074gsi028/semana6.md
+            #    - Semana 7: teaching/gbc074gsi028/semana7.md
+            #    - Semana 8: teaching/gbc074gsi028/semana8.md
+            #    - Semana 9: teaching/gbc074gsi028/semana9.md
 
 theme:
         name: material #readthedocs
