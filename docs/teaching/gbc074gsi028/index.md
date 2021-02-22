@@ -80,55 +80,40 @@ Os alunos desenvolverão um projeto seguindo uma intencionalmente vaga para exer
 ## Aula 1: Apresentação e Introdução
 Nesta aula apresentarei uma visão geral e rápida dos sistemas distribuídos e espero que os motive ao estudo dos mesmos.
 
+### Pontos principais
+* Área competitiva
+* Computação distribuída é uma pedra fundamental
+* Definição de Sistema Distribuído
+* Tipos de Sistemas Distribuídos
+
+
 ### Leituras
 * Notas de aula: [Prólogo](https://lasarojc.github.io/ds_notes/)
 * Notas de aula: [Introdução](https://lasarojc.github.io/ds_notes/intro/)
-
-### Pontos principais
-
-* Área competitiva
-* Computação distribuída é um tipo de mágica
-* Grandes avanços recentes tem um pé na computação... distribuída
-    * Telemedicina
-    * SpaceX
-    * Metaverso
-    * Mandalorian
-
-
-
-
-
-
-
-## Aula 2: Tipos e arquiteturas
-Nesta aula discutiremos os tipos e arquiteturas dos sistemas distribuídos, isto é, os tipos de problemas resolvidos e como as peças dos sistemas são encaixadas para resolver estes problemas.
-
-
-### Leituras
-* Notas de aula: [Tipos de SD](https://lasarojc.github.io/ds_notes/intro/#tipos)
-* Notas de aula: [Arquiteturas](https://lasarojc.github.io/ds_notes/intro/#arquiteturas)
-* [Muitos nós, um sistema distribuído](https://dev.to/vaidehijoshi/many-nodes-one-distributed-system-kl9)
-* [Diferenças entre sistemas centralizados, decentralizados e distribuídos](https://www.8bitmen.com/difference-between-centralized-decentralized-distributed-systems-explained/)
+* Sistemas Distribuídos: Princípios e Paradigmas. Capitulo 1.
+difference-between-centralized-decentralized-distributed-systems-explained/)
 * [Transparência - Parte 1](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-1-17ao)
 * [Transparência - Parte 2](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-2-lbb)
 
-### Pontos Principais
-* Transparência total é desejável mas impossível
-* Middleware são facilitadores do desenvolvimento
-* Diversos tipos e arquiteturas
-* Sistemas fortemente e fracamente acoplados.
 
-
-## Aula 3: O substrato
+## Aula 2: Fundamentos - Comunicação
 
 Nesta aula nós relembraremos os fundamentos de redes de computadores e do protocolo IP, o substrato no qual sistemas distribuídos fracamente acoplados executam.
 
+### Pontos Principais
+* Modelos de Computação Distribuída
+* Canais e protocolos de comunicação
+* Sockets
+
+
 ### Leituras
+* [Fundamentos](https://lasarojc.github.io/ds_notes/basics/)
+* [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/)
+* Sistemas Distribuídos: Princípios e Paradigmas. Seção 4.1
 
-* [Fundamentos](https://lasarojc.github.io/ds_notes/basics/), mas não a parte sobre multithreading.
 
 
-## Aula 4 Laboratório de Sockets
+## Aula 3: Laboratório de Sockets
 
 Resolvamos os seguintes exercícios.
 
@@ -138,8 +123,74 @@ Resolvamos os seguintes exercícios.
 * IP-multicast
 
 ### Leituras
-
-* [No princípio, era o socket](https://lasarojc.github.io/ds_notes/basics/#no-principio-era-o-socket)
+* [Fundamentos](https://lasarojc.github.io/ds_notes/basics/)
+* [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/)
 * Vídeo: Containers docker no desenvolvimento de aplicações distribuídas
 
+
+## Aula 4: Fundamentos - Processos
+Nesta aula discutiremos o papel da concorrência no desenvolvimento dos SD.
+
+
+### Leituras
+* [Fundamentos](https://lasarojc.github.io/ds_notes/basics/)
+* Vídeo: Containers docker no desenvolvimento de aplicações distribuídas
+* Sistemas Distribuídos: Princípios e Paradigmas. Capítulo 3.
+
+
+
+## Aula 5: Laboratório de *Multithreading*
+Nesta aula discutiremos o papel dos processos no desenvolvimento de S
+
+
+
+## Aula 6: Arquiteturas
+
+Nesta aula discutiremos os arquiteturas de sistemas distribuídos
+
+### Leituras
+* Notas de aula: [Arquiteturas](https://lasarojc.github.io/ds_notes/intro/#arquiteturas)
+* [Muitos nós, um sistema distribuído](https://dev.to/vaidehijoshi/many-nodes-one-distributed-system-kl9)
+* [Diferenças entre sistemas centralizados, decentralizados e distribuídos](https://www.8bitmen.com/
+* Sistemas Distribuídos: Princípios e Paradigmas. Capítulo 2
+
+
+## Aula 7: Comunicação
+
+* Middleware
+* Transparência
+* RPC
+
+
+
+## Aula 8: Laboratório de RPC
+
+* Middleware
+* Transparência
+* RPC
+
+
+## Aula 9: Comunicação orientada a mensagens
+
+## Aula 10: Laboratório de MQTTP
+## Aula 11
+## Aula 12
+## Aula 13 - Sincronização
+## Aula 14 - Sincronização
+## Aula 15 - Coordenação
+## Aula 16 - Coordenação
+## Aula 17 - Tempo
+## Aula 18 - Tempo
+## Aula 19 - Tolerância a falhas
+## Aula 20 - Tolerância a falhas
+## Aula 21 - Tolerância a falhas
+## Aula 22 - Tolerância a falhas
+## Aula 23 - Bancos de dados
+## Aula 24 - Bancos de dados
+## Aula 25 - Sistemas de arquivos
+## Aula 26 - Sistemas de arquivos
+## Aula 27 - Tópicos avançados
+## Aula 28 - Tópicos avançados
+## Aula 29 - Seminários
+## Aula 30 - Seminários
 
