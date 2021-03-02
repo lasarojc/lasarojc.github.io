@@ -91,7 +91,7 @@ Nesta aula apresentarei uma visão geral e rápida dos sistemas distribuídos e 
 * Notas de aula: [Prólogo](https://lasarojc.github.io/ds_notes/)
 * Notas de aula: [Introdução](https://lasarojc.github.io/ds_notes/intro/)
 * Sistemas Distribuídos: Princípios e Paradigmas. Capitulo 1.
-difference-between-centralized-decentralized-distributed-systems-explained/)
+* [Difference Between Centralized, Decentralized & Distributed Systems Oversimplified](https://www.8bitmen.com/difference-between-centralized-decentralized-distributed-systems-explained/)
 * [Transparência - Parte 1](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-1-17ao)
 * [Transparência - Parte 2](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-2-lbb)
 
