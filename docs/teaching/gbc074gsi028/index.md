@@ -146,8 +146,6 @@ Nesta aula discutiremos o papel dos processos no desenvolvimento de S
 
 ## Aula 6: Arquiteturas
 
-Nesta aula discutiremos os arquiteturas de sistemas distribuídos
-
 ### Leituras
 * Notas de aula: [Arquiteturas](https://lasarojc.github.io/ds_notes/intro/#arquiteturas)
 * [Muitos nós, um sistema distribuído](https://dev.to/vaidehijoshi/many-nodes-one-distributed-system-kl9)
@@ -155,7 +153,11 @@ Nesta aula discutiremos os arquiteturas de sistemas distribuídos
 * Sistemas Distribuídos: Princípios e Paradigmas. Capítulo 2
 
 
-## Aula 7: Comunicação
+## Aula 7: Arquiteturas - P2P
+
+
+
+## Aula 8: Comunicação
 
 * Middleware
 * Transparência
@@ -163,17 +165,16 @@ Nesta aula discutiremos os arquiteturas de sistemas distribuídos
 
 
 
-## Aula 8: Laboratório de RPC
+## Aula 9: Laboratório de RPC
 
 * Middleware
 * Transparência
 * RPC
 
 
-## Aula 9: Comunicação orientada a mensagens
+## Aula 10: Comunicação orientada a mensagens
 
-## Aula 10: Laboratório de MQTTP
-## Aula 11
+## Aula 11: Laboratório de MQTTP
 ## Aula 12
 ## Aula 13 - Sincronização
 ## Aula 14 - Sincronização
