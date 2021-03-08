@@ -129,7 +129,7 @@ Como faísca para seu trabalho, considere os seguintes materiais.
 * [Richard Sennett: “O gratuito significa sempre uma forma de dominação”](https://brasil.elpais.com/brasil/2018/08/09/cultura/1533824675_957329.html)
 
  
-#### Tema 3: Lei Geral da Proteção dos Dados
+#### Tema 3: "Privacidade Digital"
 
 Ninguém sai às ruas grudando nas paredes e posts as fotos de suas viagens, festas em que foi, ou refeições que fez.
 Contudo, muitos não se incomodam em fazê-lo na Internet, local com até mais visibilidade que os postes da sua cidade.
@@ -683,40 +683,40 @@ Basicamente, para se tornar um pesquisador, ou seja, pelo perfil da pessoa.
 ## Semana 6
 ### Seminário - Computação Verde.
 
-Apresentação dos alunos sobre tema computação verde.
+Apresentação dos alunos sobre tema **Computação verde**.
 A atividade será gravada e ficará disponível no canal correspondente.
 
 
 ## Semana 7 
 ### Seminário - Propriedade Intelectual
 
-Apresentação dos alunos sobre o tema "Propriedade Intelectual"
+Apresentação dos alunos sobre o tema **Propriedade Intelectual**.
 A atividade será gravada e ficará disponível no canal correspondente.
 
 
 ## Semana 8 
-### Seminário - Privacidade
+### Seminário - Privacidade digital
 
-Apresentação dos alunos sobre o tema "Privacidade"
+Apresentação dos alunos sobre o tema **Privacidade Digital**
 A atividade será gravada e ficará disponível no canal correspondente.
 
 ## Semana 9
 ### Seminário - Hacking
 
-Apresentação dos alunos sobre o tema "Hacking"
+Apresentação dos alunos sobre o tema **Hacking**
 A atividade será gravada e ficará disponível no canal correspondente.
 
 ## Semana 10
 ### Seminário - Assédio
 
-Apresentação dos alunos sobre o tema "Assédio"
+Apresentação dos alunos sobre o tema **Assédio**
 A atividade será gravada e ficará disponível no canal correspondente.
 
 
 ## Semana 11
 ### Seminário - Relações raciais e de gênero no trabalho.
 
-Apresentação dos alunos sobre o tema "Relações raciais e de gênero no trabalho."
+Apresentação dos alunos sobre o tema **Relações raciais e de gênero no trabalho.**
 A atividade será gravada e ficará disponível no canal correspondente.
 
 
@@ -811,7 +811,3 @@ Uma [cartilha sobre a LGPD](https://teams.microsoft.com/l/file/58ae9bdc-f414-467
 
 
 E, por recomendação dos colegas, assisti ao filme [The Social Dilemma](https://www.netflix.com/watch/81254224) :alert: que agora recomendo a vocês fortemente.
-
-
-
-
