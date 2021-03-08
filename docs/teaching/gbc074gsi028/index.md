@@ -59,6 +59,7 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
 * [Cache distribuído Redis](https://redislabs.com/solutions/use-cases/caching/)
 * [Zipkin](https://zipkin.io/)
 * [New Directions in Cloud Programming](http://cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf)
+* O protocolo [Hermes](https://hermes-protocol.com/)
 * Se precisar de um tema, entre em contato. 
 
 ### Projeto
@@ -125,7 +126,6 @@ Resolvamos os seguintes exercícios.
 ### Leituras
 * [Fundamentos](https://lasarojc.github.io/ds_notes/basics/)
 * [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/)
-* Vídeo: Containers docker no desenvolvimento de aplicações distribuídas
 
 
 ## Aula 4: Fundamentos - Processos
@@ -134,14 +134,15 @@ Nesta aula discutiremos o papel da concorrência no desenvolvimento dos SD.
 
 ### Leituras
 * [Fundamentos](https://lasarojc.github.io/ds_notes/basics/)
-* Vídeo: Containers docker no desenvolvimento de aplicações distribuídas
 * Sistemas Distribuídos: Princípios e Paradigmas. Capítulo 3.
 
 
 
 ## Aula 5: Laboratório de *Multithreading*
-Nesta aula discutiremos o papel dos processos no desenvolvimento de S
+Nesta aula discutiremos o papel dos processos no desenvolvimento de Sistemas distribuídos.
 
+### Leituras
+* Vídeo: Containers docker no desenvolvimento de aplicações distribuídas
 
 
 ## Aula 6: Arquiteturas
