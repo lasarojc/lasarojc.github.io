@@ -803,11 +803,11 @@ Caso estas não lhe atendam, ou caso queira entender o que outras licenças quer
 
 ### Testes de Penetração
 
-Na atividade assíncrona desta semana, você aprenderá um pouco mais sobre [Teste de Penetração](https://www.imperva.com/learn/application-security/penetration-testing/) :alert:
+Veja [Teste de Penetração](https://www.imperva.com/learn/application-security/penetration-testing/) :alert: e, para aqueles que quiserem saber mais sobre hacking ético, faça este curto [curso introdutório](https://youtu.be/3Kq1MIfTWCE), de apenas 15 horas de duração.
 
-Para aqueles que quiserem saber mais sobre hacking ético, este [curso introdutório](https://youtu.be/3Kq1MIfTWCE) tem 15 horas de duração.
+### Privacidade digital
 
 Uma [cartilha sobre a LGPD](https://teams.microsoft.com/l/file/58ae9bdc-f414-4674-9272-a12460705ea0?tenantId=cd5e6d23-cb99-4189-88ab-1a9021a0c451&fileType=pdf&objectUrl=https%3A%2F%2Fufubr.sharepoint.com%2Fsites%2FGSI009-AARE%2FDocumentos%20Compartilhados%2FPrivacidade%20e%20Hacking%2FCartilha-Seguranc%CC%A7a-Da-Informac%CC%A7a%CC%83o-Faculdade-SENAI-FIESC.pdf&baseUrl=https%3A%2F%2Fufubr.sharepoint.com%2Fsites%2FGSI009-AARE&serviceName=teams&threadId=19:4273e014611c4c64a672b9a5fc43ef72@thread.tacv2&messageId=1600459906045&groupId=c380e925-e50b-47b0-8464-063f6e5cea13) :alert: foi disponbilizada no canal do tema
 
-
-E, por recomendação dos colegas, assisti ao filme [The Social Dilemma](https://www.netflix.com/watch/81254224) :alert: que agora recomendo a vocês fortemente.
+### Computação e sociedade
+Assista ao filme [The Social Dilemma](https://www.netflix.com/watch/81254224).
