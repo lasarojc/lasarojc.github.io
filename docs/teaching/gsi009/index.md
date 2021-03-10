@@ -246,13 +246,12 @@ Vocês deverão encontrar profissionais da área de computação para falar sobr
 
 
 ## Semana 2
-### Atividade Síncrona
+### Atividade Assíncrona
 
 Palestra com o Prof. Sertório, do Instituto de Filosofia (IFILO) da UFU sobre como a ética é o pensar sobre as relações de grupo com um foco na qualificação das interações quanto a serem benéficas ao grupo.
 
 
-## Semana 3
-
+### Atividade Síncrona
 Vamos definir um arcabouço teórico para falarmos sobre o certo e o errado na exercício da profissão.
 
 ### Ética x Moral
@@ -427,7 +426,7 @@ Afinal, computação certamente já causará problemas demais em nossas vidas, n
 
 
 
-## Semana 4
+## Semana 3 
 
 ### Computação e Sociedade
 
@@ -529,7 +528,7 @@ Como nós, como desenvolvedores podemos ajudar, ou pelo menos não piorar, o fut
 E se sobrar tempo, aprendam sobre HAL, no filme [2001 - Uma odisséia no espaço](https://www.netflix.com/title/207856).
 
 
-## Semana 5
+## Semana 4 
 
 Há várias possibilidades de atuação para os graduados nas áreas de computação. 
 É possível empreender, isto é, montar sua própria empresa e atacar algum problema ou, como dizem os profissionais do ramo, uma dor de um cliente. 
