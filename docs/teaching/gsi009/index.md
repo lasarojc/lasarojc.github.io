@@ -477,9 +477,6 @@ Felizmente, há também reações dos seus colegas de profissão, como visto na 
 * Como previnir que tecnologias sejam mal utilizadas?
 
 
-
-### Atividade Assíncrona: Computação e Sociedade
-
 Quanto mais a IA se desenvolve, maior é seu potencial para nos auxiliar na tomada de decisões em nossas vidas.
 
 * Qual a melhor vacina para COVID-19? 

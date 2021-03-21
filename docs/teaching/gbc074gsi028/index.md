@@ -146,20 +146,18 @@ Nesta aula discutiremos o papel dos processos no desenvolvimento de Sistemas dis
 
 
 ## Aula 6: Arquiteturas
-
-### Leituras
 * Notas de aula: [Arquiteturas](https://lasarojc.github.io/ds_notes/intro/#arquiteturas)
 * [Muitos nós, um sistema distribuído](https://dev.to/vaidehijoshi/many-nodes-one-distributed-system-kl9)
-* [Diferenças entre sistemas centralizados, decentralizados e distribuídos](https://www.8bitmen.com/
+* [Diferenças entre sistemas centralizados, decentralizados e distribuídos](https://www.8bitmen.com/)
 * Sistemas Distribuídos: Princípios e Paradigmas. Capítulo 2
 
 
 ## Aula 7: Arquiteturas - P2P
-
+* Notas de aula: [Arquiteturas P2P](https://lasarojc.github.io/ds_notes/arch/#par-a-par-peer-to-peer-p2p)
+* Sistemas Distribuídos: Princípios e Paradigmas. Capítulo 2
 
 
 ## Aula 8: Comunicação
-
 * Middleware
 * Transparência
 * RPC
@@ -167,14 +165,7 @@ Nesta aula discutiremos o papel dos processos no desenvolvimento de Sistemas dis
 
 
 ## Aula 9: Laboratório de RPC
-
-* Middleware
-* Transparência
-* RPC
-
-
 ## Aula 10: Comunicação orientada a mensagens
-
 ## Aula 11: Laboratório de MQTTP
 ## Aula 12
 ## Aula 13 - Sincronização
