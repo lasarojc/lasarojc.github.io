@@ -49,6 +49,7 @@ Respeito ao tempo, tanto para mais quanto para menos, e qualidade do questionár
 Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida por sugestão dos alunos:
 
 * Arquiteturas distribuídas reativas usando Kafka
+   * Thiago Muniz
 * Framework SpringBoot para Microsserviços
 * [ELK - Elastic Search, Logstash, Kibana](https://www.elastic.co/what-is/elk-stack)
 * Event Sourcing
