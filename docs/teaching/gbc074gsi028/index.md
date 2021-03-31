@@ -163,11 +163,16 @@ Nesta aula discutiremos o papel dos processos no desenvolvimento de Sistemas dis
 * Transparência
 * RPC
 
-
-
 ## Aula 9: Laboratório de RPC
+
 ## Aula 10: Comunicação orientada a mensagens
-## Aula 11: Laboratório de MQTTP
+* MPI
+* Filas de mensagens
+* Publish Subscribe
+    * MQTTP e Moquitto
+* Protocolos epidêmicos
+
+## Aula 11
 ## Aula 12
 ## Aula 13 - Sincronização
 ## Aula 14 - Sincronização
