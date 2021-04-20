@@ -172,14 +172,19 @@ Nesta aula discutiremos o papel dos processos no desenvolvimento de Sistemas dis
     * MQTTP e Moquitto
 * Protocolos epidêmicos
 
-## Aula 11
-## Aula 12
-## Aula 13 - Sincronização
-## Aula 14 - Sincronização
-## Aula 15 - Coordenação
-## Aula 16 - Coordenação
-## Aula 17 - Tempo
-## Aula 18 - Tempo
+## Aula 11 - Coordenação: Exclusão mútua
+
+## Aula 12 - Coordenação: Eleição de líderes
+
+## Aula 13 e 14  - Atividade Assíncrona: computação em nuvem  Sincronização
+
+Usando seu email institucional, inscreva-se no Coursera, no Curso "Cloud Computing Concepts, Part 1",  que faz parte da especialização "Cloud Computing".
+Neste curso, você deverá fazer as 2 primeiras semanas, o que corresponde a 9 horas de trabalho.
+
+## Aula 15 - Tempo físico e sincronização de relógios
+## Aula 16 - Tempo lógico
+## Aula 17 - 
+## Aula 18 - 
 ## Aula 19 - Tolerância a falhas
 ## Aula 20 - Tolerância a falhas
 ## Aula 21 - Tolerância a falhas
