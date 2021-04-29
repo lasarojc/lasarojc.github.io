@@ -176,19 +176,31 @@ Nesta aula discutiremos o papel dos processos no desenvolvimento de Sistemas dis
 
 ## Aula 12 - Coordenação: Eleição de líderes
 
-## Aula 13 e 14  - Atividade Assíncrona: computação em nuvem  Sincronização
+## Aula 13 e 14  - Atividade Assíncrona: computação em nuvem
 
 Usando seu email institucional, inscreva-se no Coursera, no Curso "Cloud Computing Concepts, Part 1",  que faz parte da especialização "Cloud Computing".
 Neste curso, você deverá fazer as 2 primeiras semanas, o que corresponde a 9 horas de trabalho.
 
 ## Aula 15 - Tempo físico e sincronização de relógios
+
+* Tempo
+* Relógios de Quartzo
+* Relógios Atômicos
+* Algoritmos de Sincronização
+* NTP
+
 ## Aula 16 - Tempo lógico
-## Aula 17 - 
-## Aula 18 - 
+* Relógios Lógicos
+* Relógio de Lamport
+* Relógio vetorial
+* Ordenação total e causal
+
+## Aula 17 - Tolerância a falhas
+## Aula 18 - Tolerância a falhas
 ## Aula 19 - Tolerância a falhas
 ## Aula 20 - Tolerância a falhas
-## Aula 21 - Tolerância a falhas
-## Aula 22 - Tolerância a falhas
+## Aula 21 - 
+## Aula 22 - 
 ## Aula 23 - Bancos de dados
 ## Aula 24 - Bancos de dados
 ## Aula 25 - Sistemas de arquivos
