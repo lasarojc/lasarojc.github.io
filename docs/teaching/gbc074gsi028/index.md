@@ -73,7 +73,7 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
 
 Os alunos desenvolverão um projeto seguindo uma intencionalmente vaga para exercitar sua capacidade de resolução de problemas usando os conceitos apresentados na disciplina.
 
-* [Especificação](https://lasarojc.github.io/ds_notes/intro/#projeto/)
+* [Especificação](https://lasarojc.github.io/ds_notes/projeto/)
 * Grupos dos trabalhos serão compostos por 6 alunos.
    * Não, não pode ter mais de 6.
    * Pode ter menos, mas não recomendo, pois o trabalho dá trabalho.
