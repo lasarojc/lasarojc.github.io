@@ -30,6 +30,9 @@ Vocês serão avaliados de acordo com os critérios também disponíveis no plan
 ### Seminários
 
 Os alunos deverão apresentar seminários, desenvolvidos em grupos de $X$ alunos para seus colegas, onde $X$ será definido baseado na quantidade de matriculados.
+
+**Em 2020/1 (ocorrendo em 2021-03/2021/06)** $X = 2$.
+
 O **objetivo** dos seminários é apresentar tópicos modernos relacionados à computação distribuída.
 
 ![Know your buzzwords](images/dilbert.jpeg)
@@ -49,7 +52,10 @@ Respeito ao tempo, tanto para mais quanto para menos, e qualidade do questionár
 Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida por sugestão dos alunos:
 
 * Arquiteturas distribuídas reativas usando Kafka
-   * Thiago Muniz
+      * Thiago Muniz
+      * ??
+* [Pravega.io](https://pravega.io)
+      * Amanda
 * Framework SpringBoot para Microsserviços
 * [ELK - Elastic Search, Logstash, Kibana](https://www.elastic.co/what-is/elk-stack)
 * Event Sourcing
