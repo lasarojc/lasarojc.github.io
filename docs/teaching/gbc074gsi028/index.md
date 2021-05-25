@@ -64,6 +64,8 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
 * [Algorand](https://algorand.foundation/)
 * [Dapr](https://docs.dapr.io)
 * Kubernetes
+     * Roberto Caetano 
+     * Yuri Arten Quissak
 * [Cache distribuído Redis](https://redislabs.com/solutions/use-cases/caching/)
 * [Zipkin](https://zipkin.io/)
 * [New Directions in Cloud Programming](http://cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf)
