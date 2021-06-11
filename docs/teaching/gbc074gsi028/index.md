@@ -58,6 +58,8 @@ Como sugestão inicial de temas, temos a seguinte lista, que pode ser expandida 
       * Amanda
       * ??
 * Framework SpringBoot para Microsserviços
+      * Lorena
+      * Rodrigo Zamboni
 * [ELK - Elastic Search, Logstash, Kibana](https://www.elastic.co/what-is/elk-stack)
 * Event Sourcing
 * [O protocolo PBFT](https://medium.com/thundercore/consensus-series-pbft-3e011e7f3691)
