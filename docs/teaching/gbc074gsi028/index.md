@@ -84,8 +84,8 @@ Na descrição das atividades,
             * Grupos podem ter membros das duas turmas.
 
 
-   * Introdução 
-        * NA: [Introdução](https://lasarojc.github.io/ds_notes/intro/)
+   * Introdução
+      * NA: [Introdução](https://lasarojc.github.io/ds_notes/intro/)
 
 * A
     * NA: [Prefácio](https://lasarojc.github.io/ds_notes/)
