@@ -16,10 +16,10 @@ Para entrar no time do curso, logue-se com seu email institucional usando este [
 
 
 As atividades da semana serão postadas abaixo, semana a semana.
-Na descrição das atividades,  
+Na descrição das atividades,
 
 * **NA** quer dizer Notas de Aula, acessíveis em https://lasarojc.github.io/ds_notes/, 
-* **S** quer dizer **atividade síncrona**, feita em uma reunião no MS-Teams, gravada e disponibilizada para revisão posterior, e 
+* **S** quer dizer **atividade síncrona** na data em postada, feita em uma reunião no MS-Teams, gravada e disponibilizada para revisão posterior e como atividade assíncrona pela outra turma, e 
 * **A** quer dizer **atividade assíncrono**, a ser realizado pelo discente antes da próxima atividade.
 
 
@@ -28,17 +28,11 @@ Na descrição das atividades,
 
 ## Semana 1
 
-* S
-   * Apresentação
-   * Plano do curso
-      * Controle de Frequência
+* S - 12/07/2021: 8:50 e 20:50
+      * Apresentação
+          * NA: [Prefácio](https://lasarojc.github.io/ds_notes/preface/)
 
-        O **controle de frequência** nas atividades será pelo relatório produzido pelo MS Teams.
-
-      * Avaliação
-
-        Ver plano de trabalho.
-
+      * Plano do curso: ver aba arquivos no MS Teams
       * Seminários
 
           * O **objetivo** dos seminários é apresentar tópicos modernos relacionados à computação distribuída.
@@ -75,7 +69,7 @@ Na descrição das atividades,
 
       * Projeto
 
-        * Os alunos desenvolverão um projeto seguindo uma especificação intencionalmente vaga para exercitar sua capacidade de resolução de problemas usando os conceitos apresentados na disciplina.
+        * Os alunos desenvolverão um projeto seguindo uma **especificação intencionalmente vaga** para exercitar sua capacidade de resolução de problemas usando os conceitos apresentados na disciplina.
         * Questionamentos podem e devem ser feitos para refinar a especificação.
 
         * A especificação será disponibilizada [aqui](https://lasarojc.github.io/ds_notes/projeto/)
@@ -88,7 +82,6 @@ Na descrição das atividades,
       * NA: [Introdução](https://lasarojc.github.io/ds_notes/intro/)
 
 * A
-    * NA: [Prefácio](https://lasarojc.github.io/ds_notes/)
     * LT: Sistemas Distribuídos: Princípios e Paradigmas. Capitulo 1.
     * [Difference Between Centralized, Decentralized & Distributed Systems Oversimplified](https://www.8bitmen.com/difference-between-centralized-decentralized-distributed-systems-explained/)
     * [Transparência - Parte 1](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-1-17ao)
