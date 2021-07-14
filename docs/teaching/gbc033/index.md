@@ -17,9 +17,9 @@ Na descrição das atividades,
 ## Semana 1
 
 * S
-   * Apresentação
-   * Plano do curso
-   * NA: Introdução 
+    * Apresentação
+    * Plano do curso
+    * NA: [Introdução](https://lasarojc.github.io/fp_notes/intro/)
 
 
 

@@ -79,7 +79,13 @@ Na descrição das atividades,
 
 
    * Introdução
-      * NA: [Introdução](https://lasarojc.github.io/ds_notes/intro/)
+      * NA: [O quê são Sistemas Distribuídos?](https://lasarojc.github.io/ds_notes/intro/#tipos-de-sistemas-distribuidos)
+      * NA: [Por quê desenvolvemos sistemas distribuídos?](https://lasarojc.github.io/ds_notes/intro/#por-que-desenvolvemos-sistemas-distribuidos)
+
+* S: 14/07/2021: 10:40
+   * Introdução
+      * NA: [Tipos de Sistemas Distribuídos](https://lasarojc.github.io/ds_notes/intro/#tipos-de-sistemas-distribuidos)
+
 
 * A
     * LT: Sistemas Distribuídos: Princípios e Paradigmas. Capitulo 1.
