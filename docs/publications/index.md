@@ -13,13 +13,14 @@ In the mean time, if you need more information, please visit [Research Gate](htt
 
 ## Journals
 
-1.  Multicoordinated agreement for groups of agents   
-    Lasaro Camargos, Rodrigo Schmidt, Edmundo R. M. Madeira, Fernando Pedone     
-    Journal of the Brazilian Computer Society   
-    [PDF](https://journal-bcs.springeropen.com/articles/10.1007/s13173-010-0001-7)    
+1. Analysis of Monitoring and Multipath Support on top of OpenFlow Specification   
+    Pedro Rezende, Paulo R. S. L. Coelho, Luiz F. Faina, Lasaro Camargos, Rafael Pasquini  
+    International Journal of Network Management   
+    [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2017)   
 
     ??? "Abstract"
-        Agents in agreement protocols play well distinct roles. Proposers propose values to the acceptors, which will accept proposals and inform the learners so they detect that an agreement has been reached. A fourth role is that of the coordinator, who filters the proposals from proposers to acceptors. While proposers, learners, and coordinators are easily replaced, substituting an acceptor is prohibitive. Protocols that do not employ a coordinator are less resilient to acceptor failures. Protocols that use one coordinator are more resilient to acceptor failures, at the expense of one extra communication step even in the absence of failures. Moreover, they require replacing the coordinator as soon as it fails, a reconfiguration that, although relatively inexpensive, diminishes the protocol availability. Hence, either option, i.e, one or zero coordinator, has its drawbacks. In previous works, we have presented an alternative: multicoordinated agreement protocols. Such protocols are as resilient as single-coordinated protocols but require less reconfiguration to cope with coordinator failures. In fact, most reconfiguration can be done in parallel to the execution of the protocol's normal steps. Multicoordination can be applied to several problems. In this paper we exemplify its use in solving consensus and then introduce a fast multicoordinated agreement protocol for agents organized in groups, an abstraction for fast local area networks interconnected by slower links.
+        In general, traffic is pushed through a single path despite the existence of alternative paths in networks. For example, routing solutions based on spanning tree prune the topology to prevent loops, consequently preventing also the use of alternative paths. Research on quality of service frequently advocates that the use of alternative paths is interesting for enforcing Service Level Agreements (SLAs), bypassing bottlenecks created by shortest paths. In this paper, we are interested in analyzing the support for monitoring network traffic and for provisioning of multipaths in software‐defined networking (SDN), given the strong platform it provides for experimentation of new networked solutions. Our approach firstly enriches the topology view at the control plane with data gathered through fine grain data plane monitoring. On the basis of such enriched view, our system determines the path, or multipaths, necessary to enforce the specified SLA. We propose 2 extension modules to an OpenFlow controller: SDNMon, which monitors the data plane to enrich the topology information at the control plane, and MP‐Routing, which determines a set of paths, in the absence of a single path capable of enforcing the SLA. Both modules are extensively evaluated, and the results not only demonstrate what can be achieved in terms of accuracy in SDNMon and in terms of quality of service benefits in MP‐Routing but also highlight some limitations of OpenFlow specification. On the basis of our findings, we propose a set of new counters to Per Port and Per Flow granularity levels of OpenFlow specification.
+
 
 1. A game theoretical approach to model the channel selection dynamics in non-coordinated IEEE 802.11 networks   
     Sérgio L. D. L. Gramacho, Gustavo B. Figueiredo, Lasaro Camargos   
@@ -29,13 +30,15 @@ In the mean time, if you need more information, please visit [Research Gate](htt
     ??? "Abstract"
         The massive deployment of Wireless Local Area Networks has made interference mitigation between neighboring networks a challenging issue. These uncoordinated access networks aim at improving their operation by choosing the best wireless channel available, characterizing a competition over the restricted set of possible channels. This work analyses this competition using Game Theory and Markov Chains models, showing that such competitive behavior can lead to Nash Equilibria and that outcomes mostly will not be maximal. Additionally, partially and fully cooperative models are proposed and evaluated, allowing (a) individual players to increase global results using arbitrarily computed and non-rational moves, and (b) achieving maximal outcomes when considering the cooperation of up to all players.
 
-1. Analysis of Monitoring and Multipath Support on top of OpenFlow Specification   
-    Pedro Rezende, Paulo R. S. L. Coelho, Luiz F. Faina, Lasaro Camargos, Rafael Pasquini  
-    International Journal of Network Management   
-    [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2017)   
+
+1.  Multicoordinated agreement for groups of agents   
+    Lasaro Camargos, Rodrigo Schmidt, Edmundo R. M. Madeira, Fernando Pedone     
+    Journal of the Brazilian Computer Society   
+    [PDF](https://journal-bcs.springeropen.com/articles/10.1007/s13173-010-0001-7)    
 
     ??? "Abstract"
-        In general, traffic is pushed through a single path despite the existence of alternative paths in networks. For example, routing solutions based on spanning tree prune the topology to prevent loops, consequently preventing also the use of alternative paths. Research on quality of service frequently advocates that the use of alternative paths is interesting for enforcing Service Level Agreements (SLAs), bypassing bottlenecks created by shortest paths. In this paper, we are interested in analyzing the support for monitoring network traffic and for provisioning of multipaths in software‐defined networking (SDN), given the strong platform it provides for experimentation of new networked solutions. Our approach firstly enriches the topology view at the control plane with data gathered through fine grain data plane monitoring. On the basis of such enriched view, our system determines the path, or multipaths, necessary to enforce the specified SLA. We propose 2 extension modules to an OpenFlow controller: SDNMon, which monitors the data plane to enrich the topology information at the control plane, and MP‐Routing, which determines a set of paths, in the absence of a single path capable of enforcing the SLA. Both modules are extensively evaluated, and the results not only demonstrate what can be achieved in terms of accuracy in SDNMon and in terms of quality of service benefits in MP‐Routing but also highlight some limitations of OpenFlow specification. On the basis of our findings, we propose a set of new counters to Per Port and Per Flow granularity levels of OpenFlow specification.
+        Agents in agreement protocols play well distinct roles. Proposers propose values to the acceptors, which will accept proposals and inform the learners so they detect that an agreement has been reached. A fourth role is that of the coordinator, who filters the proposals from proposers to acceptors. While proposers, learners, and coordinators are easily replaced, substituting an acceptor is prohibitive. Protocols that do not employ a coordinator are less resilient to acceptor failures. Protocols that use one coordinator are more resilient to acceptor failures, at the expense of one extra communication step even in the absence of failures. Moreover, they require replacing the coordinator as soon as it fails, a reconfiguration that, although relatively inexpensive, diminishes the protocol availability. Hence, either option, i.e, one or zero coordinator, has its drawbacks. In previous works, we have presented an alternative: multicoordinated agreement protocols. Such protocols are as resilient as single-coordinated protocols but require less reconfiguration to cope with coordinator failures. In fact, most reconfiguration can be done in parallel to the execution of the protocol's normal steps. Multicoordination can be applied to several problems. In this paper we exemplify its use in solving consensus and then introduce a fast multicoordinated agreement protocol for agents organized in groups, an abstraction for fast local area networks interconnected by slower links.
+
 
 ## Book Chapters
 
@@ -48,6 +51,42 @@ In the mean time, if you need more information, please visit [Research Gate](htt
         Atomic broadcast protocols are fundamental building blocks used in the construction of many reliable distributed systems. Atomic broadcast and consensus are equivalent problems, but the inefficiency of consensus-based atomic broadcast protocols in the presence of collisions (concurrent proposals) harms their adoption in the implementation of reliable systems, as the ones based on state machine replication. In the traditional consensus protocols, proposals that are not decided in some instance of consensus (commands not delivered) must be re-proposed in a new instance, delaying their execution. Moreover, whether different values (commands) are proposed in the same instance (leading to a collision), some of its phases must be restarted, also delaying the execution of these commands involved in the collision. The CFABCast (Collision-Fast Atomic Broadcast) algorithm uses m-consensus to decide and deliver multiple values in the same instance. However, CFABCast is not byzantine fault-tolerant, a requirement for many systems. Our first contribution is a modified version of CFABCast to handle byzantine failures. Unfortunately, the resulting protocol is not collision-fast due to the possibility of malicious failures. In fact, our second contribution is to prove that there are no byzantine collision-fast algorithms in an asynchronous model as traditionally extended to solve consensus. Finally, our third contribution is a byzantine collision-fast algorithm that bypasses the stated impossibility by means of a USIG (Unique Sequential Identifier Generator) trusted component.
 
 ## Peer-reviewed Conferences
+
+
+1. Bandwidth throttling in a P4 switch    
+    Lucas Borges Fernandes and Lasaro Camargos    
+    IEEE Conference on Network Function Virtualization and Software Defined Networks (IEEE NFV-SDN 2020), Virtual Conference
+    [PDF]
+
+    ??? "Abstract"
+         Quality of service (QoS) provisioning is an important subject for the computer networks community and, as many other problems, has been revisited under the light of Software Defined Networks (SDN), which promise flexibility and simplification of network protocols.
+         We follow such trend in this paper, proposing a bandwidth throttling solution using the P4 framework and contrasting it with the state of the art.
+         Our proposal showcases the simplicity and adaptability of P4-programmable switches.
+
+1. On the Impossibility of Byzantine Collision-Fast Atomic Broadcast   
+    Rodrigo Saramago, Tuanir França Rezende, Eduardo Adílio Pelinson Alchieri, Lasaro Camargos   
+    The 32nd IEEE International Conference on Advanced Information Networking and Applications (IEEE AINA-2018), Krakow, Poland     
+    [PDF](https://www.researchgate.net/publication/325264988_On_the_Impossibility_of_Byzantine_Collision-Fast_Atomic_Broadcast)   
+
+    ??? "Abstract"
+        The inefficiency of Consensus-based Atomic Broadcast protocols in the presence of collisions (concurrent proposals) harms their adoption in the implementation of State Machine Replication. Proposals that are not decided in some instance of Consensus (commands not delivered) must be re-proposed in a new instance, delaying their execution. The CFABCast (Collision-Fast Atomic Broadcast) algorithm uses M-Consensus to decide and deliver multiple values in the same instance. However, CFABCast is not Byzantine fault-tolerant, a requirement for many systems. Our first contribution is a modified version of CFABCast to handle Byzantine failures. Unfortunately, the resulting protocol is not collision-fast due to the possibility of malicious failures. In fact, our second contribution is to prove that there are no Byzantine collision-fast algorithms in an asynchronous model as traditionally extended to solve Consensus. Finally, our third contribution is a Byzantine collision-fast algorithm that bypasses the stated impossibility by means of a USIG (Unique Sequential Identifier Generator) trusted component.
+
+1. Algoritmo de Difusao Atomica Rapido a Despeito de Colisoes Tolerante a Falhas Bizantinas   
+    Rodrigo Saramago, Eduardo Adílio Pelinson Alchieri, Tuanir França Rezende, Lásaro Camargos   
+    XXXV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC, 2017), Belem, PA, Brazil   
+    [PDF](https://www.researchgate.net/publication/316911325_Algoritmo_de_Difusao_Atomica_Rapido_a_Despeito_de_Colisoes_Tolerante_a_Falhas_Bizantinas)   
+
+    ??? "Abstract"
+        The inefficiency of Consensus-based Atomic Broadcast protocols inthe presence of collisions (concurrent proposals) harms their adoption in theimplementation of State Machine Replication.  Proposals that are not decidedin some instance of Consensus (commands not delivered) must be reproposed ina new instance, delaying their execution.  The CFABCast algorithm (Collision-Fast Atomic Broadcast) uses M-Consensus, a Consensus variant, to decide anddeliver multiple values in the same instance.   However,  CFABCast is not By-zantine fault tolerant, a requirement for many systems.  Our first contributionis a variation CFABCast that handles Byzantine failures. Unfortunately, the re-sulting protocol is not collison-fast due to the possibility of Byzantine failures.In fact, our second contribution is the conjecture that there are no Byzantinecollision-fast algorithm in the asynchronous model.  Finally, our third contri-bution is a Byzantine collision-fast algorithm that bypasses our impossibilityconjecture by using the USIG (Unique Sequential Identifier Generator) trustedcomponent. 
+
+1. On Making Generalized Paxos Practical   
+    Tuanir França Rezende, Pierre Sutra, Rodrigo Saramago, Lásaro Camargos   
+    The 31st IEEE International Conference on Advanced Information Networking and Applications (IEEE AINA-2017)   
+    [PDF](https://www.researchgate.net/publication/313550141_On_Making_Generalized_Paxos_Practical)   
+
+    ??? "Abstract"
+        Generalized Paxos, GPaxos, is a recent solution to Generalized Consensus, a distributed problem to which several key agreement problems reduce. We envision that GPaxos may unify within a single and novel Agreement-as-a-Service infrastructure multiple distributed protocols. To date this potential is however not fully unleashed, due to the steep learning curve of the protocol and the high complexity of its implementation.Moreover, before GPaxos reaches a real world usage, several computationally expensive operations have to be optimized and simplified. This paper aims at closing this gap between theory and practice. To this end, we first provide a concise tour of Generalized Paxos, hardly found elsewhere. Then, we assess the versatility of the Generalized Consensus problem by presenting a variation of GPaxos that solves the lease coordination problem. Our last contribution consists in three optimizations that apply to the critical phases of the algorithm: i) a method to quickly start a new round, ii) a novel approach to execute a checkpoint, and iii) a data structure that speeds-up the detection of an agreement.
+
 
 1. Priority-Based State Machine Replication with PRaxos   
     Paulo R. Pinho Filho, Luciana De Oliveira Rech, Lau Cheuk Lung, Miguel Correia, Lásaro Camargos   
@@ -103,51 +142,9 @@ In the mean time, if you need more information, please visit [Research Gate](htt
         The need for scalability in the Big Data era has lead to flourishing of distributed NOSQL systems. However, none of the widely used solutions available support similarity searches, another important feature in such scenarios. Here we propose to overcome this limitation by extending Cassandra with similarity search capabilities. Our approach is based on using locality sensitive hashing to spread data to nodes, to target nodes for queries, and for efficiently recovering similar data from stable storage at the nodes. We overview how to implement the approach, our test plan, and initial results. Resumo. A necessidade de escalabilidade em cenários de Big Data levou à prosperação dos NOSQL distribuídos. Contudo, as soluções mais amplamente usadas não suportam uma outra característica desejável, busca por similari-dade. Neste artigo propomos contornar tal limitação estendendo o Cassandra com suporte a buscas por dados similares. Nossa abordagem usa hashing sensí-vel à localidade para distribuir dados entre nós, direcionar buscas, e recuperar dados em armazenamento estável de forma eficiente. Descrevemos aqui como implementar esta abordagem, nosso plano de testes e resultados iniciais. Introdução Cassandra [Lakshman and Malik 2010] é um banco de dados NOSQL (Not Only SQL) amplamente utilizado em cenários BigData devido à sua escalabilidade horizontal. Como em outros NOSQL [Decandia et al. 2007, Chang et al. 2008], essa característica vem do consistent hashing, particionamento aleatório dos dados entre os nós do sistema que dis-tribui a carga uniformemente entre os mesmos e facilita sua entrada e saída do sistema [Stoica et al. 2001]. Apesar das vantagens, essa distribuição dificulta a busca por dados similares, outra característica desejável em BigData. Dois objetos de um mesmo domínio são similares se seus atributos possuem um grau de semelhança elevado; caso contrário são dissimilares. A busca por similaridade consiste em recuperar objetos que sejam similares aos parâmetros da consulta. Alguns exemplos incluem a identificação de perfis de clientes com hábitos de consumo parecidos e de imagens com o mesmo tema. Dentre alguns esforços para se melhorar a busca por similaridade nestes sistemas, destacamos a HammingDHT [Villaca et al. 2013]. Na HammingDHT, a chave de cada objeto é construída por uma função de espa-lhamento sensível a localidade (LSH), que gera chaves similares para dados similares e ???++ " Agradecimentos à CAPES, CNPq, FAPEMIG e FAPES pelo apoio à realização deste trabalho.
 
 
-1. Algoritmo de Difusao Atomica Rapido a Despeito de Colisoes Tolerante a Falhas Bizantinas   
-    Rodrigo Saramago, Eduardo Adílio Pelinson Alchieri, Tuanir França Rezende, Lásaro Camargos   
-    XXXV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC, 2017), Belem, PA, Brazil   
-    [PDF](https://www.researchgate.net/publication/316911325_Algoritmo_de_Difusao_Atomica_Rapido_a_Despeito_de_Colisoes_Tolerante_a_Falhas_Bizantinas)   
-
-    ??? "Abstract"
-        The inefficiency of Consensus-based Atomic Broadcast protocols inthe presence of collisions (concurrent proposals) harms their adoption in theimplementation of State Machine Replication.  Proposals that are not decidedin some instance of Consensus (commands not delivered) must be reproposed ina new instance, delaying their execution.  The CFABCast algorithm (Collision-Fast Atomic Broadcast) uses M-Consensus, a Consensus variant, to decide anddeliver multiple values in the same instance.   However,  CFABCast is not By-zantine fault tolerant, a requirement for many systems.  Our first contributionis a variation CFABCast that handles Byzantine failures. Unfortunately, the re-sulting protocol is not collison-fast due to the possibility of Byzantine failures.In fact, our second contribution is the conjecture that there are no Byzantinecollision-fast algorithm in the asynchronous model.  Finally, our third contri-bution is a Byzantine collision-fast algorithm that bypasses our impossibilityconjecture by using the USIG (Unique Sequential Identifier Generator) trustedcomponent. 
-
-1. On Making Generalized Paxos Practical   
-    Tuanir França Rezende, Pierre Sutra, Rodrigo Saramago, Lásaro Camargos   
-    The 31st IEEE International Conference on Advanced Information Networking and Applications (IEEE AINA-2017)   
-    [PDF](https://www.researchgate.net/publication/313550141_On_Making_Generalized_Paxos_Practical)   
-
-    ??? "Abstract"
-        Generalized Paxos, GPaxos, is a recent solution to Generalized Consensus, a distributed problem to which several key agreement problems reduce. We envision that GPaxos may unify within a single and novel Agreement-as-a-Service infrastructure multiple distributed protocols. To date this potential is however not fully unleashed, due to the steep learning curve of the protocol and the high complexity of its implementation.Moreover, before GPaxos reaches a real world usage, several computationally expensive operations have to be optimized and simplified. This paper aims at closing this gap between theory and practice. To this end, we first provide a concise tour of Generalized Paxos, hardly found elsewhere. Then, we assess the versatility of the Generalized Consensus problem by presenting a variation of GPaxos that solves the lease coordination problem. Our last contribution consists in three optimizations that apply to the critical phases of the algorithm: i) a method to quickly start a new round, ii) a novel approach to execute a checkpoint, and iii) a data structure that speeds-up the detection of an agreement.
-
- 
-1. On the Impossibility of Byzantine Collision-Fast Atomic Broadcast   
-    Rodrigo Saramago, Tuanir França Rezende, Eduardo Adílio Pelinson Alchieri, Lasaro Camargos   
-    The 32nd IEEE International Conference on Advanced Information Networking and Applications (IEEE AINA-2018), Krakow, Poland     
-    [PDF](https://www.researchgate.net/publication/325264988_On_the_Impossibility_of_Byzantine_Collision-Fast_Atomic_Broadcast)   
-
-    ??? "Abstract"
-        The inefficiency of Consensus-based Atomic Broadcast protocols in the presence of collisions (concurrent proposals) harms their adoption in the implementation of State Machine Replication. Proposals that are not decided in some instance of Consensus (commands not delivered) must be re-proposed in a new instance, delaying their execution. The CFABCast (Collision-Fast Atomic Broadcast) algorithm uses M-Consensus to decide and deliver multiple values in the same instance. However, CFABCast is not Byzantine fault-tolerant, a requirement for many systems. Our first contribution is a modified version of CFABCast to handle Byzantine failures. Unfortunately, the resulting protocol is not collision-fast due to the possibility of malicious failures. In fact, our second contribution is to prove that there are no Byzantine collision-fast algorithms in an asynchronous model as traditionally extended to solve Consensus. Finally, our third contribution is a Byzantine collision-fast algorithm that bypasses the stated impossibility by means of a USIG (Unique Sequential Identifier Generator) trusted component.
-
-1. Bandwidth throttling in a P4 switch    
-    Lucas Borges Fernandes and Lasaro Camargos    
-    IEEE Conference on Network Function Virtualization and Software Defined Networks (IEEE NFV-SDN 2020), Virtual Conference
-    [PDF]
-
-    ??? "Abstract"
-         Quality of service (QoS) provisioning is an important subject for the computer networks community and, as many other problems, has been revisited under the light of Software Defined Networks (SDN), which promise flexibility and simplification of network protocols.
-         We follow such trend in this paper, proposing a bandwidth throttling solution using the P4 framework and contrasting it with the state of the art.
-         Our proposal showcases the simplicity and adaptability of P4-programmable switches.
 
  
 ## Peer-reviewed Workshop 
-
-1. Mechanism Reduction via Adjacency Matrix Power   
-    Lásaro Camargos, João Marcelo Vedovoto, Ricardo Serfaty, Aristeu da Silveira Neto    
-    5th International Workshop on Model Reduction in Reacting Flows (IWMRRF 2015), Spreewald, Germany    
-    [PDF](https://www.researchgate.net/publication/280157089_Mechanism_Reduction_via_Adjacency_Matrix_Power)
-
-    ??? "Abstract"
-        Mechanism reduction is badly needed in large scale chemical simulations. Most graph based approaches, such as Directed Relation Graphs, derive the dependency of a species on all the others using single paths between them, which is not optimal. But since calculating the optimal solution has prohibitive costs, in this paper we propose the use of all the paths of a given large size to approximate the dependency. 
 
 1. Comutador P4 com Suporte a Roteamento Multicaminhos   
     Lucas Borges Fernandes, Pedro Henrique Ribeiro, Leonardo Martins, Rafael Pasquini, Luis F. Faina, Lasaro Camargos   
@@ -157,16 +154,17 @@ In the mean time, if you need more information, please visit [Research Gate](htt
     ??? "Abstract"
         In this paper we describe a network switch with multi-path routing capabilities. The switch is implemented using P4, easily extensible and available as a free software project. The switch supports different routing policies, which adhere to different levels of QoS, making the network use very flexible. 
 
+1. Mechanism Reduction via Adjacency Matrix Power   
+    Lásaro Camargos, João Marcelo Vedovoto, Ricardo Serfaty, Aristeu da Silveira Neto    
+    5th International Workshop on Model Reduction in Reacting Flows (IWMRRF 2015), Spreewald, Germany    
+    [PDF](https://www.researchgate.net/publication/280157089_Mechanism_Reduction_via_Adjacency_Matrix_Power)
+
+    ??? "Abstract"
+        Mechanism reduction is badly needed in large scale chemical simulations. Most graph based approaches, such as Directed Relation Graphs, derive the dependency of a species on all the others using single paths between them, which is not optimal. But since calculating the optimal solution has prohibitive costs, in this paper we propose the use of all the paths of a given large size to approximate the dependency. 
+
+
 
 ## Thesis
-
-1. MSc Thesis - DisCusS desenvolvendo um Serviço de Consenso genérico, simples e modular   
-    Lasaro Camargos   
-    State university of Campinas   
-    [PDF](https://www.researchgate.net/publication/264399325_DisCusS_desenvolvendo_um_Servico_de_Consenso_generico_simples_e_modular)    
-    
-    ??? "Abstract"
-        Esta dissertação trata do processo de engenharia de um serviço de detecção de falhas compatível com FT-CORBA, a especificação para tolerância a falhas em CORBA, e de um serviçco de consenso distribuído. Os serviçoos são independentes e fornecem diferentes propriedades para a aplicação cliente, dependendo dos módulos, com implementações de algoritmos diferentes, selecionados para uma instanciação destes serviços. A arquitetura dos serviços é tal que a aplicação cliente não toma conhecimento dos algoritmos de detecção e consenso sendo executados, acessando-os por uma interface genérica. Com o intuito de facilitar a escolha dos módulos dos serviços, apresentamos um pequeno estudo comparativo da influência de detectores de falhas adaptativos, aqueles que se adaptam para prover melhor qualidade de serviço na detecção, e não adaptativos sobre o desempenho dos algoritmos de consenso distribuído.
 
 1. PhD Dissertation - Multicoordinated agreement protocols and the log service   
     Lasaro Camargos   
@@ -175,3 +173,12 @@ In the mean time, if you need more information, please visit [Research Gate](htt
     
     ??? "Abstract"
         Agreement problems are a common abstraction in distributed systems. They appear when the components of the system must concur on reconfigurations, changes of state, or in lines of action in general. Examples of agreement problems are Consensus, Atomic Commitment, and Atomic Broadcast. In this thesis we investigate these abstractions in the context of the environment in which they will run and the applications that they will serve; in general, we consider the asynchronous crash-recovery model. The goal is to devise protocols that explore the contextual information to deliver improved availability. The correctness of our protocols holds even when the extra assumptions do not. In the first part of this thesis we explore the following property: messages broadcast in small networks tend to be delivered in order and reliably. We make three contributions in this part. The first contribution is to turn known Consensus algorithms that harness this ordering property to reach agreement in the crash-stop model into practical protocols. That is, protocols that tolerate message losses and recovery after crashes, efficiently. Our protocols ensure progress even in the presence of failures, if spontaneous ordering holds frequently. In the absence of spontaneous ordering, some other assumption is required to cope with failures. The second contribution of this thesis is to generalize one of our crash-recovery consensus protocols as a ``multicoordinated'' mode of a hybrid Consensus protocol, that may use spontaneous ordering or failure detection to progress. Compared to other protocols, ours provide improved availability with no price in resilience. The third contribution is to employ this new mode to solve Generalized Consensus, a problem that generalizes a series of other agreement problems and, hence, is of much practical interest. Moreover, we considered several aspects of solving this problem in practice, which had not been considered before. As a result, our Generalized Consensus protocol features graceful degradation, load balancing, and is parsimonious in accessing stable storage. In the second part of this thesis we have considered agreement problems in wide area networks organized hierarchically. More specifically, we considered a topology that is commonplace in the data centers of large corporations: groups of nodes, with large-bandwidth low-latency links connecting the nodes in the same group, and slow and limited links connecting nodes in different groups. In such environments, latency is clearly a major concern and reconfiguration procedures that render the agreement protocol momentarily unavailable must be avoided as much as possible. Our contribution here is in avoiding reconfigurations and improving the availability of a collision fast agreement protocol. That is, a protocol that can reach agreement in two intergroup communication steps, irrespectively to concurrent proposals. Besides the use of a multicoordinated approach, we employed multicast primitives and consensus to restrict some reconfigurations to within groups, where they are less expensive. In the last part of this thesis we study the problem of terminating distributed transactions. The problem consists of enforcing agreement among the parties on whether to commit or rollback the transaction and ensuring the durability of committed transactions. Our contribution in this topic is an abstract log service that detaches the termination problem from the processes actually performing the transactions. The service works as a black box and abstracts its implementation details from the application utilizing it. Moreover, it allows slow and failed resource managers be re-started on different hosts without relying on the stable storage of the previous host. We provide two implementations of the service, which we evaluated experimentally.
+
+
+1. MSc Thesis - DisCusS desenvolvendo um Serviço de Consenso genérico, simples e modular   
+    Lasaro Camargos   
+    State university of Campinas   
+    [PDF](https://www.researchgate.net/publication/264399325_DisCusS_desenvolvendo_um_Servico_de_Consenso_generico_simples_e_modular)    
+    
+    ??? "Abstract"
+        Esta dissertação trata do processo de engenharia de um serviço de detecção de falhas compatível com FT-CORBA, a especificação para tolerância a falhas em CORBA, e de um serviçco de consenso distribuído. Os serviçoos são independentes e fornecem diferentes propriedades para a aplicação cliente, dependendo dos módulos, com implementações de algoritmos diferentes, selecionados para uma instanciação destes serviços. A arquitetura dos serviços é tal que a aplicação cliente não toma conhecimento dos algoritmos de detecção e consenso sendo executados, acessando-os por uma interface genérica. Com o intuito de facilitar a escolha dos módulos dos serviços, apresentamos um pequeno estudo comparativo da influência de detectores de falhas adaptativos, aqueles que se adaptam para prover melhor qualidade de serviço na detecção, e não adaptativos sobre o desempenho dos algoritmos de consenso distribuído.

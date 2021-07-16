@@ -20,32 +20,24 @@ Na descrição das atividades,
     * Apresentação
     * Plano do curso
     * NA: [Introdução](https://lasarojc.github.io/fp_notes/intro/)
-
-
-
-<!-- 
 * A
-    * NA: Prefácio
+    * NA: [Prefácio](https://lasarojc.github.io/fp_notes/preface/)
+    * Execução de código Haskell: Instruções e vídeo disponibilizadas no Teams.
 
 ## Semana 2
 
 * NA: 
-    * Haskell: 1+1
-    * Haskell: Funções
+    * [Haskell 1+1](https://lasarojc.github.io/fp_notes/haskell101/)
+    * [Funções](https://lasarojc.github.io/fp_notes/functions/)
 
 * A: Exercícios
 
+<!-- 
 ## Semana 3
 * NA:
     * If Then Else
     * Case
 
 * A: Exercícios
-
-
-
-
-
-
     * Haskell: Tipos
 -->
