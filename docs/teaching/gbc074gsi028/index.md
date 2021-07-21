@@ -30,7 +30,7 @@ Na descrição das atividades,
 
 * S - 12/07/2021: 8:50 e 20:50
       * Apresentação
-          * NA: [Prefácio](https://lasarojc.github.io/ds_notes/preface/)
+          * (NA) [Prefácio](https://lasarojc.github.io/ds_notes/preface/)
 
       * Plano do curso: ver aba arquivos no MS Teams
       * Seminários
@@ -79,38 +79,46 @@ Na descrição das atividades,
 
 
    * Introdução
-      * NA: [O quê são Sistemas Distribuídos?](https://lasarojc.github.io/ds_notes/intro/#tipos-de-sistemas-distribuidos)
-      * NA: [Por quê desenvolvemos sistemas distribuídos?](https://lasarojc.github.io/ds_notes/intro/#por-que-desenvolvemos-sistemas-distribuidos)
+      * (NA) [O quê são Sistemas Distribuídos?](https://lasarojc.github.io/ds_notes/intro/#tipos-de-sistemas-distribuidos)
+      * (NA) [Por quê desenvolvemos sistemas distribuídos?](https://lasarojc.github.io/ds_notes/intro/#por-que-desenvolvemos-sistemas-distribuidos)
 
 * S: 14/07/2021: 10:40
    * Introdução
-      * NA: [Tipos de Sistemas Distribuídos](https://lasarojc.github.io/ds_notes/intro/#tipos-de-sistemas-distribuidos)
+      * (NA) [Tipos de Sistemas Distribuídos](https://lasarojc.github.io/ds_notes/intro/#tipos-de-sistemas-distribuidos)
 
 
 * A
-    * LT: Sistemas Distribuídos: Princípios e Paradigmas. Capitulo 1.
+    * (LT) Sistemas Distribuídos: Princípios e Paradigmas. Capitulo 1.
     * [Difference Between Centralized, Decentralized & Distributed Systems Oversimplified](https://www.8bitmen.com/difference-between-centralized-decentralized-distributed-systems-explained/)
     * [Transparência - Parte 1](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-1-17ao)
     * [Transparência - Parte 2](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-2-lbb)
 
 
 
+## Semana 2
+* S: 19/07/2021: 20:50
+   * Comunicação
+      * (NA) [Introdução](https://lasarojc.github.io/ds_notes/comm/)-[Sockets](https://lasarojc.github.io/ds_notes/comm/sockets/)
 
+* S: 21/07/2021: 10:40
+   * Comunicação
+      * (NA) [Sockets](https://lasarojc.github.io/ds_notes/comm/sockets/)-[Representação de dados](https://lasarojc.github.io/ds_notes/comm/datarep/)
 
-
-
-
-
+* A: 
+    * (LT) Sistemas Distribuídos: Princípios e Paradigmas. Comunicação - Seção 4.1
+    * [Understanding IP Multicast](http://www.dasblinkenlichten.com/understanding-ip-multicast/)
+    * [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/)
 
 
 
 <!--
 
-aula 1
-* Área competitiva
-* Computação distribuída é uma pedra fundamental
-* Definição de Sistema Distribuído
-* Tipos de Sistemas Distribuídos
+* S: 
+    * NA: [Arqui](https://lasarojc.github.io/ds_notes/arch/)
+
+* A:
+    * TBD
+
 
 
 
