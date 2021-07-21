@@ -16,7 +16,7 @@ Na descrição das atividades,
 
 ## Semana 1
 
-* S
+* S 14/07/2021 8:50
     * Apresentação
     * Plano do curso
     * NA: [Introdução](https://lasarojc.github.io/fp_notes/intro/)
@@ -26,11 +26,19 @@ Na descrição das atividades,
 
 ## Semana 2
 
-* NA: 
-    * [Haskell 1+1](https://lasarojc.github.io/fp_notes/haskell101/)
-    * [Funções](https://lasarojc.github.io/fp_notes/functions/)
+* S 21/07/2021
+    * NA: 
+        * [Haskell 1+1](https://lasarojc.github.io/fp_notes/haskell101/)
+        * [Funções](https://lasarojc.github.io/fp_notes/functions/)
+        * [if then else](https://lasarojc.github.io/fp_notes/ifthenelse/)
+        * [Guardas](https://lasarojc.github.io/fp_notes/guards/)
 
 * A: Exercícios
+
+* S 23/07/2021
+    * Exercícios
+
+
 
 <!-- 
 ## Semana 3
