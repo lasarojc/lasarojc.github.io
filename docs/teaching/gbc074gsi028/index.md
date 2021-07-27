@@ -102,12 +102,24 @@ Na descrição das atividades,
 
 * S: 21/07/2021: 10:40
    * Comunicação
-      * (NA) [Sockets](https://lasarojc.github.io/ds_notes/comm/sockets/)-[Representação de dados](https://lasarojc.github.io/ds_notes/comm/datarep/)
+      * (NA) [Sockets](https://lasarojc.github.io/ds_notes/comm/sockets/)
+      * (NA) [Representação de dados](https://lasarojc.github.io/ds_notes/comm/datarep/)
 
 * A: 
     * (LT) Sistemas Distribuídos: Princípios e Paradigmas. Comunicação - Seção 4.1
     * [Understanding IP Multicast](http://www.dasblinkenlichten.com/understanding-ip-multicast/)
     * [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/)
+    * Exercícios
+
+
+## Semana 3
+* S: 26/07/2021: 20:50
+   * Comunicação
+      * (NA) [Middlewares](https://lasarojc.github.io/ds_notes/comm/middleware)
+
+* S: 28/07/2021: 10:40
+   * Comunicação
+      * (NA) [RPC](https://lasarojc.github.io/ds_notes/comm/rpc/)
 
 
 
@@ -118,39 +130,6 @@ Na descrição das atividades,
 
 * A:
     * TBD
-
-
-
-
-## Aula 2: Fundamentos - Comunicação
-
-Nesta aula nós relembraremos os fundamentos de redes de computadores e do protocolo IP, o substrato no qual sistemas distribuídos fracamente acoplados executam.
-
-### Pontos Principais
-* Modelos de Computação Distribuída
-* Canais e protocolos de comunicação
-* Sockets
-
-
-### Leituras
-* [Fundamentos](https://lasarojc.github.io/ds_notes/basics/)
-* [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/)
-* Sistemas Distribuídos: Princípios e Paradigmas. Seção 4.1
-
-
-
-## Aula 3: Laboratório de Sockets
-
-Resolvamos os seguintes exercícios.
-
-* Múltiplos Pacotes
-* Ping-pong
-* Ping-pong UDP
-* IP-multicast
-
-### Leituras
-* [Fundamentos](https://lasarojc.github.io/ds_notes/basics/)
-* [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/)
 
 
 ## Aula 4: Fundamentos - Processos
