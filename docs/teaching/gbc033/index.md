@@ -38,14 +38,27 @@ Na descrição das atividades,
 * S 23/07/2021
     * Exercícios
 
-
-
-<!-- 
 ## Semana 3
-* NA:
-    * If Then Else
-    * Case
+
+* S 28/07/2021
+    * NA: 
+        * [Tipos](https://lasarojc.github.io/fp_notes/types/)
+        * [Pacotes](https://lasarojc.github.io/fp_notes/packages/)
+
+* S 30/07/2021
+    * NA: 
+        * [Tuplas](https://lasarojc.github.io/fp_notes/tuples/)
 
 * A: Exercícios
-    * Haskell: Tipos
--->
+
+
+## Semana 4
+
+* S 04/08/2021
+    * Exercícios
+
+* S 06/08/2021
+    * NA:
+        * [Casamento de Padrões](https://lasarojc.github.io/fp_notes/pattern_matching/)
+
+* A: Exercícios
