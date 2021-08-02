@@ -120,6 +120,31 @@ Na descrição das atividades,
 * S: 28/07/2021: 10:40
    * Comunicação
       * (NA) [RPC](https://lasarojc.github.io/ds_notes/comm/rpc/)
+      * (NA) [Estudo de caso gRPC](https://lasarojc.github.io/ds_notes/cases/grpc/)
+
+* A
+   * (LT) 2.3 Middleware Organization
+   * (LT) 4.2 Remote Procedure Call
+
+
+
+## Semana 4
+* S: 02/08/2021: 20:50
+   * Comunicação
+      * (NA) [MOM](https://lasarojc.github.io/ds_notes/comm/mom)
+      * (NA) [Estudo de caso Mosquito](https://lasarojc.github.io/ds_notes/cases/mosquito/)
+
+* S: 04/07/2021: 10:40
+   * Comunicação
+      * (NA) [Protocolos Epidêmicos](https://lasarojc.github.io/ds_notes/comm/epidemics/)
+
+* A:
+   * (LT) 4.3 Message-Oriented Communication
+   * (LT) 4.4 Multicast Communication
+
+
+
+
 
 
 
