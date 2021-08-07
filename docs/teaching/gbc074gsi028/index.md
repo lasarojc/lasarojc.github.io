@@ -137,6 +137,7 @@ Na descrição das atividades,
 * S: 04/07/2021: 10:40
    * Comunicação
       * (NA) [Protocolos Epidêmicos](https://lasarojc.github.io/ds_notes/comm/epidemics/)
+   * Especificação da primeira etapa do projeto
 
 * A:
    * (LT) 4.3 Message-Oriented Communication
