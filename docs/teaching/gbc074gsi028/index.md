@@ -134,7 +134,7 @@ Na descrição das atividades,
       * (NA) [MOM](https://lasarojc.github.io/ds_notes/comm/mom)
       * (NA) [Estudo de caso Mosquito](https://lasarojc.github.io/ds_notes/cases/mosquito/)
 
-* S: 04/07/2021: 10:40
+* S: 04/08/2021: 10:40
    * Comunicação
       * (NA) [Protocolos Epidêmicos](https://lasarojc.github.io/ds_notes/comm/epidemics/)
    * Especificação da primeira etapa do projeto
@@ -144,6 +144,19 @@ Na descrição das atividades,
    * (LT) 4.4 Multicast Communication
 
 
+## Semana 5
+* S: 09/08/2021: 20:50
+   * Arquiteturas
+      * (NA) [Introdução](https://lasarojc.github.io/ds_notes/arch/)
+
+* S: 11/08/2021: 10:40
+   * Arquiteturas
+      * (NA) [Peer-2-Peer](https://lasarojc.github.io/ds_notes/p2p/)
+   * Discussão sobre a primeira entrega do projeto
+
+* A:
+   * (NA) [Peer-2-Peer](https://lasarojc.github.io/ds_notes/p2p/)
+   * Exercícios
 
 
 
