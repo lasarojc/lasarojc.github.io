@@ -12,7 +12,7 @@ Na descrição das atividades,
 
 * **NA** quer dizer Notas de Aula, acessíveis em (https://lasarojc.github.io/fp_notes/), 
 * **S** quer dizer **atividade síncrona**, feita em uma reunião no MS-Teams, gravada e disponibilizada para revisão posterior, e 
-* **A** quer dizer **atividade assíncrono**, a ser realizado pelo discente antes da próxima atividade.
+* **A** quer dizer **atividade assíncrona**, a ser realizado pelo discente antes da próxima atividade.
 
 ## Semana 1
 
@@ -60,5 +60,17 @@ Na descrição das atividades,
 * S 06/08/2021
     * NA:
         * [Casamento de Padrões](https://lasarojc.github.io/fp_notes/pattern_matching/)
+
+* A: Exercícios
+
+
+## Semana 5
+
+* S 11/08/2021
+    * [Recursão](https://lasarojc.github.io/fp_notes/recursion/)
+
+* S 13/08/2021
+    * NA:
+        * Exercícios
 
 * A: Exercícios
