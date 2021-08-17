@@ -152,13 +152,24 @@ Na descrição das atividades,
 * S: 11/08/2021: 10:40
    * Arquiteturas
       * (NA) [Peer-2-Peer](https://lasarojc.github.io/ds_notes/p2p/)
+      * (NA) Estudo de caso [P2P: Chord](https://lasarojc.github.io/ds_notes/cases/chord/)
    * Discussão sobre a primeira entrega do projeto
 
 * A:
    * (NA) [Peer-2-Peer](https://lasarojc.github.io/ds_notes/p2p/)
+   * (NA) Estudo de caso [P2P: Chord](https://lasarojc.github.io/ds_notes/cases/chord/)
    * Exercícios
 
 
+## Semana 6
+* S: 16/08/2021: 20:50
+   * (NA) [Modelos computacionais](https://lasarojc.github.io/ds_notes/fundamentals/)
+
+* S: 18/08/2021: 10:40
+   * (NA) [Concorrência](https://lasarojc.github.io/ds_notes/coord/concurrency)
+
+* A:
+   * (NA) [Microsserviços](https://lasarojc.github.io/ds_notes/arch/microservices/)
 
 
 
