@@ -70,7 +70,17 @@ Na descrição das atividades,
     * [Recursão](https://lasarojc.github.io/fp_notes/recursion/)
 
 * S 13/08/2021
-    * NA:
-        * Exercícios
+    * Exercícios
 
 * A: Exercícios
+
+## Semana 6
+* S 18/08/2021
+    * NA: [Where e let-in](https://lasarojc.github.io/fp_notes/where_let_in/) 
+
+* S 20/08/2021
+    * NA:  [Listas](https://lasarojc.github.io/fp_notes/lists/)
+
+    * A: Exercícios
+
+
