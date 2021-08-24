@@ -171,20 +171,18 @@ Na descrição das atividades,
 * A:
     * (NA) [Microsserviços](https://lasarojc.github.io/ds_notes/arch/microservices/)
     * (NA) [Multithread na Prática](https://lasarojc.github.io/ds_notes/coord/concurrency/#multithread-na-pratica)
+    * Exercícios de *multithread*
 
 
+## Semana 7
+* S: 23/08/2021: 20:50
+    * (NA) [Exclusão mútua](https://lasarojc.github.io/ds_notes/coord/coord/#exclusao-mutua) 
 
+* S: 18/08/2021: 10:40
+    * (NA) [Eleição de líderes](https://lasarojc.github.io/ds_notes/coord/coord/#eleicao-de-lideres) 
+
+* A: desenvolvimento do projeto
 <!--
-
-* S: 
-    * NA: [Arqui](https://lasarojc.github.io/ds_notes/arch/)
-
-* A:
-    * TBD
-
-
-## Aula 4: Fundamentos - Processos
-Nesta aula discutiremos o papel da concorrência no desenvolvimento dos SD.
 
 
 ### Leituras
@@ -192,9 +190,6 @@ Nesta aula discutiremos o papel da concorrência no desenvolvimento dos SD.
 * Sistemas Distribuídos: Princípios e Paradigmas. Capítulo 3.
 
 
-
-## Aula 5: Laboratório de *Multithreading*
-Nesta aula discutiremos o papel dos processos no desenvolvimento de Sistemas distribuídos.
 
 ### Leituras
 * Vídeo: Containers docker no desenvolvimento de aplicações distribuídas
