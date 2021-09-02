@@ -178,10 +178,25 @@ Na descrição das atividades,
 * S: 23/08/2021: 20:50
     * (NA) [Exclusão mútua](https://lasarojc.github.io/ds_notes/coord/coord/#exclusao-mutua) 
 
-* S: 18/08/2021: 10:40
+* S: 15/08/2021: 10:40
     * (NA) [Eleição de líderes](https://lasarojc.github.io/ds_notes/coord/coord/#eleicao-de-lideres) 
 
 * A: desenvolvimento do projeto
+
+## Semana 8
+* S: 30/08/2021: 20:50
+    * (NA) [Tempo e Relógios Físicos](https://lasarojc.github.io/ds_notes/time/physical/) 
+
+* S: 01/09/2021: 10:40
+    * (NA) [Relógios Lógicos](https://lasarojc.github.io/ds_notes/time/logical/) 
+
+* A: Desenvolvimento do projeto
+
+## Semana 9
+* S: 06/09/2021 - Recesso
+* S: 08/09/2021 - Reposição de terça feira
+* A: Desenvolvimento do projeto
+
 <!--
 
 

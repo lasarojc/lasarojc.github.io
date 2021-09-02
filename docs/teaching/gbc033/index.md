@@ -43,7 +43,7 @@ Na descrição das atividades,
 * S 28/07/2021
     * NA: 
         * [Tipos](https://lasarojc.github.io/fp_notes/types/)
-        * [Pacotes](https://lasarojc.github.io/fp_notes/packages/)
+        * [Módulos](https://lasarojc.github.io/fp_notes/packages/)
 
 * S 30/07/2021
     * NA: 
@@ -81,6 +81,25 @@ Na descrição das atividades,
 * S 20/08/2021
     * NA:  [Listas](https://lasarojc.github.io/fp_notes/lists/)
 
-    * A: Exercícios
+* A: Exercícios
 
 
+## Semana 7
+* S 25/08/2021
+    * Exercícios
+* S 27/08/2021
+    * Exercícios
+
+## Semana 8
+* S 01/09/2021
+    * Avaliação
+* S 03/09/2021
+    * Casamento de padrões em listas
+
+
+## Semana 9
+* S 08/09/2021
+    * Reposição de aulas de terça feira.
+* S 10/09/2021
+    * Avaliação
+* A: Exercícios
