@@ -94,12 +94,17 @@ Na descrição das atividades,
 * S 01/09/2021
     * Avaliação
 * S 03/09/2021
-    * Casamento de padrões em listas
-
+    * Resolução dos exercícios da avaliação 
 
 ## Semana 9
 * S 08/09/2021
-    * Reposição de aulas de terça feira.
+    * Não há aula - reposição de aulas de terça feira.
 * S 10/09/2021
     * Avaliação
 * A: Exercícios
+
+## Semana 10
+* S 15/09/2021
+    * Casamento de padrões em listas
+* S 17/09/2021 
+    * Recursão em listas

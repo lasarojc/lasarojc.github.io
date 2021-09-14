@@ -194,70 +194,20 @@ Na descrição das atividades,
 
 ## Semana 9
 * S: 06/09/2021 - Recesso
-* S: 08/09/2021 - Reposição de terça feira
+* S: 08/09/2021 - Não há aula - Reposição de terça-feira
 * A: Desenvolvimento do projeto
+
+## Semana 10
+* S: 13/09/2021: 20:50
+     * (NA) [Tolerância a falhas](https://lasarojc.github.io/ds_notes/fault/)
+     * (NA) [Dependabilidade](https://lasarojc.github.io/ds_notes/fault/dependability/)
 
 <!--
 
 
 ### Leituras
-* [Fundamentos](https://lasarojc.github.io/ds_notes/basics/)
-* Sistemas Distribuídos: Princípios e Paradigmas. Capítulo 3.
-
-
-
-### Leituras
 * Vídeo: Containers docker no desenvolvimento de aplicações distribuídas
 
-
-## Aula 6: Arquiteturas
-* Notas de aula: [Arquiteturas](https://lasarojc.github.io/ds_notes/intro/#arquiteturas)
-* [Muitos nós, um sistema distribuído](https://dev.to/vaidehijoshi/many-nodes-one-distributed-system-kl9)
-* [Diferenças entre sistemas centralizados, decentralizados e distribuídos](https://www.8bitmen.com/)
-* Sistemas Distribuídos: Princípios e Paradigmas. Capítulo 2
-
-
-## Aula 7: Arquiteturas - P2P
-* Notas de aula: [Arquiteturas P2P](https://lasarojc.github.io/ds_notes/arch/#par-a-par-peer-to-peer-p2p)
-* Sistemas Distribuídos: Princípios e Paradigmas. Capítulo 2
-
-
-## Aula 8: Comunicação
-* Middleware
-* Transparência
-* RPC
-
-## Aula 9: Laboratório de RPC
-
-## Aula 10: Comunicação orientada a mensagens
-* MPI
-* Filas de mensagens
-* Publish Subscribe
-    * MQTTP e Moquitto
-* Protocolos epidêmicos
-
-## Aula 11 - Coordenação: Exclusão mútua
-
-## Aula 12 - Coordenação: Eleição de líderes
-
-## Aula 13 e 14  - Atividade Assíncrona: computação em nuvem
-
-Usando seu email institucional, inscreva-se no Coursera, no Curso "Cloud Computing Concepts, Part 1",  que faz parte da especialização "Cloud Computing".
-Neste curso, você deverá fazer as 2 primeiras semanas, o que corresponde a 9 horas de trabalho.
-
-## Aula 15 - Tempo físico e sincronização de relógios
-
-* Tempo
-* Relógios de Quartzo
-* Relógios Atômicos
-* Algoritmos de Sincronização
-* NTP
-
-## Aula 16 - Tempo lógico
-* Relógios Lógicos
-* Relógio de Lamport
-* Relógio vetorial
-* Ordenação total e causal
 
 ## Aula 17 - Tolerância a falhas
 ## Aula 18 - Tolerância a falhas

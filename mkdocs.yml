@@ -8,6 +8,7 @@ nav:
         - Research: publications/index.md
         - Students: students/index.md
         - Teaching: 
+            - Disciplinas: teaching/index.md 
         #    - '2020/1 GSI009': teaching/gsi009/index.md
             - '2020/2 GBC033': teaching/gbc033/index.md
             - '2020/2 GBC074/GSI028': teaching/gbc074gsi028/index.md
