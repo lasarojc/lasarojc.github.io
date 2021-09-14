@@ -200,10 +200,13 @@ Na descrição das atividades,
 ## Semana 10
 * S: 13/09/2021: 20:50
      * (NA) [Tolerância a falhas](https://lasarojc.github.io/ds_notes/fault/)
-     * (NA) [Dependabilidade](https://lasarojc.github.io/ds_notes/fault/dependability/)
+
+* S: 15/09/2021: 10:40
+     * (NA) [Replicação](https://lasarojc.github.io/ds_notes/fault/replication/)
 
 <!--
 
+     * (NA) [Dependabilidade](https://lasarojc.github.io/ds_notes/fault/dependability/)
 
 ### Leituras
 * Vídeo: Containers docker no desenvolvimento de aplicações distribuídas
