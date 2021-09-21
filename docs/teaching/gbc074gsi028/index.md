@@ -203,6 +203,15 @@ Na descrição das atividades,
 
 * S: 15/09/2021: 10:40
      * (NA) [Replicação](https://lasarojc.github.io/ds_notes/fault/replication/)
+     * (NA) [Detectores de Falhas](https://lasarojc.github.io/ds_notes/fault/failuredetector/)
+
+## Semana 11
+* S: 20/09/2021: 20:50
+     * (NA) [Acordo](https://lasarojc.github.io/ds_notes/fault/agreement)
+
+* S: 15/09/2021: 10:40
+     * (NA) [Estudo de Caso: Ratis](https://lasarojc.github.io/ds_notes/cases/ratis/)
+
 
 <!--
 
@@ -212,10 +221,6 @@ Na descrição das atividades,
 * Vídeo: Containers docker no desenvolvimento de aplicações distribuídas
 
 
-## Aula 17 - Tolerância a falhas
-## Aula 18 - Tolerância a falhas
-## Aula 19 - Tolerância a falhas
-## Aula 20 - Tolerância a falhas
 ## Aula 21 - 
 ## Aula 22 - 
 ## Aula 23 - Bancos de dados

@@ -11,6 +11,35 @@ In the mean time, if you need more information, please visit [Research Gate](htt
     Registro 10740300B1, United States Patent and Trademark Office.    
     Depósito: 07/12/2017; Concessão: 11/08/2020.
 
+<!--
+1. Avinash Lakshman, Lasaro Camargos and Deepak Jain    
+    SYNCHRONIZING METADATA IN A DATA STORAGE PLATFORM COMPRISING MULTIPLE COMPUTER NODES.    
+    Pending. United States Patent and Trademark Office.
+
+1. Avinash Lakshman, Lasaro Camargos and Deepak Jain    
+    STORAGE AND SYNCHRONIZATION OF METADATA IN A DISTRIBUTED STORAGE SYSTEM.     
+    Pending. United States Patent and Trademark Office.
+
+1. Deepak Jain, Lasaro Camargos, Srinivas Lakshman, and Avinash Lakshman    
+    ANTI ENTROPY BASED METADATA RECOVERY IN A STRONGLY CONSISTENT DISTRIBUTED DATA STORAGE SYSTEM.    
+    Pending. United States Patent and Trademark Office.
+
+2. Lasaro Camargos, Deepak Jain, Bharat Naik, and Avinash Lakshman    
+    DECOMMISSIONING, RE COMMISSIONING, AND COMMISSIONING NEW METADATA NODES IN A WORKING DISTRIBUTED DATA STORAGE SYSTEM    
+    Pending. United States Patent and Trademark Office.
+
+2. Lasaro Camargos, Deepak Jain, Bharat Naik, and Avinash Lakshman    
+    COMMISSIONING AND DECOMMISSIONING METADATA NODES IN A RUNNING DISTRIBUTED DATA STORAGE SYSTEM    
+    Pending. United States Patent and Trademark Office.
+
+3. Lasaro Camargos, Deepak Jain, Bharat Naik, and Avinash Lakshman    
+    COMMISSIONING AND DECOMMISSIONING METADATA NODES IN A RUNNING DISTRIBUTED DATA STORAGE SYSTEM    
+    Pending. United States Patent and Trademark Office.
+
+
+%CONTAINER DATA MOVER FOR MIGRATING DATA BETWEEN DISTRIBUTED DATA STORAGE SYSTEMS INTEGRATED WITH APPLICATION ORCHESTRATORS
+-->
+
 ## Journals
 
 1. Analysis of Monitoring and Multipath Support on top of OpenFlow Specification   

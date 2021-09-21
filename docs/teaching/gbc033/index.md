@@ -105,6 +105,11 @@ Na descrição das atividades,
 
 ## Semana 10
 * S 15/09/2021
-    * Casamento de padrões em listas
+    * Compreensão de listas
+
 * S 17/09/2021 
     * Recursão em listas
+
+* A
+    * Casamento de padrões em listas
+    * Exercícios
