@@ -209,16 +209,53 @@ Na descrição das atividades,
 * S: 20/09/2021: 20:50
      * (NA) [Acordo](https://lasarojc.github.io/ds_notes/fault/agreement)
 
-* S: 15/09/2021: 10:40
+* S: 21/09/2021: 10:40
      * (NA) [Estudo de Caso: Ratis](https://lasarojc.github.io/ds_notes/cases/ratis/)
 
 
+## Semana 12
+* S: 27/09/2021: 10:40
+     * (NA) [Estudo de Caso: Zookeeper](https://lasarojc.github.io/ds_notes/cases/zookeeper/)
+
+* S: 29/09/2021: 8:50
+     * (NA) 
+
+## Semana 13
+* S: 04/10/2021: 10:40
+* S: 06/10/2021: 8:50
+
+## Semana 14
+* S: 11/10/2021: 10:40
+* S: 13/10/2021: 8:50
+
+## Semana 15
+* S: 18/10/2021: 10:40
+* S: 20/10/2021: 8:50
+
+## Semana 16
+* S: 25/10/2021: 10:40
+* S: 27/10/2021: 8:50
+
+## Semana 17
+* S: 03/11/2021: 10:40
+* S: 05/11/2021: 8:50
+
+* A: Seminários
+
+
 <!--
-
-     * (NA) [Dependabilidade](https://lasarojc.github.io/ds_notes/fault/dependability/)
-
 ### Leituras
 * Vídeo: Containers docker no desenvolvimento de aplicações distribuídas
+
+## Semana 12
+    * TODO: Falhas bizantinas? Problemas dos generais bizantinos.
+    * (NA) [Dependabilidade](https://lasarojc.github.io/ds_notes/fault/dependability/)
+
+Modelos de consistencia
+    Centrados nos dados
+    Centrados nos clientes
+Gerenciamento de replicas
+checkpointing
 
 
 ## Aula 21 - 
