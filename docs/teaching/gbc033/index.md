@@ -109,7 +109,36 @@ Na descrição das atividades,
 
 * S 17/09/2021 
     * Recursão em listas
+    * Casamento de padrões em listas
 
 * A
     * Casamento de padrões em listas
     * Exercícios
+
+## Semana 11
+* S 22/09/2021
+      * Tipos algébricos de dados
+* S 24/09/2021
+      * Exercícios com recursão e tipos algébricos
+
+
+## Semana 12
+* S 29/09/2021
+      * Variáveis de tipo/polimorfismo
+      * Tipos algébricos recursivos
+
+* S 01/10/2021
+      * Exercícios com tipos algébricos, recursão e tipos recursivos
+
+## Semana 13
+* S 06/10/2021
+     * Funções de mais alta ordem
+     * Map e Filter
+
+* S 08/10/2021
+     * Exercícios com funções de alta ordem
+
+## Semana 14
+## Semana 15
+## Semana 16
+## Semana 17
