@@ -6,12 +6,15 @@ As time allows I will complete it and add details.
 In the mean time, if you need more information, please visit [Research Gate](http://www.google.com/url?q=http%3A%2F%2Fwww.researchgate.net%2Fprofile%2FLasaro_Camargos&sa=D&sntz=1&usg=AFQjCNF3tgNGeYe1XaW89jbOEm9fBRY-0g), your favorite academic search engine, or contact me directly.
 
 ## Patents
-1. Avinash Lakshman, Lasaro Camargos and Deepak Jain    
+1. Avinash LAKSHMAN, Lasaro CAMARGOS, Deepak JAIN, 
     Synchronization of Metadata in a Distributed Storage System. 2017, Estados Unidos.   
     Registro 10740300B1, United States Patent and Trademark Office.    
     Depósito: 07/12/2017; Concessão: 11/08/2020.
 
-<!--
+1. Avinash Lakshman, Lasaro Camargos and Deepak Jain    
+   SYNCHRONIZATION OF METADATA IN A DISTRIBUTED STORAGE SYSTEM
+   Pending. United States Patent and Trademark Office.
+	   
 1. Avinash Lakshman, Lasaro Camargos and Deepak Jain    
     SYNCHRONIZING METADATA IN A DATA STORAGE PLATFORM COMPRISING MULTIPLE COMPUTER NODES.    
     Pending. United States Patent and Trademark Office.
@@ -20,25 +23,21 @@ In the mean time, if you need more information, please visit [Research Gate](htt
     STORAGE AND SYNCHRONIZATION OF METADATA IN A DISTRIBUTED STORAGE SYSTEM.     
     Pending. United States Patent and Trademark Office.
 
-1. Deepak Jain, Lasaro Camargos, Srinivas Lakshman, and Avinash Lakshman    
+2. Deepak JAIN, Lasaro CAMARGOS, Srinivas LAKSHMAN, and Avinash LAKSHMAN 
     ANTI ENTROPY BASED METADATA RECOVERY IN A STRONGLY CONSISTENT DISTRIBUTED DATA STORAGE SYSTEM.    
     Pending. United States Patent and Trademark Office.
 
-2. Lasaro Camargos, Deepak Jain, Bharat Naik, and Avinash Lakshman    
+3. Lasaro CAMARGOS, Deepak JAIN, Bharat NAIK, and Avinash LAKSHMAN 
     DECOMMISSIONING, RE COMMISSIONING, AND COMMISSIONING NEW METADATA NODES IN A WORKING DISTRIBUTED DATA STORAGE SYSTEM    
     Pending. United States Patent and Trademark Office.
 
-2. Lasaro Camargos, Deepak Jain, Bharat Naik, and Avinash Lakshman    
+4. Lasaro CAMARGOS, Deepak JAIN, Bharat NAIK, and Avinash LAKSHMAN 
     COMMISSIONING AND DECOMMISSIONING METADATA NODES IN A RUNNING DISTRIBUTED DATA STORAGE SYSTEM    
     Pending. United States Patent and Trademark Office.
 
-3. Lasaro Camargos, Deepak Jain, Bharat Naik, and Avinash Lakshman    
-    COMMISSIONING AND DECOMMISSIONING METADATA NODES IN A RUNNING DISTRIBUTED DATA STORAGE SYSTEM    
-    Pending. United States Patent and Trademark Office.
-
-
-%CONTAINER DATA MOVER FOR MIGRATING DATA BETWEEN DISTRIBUTED DATA STORAGE SYSTEMS INTEGRATED WITH APPLICATION ORCHESTRATORS
--->
+5. Srividhya KAVAIPATTI ANANTHARAMAKRISHNAN, Lásaro CAMARGOS, Abhijith SHENOY, Xiangyu WANG, Avinash LAKSHMAN, Srinivas LAKSHMAN    
+     CONTAINER DATA MOVER FOR MIGRATING DATA BETWEEN DISTRIBUTED DATA STORAGE SYSTEMS INTEGRATED WITH APPLICATION ORCHESTRATORS
+     Pending. United States Patent and Trademark Office.
 
 ## Journals
 
