@@ -214,31 +214,36 @@ Na descrição das atividades,
 
 
 ## Semana 12
-* S: 27/09/2021: 10:40
+* S: 27/09/2021: 20:50
      * (NA) [Estudo de Caso: Zookeeper](https://lasarojc.github.io/ds_notes/cases/zookeeper/)
 
-* S: 29/09/2021: 8:50
+* S: 29/09/2021: 10:40
      * (NA) 
 
 ## Semana 13
-* S: 04/10/2021: 10:40
-* S: 06/10/2021: 8:50
+* S: 04/10/2021: 20:50
+     * (NA) [Modelos de Consistência](https://lasarojc.github.io/ds_notes/consistency/consistency_models/)
+     * (NA) [Modelos de Consistência centrados nos dados](https://lasarojc.github.io/ds_notes/consistency/data_centric/)
+
+* S: 06/10/2021: 10:40
+     * (NA) [Modelos de Consistência centrados nos dados](https://lasarojc.github.io/ds_notes/consistency/data_centric/)
+     * (NA) [Modelos de Consistência centrados no cliente](https://lasarojc.github.io/ds_notes/consistency/client_centric/)
 
 ## Semana 14
-* S: 11/10/2021: 10:40
-* S: 13/10/2021: 8:50
+* S: 11/10/2021: 20:50
+* S: 13/10/2021: 10:40
 
 ## Semana 15
-* S: 18/10/2021: 10:40
-* S: 20/10/2021: 8:50
+* S: 18/10/2021: 20:50
+* S: 20/10/2021: 10:40
 
 ## Semana 16
-* S: 25/10/2021: 10:40
-* S: 27/10/2021: 8:50
+* S: 25/10/2021: 20:50
+* S: 27/10/2021: 10:40
 
 ## Semana 17
-* S: 03/11/2021: 10:40
-* S: 05/11/2021: 8:50
+* S: 03/11/2021: 20:50
+* S: 05/11/2021: 10:40
 
 * A: Seminários
 

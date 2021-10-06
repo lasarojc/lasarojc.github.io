@@ -132,8 +132,8 @@ Na descrição das atividades,
 
 ## Semana 13
 * S 06/10/2021
-     * Funções de mais alta ordem
-     * Map e Filter
+     * Funções de ordem mais alta
+     * Map, Fold, Filter
 
 * S 08/10/2021
      * Exercícios com funções de alta ordem
