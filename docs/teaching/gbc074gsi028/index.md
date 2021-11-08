@@ -230,12 +230,12 @@ Na descrição das atividades,
      * (NA) [Modelos de Consistência centrados no cliente](https://lasarojc.github.io/ds_notes/consistency/client_centric/)
 
 ## Semana 14
-* S: 11/10/2021: 20:50
-* S: 13/10/2021: 10:40
+* S: 11/10/2021: 20:50 (NA) Gerenciamento de réplicas e checkpointing
+* S: 13/10/2021: 10:40 (NA) Consistência em bancos de dados transacionais
 
 ## Semana 15
-* S: 18/10/2021: 20:50
-* S: 20/10/2021: 10:40
+* S: 18/10/2021: 20:50 (NA) Transações distribuídas. 1PC, 2PC, 3PC, Paxos Commit
+* S: 20/10/2021: 10:40 (NA) Árvores de merge de logs (Log structured merge trees). Filtros de Bloom.
 
 ## Semana 16
 * S: 25/10/2021: 20:50
@@ -248,31 +248,3 @@ Na descrição das atividades,
     * Seminários
     * (NA) [Sistemas de Arquivos]()
 
-
-<!--
-### Leituras
-* Vídeo: Containers docker no desenvolvimento de aplicações distribuídas
-
-## Semana 12
-    * TODO: Falhas bizantinas? Problemas dos generais bizantinos.
-    * (NA) [Dependabilidade](https://lasarojc.github.io/ds_notes/fault/dependability/)
-
-Modelos de consistencia
-    Centrados nos dados
-    Centrados nos clientes
-Gerenciamento de replicas
-checkpointing
-
-
-## Aula 21 - 
-## Aula 22 - 
-## Aula 23 - Bancos de dados
-## Aula 24 - Bancos de dados
-## Aula 25 - Sistemas de arquivos
-## Aula 26 - Sistemas de arquivos
-## Aula 27 - Tópicos avançados
-## Aula 28 - Tópicos avançados
-## Aula 29 - Seminários
-## Aula 30 - Seminários
-
--->
