@@ -239,13 +239,14 @@ Na descrição das atividades,
 
 ## Semana 16
 * S: 25/10/2021: 20:50
+    * (NA) [Log Structured merge trees]
 * S: 27/10/2021: 10:40
+    * (NA) [BlockChain]()
 
 ## Semana 17
-* S: 03/11/2021: 20:50
-* S: 05/11/2021: 10:40
-
-* A: Seminários
+* A: 03/11/2021: 
+    * Seminários
+    * (NA) [Sistemas de Arquivos]()
 
 
 <!--

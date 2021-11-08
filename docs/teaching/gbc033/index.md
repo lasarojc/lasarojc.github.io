@@ -132,13 +132,40 @@ Na descrição das atividades,
 
 ## Semana 13
 * S 06/10/2021
-     * Funções de ordem mais alta
+     * Funções de ordem superior
      * Map, Fold, Filter
 
 * S 08/10/2021
-     * Exercícios com funções de alta ordem
+     * Map, Fold, Filter
 
 ## Semana 14
+* S 13/10/2021
+     * Exercícios com funções de ordem superior
+
+* S 15/10/2021
+     * Funções Lambda
+     * `$`
+     * .
+
 ## Semana 15
+
+* S 20/10/2021
+    * Entrada e Saída
+* S 22/10/2021
+    * Exercícios com Entrada e Saída
+
 ## Semana 16
+
+* S 27/10/2021
+    * Avaliação
+* S 29/10/2021
+    * Avaliação
+
 ## Semana 17
+
+* S 3/11/2021
+    * Cálculo lambda
+    * Avaliação preguiçosa
+    * Recursão de Cauda
+* S 5/11/2021
+    * Fechamento da disciplina

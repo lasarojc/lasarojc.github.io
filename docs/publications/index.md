@@ -81,6 +81,15 @@ In the mean time, if you need more information, please visit [Research Gate](htt
 ## Peer-reviewed Conferences
 
 
+1. Intrusion Detection over Network Packets using Data Stream Classification Algorithms   
+    G. Olímpio Jr., P. Franklin, R. Miani, L. Camargos and E.Faria   
+    The 33rd IEEE International Conference on Tools with Artificial Intelligence (ICTAI) Virtually
+    [PDF]
+
+    ??? "Abstract"
+         
+
+
 1. Bandwidth throttling in a P4 switch    
     Lucas Borges Fernandes and Lasaro Camargos    
     IEEE Conference on Network Function Virtualization and Software Defined Networks (IEEE NFV-SDN 2020), Virtual Conference
