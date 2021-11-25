@@ -1,19 +1,15 @@
 # Sistemas Distribuídos
 
-Bem vindos ao curso de Sistemas Distribuídos. Este material é comum para as duas disciplinas, isto é, GBC 074 (BCC) e GSI 028 (BSI).
+Bem vindos ao curso de Sistemas Distribuídos, GBC 074 (BCC).
 Esta página é o ponto de partida para acesso a todo o material que estudaremos.
-
-
 
 A seguir, veja o plano de como nossa interação acontecerá. Para deixar bem claro,  isto é um plano, e planos ~~podem ser~~ serão alterados:
 
 ![Plano](images/plano.jpg)
 
 
-
 Para comunicação, usaremos o MS-Teams. 
-Para entrar no time do curso, logue-se com seu email institucional usando este [apontador](https://teams.microsoft.com/l/team/19%3aENVynv2QRS0qTMt3LYXi14qmLrtNsHD4KFUIKQARFb01%40thread.tacv2/conversations?groupId=be53d70a-3131-4c1e-9fb2-f38bcb4bad21&tenantId=cd5e6d23-cb99-4189-88ab-1a9021a0c451) e use o código **zn6p1cp** para entrar no time.
-
+Para entrar no time do curso, logue-se com seu email institucional usando este e use o código enviado para o seu email para se registrar.
 
 As atividades da semana serão postadas abaixo, semana a semana.
 Na descrição das atividades,
@@ -24,11 +20,9 @@ Na descrição das atividades,
 
 
 
-
-
 ## Semana 1
 
-* S - 12/07/2021: 8:50 e 20:50
+* S - 29/11/2021: 8:50 e 20:50
       * Apresentação
           * (NA) [Prefácio](https://lasarojc.github.io/ds_notes/preface/)
 
@@ -94,6 +88,8 @@ Na descrição das atividades,
     * [Transparência - Parte 2](https://dev.to/vaidehijoshi/transparency-illusions-of-a-single-system-part-2-lbb)
 
 
+
+<!--
 
 ## Semana 2
 * S: 19/07/2021: 20:50
@@ -247,4 +243,4 @@ Na descrição das atividades,
 * A: 03/11/2021: 
     * Seminários
     * (NA) [Sistemas de Arquivos]()
-
+-->

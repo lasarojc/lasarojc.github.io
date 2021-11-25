@@ -87,7 +87,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
     [PDF]
 
     ??? "Abstract"
-         
+        Intrusion Detection Systems (IDS) are a popular solution against cyber-attacks. IDS collect network traffic in- formation and identify attack attempts by inspecting packets individually or in the context of flows. In this work, we consider the intrusion detection process a classification task over a stream of continuously generated packets with a non-stationary data distribution. To cope with this task, we advocate using state- of-the-art Stream Mining algorithms that constantly learn what normal traffic is and what could be an attack. We determined that inspecting packets individually renders similar performance to examining flows in several situations and that only a subset of the packets’ headers is sufficient for the classification. These re- sults are shown through experimentation using the CICIDS2017 dataset and through multiple measures.
 
 
 1. Bandwidth throttling in a P4 switch    

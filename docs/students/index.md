@@ -1,12 +1,13 @@
 ## MSc 
 
-* Lucas Borges - *State Machine Replication* para Microsserviços
 * José Augusto Bolina - Formalização e Validação de Algoritmos *Generalized Multicast*
+* Lucas Borges - [K8ShMiR: Um framework para replicação de máquinas de estado em contêineres gerenciados pelo Kubernetes]() (Alumnus, 2021)
+* Gilberto Olímpio Júnior - [Intrusion Detection over Network Packets using Data Stream Classification Algorithms]() (Advisor: Elaine Ribeiro de Faria, Alumnus 2021)
 * Douglas Antunes - Generalized Consensus (Alumnus, 2019)
 * Lucas Marchesotti Franco - [Um algoritmo força bruta para avaliação de desempenho da minimização de handovers intra-vpon em vcran](https://repositorio.ufu.br/handle/123456789/31773) (Alumnus, 2018)
 * Tuanir França Rezende - [A Faithful Generalized Paxos Implementation and a Novel CStruct for Distributed Lease Coordination](https://repositorio.ufu.br/handle/123456789/22458) (Alumnus, 2017)
 * Pedro Henrique Amorim Rezende - [Extensões na arquitetura SDN para o provisionamento de QoS através do monitoramento e uso de múltiplos caminhos](https://repositorio.ufu.br/handle/123456789/17550) (Advisor: Rafael Pasquini, Alumnus, 2016)
-* Rodrigo Queiroz Saramago - [Implementação e Avaliação do Protocolo de Difusão Atômica Rápida a Despeito de Colisões]()https://repositorio.ufu.br/handle/123456789/22447) (Alumnus, 2016)
+* Rodrigo Queiroz Saramago - [Implementação e Avaliação do Protocolo de Difusão Atômica Rápida a Despeito de Colisões](https://repositorio.ufu.br/handle/123456789/22447) (Alumnus, 2016)
 * Enrique Fynn - [Previsão eficiente do posicionamento futuro de nós em redes móveis](https://repositorio.ufu.br/handle/123456789/17825) (Alumnus, 2015)
 * Lucas Vella - [Uma abordagem complementar à tradução de endereços para conectividade transparente](https://repositorio.ufu.br/handle/123456789/12529) (Advisor: Pedro Frosi, Alumnus, 2012)
 * Rodrigo Videschi (Alumnus)
