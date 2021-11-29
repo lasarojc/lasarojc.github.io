@@ -1,7 +1,4 @@
 site_name: Dr. Lásaro Jonas Camargos
-google_analytics:
-        - UA-167738477-1
-        - auto
 
 nav:
         - About: index.md
@@ -62,6 +59,10 @@ markdown_extensions:
             custom_checkbox: true
         - pymdownx.tabbed
         - pymdownx.tilde
+extra:
+  analytics:
+    provider: google
+    property: G-65TK61CS8M
 
 extra_javascript:
         - https://unpkg.com/mermaid@8.5.1/dist/mermaid.min.js
