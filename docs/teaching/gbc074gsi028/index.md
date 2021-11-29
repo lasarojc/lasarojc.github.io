@@ -1,16 +1,15 @@
 # Sistemas Distribuídos
 
 Bem vindos ao curso de Sistemas Distribuídos, GBC 074 (BCC).
-Esta página é o ponto de partida para acesso a todo o material que estudaremos.
-
-A seguir, veja o plano de como nossa interação acontecerá. Para deixar bem claro,  isto é um plano, e planos ~~podem ser~~ serão alterados:
-
-![Plano](images/plano.jpg)
 
 
 Para comunicação, usaremos o MS-Teams. 
 Para entrar no time do curso, logue-se com seu email institucional usando este e use o código enviado para o seu email para se registrar.
 
+Vídeos das aulas serão disponibilzados via MS Streams no canal.
+
+
+Esta página serve de diário da disciplina e conterá ponteiros para os materiais estudados, semana a semana, para facilitar sua navegação pelo material.
 As atividades da semana serão postadas abaixo, semana a semana.
 Na descrição das atividades,
 
@@ -22,27 +21,25 @@ Na descrição das atividades,
 
 ## Semana 1
 
-* S - 29/11/2021: 8:50 e 20:50
+* S - 29/11/2021: 8:50
       * Apresentação
           * (NA) [Prefácio](https://lasarojc.github.io/ds_notes/preface/)
 
       * Plano do curso: ver aba arquivos no MS Teams
       * Seminários
-
-          * O **objetivo** dos seminários é apresentar tópicos modernos relacionados à computação distribuída.
+          * Tópicos modernos relacionados à computação distribuída.
 
           ![Know your buzzwords](images/dilbert.jpeg)
 
-          * Os alunos deverão gravar seminários, em grupos de 2 alunos, para seus colegas.
-          * Cada seminário terá duração de 40 minutos.
-          * Cada seminário será acompanhado por um questionário desenvolvido pelos apresentadores a ser respondido ***offline***.
+          * Os alunos deverão **gravar** seminários, em grupos de **2 alunos**, para seus colegas.
+          * Cada seminário terá duração de **40 minutos**
+          * Cada seminário será acompanhado por um **questionário** desenvolvido pelos apresentadores a ser respondido ***offline***.
           * Sua apresentação será avaliada nos seguintes pontos:
              * Duração
              * Conteúdo: 
                 * Contextualização
                 * Importância para o profissional da área
                 * Referencial teórico
-                * Algo mais: discussão, vídeo, lab
              * Qualidade dos slides
              * Qualidade do questionário
                 * Não faça questões triviais.
@@ -62,15 +59,12 @@ Na descrição das atividades,
                 * Se precisar de um tema, entre em contato. 
 
       * Projeto
-
         * Os alunos desenvolverão um projeto seguindo uma **especificação intencionalmente vaga** para exercitar sua capacidade de resolução de problemas usando os conceitos apresentados na disciplina.
         * Questionamentos podem e devem ser feitos para refinar a especificação.
-
         * A especificação será disponibilizada [aqui](https://lasarojc.github.io/ds_notes/projeto/)
-        * Grupos dos trabalhos serão compostos por no mínimo 4 e no máximo 6 alunos.
-            * Não, não pode ter menos de 4 ou mais de 6.
-            * Grupos podem ter membros das duas turmas.
-
+        * Grupos dos trabalhos serão compostos por **3 alunos**.
+	* A entrega do projeto consiste em link para o repositório no **github** com **código** e **testes**, e de link para vídeo com **apresentação** de **8 a 10** minutos no **MS Stream**.
+        * Pode haver arguição oral depois. 
 
    * Introdução
       * (NA) [O quê são Sistemas Distribuídos?](https://lasarojc.github.io/ds_notes/intro/#tipos-de-sistemas-distribuidos)
