@@ -2,7 +2,7 @@
 
 * José Augusto Bolina - Formalização e Validação de Algoritmos *Generalized Multicast*
 * Lucas Borges - [K8ShMiR: Um framework para replicação de máquinas de estado em contêineres gerenciados pelo Kubernetes]() (Alumnus, 2021)
-* Gilberto Olímpio Júnior - [Intrusion Detection over Network Packets using Data Stream Classification Algorithms]() (Advisor: Elaine Ribeiro de Faria, Alumnus 2021)
+* Gilberto Olímpio Júnior - [Intrusion Detection over Network Packets using Data Stream Classification Algorithms](https://repositorio.ufu.br/handle/123456789/33882) (Advisor: Elaine Ribeiro de Faria and Rodrigo Miani, Alumnus 2021)
 * Douglas Antunes - Generalized Consensus (Alumnus, 2019)
 * Lucas Marchesotti Franco - [Um algoritmo força bruta para avaliação de desempenho da minimização de handovers intra-vpon em vcran](https://repositorio.ufu.br/handle/123456789/31773) (Alumnus, 2018)
 * Tuanir França Rezende - [A Faithful Generalized Paxos Implementation and a Novel CStruct for Distributed Lease Coordination](https://repositorio.ufu.br/handle/123456789/22458) (Alumnus, 2017)
