@@ -7,44 +7,58 @@ In the mean time, if you need more information, please visit [Research Gate](htt
 
 ## Patents
 
-1. Lasaro Camargos, Deepak Jain, Bharat Naik, and Avinash Lakshman   
-    Decommissioning, re-commissioning, and commissioning new metadata nodes in a working distributed data storage system
+1. **Decommissioning, re-commissioning, and commissioning new metadata nodes in a working distributed data storage system**    
+    Lasaro Camargos, Deepak Jain, Avinash Lakshman, and Bharat Pundalik Naik
     Publication number: 20220100710. Publication date: March 31, 2022      
     United States Patent and Trademark Office.
+    
+    ??? "Abstract"
+        In a running distributed data storage system that actively processes I/Os, metadata nodes are commissioned and decommissioned without taking down the storage system and without introducing interruptions to metadata or payload data I/O. The inflow of reads and writes continues without interruption even while new metadata nodes are in the process of being added and/or removed and the strong consistency of the system is guaranteed. Commissioning and decommissioning nodes within the running system enables streamlined replacement of permanently failed nodes and advantageously enables the system to adapt elastically to workload changes. An illustrative distributed barrier logic (the “view change barrier”) controls a multi-state process that controls a coordinated step-wise progression of the metadata nodes from an old view to a new normal. Rules for I/O handling govern each state until the state machine loop has been traversed and the system reaches its new normal.
 
-1. Lasaro Camargos, Deepak Jain, Bharat Naik, and Avinash Lakshman    
-    Commissioning and decommissioning metadata nodes in a running distributed data storage system   
+1. **Commissioning and decommissioning metadata nodes in a running distributed data storage system**   
+    Lasaro Camargos, Deepak Jain, Bharat Naik, and Avinash Lakshman    
     Publication number: 20220103622. Publication date: March 31, 2022      
     United States Patent and Trademark Office.   
+    
+    ??? "Abstract"
+         In a running distributed data storage system that actively processes I/Os, metadata nodes are commissioned and decommissioned without taking down the storage system and without introducing interruptions to metadata or payload data I/O. The inflow of reads and writes continues without interruption even while new metadata nodes are in the process of being added and/or removed and the strong consistency of the system is guaranteed. Commissioning and decommissioning nodes within the running system enables streamlined replacement of permanently failed nodes and advantageously enables the system to adapt elastically to workload changes. An illustrative distributed barrier logic (the “view change barrier”) controls a multi-state process that controls a coordinated step-wise progression of the metadata nodes from an old view to a new normal. Rules for I/O handling govern each state until the state machine loop has been traversed and the system reaches its new normal.
 
-1. Deepak Jain, Lasaro Camargos, Srinivas Lakshman, and Avinash Lakshman    
-    Anti-entropy based metadata recovery in a strongly consistent distributed data storage system
+1. **Anti-entropy based metadata recovery in a strongly consistent distributed data storage system**     
+    Deepak Jain, Lasaro Camargos, Srinivas Lakshman, and Avinash Lakshman    
     Publication number: 20220100618. Publication date: March 31, 2022      
     United States Patent and Trademark Office.   
+    
+    ??? "Abstract"
+        A strongly consistent distributed data storage system comprises an enhanced metadata service that is capable of fully recovering all metadata that goes missing when a metadata-carrying disk, disks, and/or partition fail. An illustrative recovery service runs automatically or on demand to bring the metadata node back into full service. Advantages of the recovery service include guaranteed full recovery of all missing metadata, including metadata still residing in commit logs, without impacting strong consistency guarantees of the metadata. The recovery service is network-traffic efficient. In preferred embodiments, the recovery service avoids metadata service downtime at the metadata node, thereby reducing the impact of metadata disk failure on the availability of the system. The disclosed metadata recovery techniques are said to be “self-healing” as they do not need manual intervention and instead automatically detect failures and automatically recover from the failures in a non-disruptive manner.
 
-1. Srividhya Kavaipatti Anantharamakrishnan, Lásaro Camargos, Abhijith Shenoy, Xiangyu Wang, Avinash Lakshman, Srinivas Lakshman    
-     Container Data mover for Migrating Data Between Distributed Data Storage Systems Integrated with Application Orchestrators   
+1. **Container Data mover for Migrating Data Between Distributed Data Storage Systems Integrated with Application Orchestrators**    
+     Srividhya Kavaipatti Anantharamakrishnan, Lásaro Camargos, Abhijith Shenoy, Xiangyu Wang, Avinash Lakshman, Srinivas Lakshman     
      Publication number: 20220092024 Publication date: March 24, 2022.   
-     United States Patent and Trademark Office.
+     United States Patent and Trademark Office.    
+     
+     ??? "Abstract"
+         A distributed data storage system comprises features for integration with application orchestrators such as Kubernetes, and includes a proprietary Container Storage Interface (CSI) driver. Features include setting snapshot scheduling and retention policies, and a “container data mover” that replicates data from a source to a distinct destination distributed data storage system. The migration may be configured one-to-one, one-to-many, unidirectional, and/or bi-directional. Metadata-based snapshots and metadata-based changed block tracking identify payload data to move from source to destination within application orchestrator frameworks at both ends. Payload data is migrated from source to destination using different techniques than those used for migrating metadata, e.g., kernel-to-kernel for copying payload data versus ordinary metadata writes. An illustrative barrier logic ensures that the migration follows a controlled progression of operations.
 
+1. **Synchronization of Metadata in a Distributed Storage System**
+     Avinash Lakshman, Lasaro Camargos and Deepak Jain            
+     Publication Number: 20200334207.    Publication Date: Oct. 22, 2020.    
+     United States Patent and Trademark Office.    
 
-1. Avinash Lakshman, Lasaro Camargos and Deepak Jain    
-        Synchronizing Metadata in a Data Storage Platform Comprising Multiple Computer Nodes    
+     ??? "Abstract"
+         A client machine writes to and reads from a virtual disk on a remote storage platform. Metadata is generated and stored in replicas on different metadata nodes of the storage platform. A modified log-structured merge tree is used to store and compact string-sorted tables of metadata. During file storage and compaction, a consistent file identification scheme is used across all metadata nodes. A fingerprint file is calculated for each SST (metadata) file on disk that includes hash values corresponding to regions of the SST file. To synchronize, the fingerprint files of two SST files are compared, and if any hash values are missing from a fingerprint file then the key-value-timestamp triples corresponding to these missing hash values are sent to the SST file that is missing them. The SST file is compacted with the missing triples to create a new version of the SST file. The synchronization is bi-directional.
+    
+1. **Storage and Synchronization of Metadata in a Distributed Storage System**     
+       Avinash Lakshman, Lasaro Camargos and Deepak Jain    
+       Publication Number: 20200334206.    Publication Date: Oct. 22, 2020.    
+       United States Patent and Trademark Office.
+
+1. **Synchronizing Metadata in a Data Storage Platform Comprising Multiple Computer Nodes**    
+        Avinash Lakshman, Lasaro Camargos and Deepak Jain    
         Publication Number: 20200334205.    Publication Date: October 22, 2020.    
         United States Patent and Trademark Office.    
-    
-1. Avinash Lakshman, Lasaro Camargos and Deepak Jain    
-        Storage and Synchronization of Metadata in a Distributed Storage System     
-        Publication Number: 20200334206.    Publication Date: Oct. 22, 2020.    
-        United States Patent and Trademark Office.
 
-1. Avinash Lakshman, Lasaro Camargos and Deepak Jain    
-        Synchronization of Metadata in a Distributed Storage System    
-        Publication Number: 20200334207.    Publication Date: Oct. 22, 2020.    
-        United States Patent and Trademark Office.    
-
-1. Avinash Lakshman, Lasaro Camargos, Deepak Jain, 
-    Synchronization of Metadata in a Distributed Storage System.    
+1. **Synchronization of Metadata in a Distributed Storage System**    
+    Avinash Lakshman, Lasaro Camargos, Deepak Jain 
     Patent Number: US 10740300.    Patent Date: August 11, 2020.    
     United States Patent and Trademark Office.    
 
