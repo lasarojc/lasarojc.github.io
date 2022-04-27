@@ -64,7 +64,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
 
 ## Journals
 
-1. Analysis of Monitoring and Multipath Support on top of OpenFlow Specification   
+1. **Analysis of Monitoring and Multipath Support on top of OpenFlow Specification**   
     Pedro Rezende, Paulo R. S. L. Coelho, Luiz F. Faina, Lasaro Camargos, Rafael Pasquini  
     International Journal of Network Management   
     [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2017)   
@@ -73,7 +73,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
         In general, traffic is pushed through a single path despite the existence of alternative paths in networks. For example, routing solutions based on spanning tree prune the topology to prevent loops, consequently preventing also the use of alternative paths. Research on quality of service frequently advocates that the use of alternative paths is interesting for enforcing Service Level Agreements (SLAs), bypassing bottlenecks created by shortest paths. In this paper, we are interested in analyzing the support for monitoring network traffic and for provisioning of multipaths in software‐defined networking (SDN), given the strong platform it provides for experimentation of new networked solutions. Our approach firstly enriches the topology view at the control plane with data gathered through fine grain data plane monitoring. On the basis of such enriched view, our system determines the path, or multipaths, necessary to enforce the specified SLA. We propose 2 extension modules to an OpenFlow controller: SDNMon, which monitors the data plane to enrich the topology information at the control plane, and MP‐Routing, which determines a set of paths, in the absence of a single path capable of enforcing the SLA. Both modules are extensively evaluated, and the results not only demonstrate what can be achieved in terms of accuracy in SDNMon and in terms of quality of service benefits in MP‐Routing but also highlight some limitations of OpenFlow specification. On the basis of our findings, we propose a set of new counters to Per Port and Per Flow granularity levels of OpenFlow specification.
 
 
-1. A game theoretical approach to model the channel selection dynamics in non-coordinated IEEE 802.11 networks   
+1. **A game theoretical approach to model the channel selection dynamics in non-coordinated IEEE 802.11 networks**   
     Sérgio L. D. L. Gramacho, Gustavo B. Figueiredo, Lasaro Camargos   
     Wireless Networks   
     [PDF](https://link.springer.com/article/10.1007%2Fs11276-018-1751-y)   
@@ -82,7 +82,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
         The massive deployment of Wireless Local Area Networks has made interference mitigation between neighboring networks a challenging issue. These uncoordinated access networks aim at improving their operation by choosing the best wireless channel available, characterizing a competition over the restricted set of possible channels. This work analyses this competition using Game Theory and Markov Chains models, showing that such competitive behavior can lead to Nash Equilibria and that outcomes mostly will not be maximal. Additionally, partially and fully cooperative models are proposed and evaluated, allowing (a) individual players to increase global results using arbitrarily computed and non-rational moves, and (b) achieving maximal outcomes when considering the cooperation of up to all players.
 
 
-1.  Multicoordinated agreement for groups of agents   
+1.  **Multicoordinated agreement for groups of agents**   
     Lasaro Camargos, Rodrigo Schmidt, Edmundo R. M. Madeira, Fernando Pedone     
     Journal of the Brazilian Computer Society   
     [PDF](https://journal-bcs.springeropen.com/articles/10.1007/s13173-010-0001-7)    
@@ -93,7 +93,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
 
 ## Book Chapters
 
-1. Byzantine Collision-Fast Consensus Protocols   
+1. **Byzantine Collision-Fast Consensus Protocols**   
     Rodrigo Saramago, Eduardo Alchieri, Tuanir Rezende, Lasaro Camargos  
     Transactions on Computational Collective Intelligence XXXIII   
     [PDF](https://link.springer.com/chapter/10.1007%2F978-3-662-59540-4_6)   
@@ -104,7 +104,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
 ## Peer-reviewed Conferences
 
 
-1. Intrusion Detection over Network Packets using Data Stream Classification Algorithms   
+1. **Intrusion Detection over Network Packets using Data Stream Classification Algorithms**   
     G. Olímpio Jr., P. Franklin, R. Miani, L. Camargos and E.Faria   
     The 33rd IEEE International Conference on Tools with Artificial Intelligence (ICTAI) Virtually
     [PDF]
@@ -113,7 +113,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
         Intrusion Detection Systems (IDS) are a popular solution against cyber-attacks. IDS collect network traffic in- formation and identify attack attempts by inspecting packets individually or in the context of flows. In this work, we consider the intrusion detection process a classification task over a stream of continuously generated packets with a non-stationary data distribution. To cope with this task, we advocate using state- of-the-art Stream Mining algorithms that constantly learn what normal traffic is and what could be an attack. We determined that inspecting packets individually renders similar performance to examining flows in several situations and that only a subset of the packets’ headers is sufficient for the classification. These re- sults are shown through experimentation using the CICIDS2017 dataset and through multiple measures.
 
 
-1. Bandwidth throttling in a P4 switch    
+1. **Bandwidth throttling in a P4 switch**    
     Lucas Borges Fernandes and Lasaro Camargos    
     IEEE Conference on Network Function Virtualization and Software Defined Networks (IEEE NFV-SDN 2020), Virtual Conference
     [PDF]
@@ -123,7 +123,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
          We follow such trend in this paper, proposing a bandwidth throttling solution using the P4 framework and contrasting it with the state of the art.
          Our proposal showcases the simplicity and adaptability of P4-programmable switches.
 
-1. On the Impossibility of Byzantine Collision-Fast Atomic Broadcast   
+1. **On the Impossibility of Byzantine Collision-Fast Atomic Broadcast**   
     Rodrigo Saramago, Tuanir França Rezende, Eduardo Adílio Pelinson Alchieri, Lasaro Camargos   
     The 32nd IEEE International Conference on Advanced Information Networking and Applications (IEEE AINA-2018), Krakow, Poland     
     [PDF](https://www.researchgate.net/publication/325264988_On_the_Impossibility_of_Byzantine_Collision-Fast_Atomic_Broadcast)   
@@ -131,7 +131,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
     ??? "Abstract"
         The inefficiency of Consensus-based Atomic Broadcast protocols in the presence of collisions (concurrent proposals) harms their adoption in the implementation of State Machine Replication. Proposals that are not decided in some instance of Consensus (commands not delivered) must be re-proposed in a new instance, delaying their execution. The CFABCast (Collision-Fast Atomic Broadcast) algorithm uses M-Consensus to decide and deliver multiple values in the same instance. However, CFABCast is not Byzantine fault-tolerant, a requirement for many systems. Our first contribution is a modified version of CFABCast to handle Byzantine failures. Unfortunately, the resulting protocol is not collision-fast due to the possibility of malicious failures. In fact, our second contribution is to prove that there are no Byzantine collision-fast algorithms in an asynchronous model as traditionally extended to solve Consensus. Finally, our third contribution is a Byzantine collision-fast algorithm that bypasses the stated impossibility by means of a USIG (Unique Sequential Identifier Generator) trusted component.
 
-1. Algoritmo de Difusao Atomica Rapido a Despeito de Colisoes Tolerante a Falhas Bizantinas   
+1. **Algoritmo de Difusao Atomica Rapido a Despeito de Colisoes Tolerante a Falhas Bizantinas**   
     Rodrigo Saramago, Eduardo Adílio Pelinson Alchieri, Tuanir França Rezende, Lásaro Camargos   
     XXXV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC, 2017), Belem, PA, Brazil   
     [PDF](https://www.researchgate.net/publication/316911325_Algoritmo_de_Difusao_Atomica_Rapido_a_Despeito_de_Colisoes_Tolerante_a_Falhas_Bizantinas)   
@@ -139,7 +139,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
     ??? "Abstract"
         The inefficiency of Consensus-based Atomic Broadcast protocols inthe presence of collisions (concurrent proposals) harms their adoption in theimplementation of State Machine Replication.  Proposals that are not decidedin some instance of Consensus (commands not delivered) must be reproposed ina new instance, delaying their execution.  The CFABCast algorithm (Collision-Fast Atomic Broadcast) uses M-Consensus, a Consensus variant, to decide anddeliver multiple values in the same instance.   However,  CFABCast is not By-zantine fault tolerant, a requirement for many systems.  Our first contributionis a variation CFABCast that handles Byzantine failures. Unfortunately, the re-sulting protocol is not collison-fast due to the possibility of Byzantine failures.In fact, our second contribution is the conjecture that there are no Byzantinecollision-fast algorithm in the asynchronous model.  Finally, our third contri-bution is a Byzantine collision-fast algorithm that bypasses our impossibilityconjecture by using the USIG (Unique Sequential Identifier Generator) trustedcomponent. 
 
-1. On Making Generalized Paxos Practical   
+1. **On Making Generalized Paxos Practical**   
     Tuanir França Rezende, Pierre Sutra, Rodrigo Saramago, Lásaro Camargos   
     The 31st IEEE International Conference on Advanced Information Networking and Applications (IEEE AINA-2017)   
     [PDF](https://www.researchgate.net/publication/313550141_On_Making_Generalized_Paxos_Practical)   
@@ -148,7 +148,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
         Generalized Paxos, GPaxos, is a recent solution to Generalized Consensus, a distributed problem to which several key agreement problems reduce. We envision that GPaxos may unify within a single and novel Agreement-as-a-Service infrastructure multiple distributed protocols. To date this potential is however not fully unleashed, due to the steep learning curve of the protocol and the high complexity of its implementation.Moreover, before GPaxos reaches a real world usage, several computationally expensive operations have to be optimized and simplified. This paper aims at closing this gap between theory and practice. To this end, we first provide a concise tour of Generalized Paxos, hardly found elsewhere. Then, we assess the versatility of the Generalized Consensus problem by presenting a variation of GPaxos that solves the lease coordination problem. Our last contribution consists in three optimizations that apply to the critical phases of the algorithm: i) a method to quickly start a new round, ii) a novel approach to execute a checkpoint, and iii) a data structure that speeds-up the detection of an agreement.
 
 
-1. Priority-Based State Machine Replication with PRaxos   
+1. **Priority-Based State Machine Replication with PRaxos**   
     Paulo R. Pinho Filho, Luciana De Oliveira Rech, Lau Cheuk Lung, Miguel Correia, Lásaro Camargos   
     2016 IEEE 30th International Conference on Advanced Information Networking and Applications (AINA)    
     [PDF](https://ieeexplore.ieee.org/document/7474136)   
@@ -156,7 +156,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
     ??? "Abstract"
          State machine replication is a form of active replication commonly used to create fault-tolerant distributed services. In a nutshell, the approach consists in ensuring that a set of replicas receive and execute the same sequence of deterministic requests, returning the same results. This approach handles all requests evenly, but for some services it is important to consider that some requests have priority over others, i.e., that whenever two or more requests are ready to be executed, the one with higher priority is executed first. Paxos is perhaps the best known protocol to order requests in asynchronous environments, but Paxos has no notion of priority. In this paper we introduce the notion of priority-based state machine replication and modify Paxos to take request priorities into account. The proposed algorithm, PRaxos, works in three steps and satisfies Paxos' safety properties in asynchronous systems, while enforcing priorities when the system behaves synchronously. 
 
-1. An Architecture for Monitoring and Improving Public Transportation Systems   
+1. **An Architecture for Monitoring and Improving Public Transportation Systems**   
     Pedro H. S. Duarte, Luis F. Faina, Lásaro Camargos, Luciano B. de Paula, Rafael Pasquini  
     2016 IEEE 30th International Conference on Advanced Information Networking and Applications (AINA), Crans-Montana, Switzerland   
     [PDF](https://ieeexplore.ieee.org/document/7474181)    
@@ -164,7 +164,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
     ??? "Abstract"
         Brazilian public transportation systems are facing a significant demand reduction, mainly due to the poor quality of the offered services, lack of information regarding lines and timetables, high cost and lack of investment from the government. Even though it is not trivial to improve financial aspects related to the public transportation system, this work claims that the overall system quality can be improved through ubiquitous data collection according to a proposed ontology, which is the basis for knowledge extraction to support the required quality of experience improvements. The proposed architecture relies on standard technologies available nowadays, providing a low cost solution for the required data collection and analysis. This paper presents the proposed inter-networking architecture and ontology, then evaluates the system performance using a prototype developed with standard solutions.
 
-1. An Architecture for Traffic Sign Management in Smart Cities   
+1. **An Architecture for Traffic Sign Management in Smart Cities**   
     Everton Lira, Enrique Fynn, Paulo R. S. L. Coelho, Luis F Faina, Lasaro Camargos, Rodolfo S. Villaca, Rafael Pasquini   
     2016 IEEE 30th International Conference on Advanced Information Networking and Applications (AINA), Crans-Montana, Switzerland   
     [PDF](https://ieeexplore.ieee.org/document/7474141)      
@@ -172,7 +172,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
     ??? "Abstract"
         This  paper  introduces  and  evaluates  a  Traffic  SignManagement Architecture (TSMA), which represents a paradigmshift  for  the  deployment  of  traffic  sign  infrastructure  in  thecontext of Intelligent Transport Systems, Vehicular Networks andSmart  Cities.  The  proposal  addresses  limitations  of  the  currenttraffic control model by enabling remote updates of traffic signsand  displaying  them  on  the  vehicular  navigation  system  displayto  improve  their  legibility.  TSMA  is  an  architecture  developedto  provide  V2I  interaction  using  a  commodity  technology,  Wi-Fi,  through  the  beacon-stuffing  technique.  The  initial  design  ofTSMA’s  security  mechanisms  is  also  presented  in  this  paper.Evaluations   were   performed   on   a   developed   prototype   andsimulation  environments. 
 
-1. AR2C2 - Actively Replicated Controllers for SDN resilient Control Planes   
+1. **AR2C2 - Actively Replicated Controllers for SDN resilient Control Planes**   
     Eros S. Spalla, Diego Rossi Mafioletti, Alextian Bartolomeu Liberato, Gilberto Ewald, Christian Esteve Rothenberg, Lásaro Camargos, Rodolfo Villaca, Magnos Martinello   
     2016 IEEE/IFIP Network Operations and Management Symposium (NOMS 2016)
     [PDF](https://doi.org/10.1109/NOMS.2016.7502812)
@@ -180,12 +180,12 @@ In the mean time, if you need more information, please visit [Research Gate](htt
     ??? "Abstract"
         Software Defined Networking (SDN) is a promisingarchitectural  approach  based  on  a  programmatic  separation  ofthe  control  and  data  planes.  For  high  availability  purposes,logically  centralized  SDN  controllers  follow  a  distributed  im-plementation.  While  controller  role  features  in  the  OpenFlowprotocol allow switches to communicate with multiple controllers,these mechanisms alone are not sufficient to guarantee a resilientcontrol  plane,  leaving  the  actual  implementation  an  open  chal-lenge for SDN designers. This paper explores OpenFlow roles forthe  design  of  resilient  SDN  control  plane  and  proposes  AR2C2as  an  actively  replicated  multi-controller  strategy.  As  proof  ofconcept,  AR2C2  is  implemented  based  on  the  Ryu  controllerand  relying  on  OpenReplica  to  ensure  consistent  state  amongthe   distributed   controllers.   Our   prototype   is   experimentallyevaluated  using  real  commodity  switches  and  Mininet  emulatedenvironment.  Results  of  the  measured  times  to  recover  fromfailures for different workloads shed some light on the practicaltrade-offs on replication overhead and latency as a step forwardtowards  SDN  resiliency. 
 
-1. Roteamento Multicaminhos em Redes Definidas por Software   
+1. **Roteamento Multicaminhos em Redes Definidas por Software**   
     Pedro Rezende, Luis Fernando Faina, Lásaro Camargos, Rafael Pasquini   
     XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2016), Salvador, Brazil   
     [PDF](https://www.researchgate.net/publication/304183929_Roteamento_Multicaminhos_em_Redes_Definidas_por_Software)   
 
-1. Replicação de Máquina de Estado Baseada em Prioridade com PRaft   
+1. **Replicação de Máquina de Estado Baseada em Prioridade com PRaft**   
     Paulo R. Pinho Filho, Luciana Rech, Lau Cheuk Lung, Miguel Correia, Lásaro Camargos   
     XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2016), Salvador, Brazil   
     [PDF](https://www.researchgate.net/publication/304183954_Replicacao_de_Maquina_de_Estado_Baseada_em_Prioridade_com_PRaft)   
@@ -193,7 +193,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
     ??? "Abstract"
         State machine replication is an approach to create fault tolerant dis-tributed systems.  The system remains corret while tolerating faults from someof its replicas.  These replicas must execute the same sequence of requests, aproblem that is solved by total order algorithsm like Raft.  some services mayneed that requests have different priority levels, such that some be executed be-fore others.  In this work, we propose an algorithm, PRaft, that introduces theidea of priority based state machine replication to Raft, modifying it to deal withrequest priority. 
 
-1. Busca por Similaridade no CassandraDB (Short Paper)
+1. **Busca por Similaridade no CassandraDB (Short Paper)**
     Antonio Mourão, Rafael Pasquini, Rodolfo Villaça, Lásaro Camargos   
     2016 31st Brazilian Symposium on Databases   
     [PDF](https://www.researchgate.net/publication/309121006_Busca_por_Similaridade_no_CassandraDB )   
@@ -206,7 +206,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
  
 ## Peer-reviewed Workshop 
 
-1. Comutador P4 com Suporte a Roteamento Multicaminhos   
+1. **Comutador P4 com Suporte a Roteamento Multicaminhos**   
     Lucas Borges Fernandes, Pedro Henrique Ribeiro, Leonardo Martins, Rafael Pasquini, Luis F. Faina, Lasaro Camargos   
     IX Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF 2018)    
     [PDF](https://www.researchgate.net/publication/325265001_Comutador_P4_com_Suporte_a_Roteamento_Multicaminhos)    
@@ -214,7 +214,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
     ??? "Abstract"
         In this paper we describe a network switch with multi-path routing capabilities. The switch is implemented using P4, easily extensible and available as a free software project. The switch supports different routing policies, which adhere to different levels of QoS, making the network use very flexible. 
 
-1. Mechanism Reduction via Adjacency Matrix Power   
+1. **Mechanism Reduction via Adjacency Matrix Power**   
     Lásaro Camargos, João Marcelo Vedovoto, Ricardo Serfaty, Aristeu da Silveira Neto    
     5th International Workshop on Model Reduction in Reacting Flows (IWMRRF 2015), Spreewald, Germany    
     [PDF](https://www.researchgate.net/publication/280157089_Mechanism_Reduction_via_Adjacency_Matrix_Power)
@@ -226,7 +226,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
 
 ## Thesis
 
-1. PhD Dissertation - Multicoordinated agreement protocols and the log service   
+1. **PhD Dissertation - Multicoordinated agreement protocols and the log service**   
     Lasaro Camargos   
     Università della Svizzera Italiana and State university of Campinas   
     [PDF]( https://www.researchgate.net/publication/40754605_Multicoordinated_agreement_protocols_and_the_log_service)    
@@ -235,7 +235,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
         Agreement problems are a common abstraction in distributed systems. They appear when the components of the system must concur on reconfigurations, changes of state, or in lines of action in general. Examples of agreement problems are Consensus, Atomic Commitment, and Atomic Broadcast. In this thesis we investigate these abstractions in the context of the environment in which they will run and the applications that they will serve; in general, we consider the asynchronous crash-recovery model. The goal is to devise protocols that explore the contextual information to deliver improved availability. The correctness of our protocols holds even when the extra assumptions do not. In the first part of this thesis we explore the following property: messages broadcast in small networks tend to be delivered in order and reliably. We make three contributions in this part. The first contribution is to turn known Consensus algorithms that harness this ordering property to reach agreement in the crash-stop model into practical protocols. That is, protocols that tolerate message losses and recovery after crashes, efficiently. Our protocols ensure progress even in the presence of failures, if spontaneous ordering holds frequently. In the absence of spontaneous ordering, some other assumption is required to cope with failures. The second contribution of this thesis is to generalize one of our crash-recovery consensus protocols as a ``multicoordinated'' mode of a hybrid Consensus protocol, that may use spontaneous ordering or failure detection to progress. Compared to other protocols, ours provide improved availability with no price in resilience. The third contribution is to employ this new mode to solve Generalized Consensus, a problem that generalizes a series of other agreement problems and, hence, is of much practical interest. Moreover, we considered several aspects of solving this problem in practice, which had not been considered before. As a result, our Generalized Consensus protocol features graceful degradation, load balancing, and is parsimonious in accessing stable storage. In the second part of this thesis we have considered agreement problems in wide area networks organized hierarchically. More specifically, we considered a topology that is commonplace in the data centers of large corporations: groups of nodes, with large-bandwidth low-latency links connecting the nodes in the same group, and slow and limited links connecting nodes in different groups. In such environments, latency is clearly a major concern and reconfiguration procedures that render the agreement protocol momentarily unavailable must be avoided as much as possible. Our contribution here is in avoiding reconfigurations and improving the availability of a collision fast agreement protocol. That is, a protocol that can reach agreement in two intergroup communication steps, irrespectively to concurrent proposals. Besides the use of a multicoordinated approach, we employed multicast primitives and consensus to restrict some reconfigurations to within groups, where they are less expensive. In the last part of this thesis we study the problem of terminating distributed transactions. The problem consists of enforcing agreement among the parties on whether to commit or rollback the transaction and ensuring the durability of committed transactions. Our contribution in this topic is an abstract log service that detaches the termination problem from the processes actually performing the transactions. The service works as a black box and abstracts its implementation details from the application utilizing it. Moreover, it allows slow and failed resource managers be re-started on different hosts without relying on the stable storage of the previous host. We provide two implementations of the service, which we evaluated experimentally.
 
 
-1. MSc Thesis - DisCusS desenvolvendo um Serviço de Consenso genérico, simples e modular   
+1. **MSc Thesis - DisCusS desenvolvendo um Serviço de Consenso genérico, simples e modular**   
     Lasaro Camargos   
     State university of Campinas   
     [PDF](https://www.researchgate.net/publication/264399325_DisCusS_desenvolvendo_um_Servico_de_Consenso_generico_simples_e_modular)    
