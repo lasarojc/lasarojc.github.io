@@ -32,20 +32,20 @@ In the mean time, if you need more information, please visit [Research Gate](htt
         A strongly consistent distributed data storage system comprises an enhanced metadata service that is capable of fully recovering all metadata that goes missing when a metadata-carrying disk, disks, and/or partition fail. An illustrative recovery service runs automatically or on demand to bring the metadata node back into full service. Advantages of the recovery service include guaranteed full recovery of all missing metadata, including metadata still residing in commit logs, without impacting strong consistency guarantees of the metadata. The recovery service is network-traffic efficient. In preferred embodiments, the recovery service avoids metadata service downtime at the metadata node, thereby reducing the impact of metadata disk failure on the availability of the system. The disclosed metadata recovery techniques are said to be “self-healing” as they do not need manual intervention and instead automatically detect failures and automatically recover from the failures in a non-disruptive manner.
 
 1. **Container Data mover for Migrating Data Between Distributed Data Storage Systems Integrated with Application Orchestrators**    
-     Srividhya Kavaipatti Anantharamakrishnan, Lásaro Camargos, Abhijith Shenoy, Xiangyu Wang, Avinash Lakshman, Srinivas Lakshman     
-     Publication number: 20220092024 Publication date: March 24, 2022.   
-     United States Patent and Trademark Office.    
-     
-     ??? "Abstract" 
-         A distributed data storage system comprises features for integration with application orchestrators such as Kubernetes, and includes a proprietary Container Storage Interface (CSI) driver. Features include setting snapshot scheduling and retention policies, and a “container data mover” that replicates data from a source to a distinct destination distributed data storage system. The migration may be configured one-to-one, one-to-many, unidirectional, and/or bi-directional. Metadata-based snapshots and metadata-based changed block tracking identify payload data to move from source to destination within application orchestrator frameworks at both ends. Payload data is migrated from source to destination using different techniques than those used for migrating metadata, e.g., kernel-to-kernel for copying payload data versus ordinary metadata writes. An illustrative barrier logic ensures that the migration follows a controlled progression of operations.
+    Srividhya Kavaipatti Anantharamakrishnan, Lásaro Camargos, Abhijith Shenoy, Xiangyu Wang, Avinash Lakshman, Srinivas Lakshman     
+    Publication number: 20220092024 Publication date: March 24, 2022.   
+    United States Patent and Trademark Office.    
+    
+    ??? "Abstract" 
+        A distributed data storage system comprises features for integration with application orchestrators such as Kubernetes, and includes a proprietary Container Storage Interface (CSI) driver. Features include setting snapshot scheduling and retention policies, and a “container data mover” that replicates data from a source to a distinct destination distributed data storage system. The migration may be configured one-to-one, one-to-many, unidirectional, and/or bi-directional. Metadata-based snapshots and metadata-based changed block tracking identify payload data to move from source to destination within application orchestrator frameworks at both ends. Payload data is migrated from source to destination using different techniques than those used for migrating metadata, e.g., kernel-to-kernel for copying payload data versus ordinary metadata writes. An illustrative barrier logic ensures that the migration follows a controlled progression of operations.
 
 1. **Synchronization of Metadata in a Distributed Storage System**
-     Avinash Lakshman, Lasaro Camargos and Deepak Jain            
-     Publication Number: 20200334207.    Publication Date: Oct. 22, 2020.    
-     United States Patent and Trademark Office.    
-
-     ??? "Abstract" 
-         A client machine writes to and reads from a virtual disk on a remote storage platform. Metadata is generated and stored in replicas on different metadata nodes of the storage platform. A modified log-structured merge tree is used to store and compact string-sorted tables of metadata. During file storage and compaction, a consistent file identification scheme is used across all metadata nodes. A fingerprint file is calculated for each SST (metadata) file on disk that includes hash values corresponding to regions of the SST file. To synchronize, the fingerprint files of two SST files are compared, and if any hash values are missing from a fingerprint file then the key-value-timestamp triples corresponding to these missing hash values are sent to the SST file that is missing them. The SST file is compacted with the missing triples to create a new version of the SST file. The synchronization is bi-directional.
+    Avinash Lakshman, Lasaro Camargos and Deepak Jain            
+    Publication Number: 20200334207.    Publication Date: Oct. 22, 2020.    
+    United States Patent and Trademark Office.    
+    
+    ??? "Abstract" 
+        A client machine writes to and reads from a virtual disk on a remote storage platform. Metadata is generated and stored in replicas on different metadata nodes of the storage platform. A modified log-structured merge tree is used to store and compact string-sorted tables of metadata. During file storage and compaction, a consistent file identification scheme is used across all metadata nodes. A fingerprint file is calculated for each SST (metadata) file on disk that includes hash values corresponding to regions of the SST file. To synchronize, the fingerprint files of two SST files are compared, and if any hash values are missing from a fingerprint file then the key-value-timestamp triples corresponding to these missing hash values are sent to the SST file that is missing them. The SST file is compacted with the missing triples to create a new version of the SST file. The synchronization is bi-directional.
     
 1. **Storage and Synchronization of Metadata in a Distributed Storage System**     
        Avinash Lakshman, Lasaro Camargos and Deepak Jain    
