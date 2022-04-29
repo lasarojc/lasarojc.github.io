@@ -8,7 +8,7 @@ nav:
             - Disciplinas: teaching/index.md 
         #    - '2020/1 GSI009': teaching/gsi009/index.md
             - 'Programação Funcional': teaching/gbc033/index.md
-            - 'Sistemas Distribuídos': teaching/gbc074gsi028/index.md
+        #    - 'Sistemas Distribuídos': teaching/gbc074gsi028/index.md
 
 theme:
         name: material #readthedocs
