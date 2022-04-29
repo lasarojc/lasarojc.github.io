@@ -1,14 +1,14 @@
+# Teaching
+
+Para acessar as notas de aulas disponíveis, use o menu à esquerda.
+
 ## Disciplinas atuais
-Para acessar o material das mesmas, use o menu à esquerda.
 
 * 2021/2
     - GSI004 - Programação Funcional
     - GBC033 - Programação Funcional
 
 ## Disciplinas passadas
-As disciplinas são listadas aqui apenas por razões históricas.
-Para o material associado às mesmas, favor me contactar diretamente.
-
 * 2021/1
     - GBC074 - Sistemas Distribuídos
     - GBC033 - Programação Funcional
