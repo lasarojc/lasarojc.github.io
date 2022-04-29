@@ -1,14 +1,18 @@
 # Programação funcional
 
-Bem vindos ao curso de Programação Funcional (GBC 033).
+Bem vindos ao curso de Programação Funcional (GBC 033/GSI004).
 
 Esta página é o ponto de partida para acesso a todo o material que estudaremos.
 
-Para comunicação, usaremos o MS-Teams. Para entrar no time do curso, logue-se com seu email institucional no MSTeams e use o código enviado para o seu email. 
+1. Para comunicação, usaremos o MS-Teams. Para entrar no time do curso, logue-se com seu email institucional no MSTeams e use o código enviado para o seu email. 
 
-Agora vamos ao que interessa.
-As atividades da semana serão postadas abaixo, semana a semana.
-Na descrição das atividades,  
+1. O programa da disciplina, conforme apresentado ao colegiado do respectivo curso, será disponibilizado no MS-Teams.
+
+1. O programa contém informações sobre o cronograma de atividades, avaliações e outros detalhes da logística do curso.
+
+1. As notas de aula do curso estão disponíveis neste [link](https://lasarojc.github.io/fp_notes). Certifique-se de ler as notas correspondentes a cada tópico antes de procurar os horários de atendimento do professor e monitor (se houver).
+
+<!--
 
 * **NA** quer dizer Notas de Aula, acessíveis em (https://lasarojc.github.io/fp_notes/), 
 * **S** quer dizer **atividade síncrona**, feita em uma reunião no MS-Teams, gravada e disponibilizada para revisão posterior, e 
@@ -23,12 +27,6 @@ Na descrição das atividades,
 * A
     * NA: [Apresentação](https://lasarojc.github.io/fp_notes/preface/)
     * Execução de código Haskell: Instruções e vídeo disponibilizadas no Teams.
-
-
-
-
-
-<!--
 
 
 ## Semana 2
