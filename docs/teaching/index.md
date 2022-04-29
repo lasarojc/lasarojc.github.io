@@ -1,18 +1,22 @@
 ## Disciplinas atuais
 Para acessar o material das mesmas, use o menu à esquerda.
 
-* 2021/1
-    - GBC074 - Sistemas Distribuídos
-    - GSI033 - Programação Funcional
+* 2021/2
+    - GSI004 - Programação Funcional
+    - GBC033 - Programação Funcional
 
 ## Disciplinas passadas
 As disciplinas são listadas aqui apenas por razões históricas.
 Para o material associado às mesmas, favor me contactar diretamente.
 
+* 2021/1
+    - GBC074 - Sistemas Distribuídos
+    - GBC033 - Programação Funcional
+
 * 2020/2
     - GBC074 - Sistemas Distribuídos
     - GSI028 - Sistemas Distribuídos
-    - GSI033 - Programação Funcional
+    - GBC033 - Programação Funcional
 
 * 2020/1
     - GBC074 - Sistemas Distribuídos
