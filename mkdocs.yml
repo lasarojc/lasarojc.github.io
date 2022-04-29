@@ -4,8 +4,7 @@ nav:
         - About: index.md
         - Research: publications/index.md
         - Students: students/index.md
-        - Teaching: 
-            - Disciplinas: teaching/index.md 
+        - Teaching: teaching/index.md 
         #    - '2020/1 GSI009': teaching/gsi009/index.md
             - 'Programação Funcional': teaching/gbc033/index.md
         #    - 'Sistemas Distribuídos': teaching/gbc074gsi028/index.md
