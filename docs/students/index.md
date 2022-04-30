@@ -18,9 +18,6 @@
 
 ## Undergrad 
 
-* Julian Degutis - Ferramentas *online* para ensino de programação
-* Gustavo Cândido - Estudo de viabilidade de uso de blockchain em aplicação
-* Maycon Pacheco - Provas automatizadas de algoritmos de comunicação em grupo
 * José Augusto Bolina - [Revisitando P4 Paxos](https://repositorio.ufu.br/handle/123456789/26230) (Alumnus, 2019)
 * Pedro Henrique - Descoberta de Comutadores em Redes Definidas por Software Usando P4 (Alumnus, 2018)
 * Lucas Borges - [Roteamento multicaminhos em redes definidas por software usando p4](https://repositorio.ufu.br/handle/123456789/20604) (Alumnus, 2017)
@@ -32,6 +29,8 @@
 * Patrick Godinho - Access point mobility traces collection for next place forecast verification. (Alumnus, 2015)
 * Álvaro Pereira - Uso de IdTrees como Mecanismo de Endereçamento para a Internet do Futuro (Alumnus, 2014)
 * Túlio Gomes - Using OpenStack for Distributed Systems Experimentation (Alumnus, 2013)
+* Gustavo Cândido - Estudo de viabilidade de uso de blockchain em aplicação (Alumnus)
+* Maycon Pacheco - Provas automatizadas de algoritmos de comunicação em grupo (Alumnus)
 * Pedro Victor (Alumnus)
 * Caio Orthu (Alumnus)
 * Matheus Scharf (Alumnus)
