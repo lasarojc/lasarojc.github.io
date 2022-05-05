@@ -33,7 +33,7 @@ In the mean time, if you need more information, please visit [Research Gate](htt
 
 1. **Container Data mover for Migrating Data Between Distributed Data Storage Systems Integrated with Application Orchestrators**    
     Srividhya Kavaipatti Anantharamakrishnan, Lásaro Camargos, Abhijith Shenoy, Xiangyu Wang, Avinash Lakshman, Srinivas Lakshman     
-    Publication number: 20220092024 Publication date: March 24, 2022.   
+    Patent Number: US 11314687.    Patent Date: April 26, 2022.    
     United States Patent and Trademark Office.    
     
     ??? "Abstract" 
