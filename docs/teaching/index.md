@@ -1,17 +1,18 @@
 # Teaching
 
-Para informações sobre disciplinas, use o menu à esquerda. Para notas de aulas, siga os links.
+## Notas de aula
+
+- [Sistemas Distribuídos](https://lasarojc.github.io/ds_notes/)
+- [Programação Funcional](https://lasarojc.github.io/fp_notes/)
+- [Programação em C(++)](https://lasarojc.github.io/c_notes/)
 
 ## Disciplinas atuais
 
-* 2021/2
-    - GSI004 - [Programação Funcional](https://lasarojc.github.io/fp_notes/)
-    - GBC033 - [Programação Funcional](https://lasarojc.github.io/fp_notes/)
 
 ## Disciplinas passadas
 * 2021/1
-    - GBC074 - [Sistemas Distribuídos](https://lasarojc.github.io/ds_notes/)
-    - GBC033 - [Programação Funcional](https://lasarojc.github.io/fp_notes/)
+    - GBC074 - Sistemas Distribuídos
+    - GBC033 - Programação Funcional
 
 * 2020/2
     - GBC074 - Sistemas Distribuídos
