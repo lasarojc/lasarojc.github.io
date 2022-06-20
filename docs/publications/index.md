@@ -1,3 +1,9 @@
+---
+hide:
+  - toc
+---
+
+
 I am a computer scientist working on the design and implementation of large scale distributed systems including, but not limited to, P2P systems, Network Protocols, and Agreement Problems.
 I enjoy reasoning about concurrency in large scale systems and the challenges it brings to achieving consistency.
 
