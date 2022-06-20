@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 ## MSc 
 
 * José Augusto Bolina - Formalização e Validação de Algoritmos *Generalized Multicast*
