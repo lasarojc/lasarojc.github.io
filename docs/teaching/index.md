@@ -14,6 +14,8 @@ Todas estão em projetos públicos no github.
 - [Programação Funcional](https://lasarojc.github.io/fp_notes/)
 - [Programação em C(++)](https://lasarojc.github.io/c_notes/)
 
+
+<!--
 ## Disciplinas atuais
 
 
@@ -111,3 +113,4 @@ Todas estão em projetos públicos no github.
 * 2011/1
     - GGI017 - Estrutura de Dados
     - GEE063 - Sistemas Operacionais
+-->
