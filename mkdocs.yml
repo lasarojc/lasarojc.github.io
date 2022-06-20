@@ -4,8 +4,7 @@ nav:
         - About: index.md
         - Research: publications/index.md
         - Students: students/index.md
-        - Teaching: 
-            - teaching/index.md 
+        - Teaching: teaching/index.md 
             #- 'Profissão em Sistemas de Informação': teaching/gsi009/index.md
             #- 'Programação Funcional': teaching/gbc033/index.md
             #- 'Sistemas Distribuídos': teaching/gbc074gsi028/index.md
@@ -23,12 +22,6 @@ theme:
             - navigation.indexes
 plugins:
         - search
-#        - drawio-exporter:
-#                cache_dir: 'drawio-exporter'
-#                drawio_executable: null
-#                drawio_args: []
-#                format: svg
-#                sources: '*.drawio'
 
 markdown_extensions:
         - toc:
@@ -64,6 +57,12 @@ extra:
   analytics:
     provider: google
     property: G-65TK61CS8M
+    
+  social:
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/in/lasaro/
+    - icon: fontawesome/brands/github
+      link: https://github.com/lasarojc
 
 extra_javascript:
         - https://unpkg.com/mermaid@8.5.1/dist/mermaid.min.js
