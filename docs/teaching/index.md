@@ -1,6 +1,14 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Teaching
 
 ## Notas de aula
+Estas são algumas das notas de aula de quando lecionava na Universidade Federal de Uberlândia, mantidas aqui disponíveis na esperança de que possam ser úteis.
+Todas estão em projetos públicos no github.
 
 - [Sistemas Distribuídos](https://lasarojc.github.io/ds_notes/)
 - [Programação Funcional](https://lasarojc.github.io/fp_notes/)
