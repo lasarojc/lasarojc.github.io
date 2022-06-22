@@ -3,10 +3,6 @@ hide:
   - navigation
 ---
 
-
-I am a computer scientist working on the design and implementation of large scale distributed systems including, but not limited to, P2P systems, Network Protocols, and Agreement Problems.
-I enjoy reasoning about concurrency in large scale systems and the challenges it brings to achieving consistency.
-
 The following is an incomplete list of my publications. 
 As time allows I will complete it and add details. 
 In the mean time, if you need more information, please visit [Research Gate](http://www.google.com/url?q=http%3A%2F%2Fwww.researchgate.net%2Fprofile%2FLasaro_Camargos&sa=D&sntz=1&usg=AFQjCNF3tgNGeYe1XaW89jbOEm9fBRY-0g), your favorite academic search engine, or contact me directly.
