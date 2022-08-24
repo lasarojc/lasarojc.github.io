@@ -9,7 +9,7 @@ Welcome to my narcissistic corner on the Net.
 I am a computer scientist working on the design and implementation of large scale distributed systems including, but not limited to, P2P systems, Network Protocols, and Agreement Problems.
 I enjoy reasoning about concurrency in large scale systems and the challenges it brings to achieving consistency.
 
-As part of the former Hedvig Inc. team and now at [Commvault](https://www.commvault.com/), I help to develop and evolve the Commvault Distributed Storage System, which underlies the Commvault data management offer.
+As part of the former Hedvig Inc. team and now at [Commvault](https://www.commvault.com/), I help in developing and evolving the Commvault Distributed Storage System, which underlies the Commvault data management offer.
 
 Previously I have also worked for [Microsoft](https://www.microsoft.com) as a Software Development Engineer on the Active Directory and BPOS, where I wrote code that runs in the MS identity related cloud and in the most deployed directory service in the world.
 
