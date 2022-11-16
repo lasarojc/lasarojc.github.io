@@ -4,9 +4,8 @@ hide:
   - toc
 ---
 
-# Teaching
+# Lecture notes
 
-## Notas de aula
 Estas são algumas das notas de aula de quando lecionava na Universidade Federal de Uberlândia, mantidas aqui disponíveis na esperança de que possam ser úteis.
 Todas estão em projetos públicos no github.
 
