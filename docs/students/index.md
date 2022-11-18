@@ -5,7 +5,7 @@ hide:
 
 ## MSc 
 
-* José Augusto Bolina - Formalização e Validação de Algoritmos *Generalized Multicast* (Alumnus, 2022)
+* José Augusto Bolina - [Algoritmos *Generalized Multicast*: Formalização e Validação](http://doi.org/10.14393/ufu.di.2022.596) (Alumnus, 2022)
 * Lucas Borges - [K8ShMiR: Um framework para replicação de máquinas de estado em contêineres gerenciados pelo Kubernetes]() (Alumnus, 2021)
 * Gilberto Olímpio Júnior - [Intrusion Detection over Network Packets using Data Stream Classification Algorithms](https://repositorio.ufu.br/handle/123456789/33882) (Advisor: Elaine Ribeiro de Faria and Rodrigo Miani, Alumnus 2021)
 * Douglas Antunes - Generalized Consensus (Alumnus, 2019)
