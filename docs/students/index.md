@@ -3,6 +3,8 @@ hide:
   - navigation
 ---
 
+These are the students I had the pleasure of advise while at the Federal University of Uberlandia and their dissertations, when the work was concluded.
+
 ## MSc 
 
 * José Augusto Bolina - [Algoritmos *Generalized Multicast*: Formalização e Validação](http://doi.org/10.14393/ufu.di.2022.596) (Alumnus, 2022)
