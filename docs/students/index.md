@@ -7,7 +7,7 @@ These are the students I had the pleasure of advise while at the Federal Univers
 
 ## MSc 
 
-* José Augusto Bolina - [Algoritmos *Generalized Multicast*: Formalização e Validação](http://doi.org/10.14393/ufu.di.2022.596) (Alumnus, 2022)
+* José Augusto Bolina - [Algoritmo multicast generalizado: formalização e validação](https://repositorio.ufu.br/handle/123456789/36421) (Alumnus, 2022)
 * Lucas Borges - [K8ShMiR: Um framework para replicação de máquinas de estado em contêineres gerenciados pelo Kubernetes]() (Alumnus, 2021)
 * Gilberto Olímpio Júnior - [Intrusion Detection over Network Packets using Data Stream Classification Algorithms](https://repositorio.ufu.br/handle/123456789/33882) (Advisor: Elaine Ribeiro de Faria and Rodrigo Miani, Alumnus 2021)
 * Douglas Antunes - Generalized Consensus (Alumnus, 2019)
