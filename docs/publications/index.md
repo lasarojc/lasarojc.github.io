@@ -72,11 +72,12 @@ In the meantime, if you need more information, please visit [Research Gate](http
     
     ??? "Abstract" 
         A client machine writes to and reads from a virtual disk on a remote storage platform using a storage protocol. Metadata is generated and is stored in replicas on different metadata nodes of the storage platform. A modified log-structured merge tree is used to store and compact string-sorted tables of metadata. During file storage and compaction, a consistent file identification scheme is used across all metadata nodes. A fingerprint file is calculated for each SST file on disk that includes hash values corresponding to regions of the SST file. To synchronize, the fingerprint files of two SST files are compared, and if any hash values are missing from a fingerprint file then the key-value-timestamp triples corresponding to these missing hash values are sent to the SST file that is missing them in the SST file is compacted with the missing triples to create a new version of the SST file. The other fingerprint file is then analyzed the same way.
+   
 ## Journals
 
 1. **Model Update for Intrusion Detection: Analyzing the Performance of Delayed Labeling and Active Learning Strategies**    
-   Gilberto Olímpio Jr., Lasaro Camargos, Rodrigo Sanches Miani, Elaine Ribeiro Faria
-   Computers & Security
+   Gilberto Olímpio Jr., Lasaro Camargos, Rodrigo Sanches Miani, Elaine Ribeiro Faria    
+   Computers & Security    
    [Access](https://doi.org/10.1016/j.cose.2023.103451)
 
 1. **Analysis of Monitoring and Multipath Support on top of OpenFlow Specification**   
