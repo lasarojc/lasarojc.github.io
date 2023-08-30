@@ -126,7 +126,7 @@ In the meantime, if you need more information, please visit [Research Gate](http
 
 1. **Intrusion Detection over Network Packets using Data Stream Classification Algorithms**   
     G. Olímpio Jr., P. Franklin, R. Miani, L. Camargos and E.Faria   
-    The 33rd IEEE International Conference on Tools with Artificial Intelligence (ICTAI) Virtually
+    The 33rd IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2021) Virtually
     [PDF]
 
     ??? "Abstract"
