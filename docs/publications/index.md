@@ -80,6 +80,10 @@ In the meantime, if you need more information, please visit [Research Gate](http
    Computers & Security    
    [Access](https://doi.org/10.1016/j.cose.2023.103451)
 
+    ??? "Abstract"
+        Intrusion Detection Systems (IDS) help protect computer networks by identifying and detecting attempts to obtain unauthorized access to data via computer networks by inspecting packets separately or in the context of flows. Intrusion detection is a classification task performed on continuously generated packets with a non-stationary distribution (data stream). As such, the decision models used for Intrusion Detection must be constantly updated to account for changes in what constitutes normal traffic of a network and correctly identify attacks. This work evaluates two approaches concerning label availability to update the intrusion detection classifier. First, we analyze the impact of delayed labeling of samples on the classifiers' performance, and second, we evaluate the impact of using active learning strategies on the classifiers. Our experimental evaluation uses two datasets (CIC-IDS2017 and CSE-CIC-IDS2018) to compare different data stream classification algorithms under different evaluation measures. Based on comparison results, we studied different active learning techniques to estimate the impact of delayed labeling on packet-based IDS. We found that the performance of the classifiers is inversely proportional to the label delivery rate. Besides, the active learning strategies helped keep the performance compatible with the baselines, even with a small set of labeled instances.
+
+
 1. **Analysis of Monitoring and Multipath Support on top of OpenFlow Specification**   
     Pedro Rezende, Paulo R. S. L. Coelho, Luiz F. Faina, Lasaro Camargos, Rafael Pasquini  
     International Journal of Network Management   
