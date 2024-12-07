@@ -36,6 +36,13 @@ In the the following, I list only the initial patents. Continuations have been a
     ??? "Abstract" 
         A client machine writes to and reads from a virtual disk on a remote storage platform. Metadata is generated and stored in replicas on different metadata nodes of the storage platform. A modified log-structured merge tree is used to store and compact string-sorted tables of metadata. During file storage and compaction, a consistent file identification scheme is used across all metadata nodes. A fingerprint file is calculated for each SST (metadata) file on disk that includes hash values corresponding to regions of the SST file. To synchronize, the fingerprint files of two SST files are compared, and if any hash values are missing from a fingerprint file then the key-value-timestamp triples corresponding to these missing hash values are sent to the SST file that is missing them. The SST file is compacted with the missing triples to create a new version of the SST file. The synchronization is bi-directional.
     
+1. __Anti-entropy-based metadata recovery in a strongly consistent distributed data storage system__     
+    Deepak Jain, Lásaro Camargos, Srinivas Lakshman, Avinash Lakshman    
+    Patent Number: 11.789.830 Date of Patent: October 17, 2023    
+    United States Patent and Trademark Office.    
+
+    ??? "Abstract"    
+        A strongly consistent distributed data storage system comprises an enhanced metadata service that is capable of fully recovering all metadata that goes missing when a metadata-carrying disk, disks, and/or partition fail. An illustrative recovery service runs automatically or on demand to bring the metadata node back into full service. Advantages of the recovery service include guaranteed full recovery of all missing metadata, including metadata still residing in commit logs, without impacting strong consistency guarantees of the metadata. The recovery service is network-traffic efficient. In preferred embodiments, the recovery service avoids metadata service downtime at the metadata node, thereby reducing the impact of metadata disk failure on the availability of the system. The disclosed metadata recovery techniques are said to be “self-healing” as they do not need manual intervention and instead automatically detect failures and automatically recover from the failures in a non-disruptive manner.
    
 ## Journals
 
