@@ -15,7 +15,6 @@ In the the following, I list only the initial patents. Continuations have been a
     Lasaro Camargos, Deepak Jain, Avinash Lakshman, and Bharat Naik    
     Patent number: 11,647,075 B2. Date of patent: May 9, 2023    
     United States Patent and Trademark Office.    
-    (Has continuations)
     
     ??? "Abstract"
          In a running distributed data storage system that actively processes I/Os, metadata nodes are commissioned and decommissioned without taking down the storage system and without introducing interruptions to metadata or payload data I/O. The inflow of reads and writes continues without interruption even while new metadata nodes are in the process of being added and/or removed and the strong consistency of the system is guaranteed. Commissioning and decommissioning nodes within the running system enables streamlined replacement of permanently failed nodes and advantageously enables the system to adapt elastically to workload changes. An illustrative distributed barrier logic (the “view change barrier”) controls a multi-state process that controls a coordinated step-wise progression of the metadata nodes from an old view to a new normal. Rules for I/O handling govern each state until the state machine loop has been traversed and the system reaches its new normal.
