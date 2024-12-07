@@ -12,6 +12,7 @@ gantt
     Microsoft (Canada):2008-04-10, 2008-12-10
     Microsoft (USA)   :2008-10-11, 2010-11-30
     Hedvig    (USA)   :2015-07-01, 2018-10-01
-    Commvault (USA)   :last, 2018-10-02, 2022-10-14
-    Informal Systems (Canada): active, after last, 2022-10-17,
+    Commvault (USA)   :2018-10-02, 2022-10-14
+    Informal Systems (Canada): last, 2022-10-17, 2024-04-01
+    Weilliptic (USA): active, after last, 2024-04-01
             
