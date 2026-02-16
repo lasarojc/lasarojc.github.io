@@ -44,10 +44,10 @@ In the the following, I list only the initial patents. Continuations have been a
         A strongly consistent distributed data storage system comprises an enhanced metadata service that is capable of fully recovering all metadata that goes missing when a metadata-carrying disk, disks, and/or partition fail. An illustrative recovery service runs automatically or on demand to bring the metadata node back into full service. Advantages of the recovery service include guaranteed full recovery of all missing metadata, including metadata still residing in commit logs, without impacting strong consistency guarantees of the metadata. The recovery service is network-traffic efficient. In preferred embodiments, the recovery service avoids metadata service downtime at the metadata node, thereby reducing the impact of metadata disk failure on the availability of the system. The disclosed metadata recovery techniques are said to be “self-healing” as they do not need manual intervention and instead automatically detect failures and automatically recover from the failures in a non-disruptive manner.
    
 ## Journals
-1. **Generic Multicast: One Group Communication Primitive to Rule Them All**
-   Bolina, J., Rocha, D. A., Camargos, L., & Sutra, P.
-   Journal of Internet Services and Applications
-   [Access](https://journals-sol.sbc.org.br/index.php/jisa/article/view/5920)
+1. **Generic Multicast: One Group Communication Primitive to Rule Them All**    
+   Bolina, J., Rocha, D. A., Camargos, L., & Sutra, P.    
+   Journal of Internet Services and Applications    
+   [Access](https://journals-sol.sbc.org.br/index.php/jisa/article/view/5920)    
    [Access](https://doi.org/10.5753/jisa.2025.5920)
 
     ??? "Abstract"
