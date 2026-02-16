@@ -4,12 +4,12 @@ hide:
 ---
 
 The following is an incomplete list of my publications. 
-As time allows I will complete it and add details. 
+As time allows, I will complete it and add details. 
 In the meantime, if you need more information, please visit [Research Gate](http://www.google.com/url?q=http%3A%2F%2Fwww.researchgate.net%2Fprofile%2FLasaro_Camargos&sa=D&sntz=1&usg=AFQjCNF3tgNGeYe1XaW89jbOEm9fBRY-0g), your favorite academic search engine, or contact me directly.
 
 ## Patents
 
-In the the following, I list only the initial patents. Continuations have been applied and in some cases already granted.
+In the following, I list only the initial patents. Continuations have been applied and, in some cases, already granted.
 
 1. __Commissioning and decommissioning metadata nodes in a running distributed data storage system__     
     Lasaro Camargos, Deepak Jain, Avinash Lakshman, and Bharat Naik    
@@ -17,23 +17,23 @@ In the the following, I list only the initial patents. Continuations have been a
     United States Patent and Trademark Office.    
     
     ??? "Abstract"
-         In a running distributed data storage system that actively processes I/Os, metadata nodes are commissioned and decommissioned without taking down the storage system and without introducing interruptions to metadata or payload data I/O. The inflow of reads and writes continues without interruption even while new metadata nodes are in the process of being added and/or removed and the strong consistency of the system is guaranteed. Commissioning and decommissioning nodes within the running system enables streamlined replacement of permanently failed nodes and advantageously enables the system to adapt elastically to workload changes. An illustrative distributed barrier logic (the “view change barrier”) controls a multi-state process that controls a coordinated step-wise progression of the metadata nodes from an old view to a new normal. Rules for I/O handling govern each state until the state machine loop has been traversed and the system reaches its new normal.
+         In a running distributed data storage system that actively processes I/Os, metadata nodes are commissioned and decommissioned without taking down the storage system and without introducing interruptions to metadata or payload data I/O. The inflow of reads and writes continues without interruption even while new metadata nodes are in the process of being added and/or removed, and the strong consistency of the system is guaranteed. Commissioning and decommissioning nodes within the running system enables streamlined replacement of permanently failed nodes and advantageously enables the system to adapt elastically to workload changes. An illustrative distributed barrier logic (the “view change barrier”) controls a multi-state process that controls a coordinated step-wise progression of the metadata nodes from an old view to a new normal. Rules for I/O handling govern each state until the state machine loop has been traversed and the system reaches its new normal.
 
 1. __Container Data mover for Migrating Data Between Distributed Data Storage Systems Integrated with Application Orchestrators__    
     Srividhya Kavaipatti Anantharamakrishnan, Lásaro Camargos, Abhijith Shenoy, Xiangyu Wang, Avinash Lakshman, Srinivas Lakshman     
-    Patent Number: US 11.314.687 B2.    Date of Patent : April 26, 2022.    
+    Patent Number: US 11.314.687 B2.    Date of Patent: April 26, 2022.    
     United States Patent and Trademark Office.    
     
     ??? "Abstract" 
-        A distributed data storage system comprises features for integration with application orchestrators such as Kubernetes, and includes a proprietary Container Storage Interface (CSI) driver. Features include setting snapshot scheduling and retention policies, and a “container data mover” that replicates data from a source to a distinct destination distributed data storage system. The migration may be configured one-to-one, one-to-many, unidirectional, and/or bi-directional. Metadata-based snapshots and metadata-based changed block tracking identify payload data to move from source to destination within application orchestrator frameworks at both ends. Payload data is migrated from source to destination using different techniques than those used for migrating metadata, e.g., kernel-to-kernel for copying payload data versus ordinary metadata writes. An illustrative barrier logic ensures that the migration follows a controlled progression of operations.
+        A distributed data storage system comprises features for integration with application orchestrators such as Kubernetes and includes a proprietary Container Storage Interface (CSI) driver. Features include setting snapshot scheduling and retention policies, and a “container data mover” that replicates data from a source to a distinct destination distributed data storage system. The migration may be configured one-to-one, one-to-many, unidirectional, and/or bidirectional. Metadata-based snapshots and metadata-based changed block tracking identify payload data to move from source to destination within application orchestrator frameworks at both ends. Payload data is migrated from source to destination using different techniques than those used for migrating metadata, e.g., kernel-to-kernel for copying payload data versus ordinary metadata writes. An illustrative barrier logic ensures that the migration follows a controlled progression of operations.
 
 1. __Synchronization of Metadata in a Distributed Storage System__    
     Avinash Lakshman, Lasaro Camargos, and Deepak Jain            
-    Patent Number: US 10.740.300 B1.    Date of Patent: Aug 12, 2020.    
+    Patent Number: US 10.740.300 B1.    Date of Patent: August 12, 2020.    
     United States Patent and Trademark Office.    
     
     ??? "Abstract" 
-        A client machine writes to and reads from a virtual disk on a remote storage platform. Metadata is generated and stored in replicas on different metadata nodes of the storage platform. A modified log-structured merge tree is used to store and compact string-sorted tables of metadata. During file storage and compaction, a consistent file identification scheme is used across all metadata nodes. A fingerprint file is calculated for each SST (metadata) file on disk that includes hash values corresponding to regions of the SST file. To synchronize, the fingerprint files of two SST files are compared, and if any hash values are missing from a fingerprint file then the key-value-timestamp triples corresponding to these missing hash values are sent to the SST file that is missing them. The SST file is compacted with the missing triples to create a new version of the SST file. The synchronization is bi-directional.
+        A client machine writes to and reads from a virtual disk on a remote storage platform. Metadata is generated and stored in replicas on different metadata nodes of the storage platform. A modified log-structured merge tree is used to store and compact string-sorted tables of metadata. During file storage and compaction, a consistent file identification scheme is used across all metadata nodes. A fingerprint file is calculated for each SST (metadata) file on disk that includes hash values corresponding to regions of the SST file. To synchronize, the fingerprint files of two SST files are compared, and if any hash values are missing from a fingerprint file, then the key-value-timestamp triples corresponding to these missing hash values are sent to the SST file that is missing them. The SST file is compacted with the missing triples to create a new version of the SST file. The synchronization is bi-directional.
     
 1. __Anti-entropy-based metadata recovery in a strongly consistent distributed data storage system__     
     Deepak Jain, Lásaro Camargos, Srinivas Lakshman, Avinash Lakshman    
@@ -41,21 +41,21 @@ In the the following, I list only the initial patents. Continuations have been a
     United States Patent and Trademark Office.    
 
     ??? "Abstract"    
-        A strongly consistent distributed data storage system comprises an enhanced metadata service that is capable of fully recovering all metadata that goes missing when a metadata-carrying disk, disks, and/or partition fail. An illustrative recovery service runs automatically or on demand to bring the metadata node back into full service. Advantages of the recovery service include guaranteed full recovery of all missing metadata, including metadata still residing in commit logs, without impacting strong consistency guarantees of the metadata. The recovery service is network-traffic efficient. In preferred embodiments, the recovery service avoids metadata service downtime at the metadata node, thereby reducing the impact of metadata disk failure on the availability of the system. The disclosed metadata recovery techniques are said to be “self-healing” as they do not need manual intervention and instead automatically detect failures and automatically recover from the failures in a non-disruptive manner.
+        A strongly consistent distributed data storage system comprises an enhanced metadata service that is capable of fully recovering all metadata that goes missing when a metadata-carrying disk, disks, and/or partition fails. An illustrative recovery service runs automatically or on demand to bring the metadata node back into full service. Advantages of the recovery service include guaranteed full recovery of all missing metadata, including metadata still residing in commit logs, without impacting strong consistency guarantees of the metadata. The recovery service is network-traffic efficient. In preferred embodiments, the recovery service avoids metadata service downtime at the metadata node, thereby reducing the impact of metadata disk failure on the availability of the system. The disclosed metadata recovery techniques are said to be “self-healing” as they do not need manual intervention and instead automatically detect failures and automatically recover from the failures in a non-disruptive manner.
    
 ## Journals
 1. **Generic Multicast: One Group Communication Primitive to Rule Them All**    
    Bolina, J., Rocha, D. A., Camargos, L., & Sutra, P.    
-   Journal of Internet Services and Applications    
+   Journal of Internet Services and Applications (12 April 2025)    
    [Access](https://journals-sol.sbc.org.br/index.php/jisa/article/view/5920)    
    [Access](https://doi.org/10.5753/jisa.2025.5920)
 
     ??? "Abstract"
-        Group communication primitives have a central role in modern computing infrastructures. They offer a panel of reliability and ordering guarantees for messages, enabling the implementation of complex distributed interactions. In particular, atomic broadcast is a pivotal abstraction for implementing fault-tolerant distributed services. This primitive allows disseminating messages across the system in a total order. There are two group communication primitives closely related to atomic broadcast. Atomic multicast permits targeting a subset of participants, possibly stricter than the whole system. Generic broadcast leverages the semantics of messages to order them only where necessary, that is, when they do not commute at the application level (a conflict). In this paper, we propose to combine all these primitives into a single, more general one, called generic multicast. We formally specify the guarantees offered by generic multicast and present efficient algorithms. Compared to prior works, our solutions offer appealing properties in terms of time and space complexity. In particular, when a run is conflict-free, that is no two messages conflict, a message is delivered after at most three message delays. We explain the logic of our algorithms, detail their main invariants, and prove them correct. We also present a variation that delivers messages across the system in an order consistent with real-time at the cost of a message delay. This variation is particularly interesting to implement partially-replicated data storage systems.
+        Group communication primitives have a central role in modern computing infrastructures. They offer a panel of reliability and ordering guarantees for messages, enabling the implementation of complex distributed interactions. In particular, atomic broadcast is a pivotal abstraction for implementing fault-tolerant distributed services. This primitive allows disseminating messages across the system in a total order. There are two group communication primitives closely related to atomic broadcast. Atomic multicast permits targeting a subset of participants, possibly stricter than the whole system. Generic broadcast leverages the semantics of messages to order them only where necessary, that is, when they do not commute at the application level (a conflict). In this paper, we propose to combine all these primitives into a single, more general one, called generic multicast. We formally specify the guarantees offered by generic multicast and present efficient algorithms. Compared to prior works, our solutions offer appealing properties in terms of time and space complexity. In particular, when a run is conflict-free, that is, no two messages conflict, a message is delivered after at most three message delays. We explain the logic of our algorithms, detail their main invariants, and prove them correct. We also present a variation that delivers messages across the system in an order consistent with real-time at the cost of a message delay. This variation is particularly interesting to implement partially-replicated data storage systems.
 
 1. **Model Update for Intrusion Detection: Analyzing the Performance of Delayed Labeling and Active Learning Strategies**    
    Gilberto Olímpio Jr., Lasaro Camargos, Rodrigo Sanches Miani, Elaine Ribeiro Faria    
-   Computers & Security    
+   Computers & Security (November 2023)    
    [Access](https://doi.org/10.1016/j.cose.2023.103451)
 
     ??? "Abstract"
@@ -64,16 +64,16 @@ In the the following, I list only the initial patents. Continuations have been a
 
 1. **Analysis of Monitoring and Multipath Support on top of OpenFlow Specification**   
     Pedro Rezende, Paulo R. S. L. Coelho, Luiz F. Faina, Lasaro Camargos, Rafael Pasquini  
-    International Journal of Network Management   
+    International Journal of Network Management (5 January 2018)   
     [Access](https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2017)   
 
     ??? "Abstract"
-        In general, traffic is pushed through a single path despite the existence of alternative paths in networks. For example, routing solutions based on spanning trees prune the topology to prevent loops, consequently preventing the use of alternative paths. Research on quality of service frequently advocates that the use of alternative paths is interesting for enforcing Service Level Agreements (SLAs), bypassing bottlenecks created by shortest paths. In this paper, we are interested in analyzing the support for monitoring network traffic and for provisioning of multi paths in software‐defined networking (SDN), given the strong platform it provides for the experimentation of new networked solutions. Our approach firstly enriches the topology view at the control plane with data gathered through fine-grain data plane monitoring. On the basis of such an enriched view, our system determines the path, or multipath, necessary to enforce the specified SLA. We propose 2 extension modules to an OpenFlow controller: SDNMon, which monitors the data plane to enrich the topology information at the control plane, and MP‐Routing, which determines a set of paths, in the absence of a single path capable of enforcing the SLA. Both modules are extensively evaluated, and the results not only demonstrate what can be achieved in terms of accuracy in SDNMon and in terms of quality of service benefits in MP‐Routing but also highlight some limitations of OpenFlow specification. On the basis of our findings, we propose a set of new counters to _Per Port_ and _Per Flow_ granularity levels of OpenFlow specification.
+        In general, traffic is pushed through a single path despite the existence of alternative paths in networks. For example, routing solutions based on spanning trees prune the topology to prevent loops, consequently preventing the use of alternative paths. Research on quality of service frequently advocates that the use of alternative paths is interesting for enforcing Service Level Agreements (SLAs), bypassing bottlenecks created by shortest paths. In this paper, we are interested in analyzing the support for monitoring network traffic and for provisioning of multi paths in software‐defined networking (SDN), given the strong platform it provides for the experimentation of new networked solutions. Our approach firstly enriches the topology view at the control plane with data gathered through fine-grain data plane monitoring. On the basis of such an enriched view, our system determines the path, or multipath, necessary to enforce the specified SLA. We propose 2 extension modules to an OpenFlow controller: SDNMon, which monitors the data plane to enrich the topology information at the control plane, and MP‐Routing, which determines a set of paths, in the absence of a single path capable of enforcing the SLA. Both modules are extensively evaluated, and the results not only demonstrate what can be achieved in terms of accuracy in SDNMon and in terms of quality of service benefits in MP‐Routing but also highlight some limitations of the OpenFlow specification. On the basis of our findings, we propose a set of new counters to _Per Port_ and _Per Flow_ granularity levels of the OpenFlow specification.
 
 
 1. **A game theoretical approach to model the channel selection dynamics in non-coordinated IEEE 802.11 networks**   
     Sérgio L. D. L. Gramacho, Gustavo B. Figueiredo, Lasaro Camargos   
-    Wireless Networks   
+    Wireless Networks (18 May 18 2018)   
     [PDF](https://link.springer.com/article/10.1007%2Fs11276-018-1751-y)   
     
     ??? "Abstract"
@@ -82,7 +82,7 @@ In the the following, I list only the initial patents. Continuations have been a
 
 1.  **Multicoordinated agreement for groups of agents**   
     Lasaro Camargos, Rodrigo Schmidt, Edmundo R. M. Madeira, Fernando Pedone     
-    Journal of the Brazilian Computer Society   
+    Journal of the Brazilian Computer Society (23 April 2010)   
     [PDF](https://journal-bcs.springeropen.com/articles/10.1007/s13173-010-0001-7)    
 
     ??? "Abstract"
