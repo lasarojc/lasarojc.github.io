@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-These are the students I had the pleasure of advise while at the Federal University of Uberlandia and their dissertations, when the work was concluded.
+These are the students I had the pleasure of advising while at the Federal University of Uberlândia and their dissertations, when the work was concluded.
 
 ## MSc 
 
@@ -29,8 +29,8 @@ These are the students I had the pleasure of advise while at the Federal Univers
 * Pedro Henrique - Descoberta de Comutadores em Redes Definidas por Software Usando P4 (Alumnus, 2018)
 * Lucas Borges - [Roteamento multicaminhos em redes definidas por software usando p4](https://repositorio.ufu.br/handle/123456789/20604) (Alumnus, 2017)
 * Leonardo Martins - Next gen networks (Alumnus, 2017)
-* Daniel Thales - Ferramenta para Edição e Visualizalização de Rastros de Execução de Sistemas Distribuídos V2(Alumnus, 2016)
-* Túlio Alves - Ferramenta para Edição e Visualizalização de Rastros de Execução de Sistemas Distribuídos V1 (Alumnus, 2015)
+* Daniel Thales - Ferramenta para Edição e Visualização de Rastros de Execução de Sistemas Distribuídos V2(Alumnus, 2016)
+* Túlio Alves - Ferramenta para Edição e Visualização de Rastros de Execução de Sistemas Distribuídos V1 (Alumnus, 2015)
 * João Pedro Ferreira - CPX: Classroom P2P Experience (Alumnus, 2015)
 * Samuel Henrique Ferreira - Tolerância a Falhas de Controladores OpenFlow via Espaço de Tuplas (Alumnus, 2015)
 * Patrick Godinho - Access point mobility traces collection for next place forecast verification. (Alumnus, 2015)

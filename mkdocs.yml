@@ -13,9 +13,16 @@ theme:
         name: material #readthedocs
         language: pt
         palette:
-            scheme: preference
-            accent: deep orange
-            primary: blue grey
+           - scheme: default
+             toggle:
+                icon: material/toggle-switch-off-outline
+                name: Switch to dark mode
+             accent: deep orange
+             primary: blue grey
+           - scheme: slate
+             toggle:
+                icon: material/toggle-switch
+                name: Switch to light mode
         features:
             - navigation.tabs
             - header.autohide
@@ -29,7 +36,8 @@ markdown_extensions:
 #        - mdx_math
         - admonition
         - footnotes
-        - pymdownx.arithmatex
+        - pymdownx.arithmatex:
+               generic: true
         - pymdownx.betterem:
                smart_enable: all
         - pymdownx.caret
@@ -51,7 +59,8 @@ markdown_extensions:
                      format: !!python/name:pymdownx.superfences.fence_div_format
         - pymdownx.tasklist:
             custom_checkbox: true
-        - pymdownx.tabbed
+        - pymdownx.tabbed:
+            alternate_style: true
         - pymdownx.tilde
 extra:
   analytics:
@@ -65,5 +74,5 @@ extra:
       link: https://github.com/lasarojc
 
 extra_javascript:
-        - https://unpkg.com/mermaid@8.5.1/dist/mermaid.min.js
-        - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+        - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+        - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
